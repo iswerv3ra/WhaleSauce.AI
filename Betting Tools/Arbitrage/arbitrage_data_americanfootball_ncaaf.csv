@@ -1,0 +1,152 @@
+event_time,bookmaker,Fighter,Opponent,odds_f1,odds_f2
+2023-10-10 23:00:00,DraftKings,Louisiana Tech Bulldogs,Middle Tennessee Blue Raiders,130,-155
+2023-10-10 23:00:00,FanDuel,Louisiana Tech Bulldogs,Middle Tennessee Blue Raiders,134,-162
+2023-10-10 23:00:00,Bovada,Louisiana Tech Bulldogs,Middle Tennessee Blue Raiders,135,-160
+2023-10-10 23:30:00,DraftKings,Appalachian State Mountaineers,Coastal Carolina Chanticleers,-225,170
+2023-10-10 23:30:00,FanDuel,Appalachian State Mountaineers,Coastal Carolina Chanticleers,-200,164
+2023-10-10 23:30:00,Bovada,Appalachian State Mountaineers,Coastal Carolina Chanticleers,-200,170
+2023-10-10 23:30:00,DraftKings,Jacksonville State Gamecocks,Liberty Flames,235,-290
+2023-10-10 23:30:00,FanDuel,Jacksonville State Gamecocks,Liberty Flames,220,-280
+2023-10-10 23:30:00,Bovada,Jacksonville State Gamecocks,Liberty Flames,225,-275
+2023-10-11 23:30:00,DraftKings,Florida International Panthers,UTEP Miners,-125,105
+2023-10-11 23:30:00,FanDuel,Florida International Panthers,UTEP Miners,-128,106
+2023-10-11 23:30:00,Bovada,Florida International Panthers,UTEP Miners,-135,115
+2023-10-12 01:00:00,DraftKings,New Mexico State Aggies,Sam Houston State Bearkats,-170,142
+2023-10-12 01:00:00,FanDuel,New Mexico State Aggies,Sam Houston State Bearkats,-176,146
+2023-10-12 01:00:00,Bovada,New Mexico State Aggies,Sam Houston State Bearkats,-170,145
+2023-10-12 23:00:00,DraftKings,Houston Cougars,West Virginia Mountaineers,130,-155
+2023-10-12 23:00:00,FanDuel,Houston Cougars,West Virginia Mountaineers,132,-160
+2023-10-12 23:00:00,Bovada,Houston Cougars,West Virginia Mountaineers,130,-150
+2023-10-12 23:30:00,DraftKings,East Carolina Pirates,SMU Mustangs,340,-440
+2023-10-12 23:30:00,FanDuel,East Carolina Pirates,SMU Mustangs,360,-480
+2023-10-12 23:30:00,Bovada,East Carolina Pirates,SMU Mustangs,345,-470
+2023-10-13 23:00:00,DraftKings,Memphis Tigers,Tulane Green Wave,160,-192
+2023-10-13 23:00:00,FanDuel,Memphis Tigers,Tulane Green Wave,160,-194
+2023-10-13 23:00:00,Bovada,Memphis Tigers,Tulane Green Wave,165,-195
+2023-10-14 00:00:00,DraftKings,Fresno State Bulldogs,Utah State Aggies,-238,195
+2023-10-14 00:00:00,FanDuel,Fresno State Bulldogs,Utah State Aggies,-235,190
+2023-10-14 00:00:00,Bovada,Fresno State Bulldogs,Utah State Aggies,-230,190
+2023-10-14 02:00:00,DraftKings,Colorado Buffaloes,Stanford Cardinal,-410,320
+2023-10-14 02:00:00,FanDuel,Colorado Buffaloes,Stanford Cardinal,-430,330
+2023-10-14 02:00:00,Bovada,Colorado Buffaloes,Stanford Cardinal,-430,320
+2023-10-14 16:00:00,DraftKings,Alabama Crimson Tide,Arkansas Razorbacks,-1200,750
+2023-10-14 16:00:00,FanDuel,Alabama Crimson Tide,Arkansas Razorbacks,-1400,800
+2023-10-14 16:00:00,DraftKings,Cincinnati Bearcats,Iowa State Cyclones,-218,180
+2023-10-14 16:00:00,FanDuel,Cincinnati Bearcats,Iowa State Cyclones,-215,176
+2023-10-14 16:00:00,Bovada,Cincinnati Bearcats,Iowa State Cyclones,-210,175
+2023-10-14 16:00:00,DraftKings,Eastern Michigan Eagles,Kent State Golden Flashes,-410,320
+2023-10-14 16:00:00,FanDuel,Eastern Michigan Eagles,Kent State Golden Flashes,-420,320
+2023-10-14 16:00:00,Bovada,Eastern Michigan Eagles,Kent State Golden Flashes,-420,315
+2023-10-14 16:00:00,DraftKings,Florida State Seminoles,Syracuse Orange,-1000,650
+2023-10-14 16:00:00,FanDuel,Florida State Seminoles,Syracuse Orange,-1000,640
+2023-10-14 16:00:00,DraftKings,Georgia Bulldogs,Vanderbilt Commodores,-112,-108
+2023-10-14 16:00:00,FanDuel,Georgia Bulldogs,Vanderbilt Commodores,-105,-115
+2023-10-14 16:00:00,Bovada,Georgia Bulldogs,Vanderbilt Commodores,-110,-110
+2023-10-14 16:00:00,DraftKings,Georgia Southern Eagles,James Madison Dukes,154,-185
+2023-10-14 16:00:00,FanDuel,Georgia Southern Eagles,James Madison Dukes,162,-196
+2023-10-14 16:00:00,Bovada,Georgia Southern Eagles,James Madison Dukes,160,-185
+2023-10-14 16:00:00,DraftKings,Indiana Hoosiers,Michigan Wolverines,-110,-110
+2023-10-14 16:00:00,FanDuel,Indiana Hoosiers,Michigan Wolverines,-110,-110
+2023-10-14 16:00:00,Bovada,Indiana Hoosiers,Michigan Wolverines,-110,-110
+2023-10-14 16:00:00,FanDuel,Michigan State Spartans,Rutgers Scarlet Knights,168,-205
+2023-10-14 16:00:00,Bovada,Michigan State Spartans,Rutgers Scarlet Knights,170,-200
+2023-10-14 16:00:00,DraftKings,North Texas Mean Green,Temple Owls,-238,195
+2023-10-14 16:00:00,FanDuel,North Texas Mean Green,Temple Owls,-250,202
+2023-10-14 16:00:00,Bovada,North Texas Mean Green,Temple Owls,-240,200
+2023-10-14 16:00:00,DraftKings,Ohio State Buckeyes,Purdue Boilermakers,-1200,750
+2023-10-14 16:00:00,FanDuel,Ohio State Buckeyes,Purdue Boilermakers,-1600,860
+2023-10-14 18:00:00,DraftKings,Ball State Cardinals,Toledo Rockets,525,-750
+2023-10-14 18:00:00,Bovada,Ball State Cardinals,Toledo Rockets,500,-750
+2023-10-14 18:00:00,FanDuel,Ball State Cardinals,Toledo Rockets,610,-950
+2023-10-14 18:00:00,DraftKings,Charlotte 49ers,Navy Midshipmen,130,-155
+2023-10-14 18:00:00,Bovada,Charlotte 49ers,Navy Midshipmen,135,-160
+2023-10-14 18:00:00,FanDuel,Charlotte 49ers,Navy Midshipmen,136,-164
+2023-10-14 19:00:00,DraftKings,California Golden Bears,Utah Utes,440,-600
+2023-10-14 19:00:00,FanDuel,California Golden Bears,Utah Utes,450,-630
+2023-10-14 19:30:00,DraftKings,Akron Zips,Central Michigan Chippewas,360,-470
+2023-10-14 19:30:00,Bovada,Akron Zips,Central Michigan Chippewas,340,-460
+2023-10-14 19:30:00,FanDuel,Akron Zips,Central Michigan Chippewas,375,-500
+2023-10-14 19:30:00,DraftKings,Army Black Knights,Troy Trojans,170,-205
+2023-10-14 19:30:00,Bovada,Army Black Knights,Troy Trojans,170,-200
+2023-10-14 19:30:00,FanDuel,Army Black Knights,Troy Trojans,172,-210
+2023-10-14 19:30:00,DraftKings,BYU Cougars,TCU Horned Frogs,170,-205
+2023-10-14 19:30:00,FanDuel,BYU Cougars,TCU Horned Frogs,184,-225
+2023-10-14 19:30:00,Bovada,BYU Cougars,TCU Horned Frogs,180,-220
+2023-10-14 19:30:00,DraftKings,Bowling Green Falcons,Buffalo Bulls,170,-205
+2023-10-14 19:30:00,Bovada,Bowling Green Falcons,Buffalo Bulls,165,-195
+2023-10-14 19:30:00,FanDuel,Bowling Green Falcons,Buffalo Bulls,168,-205
+2023-10-14 19:30:00,DraftKings,Florida Atlantic Owls,South Florida Bulls,110,-130
+2023-10-14 19:30:00,Bovada,Florida Atlantic Owls,South Florida Bulls,120,-140
+2023-10-14 19:30:00,FanDuel,Florida Atlantic Owls,South Florida Bulls,112,-134
+2023-10-14 19:30:00,DraftKings,Florida Gators,South Carolina Gamecocks,114,-135
+2023-10-14 19:30:00,FanDuel,Florida Gators,South Carolina Gamecocks,108,-130
+2023-10-14 19:30:00,Bovada,Florida Gators,South Carolina Gamecocks,105,-125
+2023-10-14 19:30:00,DraftKings,Illinois Fighting Illini,Maryland Terrapins,440,-600
+2023-10-14 19:30:00,FanDuel,Illinois Fighting Illini,Maryland Terrapins,400,-550
+2023-10-14 19:30:00,Bovada,Illinois Fighting Illini,Maryland Terrapins,400,-575
+2023-10-14 19:30:00,DraftKings,Kansas Jayhawks,Oklahoma State Cowboys,-148,124
+2023-10-14 19:30:00,FanDuel,Kansas Jayhawks,Oklahoma State Cowboys,-156,130
+2023-10-14 19:30:00,DraftKings,Miami (OH) RedHawks,Western Michigan Broncos,-325,260
+2023-10-14 19:30:00,Bovada,Miami (OH) RedHawks,Western Michigan Broncos,-340,270
+2023-10-14 19:30:00,FanDuel,Miami (OH) RedHawks,Western Michigan Broncos,-360,280
+2023-10-14 19:30:00,DraftKings,Oregon Ducks,Washington Huskies,124,-155
+2023-10-14 19:30:00,FanDuel,Oregon Ducks,Washington Huskies,125,-150
+2023-10-14 19:30:00,DraftKings,Penn State Nittany Lions,UMass Minutemen,-110,-110
+2023-10-14 19:30:00,FanDuel,Penn State Nittany Lions,UMass Minutemen,-110,-110
+2023-10-14 19:30:00,DraftKings,Tennessee Volunteers,Texas A&M Aggies,-170,142
+2023-10-14 19:30:00,FanDuel,Tennessee Volunteers,Texas A&M Aggies,-178,146
+2023-10-14 19:30:00,DraftKings,Virginia Tech Hokies,Wake Forest Demon Deacons,-122,102
+2023-10-14 19:30:00,Bovada,Virginia Tech Hokies,Wake Forest Demon Deacons,-120,100
+2023-10-14 19:30:00,FanDuel,Virginia Tech Hokies,Wake Forest Demon Deacons,-125,104
+2023-10-14 20:00:00,DraftKings,Iowa Hawkeyes,Wisconsin Badgers,280,-355
+2023-10-14 20:00:00,FanDuel,Iowa Hawkeyes,Wisconsin Badgers,300,-400
+2023-10-14 20:00:00,Bovada,Iowa Hawkeyes,Wisconsin Badgers,295,-390
+2023-10-14 20:00:00,DraftKings,Northern Illinois Huskies,Ohio Bobcats,205,-250
+2023-10-14 20:00:00,Bovada,Northern Illinois Huskies,Ohio Bobcats,215,-260
+2023-10-14 20:00:00,FanDuel,Northern Illinois Huskies,Ohio Bobcats,225,-280
+2023-10-14 21:00:00,DraftKings,Nevada Wolf Pack,UNLV Rebels,295,-375
+2023-10-14 21:00:00,Bovada,Nevada Wolf Pack,UNLV Rebels,285,-370
+2023-10-14 21:00:00,FanDuel,Nevada Wolf Pack,UNLV Rebels,285,-365
+2023-10-14 22:00:00,DraftKings,New Mexico Lobos,San Jose State Spartans,250,-310
+2023-10-14 22:00:00,Bovada,New Mexico Lobos,San Jose State Spartans,255,-310
+2023-10-14 22:00:00,FanDuel,New Mexico Lobos,San Jose State Spartans,260,-330
+2023-10-14 22:30:00,DraftKings,Louisville Cardinals,Pittsburgh Panthers,-310,250
+2023-10-14 22:30:00,FanDuel,Louisville Cardinals,Pittsburgh Panthers,-310,245
+2023-10-14 23:00:00,DraftKings,Air Force Falcons,Wyoming Cowboys,-380,300
+2023-10-14 23:00:00,Bovada,Air Force Falcons,Wyoming Cowboys,-415,310
+2023-10-14 23:00:00,FanDuel,Air Force Falcons,Wyoming Cowboys,-385,300
+2023-10-14 23:00:00,DraftKings,Arizona Wildcats,Washington State Cougars,260,-325
+2023-10-14 23:00:00,FanDuel,Arizona Wildcats,Washington State Cougars,260,-330
+2023-10-14 23:00:00,Bovada,Arizona Wildcats,Washington State Cougars,250,-300
+2023-10-14 23:00:00,DraftKings,Auburn Tigers,LSU Tigers,310,-395
+2023-10-14 23:00:00,FanDuel,Auburn Tigers,LSU Tigers,340,-450
+2023-10-14 23:00:00,DraftKings,Georgia State Panthers,Marshall Thundering Herd,-115,-105
+2023-10-14 23:00:00,Bovada,Georgia State Panthers,Marshall Thundering Herd,-115,-105
+2023-10-14 23:00:00,FanDuel,Georgia State Panthers,Marshall Thundering Herd,-113,-106
+2023-10-14 23:00:00,DraftKings,Kansas State Wildcats,Texas Tech Red Raiders,-105,-115
+2023-10-14 23:00:00,FanDuel,Kansas State Wildcats,Texas Tech Red Raiders,-102,-118
+2023-10-14 23:00:00,Bovada,Kansas State Wildcats,Texas Tech Red Raiders,100,-120
+2023-10-14 23:00:00,DraftKings,Texas State Bobcats,UL Monroe Warhawks,-800,550
+2023-10-14 23:00:00,Bovada,Texas State Bobcats,UL Monroe Warhawks,-800,525
+2023-10-14 23:00:00,FanDuel,Texas State Bobcats,UL Monroe Warhawks,-750,520
+2023-10-14 23:30:00,DraftKings,Kentucky Wildcats,Missouri Tigers,-135,114
+2023-10-14 23:30:00,FanDuel,Kentucky Wildcats,Missouri Tigers,-134,112
+2023-10-14 23:30:00,Bovada,Kentucky Wildcats,Missouri Tigers,-140,120
+2023-10-14 23:30:00,DraftKings,Miami Hurricanes,North Carolina Tar Heels,145,-175
+2023-10-14 23:30:00,FanDuel,Miami Hurricanes,North Carolina Tar Heels,158,-192
+2023-10-14 23:30:00,Bovada,Miami Hurricanes,North Carolina Tar Heels,150,-175
+2023-10-14 23:30:00,FanDuel,Notre Dame Fighting Irish,USC Trojans,-140,116
+2023-10-14 23:30:00,DraftKings,Notre Dame Fighting Irish,USC Trojans,-142,120
+2023-10-15 00:00:00,DraftKings,Duke Blue Devils,NC State Wolfpack,-175,145
+2023-10-15 00:00:00,FanDuel,Duke Blue Devils,NC State Wolfpack,-182,150
+2023-10-15 00:00:00,DraftKings,Oregon State Beavers,UCLA Bruins,-185,154
+2023-10-15 00:00:00,FanDuel,Oregon State Beavers,UCLA Bruins,-182,150
+2023-10-15 00:00:00,DraftKings,UAB Blazers,UTSA Roadrunners,300,-380
+2023-10-15 00:00:00,Bovada,UAB Blazers,UTSA Roadrunners,290,-380
+2023-10-15 00:00:00,FanDuel,UAB Blazers,UTSA Roadrunners,285,-365
+2023-10-15 01:45:00,DraftKings,Boise State Broncos,Colorado State Rams,-298,240
+2023-10-15 01:45:00,FanDuel,Boise State Broncos,Colorado State Rams,-315,250
+2023-10-15 01:45:00,Bovada,Boise State Broncos,Colorado State Rams,-290,240
+2023-10-15 03:00:00,DraftKings,Hawaii Rainbow Warriors,San Diego State Aztecs,200,-245
+2023-10-15 03:00:00,FanDuel,Hawaii Rainbow Warriors,San Diego State Aztecs,188,-230
+2023-10-15 03:00:00,Bovada,Hawaii Rainbow Warriors,San Diego State Aztecs,190,-230

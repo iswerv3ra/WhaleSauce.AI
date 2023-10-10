@@ -1,0 +1,412 @@
+event_time,bookmaker,Fighter,Opponent,odds_f1,odds_f2
+2023-10-24 23:30:00,DraftKings,Denver Nuggets,Los Angeles Lakers,-205,170
+2023-10-24 23:30:00,FanDuel,Denver Nuggets,Los Angeles Lakers,-215,180
+2023-10-24 23:30:00,Caesars,Denver Nuggets,Los Angeles Lakers,-205,170
+2023-10-24 23:30:00,Bovada,Denver Nuggets,Los Angeles Lakers,-210,175
+2023-10-24 23:30:00,SuperBook,Denver Nuggets,Los Angeles Lakers,-110,-110
+2023-10-24 23:30:00,BetOnline.ag,Denver Nuggets,Los Angeles Lakers,-110,-110
+2023-10-24 23:30:00,LowVig.ag,Denver Nuggets,Los Angeles Lakers,-105,-105
+2023-10-24 23:30:00,BetMGM,Denver Nuggets,Los Angeles Lakers,-210,170
+2023-10-24 23:30:00,BetRivers,Denver Nuggets,Los Angeles Lakers,-205,170
+2023-10-24 23:30:00,Unibet,Denver Nuggets,Los Angeles Lakers,-205,170
+2023-10-24 23:30:00,MyBookie.ag,Denver Nuggets,Los Angeles Lakers,-196,157
+2023-10-24 23:30:00,Barstool Sportsbook,Denver Nuggets,Los Angeles Lakers,-210,160
+2023-10-24 23:30:00,PointsBet (US),Denver Nuggets,Los Angeles Lakers,-200,165
+2023-10-24 23:30:00,TwinSpires,Denver Nuggets,Los Angeles Lakers,-205,170
+2023-10-25 02:00:00,DraftKings,Golden State Warriors,Phoenix Suns,-110,-110
+2023-10-25 02:00:00,FanDuel,Golden State Warriors,Phoenix Suns,-106,-110
+2023-10-25 02:00:00,Caesars,Golden State Warriors,Phoenix Suns,100,-120
+2023-10-25 02:00:00,Bovada,Golden State Warriors,Phoenix Suns,-115,-105
+2023-10-25 02:00:00,SuperBook,Golden State Warriors,Phoenix Suns,-110,-110
+2023-10-25 02:00:00,BetOnline.ag,Golden State Warriors,Phoenix Suns,-116,-104
+2023-10-25 02:00:00,LowVig.ag,Golden State Warriors,Phoenix Suns,-108,-102
+2023-10-25 02:00:00,BetMGM,Golden State Warriors,Phoenix Suns,-120,100
+2023-10-25 02:00:00,BetRivers,Golden State Warriors,Phoenix Suns,-103,-117
+2023-10-25 02:00:00,Unibet,Golden State Warriors,Phoenix Suns,-103,-117
+2023-10-25 02:00:00,MyBookie.ag,Golden State Warriors,Phoenix Suns,-116,-105
+2023-10-25 02:00:00,PointsBet (US),Golden State Warriors,Phoenix Suns,-115,-105
+2023-10-25 02:00:00,TwinSpires,Golden State Warriors,Phoenix Suns,-103,-117
+2023-10-25 23:00:00,FanDuel,Atlanta Hawks,Charlotte Hornets,-120,102
+2023-10-25 23:00:00,DraftKings,Atlanta Hawks,Charlotte Hornets,-125,105
+2023-10-25 23:00:00,BetMGM,Atlanta Hawks,Charlotte Hornets,-125,105
+2023-10-25 23:00:00,MyBookie.ag,Atlanta Hawks,Charlotte Hornets,-125,102
+2023-10-25 23:00:00,Caesars,Atlanta Hawks,Charlotte Hornets,-125,105
+2023-10-25 23:00:00,LowVig.ag,Atlanta Hawks,Charlotte Hornets,-105,-105
+2023-10-25 23:00:00,BetOnline.ag,Atlanta Hawks,Charlotte Hornets,-110,-110
+2023-10-25 23:00:00,Bovada,Atlanta Hawks,Charlotte Hornets,-125,105
+2023-10-25 23:00:00,Barstool Sportsbook,Atlanta Hawks,Charlotte Hornets,-125,100
+2023-10-25 23:00:00,Unibet,Atlanta Hawks,Charlotte Hornets,-124,102
+2023-10-25 23:00:00,BetRivers,Atlanta Hawks,Charlotte Hornets,-124,102
+2023-10-25 23:00:00,TwinSpires,Atlanta Hawks,Charlotte Hornets,-124,102
+2023-10-25 23:00:00,FanDuel,Boston Celtics,New York Knicks,-136,116
+2023-10-25 23:00:00,DraftKings,Boston Celtics,New York Knicks,-135,114
+2023-10-25 23:00:00,BetMGM,Boston Celtics,New York Knicks,-125,105
+2023-10-25 23:00:00,MyBookie.ag,Boston Celtics,New York Knicks,-136,111
+2023-10-25 23:00:00,Caesars,Boston Celtics,New York Knicks,-135,115
+2023-10-25 23:00:00,LowVig.ag,Boston Celtics,New York Knicks,-105,-105
+2023-10-25 23:00:00,BetOnline.ag,Boston Celtics,New York Knicks,-110,-110
+2023-10-25 23:00:00,Bovada,Boston Celtics,New York Knicks,-135,115
+2023-10-25 23:00:00,Barstool Sportsbook,Boston Celtics,New York Knicks,-135,110
+2023-10-25 23:00:00,BetRivers,Boston Celtics,New York Knicks,-136,112
+2023-10-25 23:00:00,Unibet,Boston Celtics,New York Knicks,-136,112
+2023-10-25 23:00:00,TwinSpires,Boston Celtics,New York Knicks,-136,112
+2023-10-25 23:00:00,FanDuel,Houston Rockets,Orlando Magic,126,-148
+2023-10-25 23:00:00,DraftKings,Houston Rockets,Orlando Magic,136,-162
+2023-10-25 23:00:00,BetMGM,Houston Rockets,Orlando Magic,135,-160
+2023-10-25 23:00:00,MyBookie.ag,Houston Rockets,Orlando Magic,127,-156
+2023-10-25 23:00:00,Caesars,Houston Rockets,Orlando Magic,135,-160
+2023-10-25 23:00:00,LowVig.ag,Houston Rockets,Orlando Magic,-105,-105
+2023-10-25 23:00:00,BetOnline.ag,Houston Rockets,Orlando Magic,-110,-110
+2023-10-25 23:00:00,Bovada,Houston Rockets,Orlando Magic,135,-160
+2023-10-25 23:00:00,Barstool Sportsbook,Houston Rockets,Orlando Magic,130,-160
+2023-10-25 23:00:00,Unibet,Houston Rockets,Orlando Magic,115,-139
+2023-10-25 23:00:00,BetRivers,Houston Rockets,Orlando Magic,115,-139
+2023-10-25 23:00:00,TwinSpires,Houston Rockets,Orlando Magic,115,-139
+2023-10-25 23:00:00,FanDuel,Indiana Pacers,Washington Wizards,-330,265
+2023-10-25 23:00:00,DraftKings,Indiana Pacers,Washington Wizards,-325,260
+2023-10-25 23:00:00,BetMGM,Indiana Pacers,Washington Wizards,-350,260
+2023-10-25 23:00:00,MyBookie.ag,Indiana Pacers,Washington Wizards,-303,237
+2023-10-25 23:00:00,Caesars,Indiana Pacers,Washington Wizards,-335,260
+2023-10-25 23:00:00,LowVig.ag,Indiana Pacers,Washington Wizards,-105,-105
+2023-10-25 23:00:00,BetOnline.ag,Indiana Pacers,Washington Wizards,-110,-110
+2023-10-25 23:00:00,Bovada,Indiana Pacers,Washington Wizards,-320,260
+2023-10-25 23:00:00,Barstool Sportsbook,Indiana Pacers,Washington Wizards,-325,240
+2023-10-25 23:00:00,TwinSpires,Indiana Pacers,Washington Wizards,-305,240
+2023-10-25 23:00:00,BetRivers,Indiana Pacers,Washington Wizards,-305,240
+2023-10-25 23:00:00,Unibet,Indiana Pacers,Washington Wizards,-305,240
+2023-10-25 23:30:00,FanDuel,Brooklyn Nets,Cleveland Cavaliers,-102,-116
+2023-10-25 23:30:00,DraftKings,Brooklyn Nets,Cleveland Cavaliers,105,-125
+2023-10-25 23:30:00,BetMGM,Brooklyn Nets,Cleveland Cavaliers,105,-125
+2023-10-25 23:30:00,MyBookie.ag,Brooklyn Nets,Cleveland Cavaliers,100,-121
+2023-10-25 23:30:00,Caesars,Brooklyn Nets,Cleveland Cavaliers,105,-125
+2023-10-25 23:30:00,LowVig.ag,Brooklyn Nets,Cleveland Cavaliers,-105,-105
+2023-10-25 23:30:00,BetOnline.ag,Brooklyn Nets,Cleveland Cavaliers,-110,-110
+2023-10-25 23:30:00,Bovada,Brooklyn Nets,Cleveland Cavaliers,105,-125
+2023-10-25 23:30:00,Barstool Sportsbook,Brooklyn Nets,Cleveland Cavaliers,100,-125
+2023-10-25 23:30:00,Unibet,Brooklyn Nets,Cleveland Cavaliers,-105,-117
+2023-10-25 23:30:00,BetRivers,Brooklyn Nets,Cleveland Cavaliers,-105,-117
+2023-10-25 23:30:00,TwinSpires,Brooklyn Nets,Cleveland Cavaliers,-105,-117
+2023-10-25 23:30:00,FanDuel,Detroit Pistons,Miami Heat,360,-460
+2023-10-25 23:30:00,DraftKings,Detroit Pistons,Miami Heat,340,-440
+2023-10-25 23:30:00,BetMGM,Detroit Pistons,Miami Heat,400,-550
+2023-10-25 23:30:00,MyBookie.ag,Detroit Pistons,Miami Heat,377,-526
+2023-10-25 23:30:00,Caesars,Detroit Pistons,Miami Heat,400,-550
+2023-10-25 23:30:00,LowVig.ag,Detroit Pistons,Miami Heat,-105,-105
+2023-10-25 23:30:00,BetOnline.ag,Detroit Pistons,Miami Heat,-110,-110
+2023-10-25 23:30:00,Bovada,Detroit Pistons,Miami Heat,400,-575
+2023-10-25 23:30:00,Barstool Sportsbook,Detroit Pistons,Miami Heat,350,-550
+2023-10-25 23:30:00,Unibet,Detroit Pistons,Miami Heat,350,-480
+2023-10-25 23:30:00,BetRivers,Detroit Pistons,Miami Heat,350,-480
+2023-10-25 23:30:00,TwinSpires,Detroit Pistons,Miami Heat,350,-480
+2023-10-25 23:30:00,FanDuel,Minnesota Timberwolves,Toronto Raptors,-102,-116
+2023-10-25 23:30:00,TwinSpires,Minnesota Timberwolves,Toronto Raptors,-109,-112
+2023-10-25 23:30:00,BetOnline.ag,Minnesota Timberwolves,Toronto Raptors,-110,-110
+2023-10-25 23:30:00,LowVig.ag,Minnesota Timberwolves,Toronto Raptors,-105,-105
+2023-10-25 23:30:00,Bovada,Minnesota Timberwolves,Toronto Raptors,-110,-110
+2023-10-25 23:30:00,Caesars,Minnesota Timberwolves,Toronto Raptors,-110,-110
+2023-10-25 23:30:00,BetMGM,Minnesota Timberwolves,Toronto Raptors,-105,-115
+2023-10-25 23:30:00,Unibet,Minnesota Timberwolves,Toronto Raptors,-109,-112
+2023-10-25 23:30:00,BetRivers,Minnesota Timberwolves,Toronto Raptors,-109,-112
+2023-10-25 23:30:00,MyBookie.ag,Minnesota Timberwolves,Toronto Raptors,-105,-116
+2023-10-25 23:30:00,Barstool Sportsbook,Minnesota Timberwolves,Toronto Raptors,-105,-115
+2023-10-26 00:00:00,FanDuel,Chicago Bulls,Oklahoma City Thunder,-118,100
+2023-10-26 00:00:00,DraftKings,Chicago Bulls,Oklahoma City Thunder,-110,-110
+2023-10-26 00:00:00,BetMGM,Chicago Bulls,Oklahoma City Thunder,-115,-105
+2023-10-26 00:00:00,MyBookie.ag,Chicago Bulls,Oklahoma City Thunder,-114,-106
+2023-10-26 00:00:00,Caesars,Chicago Bulls,Oklahoma City Thunder,-120,100
+2023-10-26 00:00:00,LowVig.ag,Chicago Bulls,Oklahoma City Thunder,-105,-105
+2023-10-26 00:00:00,BetOnline.ag,Chicago Bulls,Oklahoma City Thunder,-110,-110
+2023-10-26 00:00:00,Bovada,Chicago Bulls,Oklahoma City Thunder,-120,100
+2023-10-26 00:00:00,Barstool Sportsbook,Chicago Bulls,Oklahoma City Thunder,-115,-105
+2023-10-26 00:00:00,Unibet,Chicago Bulls,Oklahoma City Thunder,-121,100
+2023-10-26 00:00:00,BetRivers,Chicago Bulls,Oklahoma City Thunder,-121,100
+2023-10-26 00:00:00,TwinSpires,Chicago Bulls,Oklahoma City Thunder,-121,100
+2023-10-26 00:00:00,FanDuel,Memphis Grizzlies,New Orleans Pelicans,-136,116
+2023-10-26 00:00:00,DraftKings,Memphis Grizzlies,New Orleans Pelicans,-125,105
+2023-10-26 00:00:00,BetMGM,Memphis Grizzlies,New Orleans Pelicans,-125,105
+2023-10-26 00:00:00,Caesars,Memphis Grizzlies,New Orleans Pelicans,-125,105
+2023-10-26 00:00:00,BetOnline.ag,Memphis Grizzlies,New Orleans Pelicans,-115,-105
+2023-10-26 00:00:00,LowVig.ag,Memphis Grizzlies,New Orleans Pelicans,-110,100
+2023-10-26 00:00:00,Bovada,Memphis Grizzlies,New Orleans Pelicans,-125,105
+2023-10-26 00:00:00,MyBookie.ag,Memphis Grizzlies,New Orleans Pelicans,-125,102
+2023-10-26 00:00:00,Barstool Sportsbook,Memphis Grizzlies,New Orleans Pelicans,-130,105
+2023-10-26 00:00:00,Unibet,Memphis Grizzlies,New Orleans Pelicans,-137,114
+2023-10-26 00:00:00,BetRivers,Memphis Grizzlies,New Orleans Pelicans,-137,114
+2023-10-26 00:00:00,TwinSpires,Memphis Grizzlies,New Orleans Pelicans,-137,114
+2023-10-26 01:00:00,FanDuel,Sacramento Kings,Utah Jazz,-118,100
+2023-10-26 01:00:00,DraftKings,Sacramento Kings,Utah Jazz,-118,-102
+2023-10-26 01:00:00,MyBookie.ag,Sacramento Kings,Utah Jazz,-119,-102
+2023-10-26 01:00:00,Caesars,Sacramento Kings,Utah Jazz,-120,100
+2023-10-26 01:00:00,LowVig.ag,Sacramento Kings,Utah Jazz,-105,-105
+2023-10-26 01:00:00,BetOnline.ag,Sacramento Kings,Utah Jazz,-110,-110
+2023-10-26 01:00:00,Bovada,Sacramento Kings,Utah Jazz,-120,100
+2023-10-26 01:00:00,Barstool Sportsbook,Sacramento Kings,Utah Jazz,-120,100
+2023-10-26 01:00:00,Unibet,Sacramento Kings,Utah Jazz,-121,100
+2023-10-26 01:00:00,BetRivers,Sacramento Kings,Utah Jazz,-121,100
+2023-10-26 01:00:00,TwinSpires,Sacramento Kings,Utah Jazz,-121,100
+2023-10-26 01:30:00,FanDuel,Dallas Mavericks,San Antonio Spurs,-230,190
+2023-10-26 01:30:00,Bovada,Dallas Mavericks,San Antonio Spurs,-225,185
+2023-10-26 01:30:00,DraftKings,Dallas Mavericks,San Antonio Spurs,-198,164
+2023-10-26 01:30:00,BetMGM,Dallas Mavericks,San Antonio Spurs,-200,165
+2023-10-26 01:30:00,MyBookie.ag,Dallas Mavericks,San Antonio Spurs,-212,170
+2023-10-26 01:30:00,Caesars,Dallas Mavericks,San Antonio Spurs,-210,175
+2023-10-26 01:30:00,LowVig.ag,Dallas Mavericks,San Antonio Spurs,-105,-105
+2023-10-26 01:30:00,BetOnline.ag,Dallas Mavericks,San Antonio Spurs,-110,-110
+2023-10-26 01:30:00,Barstool Sportsbook,Dallas Mavericks,San Antonio Spurs,-210,160
+2023-10-26 01:30:00,Unibet,Dallas Mavericks,San Antonio Spurs,-220,175
+2023-10-26 01:30:00,BetRivers,Dallas Mavericks,San Antonio Spurs,-220,175
+2023-10-26 01:30:00,TwinSpires,Dallas Mavericks,San Antonio Spurs,-220,175
+2023-10-26 23:30:00,FanDuel,Milwaukee Bucks,Philadelphia 76ers,-225,188
+2023-10-26 23:30:00,Bovada,Milwaukee Bucks,Philadelphia 76ers,-210,175
+2023-10-26 23:30:00,DraftKings,Milwaukee Bucks,Philadelphia 76ers,-205,170
+2023-10-26 23:30:00,MyBookie.ag,Milwaukee Bucks,Philadelphia 76ers,-217,173
+2023-10-26 23:30:00,Caesars,Milwaukee Bucks,Philadelphia 76ers,-215,178
+2023-10-26 23:30:00,LowVig.ag,Milwaukee Bucks,Philadelphia 76ers,-105,-105
+2023-10-26 23:30:00,BetOnline.ag,Milwaukee Bucks,Philadelphia 76ers,-110,-110
+2023-10-26 23:30:00,Unibet,Milwaukee Bucks,Philadelphia 76ers,-220,180
+2023-10-26 23:30:00,BetRivers,Milwaukee Bucks,Philadelphia 76ers,-220,180
+2023-10-26 23:30:00,TwinSpires,Milwaukee Bucks,Philadelphia 76ers,-220,180
+2023-10-28 02:00:00,Bovada,Golden State Warriors,Sacramento Kings,100,-120
+2023-10-28 02:00:00,DraftKings,Golden State Warriors,Sacramento Kings,-102,-118
+2023-11-03 23:00:00,DraftKings,Brooklyn Nets,Chicago Bulls,124,-148
+2023-11-03 23:00:00,Bovada,Brooklyn Nets,Chicago Bulls,125,-145
+2023-11-03 23:00:00,MyBookie.ag,Brooklyn Nets,Chicago Bulls,122,-149
+2023-11-03 23:00:00,Barstool Sportsbook,Brooklyn Nets,Chicago Bulls,120,-150
+2023-11-03 23:00:00,DraftKings,Cleveland Cavaliers,Indiana Pacers,-115,-105
+2023-11-03 23:00:00,Bovada,Cleveland Cavaliers,Indiana Pacers,-120,100
+2023-11-03 23:00:00,MyBookie.ag,Cleveland Cavaliers,Indiana Pacers,-116,-105
+2023-11-03 23:00:00,Barstool Sportsbook,Cleveland Cavaliers,Indiana Pacers,-115,-105
+2023-11-04 00:00:00,DraftKings,Golden State Warriors,Oklahoma City Thunder,-115,-105
+2023-11-04 00:00:00,Bovada,Golden State Warriors,Oklahoma City Thunder,-115,-105
+2023-11-04 00:00:00,MyBookie.ag,Golden State Warriors,Oklahoma City Thunder,-116,-105
+2023-11-04 00:00:00,Barstool Sportsbook,Golden State Warriors,Oklahoma City Thunder,-115,-105
+2023-11-04 00:00:00,DraftKings,Miami Heat,Washington Wizards,-340,270
+2023-11-04 00:00:00,Bovada,Miami Heat,Washington Wizards,-340,270
+2023-11-04 00:00:00,MyBookie.ag,Miami Heat,Washington Wizards,-344,261
+2023-11-04 00:00:00,Barstool Sportsbook,Miami Heat,Washington Wizards,-350,250
+2023-11-04 02:00:00,DraftKings,Dallas Mavericks,Denver Nuggets,170,-205
+2023-11-04 02:00:00,Bovada,Dallas Mavericks,Denver Nuggets,170,-200
+2023-11-04 02:00:00,MyBookie.ag,Dallas Mavericks,Denver Nuggets,168,-208
+2023-11-04 02:00:00,Barstool Sportsbook,Dallas Mavericks,Denver Nuggets,160,-210
+2023-11-10 23:00:00,DraftKings,Charlotte Hornets,Washington Wizards,-105,-115
+2023-11-10 23:00:00,Bovada,Charlotte Hornets,Washington Wizards,-105,-115
+2023-11-10 23:00:00,MyBookie.ag,Charlotte Hornets,Washington Wizards,-105,-116
+2023-11-10 23:00:00,Barstool Sportsbook,Charlotte Hornets,Washington Wizards,-105,-115
+2023-11-10 23:00:00,DraftKings,Detroit Pistons,Philadelphia 76ers,205,-250
+2023-11-10 23:00:00,Bovada,Detroit Pistons,Philadelphia 76ers,210,-250
+2023-11-10 23:00:00,MyBookie.ag,Detroit Pistons,Philadelphia 76ers,198,-250
+2023-11-10 23:00:00,Barstool Sportsbook,Detroit Pistons,Philadelphia 76ers,190,-250
+2023-11-11 00:00:00,DraftKings,Houston Rockets,New Orleans Pelicans,-105,-115
+2023-11-11 00:00:00,Bovada,Houston Rockets,New Orleans Pelicans,-105,-115
+2023-11-11 00:00:00,MyBookie.ag,Houston Rockets,New Orleans Pelicans,-105,-116
+2023-11-11 00:00:00,Barstool Sportsbook,Houston Rockets,New Orleans Pelicans,-105,-115
+2023-11-11 00:00:00,DraftKings,Memphis Grizzlies,Utah Jazz,-270,220
+2023-11-11 00:00:00,Bovada,Memphis Grizzlies,Utah Jazz,-270,220
+2023-11-11 00:00:00,MyBookie.ag,Memphis Grizzlies,Utah Jazz,-270,213
+2023-11-11 00:00:00,Barstool Sportsbook,Memphis Grizzlies,Utah Jazz,-275,210
+2023-11-11 00:00:00,DraftKings,Minnesota Timberwolves,San Antonio Spurs,-148,124
+2023-11-11 00:00:00,Bovada,Minnesota Timberwolves,San Antonio Spurs,-150,130
+2023-11-11 00:00:00,MyBookie.ag,Minnesota Timberwolves,San Antonio Spurs,-149,122
+2023-11-11 00:00:00,Barstool Sportsbook,Minnesota Timberwolves,San Antonio Spurs,-150,120
+2023-11-11 00:30:00,DraftKings,Dallas Mavericks,Los Angeles Clippers,-115,-105
+2023-11-11 00:30:00,Bovada,Dallas Mavericks,Los Angeles Clippers,-115,-105
+2023-11-11 00:30:00,MyBookie.ag,Dallas Mavericks,Los Angeles Clippers,-116,-105
+2023-11-11 00:30:00,Barstool Sportsbook,Dallas Mavericks,Los Angeles Clippers,-115,-105
+2023-11-11 02:00:00,DraftKings,Oklahoma City Thunder,Sacramento Kings,120,-142
+2023-11-11 02:00:00,Bovada,Oklahoma City Thunder,Sacramento Kings,120,-140
+2023-11-11 02:00:00,MyBookie.ag,Oklahoma City Thunder,Sacramento Kings,117,-142
+2023-11-11 02:00:00,Barstool Sportsbook,Oklahoma City Thunder,Sacramento Kings,115,-140
+2023-11-14 23:00:00,DraftKings,Atlanta Hawks,Detroit Pistons,-148,124
+2023-11-14 23:00:00,Bovada,Atlanta Hawks,Detroit Pistons,-145,125
+2023-11-14 23:00:00,MyBookie.ag,Atlanta Hawks,Detroit Pistons,-149,122
+2023-11-14 23:00:00,Barstool Sportsbook,Atlanta Hawks,Detroit Pistons,-150,120
+2023-11-14 23:00:00,DraftKings,Charlotte Hornets,Miami Heat,120,-142
+2023-11-14 23:00:00,Bovada,Charlotte Hornets,Miami Heat,125,-145
+2023-11-14 23:00:00,MyBookie.ag,Charlotte Hornets,Miami Heat,117,-142
+2023-11-14 23:00:00,Barstool Sportsbook,Charlotte Hornets,Miami Heat,115,-140
+2023-11-14 23:00:00,DraftKings,Indiana Pacers,Philadelphia 76ers,210,-258
+2023-11-14 23:00:00,Bovada,Indiana Pacers,Philadelphia 76ers,210,-250
+2023-11-14 23:00:00,MyBookie.ag,Indiana Pacers,Philadelphia 76ers,205,-263
+2023-11-14 23:00:00,Barstool Sportsbook,Indiana Pacers,Philadelphia 76ers,200,-260
+2023-11-14 23:30:00,DraftKings,Brooklyn Nets,Orlando Magic,-142,120
+2023-11-14 23:30:00,Bovada,Brooklyn Nets,Orlando Magic,-140,120
+2023-11-14 23:30:00,MyBookie.ag,Brooklyn Nets,Orlando Magic,-142,117
+2023-11-14 23:30:00,Barstool Sportsbook,Brooklyn Nets,Orlando Magic,-140,115
+2023-11-14 23:30:00,DraftKings,Oklahoma City Thunder,San Antonio Spurs,-310,250
+2023-11-14 23:30:00,Bovada,Oklahoma City Thunder,San Antonio Spurs,-300,250
+2023-11-14 23:30:00,Barstool Sportsbook,Oklahoma City Thunder,San Antonio Spurs,-300,225
+2023-11-15 00:00:00,DraftKings,Dallas Mavericks,New Orleans Pelicans,120,-142
+2023-11-15 00:00:00,Bovada,Dallas Mavericks,New Orleans Pelicans,120,-140
+2023-11-15 00:00:00,MyBookie.ag,Dallas Mavericks,New Orleans Pelicans,117,-142
+2023-11-15 00:00:00,Barstool Sportsbook,Dallas Mavericks,New Orleans Pelicans,115,-140
+2023-11-15 02:00:00,DraftKings,Denver Nuggets,Los Angeles Clippers,-230,190
+2023-11-15 02:00:00,MyBookie.ag,Denver Nuggets,Los Angeles Clippers,-232,184
+2023-11-15 02:00:00,Bovada,Denver Nuggets,Los Angeles Clippers,-230,190
+2023-11-15 02:00:00,Barstool Sportsbook,Denver Nuggets,Los Angeles Clippers,-225,175
+2023-11-15 02:00:00,DraftKings,Golden State Warriors,Minnesota Timberwolves,-192,160
+2023-11-15 02:00:00,Bovada,Golden State Warriors,Minnesota Timberwolves,-185,160
+2023-11-15 02:00:00,MyBookie.ag,Golden State Warriors,Minnesota Timberwolves,-192,156
+2023-11-15 02:00:00,Barstool Sportsbook,Golden State Warriors,Minnesota Timberwolves,-190,150
+2023-11-15 02:30:00,DraftKings,Los Angeles Lakers,Memphis Grizzlies,-175,145
+2023-11-15 02:30:00,Bovada,Los Angeles Lakers,Memphis Grizzlies,-170,145
+2023-11-15 02:30:00,MyBookie.ag,Los Angeles Lakers,Memphis Grizzlies,-175,143
+2023-11-15 02:30:00,Barstool Sportsbook,Los Angeles Lakers,Memphis Grizzlies,-175,135
+2023-11-17 23:00:00,DraftKings,New York Knicks,Washington Wizards,-142,120
+2023-11-17 23:00:00,Bovada,New York Knicks,Washington Wizards,-140,120
+2023-11-17 23:00:00,MyBookie.ag,New York Knicks,Washington Wizards,-142,117
+2023-11-17 23:00:00,Barstool Sportsbook,New York Knicks,Washington Wizards,-140,115
+2023-11-17 23:30:00,DraftKings,Atlanta Hawks,Philadelphia 76ers,-110,-110
+2023-11-17 23:30:00,Bovada,Atlanta Hawks,Philadelphia 76ers,-110,-110
+2023-11-17 23:30:00,MyBookie.ag,Atlanta Hawks,Philadelphia 76ers,-111,-111
+2023-11-17 23:30:00,Barstool Sportsbook,Atlanta Hawks,Philadelphia 76ers,-110,-110
+2023-11-17 23:30:00,DraftKings,Cleveland Cavaliers,Detroit Pistons,-455,350
+2023-11-17 23:30:00,Bovada,Cleveland Cavaliers,Detroit Pistons,-460,340
+2023-11-17 23:30:00,MyBookie.ag,Cleveland Cavaliers,Detroit Pistons,-384,295
+2023-11-17 23:30:00,Barstool Sportsbook,Cleveland Cavaliers,Detroit Pistons,-400,275
+2023-11-17 23:30:00,DraftKings,Sacramento Kings,San Antonio Spurs,-130,110
+2023-11-17 23:30:00,Bovada,Sacramento Kings,San Antonio Spurs,-130,110
+2023-11-17 23:30:00,MyBookie.ag,Sacramento Kings,San Antonio Spurs,-131,108
+2023-11-17 23:30:00,Barstool Sportsbook,Sacramento Kings,San Antonio Spurs,-130,105
+2023-11-18 00:00:00,DraftKings,Chicago Bulls,Orlando Magic,-148,124
+2023-11-18 00:00:00,Bovada,Chicago Bulls,Orlando Magic,-145,125
+2023-11-18 00:00:00,MyBookie.ag,Chicago Bulls,Orlando Magic,-149,122
+2023-11-18 00:00:00,Barstool Sportsbook,Chicago Bulls,Orlando Magic,-150,120
+2023-11-18 00:00:00,DraftKings,Denver Nuggets,New Orleans Pelicans,-118,-102
+2023-11-18 00:00:00,Bovada,Denver Nuggets,New Orleans Pelicans,-120,100
+2023-11-18 00:00:00,MyBookie.ag,Denver Nuggets,New Orleans Pelicans,-119,-103
+2023-11-18 00:00:00,Barstool Sportsbook,Denver Nuggets,New Orleans Pelicans,-120,100
+2023-11-18 02:30:00,DraftKings,Houston Rockets,Los Angeles Clippers,220,-270
+2023-11-18 02:30:00,Bovada,Houston Rockets,Los Angeles Clippers,220,-270
+2023-11-18 02:30:00,MyBookie.ag,Houston Rockets,Los Angeles Clippers,213,-270
+2023-11-18 02:30:00,Barstool Sportsbook,Houston Rockets,Los Angeles Clippers,210,-275
+2023-11-21 23:00:00,DraftKings,Orlando Magic,Toronto Raptors,-142,120
+2023-11-21 23:00:00,Bovada,Orlando Magic,Toronto Raptors,-140,120
+2023-11-21 23:00:00,MyBookie.ag,Orlando Magic,Toronto Raptors,-142,117
+2023-11-21 23:00:00,Barstool Sportsbook,Orlando Magic,Toronto Raptors,-140,115
+2023-11-21 23:30:00,DraftKings,Atlanta Hawks,Indiana Pacers,-192,160
+2023-11-21 23:30:00,Bovada,Atlanta Hawks,Indiana Pacers,-185,160
+2023-11-21 23:30:00,MyBookie.ag,Atlanta Hawks,Indiana Pacers,-192,156
+2023-11-21 23:30:00,Barstool Sportsbook,Atlanta Hawks,Indiana Pacers,-190,150
+2023-11-21 23:30:00,DraftKings,Cleveland Cavaliers,Philadelphia 76ers,140,-166
+2023-11-21 23:30:00,Bovada,Cleveland Cavaliers,Philadelphia 76ers,140,-165
+2023-11-21 23:30:00,MyBookie.ag,Cleveland Cavaliers,Philadelphia 76ers,136,-166
+2023-11-21 23:30:00,Barstool Sportsbook,Cleveland Cavaliers,Philadelphia 76ers,130,-165
+2023-11-22 02:00:00,DraftKings,Los Angeles Lakers,Utah Jazz,-325,260
+2023-11-22 02:00:00,Bovada,Los Angeles Lakers,Utah Jazz,-320,260
+2023-11-22 02:00:00,MyBookie.ag,Los Angeles Lakers,Utah Jazz,-322,250
+2023-11-22 02:00:00,Barstool Sportsbook,Los Angeles Lakers,Utah Jazz,-325,240
+2023-11-24 23:30:00,DraftKings,Miami Heat,New York Knicks,110,-130
+2023-11-24 23:30:00,Bovada,Miami Heat,New York Knicks,110,-130
+2023-11-24 23:30:00,MyBookie.ag,Miami Heat,New York Knicks,108,-131
+2023-11-24 23:30:00,Barstool Sportsbook,Miami Heat,New York Knicks,105,-130
+2023-11-25 00:00:00,DraftKings,Denver Nuggets,Houston Rockets,-175,145
+2023-11-25 00:00:00,Bovada,Denver Nuggets,Houston Rockets,-175,150
+2023-11-25 00:00:00,MyBookie.ag,Denver Nuggets,Houston Rockets,-175,142
+2023-11-25 00:00:00,Barstool Sportsbook,Denver Nuggets,Houston Rockets,-175,135
+2023-11-25 00:00:00,DraftKings,Detroit Pistons,Indiana Pacers,205,-250
+2023-11-25 00:00:00,Bovada,Detroit Pistons,Indiana Pacers,205,-245
+2023-11-25 00:00:00,MyBookie.ag,Detroit Pistons,Indiana Pacers,198,-250
+2023-11-25 00:00:00,Barstool Sportsbook,Detroit Pistons,Indiana Pacers,190,-250
+2023-11-25 00:00:00,DraftKings,Minnesota Timberwolves,Sacramento Kings,-142,120
+2023-11-25 00:00:00,Bovada,Minnesota Timberwolves,Sacramento Kings,-140,120
+2023-11-25 00:00:00,MyBookie.ag,Minnesota Timberwolves,Sacramento Kings,-142,117
+2023-11-25 00:00:00,Barstool Sportsbook,Minnesota Timberwolves,Sacramento Kings,-140,115
+2023-11-25 02:00:00,DraftKings,Golden State Warriors,San Antonio Spurs,-520,390
+2023-11-25 02:00:00,Bovada,Golden State Warriors,San Antonio Spurs,-525,375
+2023-11-25 02:30:00,DraftKings,Los Angeles Clippers,New Orleans Pelicans,-148,124
+2023-11-25 02:30:00,MyBookie.ag,Los Angeles Clippers,New Orleans Pelicans,-149,122
+2023-11-25 02:30:00,Barstool Sportsbook,Los Angeles Clippers,New Orleans Pelicans,-150,120
+2023-11-25 02:30:00,Bovada,Los Angeles Clippers,New Orleans Pelicans,-150,130
+2023-11-28 23:30:00,DraftKings,Atlanta Hawks,Cleveland Cavaliers,145,-175
+2023-11-28 23:30:00,Bovada,Atlanta Hawks,Cleveland Cavaliers,145,-170
+2023-11-28 23:30:00,MyBookie.ag,Atlanta Hawks,Cleveland Cavaliers,143,-175
+2023-11-28 23:30:00,Barstool Sportsbook,Atlanta Hawks,Cleveland Cavaliers,135,-175
+2023-11-28 23:30:00,DraftKings,Charlotte Hornets,New York Knicks,235,-290
+2023-11-28 23:30:00,Bovada,Charlotte Hornets,New York Knicks,235,-285
+2023-11-28 23:30:00,MyBookie.ag,Charlotte Hornets,New York Knicks,227,-294
+2023-11-28 23:30:00,Barstool Sportsbook,Charlotte Hornets,New York Knicks,220,-285
+2023-11-29 00:00:00,DraftKings,Minnesota Timberwolves,Oklahoma City Thunder,-148,124
+2023-11-29 00:00:00,Bovada,Minnesota Timberwolves,Oklahoma City Thunder,-145,125
+2023-11-29 00:00:00,MyBookie.ag,Minnesota Timberwolves,Oklahoma City Thunder,-149,122
+2023-11-29 00:00:00,Barstool Sportsbook,Minnesota Timberwolves,Oklahoma City Thunder,-150,120
+2023-11-29 00:30:00,DraftKings,Dallas Mavericks,Houston Rockets,-218,180
+2023-11-29 00:30:00,Bovada,Dallas Mavericks,Houston Rockets,-220,180
+2023-11-29 00:30:00,MyBookie.ag,Dallas Mavericks,Houston Rockets,-222,176
+2023-11-29 00:30:00,Barstool Sportsbook,Dallas Mavericks,Houston Rockets,-215,165
+2023-11-29 02:00:00,DraftKings,Golden State Warriors,Sacramento Kings,-110,-110
+2023-11-29 02:00:00,Bovada,Golden State Warriors,Sacramento Kings,-110,-110
+2023-11-29 02:00:00,MyBookie.ag,Golden State Warriors,Sacramento Kings,-109,-111
+2023-11-29 02:00:00,Barstool Sportsbook,Golden State Warriors,Sacramento Kings,-110,-110
+2023-12-25 22:00:00,DraftKings,Boston Celtics,Los Angeles Lakers,-125,105
+2023-12-25 22:00:00,FanDuel,Boston Celtics,Los Angeles Lakers,-122,104
+2023-12-25 22:00:00,Bovada,Boston Celtics,Los Angeles Lakers,-120,100
+2023-12-25 22:00:00,Caesars,Boston Celtics,Los Angeles Lakers,-130,110
+2023-12-25 22:00:00,SuperBook,Boston Celtics,Los Angeles Lakers,-110,-110
+2023-12-25 22:00:00,BetOnline.ag,Boston Celtics,Los Angeles Lakers,-110,-110
+2023-12-25 22:00:00,LowVig.ag,Boston Celtics,Los Angeles Lakers,-105,-105
+2023-12-25 22:00:00,Unibet,Boston Celtics,Los Angeles Lakers,-124,102
+2023-12-25 22:00:00,BetRivers,Boston Celtics,Los Angeles Lakers,-124,102
+2023-12-25 22:00:00,BetMGM,Boston Celtics,Los Angeles Lakers,-120,100
+2023-12-25 22:00:00,MyBookie.ag,Boston Celtics,Los Angeles Lakers,-125,102
+2023-12-25 22:00:00,Barstool Sportsbook,Boston Celtics,Los Angeles Lakers,-125,100
+2023-12-25 23:00:00,DraftKings,Denver Nuggets,Golden State Warriors,-192,160
+2023-12-25 23:00:00,FanDuel,Denver Nuggets,Golden State Warriors,-205,172
+2023-12-25 23:00:00,Bovada,Denver Nuggets,Golden State Warriors,-185,160
+2023-12-25 23:00:00,Caesars,Denver Nuggets,Golden State Warriors,-195,162
+2023-12-25 23:00:00,SuperBook,Denver Nuggets,Golden State Warriors,-110,-110
+2023-12-25 23:00:00,BetOnline.ag,Denver Nuggets,Golden State Warriors,-110,-110
+2023-12-25 23:00:00,LowVig.ag,Denver Nuggets,Golden State Warriors,-105,-105
+2023-12-25 23:00:00,Unibet,Denver Nuggets,Golden State Warriors,-205,165
+2023-12-25 23:00:00,BetRivers,Denver Nuggets,Golden State Warriors,-205,165
+2023-12-25 23:00:00,BetMGM,Denver Nuggets,Golden State Warriors,-200,165
+2023-12-25 23:00:00,DraftKings,Miami Heat,Philadelphia 76ers,-130,110
+2023-12-25 23:00:00,FanDuel,Miami Heat,Philadelphia 76ers,-130,110
+2023-12-25 23:00:00,Bovada,Miami Heat,Philadelphia 76ers,-130,110
+2023-12-25 23:00:00,Caesars,Miami Heat,Philadelphia 76ers,-135,115
+2023-12-25 23:00:00,SuperBook,Miami Heat,Philadelphia 76ers,-110,-110
+2023-12-25 23:00:00,BetOnline.ag,Miami Heat,Philadelphia 76ers,-110,-110
+2023-12-25 23:00:00,LowVig.ag,Miami Heat,Philadelphia 76ers,-105,-105
+2023-12-25 23:00:00,Unibet,Miami Heat,Philadelphia 76ers,-129,107
+2023-12-25 23:00:00,BetRivers,Miami Heat,Philadelphia 76ers,-129,107
+2023-12-25 23:00:00,MyBookie.ag,Miami Heat,Philadelphia 76ers,-131,107
+2023-12-25 23:00:00,Barstool Sportsbook,Miami Heat,Philadelphia 76ers,-130,105
+2023-12-25 23:00:00,DraftKings,Milwaukee Bucks,New York Knicks,-185,154
+2023-12-25 23:00:00,FanDuel,Milwaukee Bucks,New York Knicks,-180,150
+2023-12-25 23:00:00,Caesars,Milwaukee Bucks,New York Knicks,-160,135
+2023-12-25 23:00:00,SuperBook,Milwaukee Bucks,New York Knicks,-110,-110
+2023-12-25 23:00:00,BetOnline.ag,Milwaukee Bucks,New York Knicks,-110,-110
+2023-12-25 23:00:00,LowVig.ag,Milwaukee Bucks,New York Knicks,-105,-105
+2023-12-25 23:00:00,Unibet,Milwaukee Bucks,New York Knicks,-177,143
+2023-12-25 23:00:00,BetRivers,Milwaukee Bucks,New York Knicks,-177,143
+2023-12-26 03:30:00,DraftKings,Dallas Mavericks,Phoenix Suns,185,-225
+2023-12-26 03:30:00,FanDuel,Dallas Mavericks,Phoenix Suns,215,-260
+2023-12-26 03:30:00,Bovada,Dallas Mavericks,Phoenix Suns,185,-225
+2023-12-26 03:30:00,Caesars,Dallas Mavericks,Phoenix Suns,192,-235
+2023-12-26 03:30:00,SuperBook,Dallas Mavericks,Phoenix Suns,-110,-110
+2023-12-26 03:30:00,BetOnline.ag,Dallas Mavericks,Phoenix Suns,-110,-110
+2023-12-26 03:30:00,LowVig.ag,Dallas Mavericks,Phoenix Suns,-105,-105
+2023-12-26 03:30:00,Unibet,Dallas Mavericks,Phoenix Suns,200,-250
+2023-12-26 03:30:00,BetRivers,Dallas Mavericks,Phoenix Suns,200,-250
+2023-12-26 03:30:00,BetMGM,Dallas Mavericks,Phoenix Suns,185,-225
+2023-12-26 03:30:00,MyBookie.ag,Dallas Mavericks,Phoenix Suns,191,-238
+2023-12-26 03:30:00,Barstool Sportsbook,Dallas Mavericks,Phoenix Suns,180,-240
+2024-01-15 17:00:00,DraftKings,Houston Rockets,Philadelphia 76ers,240,-298
+2024-01-15 17:00:00,Bovada,Houston Rockets,Philadelphia 76ers,240,-290
+2024-01-15 18:30:00,DraftKings,Dallas Mavericks,New Orleans Pelicans,-162,136
+2024-01-15 18:30:00,Bovada,Dallas Mavericks,New Orleans Pelicans,-160,135
+2024-01-15 19:00:00,DraftKings,Detroit Pistons,Washington Wizards,114,-135
+2024-01-15 19:00:00,Bovada,Detroit Pistons,Washington Wizards,120,-140
+2024-01-15 19:00:00,DraftKings,New York Knicks,Orlando Magic,-225,185
+2024-01-15 19:00:00,Bovada,New York Knicks,Orlando Magic,-225,185
+2024-01-15 19:30:00,DraftKings,Atlanta Hawks,San Antonio Spurs,-310,250
+2024-01-15 19:30:00,Bovada,Atlanta Hawks,San Antonio Spurs,-300,250
+2024-01-15 22:00:00,DraftKings,Golden State Warriors,Memphis Grizzlies,110,-130
+2024-01-15 22:00:00,Bovada,Golden State Warriors,Memphis Grizzlies,110,-130
+2024-01-15 23:00:00,DraftKings,Chicago Bulls,Cleveland Cavaliers,215,-265
+2024-01-15 23:00:00,Bovada,Chicago Bulls,Cleveland Cavaliers,215,-260
+2024-01-15 23:30:00,DraftKings,Brooklyn Nets,Miami Heat,110,-130
+2024-01-15 23:30:00,Bovada,Brooklyn Nets,Miami Heat,110,-130
+2024-01-16 01:00:00,DraftKings,Indiana Pacers,Utah Jazz,-102,-118
+2024-01-16 01:00:00,Bovada,Indiana Pacers,Utah Jazz,100,-120
+2024-01-16 02:30:00,DraftKings,Los Angeles Lakers,Oklahoma City Thunder,-192,160
+2024-01-16 02:30:00,Bovada,Los Angeles Lakers,Oklahoma City Thunder,-185,160

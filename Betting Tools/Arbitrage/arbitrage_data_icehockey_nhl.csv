@@ -1,0 +1,57 @@
+event_time,bookmaker,Fighter,Opponent,odds_f1,odds_f2
+2023-10-10 21:32:45,Bovada,Nashville Predators,Tampa Bay Lightning,255,-360
+2023-10-11 00:08:00,DraftKings,Chicago Blackhawks,Pittsburgh Penguins,200,-245
+2023-10-11 00:08:00,BetUS,Chicago Blackhawks,Pittsburgh Penguins,220,-260
+2023-10-11 00:08:00,Bovada,Chicago Blackhawks,Pittsburgh Penguins,220,-270
+2023-10-11 03:09:00,DraftKings,Seattle Kraken,Vegas Golden Knights,142,-170
+2023-10-11 03:09:00,BetUS,Seattle Kraken,Vegas Golden Knights,135,-155
+2023-10-11 03:09:00,Bovada,Seattle Kraken,Vegas Golden Knights,135,-160
+2023-10-11 23:00:00,DraftKings,Carolina Hurricanes,Ottawa Senators,-205,170
+2023-10-11 23:00:00,Bovada,Carolina Hurricanes,Ottawa Senators,-195,165
+2023-10-11 23:00:00,BetUS,Carolina Hurricanes,Ottawa Senators,-200,170
+2023-10-11 23:00:00,DraftKings,Montréal Canadiens,Toronto Maple Leafs,240,-298
+2023-10-11 23:00:00,Bovada,Montréal Canadiens,Toronto Maple Leafs,240,-290
+2023-10-11 23:00:00,BetUS,Montréal Canadiens,Toronto Maple Leafs,250,-300
+2023-10-11 23:30:00,DraftKings,Boston Bruins,Chicago Blackhawks,-305,245
+2023-10-11 23:30:00,Bovada,Boston Bruins,Chicago Blackhawks,-320,260
+2023-10-12 02:00:00,DraftKings,Calgary Flames,Winnipeg Jets,-135,114
+2023-10-12 02:00:00,Bovada,Calgary Flames,Winnipeg Jets,-135,115
+2023-10-12 02:00:00,BetUS,Calgary Flames,Winnipeg Jets,-140,120
+2023-10-12 02:00:00,DraftKings,Colorado Avalanche,Los Angeles Kings,-110,-110
+2023-10-12 02:00:00,Bovada,Colorado Avalanche,Los Angeles Kings,-120,100
+2023-10-12 02:00:00,BetUS,Colorado Avalanche,Los Angeles Kings,-110,-110
+2023-10-12 02:00:00,DraftKings,Edmonton Oilers,Vancouver Canucks,-162,136
+2023-10-12 02:00:00,Bovada,Edmonton Oilers,Vancouver Canucks,-165,140
+2023-10-12 02:00:00,BetUS,Edmonton Oilers,Vancouver Canucks,-165,145
+2023-10-12 23:00:00,DraftKings,Buffalo Sabres,New York Rangers,105,-125
+2023-10-12 23:00:00,Bovada,Buffalo Sabres,New York Rangers,100,-120
+2023-10-12 23:00:00,DraftKings,Columbus Blue Jackets,Philadelphia Flyers,-130,110
+2023-10-12 23:00:00,Bovada,Columbus Blue Jackets,Philadelphia Flyers,-135,115
+2023-10-12 23:00:00,DraftKings,Detroit Red Wings,New Jersey Devils,210,-258
+2023-10-12 23:00:00,Bovada,Detroit Red Wings,New Jersey Devils,215,-260
+2023-10-13 00:00:00,DraftKings,Dallas Stars,St Louis Blues,-205,170
+2023-10-13 00:00:00,Bovada,Dallas Stars,St Louis Blues,-210,175
+2023-10-13 00:00:00,DraftKings,Florida Panthers,Minnesota Wild,105,-125
+2023-10-13 00:00:00,Bovada,Florida Panthers,Minnesota Wild,110,-130
+2023-10-13 00:00:00,DraftKings,Nashville Predators,Seattle Kraken,-105,-115
+2023-10-13 00:00:00,Bovada,Nashville Predators,Seattle Kraken,-105,-115
+2023-10-13 02:30:00,DraftKings,San Jose Sharks,Vegas Golden Knights,200,-245
+2023-10-13 02:30:00,Bovada,San Jose Sharks,Vegas Golden Knights,190,-230
+2023-10-13 23:00:00,DraftKings,Arizona Coyotes,New Jersey Devils,240,-298
+2023-10-13 23:00:00,Bovada,Arizona Coyotes,New Jersey Devils,235,-285
+2023-10-13 23:00:00,DraftKings,Pittsburgh Penguins,Washington Capitals,-120,100
+2023-10-13 23:00:00,Bovada,Pittsburgh Penguins,Washington Capitals,-120,100
+2023-10-14 17:00:00,DraftKings,Ottawa Senators,Philadelphia Flyers,-185,154
+2023-10-14 20:00:00,DraftKings,Florida Panthers,Winnipeg Jets,-110,-110
+2023-10-14 23:00:00,DraftKings,Boston Bruins,Nashville Predators,-205,170
+2023-10-14 23:00:00,DraftKings,Calgary Flames,Pittsburgh Penguins,-105,-115
+2023-10-14 23:00:00,DraftKings,Chicago Blackhawks,Montréal Canadiens,110,-130
+2023-10-14 23:00:00,DraftKings,Columbus Blue Jackets,New York Rangers,164,-198
+2023-10-14 23:00:00,DraftKings,Detroit Red Wings,Tampa Bay Lightning,-110,-110
+2023-10-14 23:00:00,DraftKings,Minnesota Wild,Toronto Maple Leafs,145,-175
+2023-10-14 23:30:00,DraftKings,Buffalo Sabres,New York Islanders,110,-130
+2023-10-15 00:00:00,DraftKings,Seattle Kraken,St Louis Blues,-110,-110
+2023-10-15 02:00:00,DraftKings,Anaheim Ducks,Vegas Golden Knights,280,-355
+2023-10-15 02:00:00,DraftKings,Colorado Avalanche,San Jose Sharks,-245,200
+2023-10-15 02:00:00,DraftKings,Edmonton Oilers,Vancouver Canucks,-205,170
+2023-10-15 02:30:00,DraftKings,Carolina Hurricanes,Los Angeles Kings,-120,100

@@ -1,0 +1,2297 @@
+event_time,bookmaker,Fighter,Opponent,odds_f1,odds_f2
+2023-10-11 00:15:00,LowVig.ag,Davi Bittencourt,Lucas Rocha,-135,115
+2023-10-11 00:15:00,Unibet,Davi Bittencourt,Lucas Rocha,-137,100
+2023-10-11 00:15:00,Bovada,Davi Bittencourt,Lucas Rocha,-125,105
+2023-10-11 00:15:00,BetMGM,Davi Bittencourt,Lucas Rocha,-135,110
+2023-10-11 00:15:00,FanDuel,Davi Bittencourt,Lucas Rocha,-132,104
+2023-10-11 00:15:00,SuperBook,Davi Bittencourt,Lucas Rocha,-135,100
+2023-10-11 00:40:00,LowVig.ag,Issa Isakov,Marquel Mederos,-205,175
+2023-10-11 00:40:00,Unibet,Issa Isakov,Marquel Mederos,-230,160
+2023-10-11 00:40:00,Bovada,Issa Isakov,Marquel Mederos,-210,170
+2023-10-11 00:40:00,BetMGM,Issa Isakov,Marquel Mederos,-200,165
+2023-10-11 00:40:00,FanDuel,Issa Isakov,Marquel Mederos,-205,158
+2023-10-11 00:40:00,SuperBook,Issa Isakov,Marquel Mederos,-190,140
+2023-10-11 01:05:00,LowVig.ag,Torrez Finney,Yuri Panferov,-190,165
+2023-10-11 01:05:00,Unibet,Torrez Finney,Yuri Panferov,-215,150
+2023-10-11 01:05:00,Bovada,Torrez Finney,Yuri Panferov,-185,155
+2023-10-11 01:05:00,BetMGM,Torrez Finney,Yuri Panferov,-200,165
+2023-10-11 01:05:00,FanDuel,Torrez Finney,Yuri Panferov,-200,156
+2023-10-11 01:05:00,SuperBook,Torrez Finney,Yuri Panferov,-210,155
+2023-10-11 01:30:00,LowVig.ag,Connor Matthews,Jair Farias,165,-190
+2023-10-11 01:30:00,Unibet,Connor Matthews,Jair Farias,143,-200
+2023-10-11 01:30:00,Bovada,Connor Matthews,Jair Farias,175,-215
+2023-10-11 01:30:00,BetMGM,Connor Matthews,Jair Farias,165,-200
+2023-10-11 01:30:00,FanDuel,Connor Matthews,Jair Farias,144,-186
+2023-10-11 01:30:00,SuperBook,Connor Matthews,Jair Farias,145,-200
+2023-10-11 01:55:00,LowVig.ag,Andre Lima,Rickson Thai Zenidim,-260,220
+2023-10-11 01:55:00,Unibet,Andre Lima,Rickson Thai Zenidim,-315,210
+2023-10-11 01:55:00,Bovada,Andre Lima,Rickson Thai Zenidim,-260,210
+2023-10-11 01:55:00,FanDuel,Andre Lima,Rickson Thai Zenidim,-290,215
+2023-10-11 01:55:00,SuperBook,Andre Lima,Rickson Thai Zenidim,-240,180
+2023-10-11 02:20:00,LowVig.ag,Cortavious Romious,Ramon Taveras,-241,206
+2023-10-11 02:20:00,Unibet,Cortavious Romious,Ramon Taveras,-278,190
+2023-10-11 02:20:00,Bovada,Cortavious Romious,Ramon Taveras,-225,180
+2023-10-11 02:20:00,BetMGM,Cortavious Romious,Ramon Taveras,-225,180
+2023-10-11 02:20:00,SuperBook,Cortavious Romious,Ramon Taveras,-260,190
+2023-10-14 20:00:00,BetRivers,Ashley Yoder,Emily Ducote,270,-360
+2023-10-14 20:00:00,LowVig.ag,Ashley Yoder,Emily Ducote,300,-400
+2023-10-14 20:00:00,Bovada,Ashley Yoder,Emily Ducote,275,-350
+2023-10-14 20:00:00,TwinSpires,Ashley Yoder,Emily Ducote,270,-360
+2023-10-14 20:00:00,Unibet,Ashley Yoder,Emily Ducote,270,-360
+2023-10-14 20:00:00,BetOnline.ag,Ashley Yoder,Emily Ducote,300,-400
+2023-10-14 20:00:00,WynnBET,Ashley Yoder,Emily Ducote,295,-370
+2023-10-14 20:00:00,DraftKings,Ashley Yoder,Emily Ducote,285,-360
+2023-10-14 20:00:00,FanDuel,Ashley Yoder,Emily Ducote,250,-340
+2023-10-14 20:00:00,BetUS,Ashley Yoder,Emily Ducote,255,-355
+2023-10-14 20:00:00,BetMGM,Ashley Yoder,Emily Ducote,275,-350
+2023-10-14 20:00:00,Caesars,Ashley Yoder,Emily Ducote,290,-360
+2023-10-14 20:00:00,SuperBook,Ashley Yoder,Emily Ducote,275,-350
+2023-10-14 20:00:00,BetRivers,Darren Elkins,TJ Brown,170,-215
+2023-10-14 20:00:00,LowVig.ag,Darren Elkins,TJ Brown,175,-205
+2023-10-14 20:00:00,Bovada,Darren Elkins,TJ Brown,185,-225
+2023-10-14 20:00:00,TwinSpires,Darren Elkins,TJ Brown,170,-215
+2023-10-14 20:00:00,Unibet,Darren Elkins,TJ Brown,170,-215
+2023-10-14 20:00:00,BetOnline.ag,Darren Elkins,TJ Brown,175,-204
+2023-10-14 20:00:00,BetUS,Darren Elkins,TJ Brown,170,-205
+2023-10-14 20:00:00,WynnBET,Darren Elkins,TJ Brown,180,-213
+2023-10-14 20:00:00,DraftKings,Darren Elkins,TJ Brown,170,-205
+2023-10-14 20:00:00,FanDuel,Darren Elkins,TJ Brown,172,-225
+2023-10-14 20:00:00,BetMGM,Darren Elkins,TJ Brown,165,-200
+2023-10-14 20:00:00,Caesars,Darren Elkins,TJ Brown,180,-220
+2023-10-14 20:00:00,SuperBook,Darren Elkins,TJ Brown,175,-210
+2023-10-14 20:15:00,BetUS,Chris Gutierrez,Heili Alateng,-300,225
+2023-10-14 20:15:00,BetOnline.ag,Chris Gutierrez,Heili Alateng,-303,250
+2023-10-14 20:15:00,LowVig.ag,Chris Gutierrez,Heili Alateng,-300,250
+2023-10-14 20:15:00,WynnBET,Chris Gutierrez,Heili Alateng,-333,267
+2023-10-14 20:15:00,SuperBook,Chris Gutierrez,Heili Alateng,-330,260
+2023-10-14 20:15:00,BetRivers,Chris Gutierrez,Heili Alateng,-305,240
+2023-10-14 20:15:00,TwinSpires,Chris Gutierrez,Heili Alateng,-305,240
+2023-10-14 20:15:00,Unibet,Chris Gutierrez,Heili Alateng,-305,240
+2023-10-14 20:15:00,BetMGM,Chris Gutierrez,Heili Alateng,-300,250
+2023-10-14 20:15:00,FanDuel,Chris Gutierrez,Heili Alateng,-340,250
+2023-10-14 20:15:00,DraftKings,Chris Gutierrez,Heili Alateng,-325,260
+2023-10-14 20:15:00,Caesars,Chris Gutierrez,Heili Alateng,-320,250
+2023-10-14 20:15:00,BetOnline.ag,Irina Alekseeva,Melissa Dixon,130,-149
+2023-10-14 20:15:00,BetUS,Irina Alekseeva,Melissa Dixon,120,-150
+2023-10-14 20:15:00,LowVig.ag,Irina Alekseeva,Melissa Dixon,130,-150
+2023-10-14 20:15:00,DraftKings,Irina Alekseeva,Melissa Dixon,124,-148
+2023-10-14 20:15:00,WynnBET,Irina Alekseeva,Melissa Dixon,127,-149
+2023-10-14 20:15:00,Bovada,Irina Alekseeva,Melissa Dixon,125,-150
+2023-10-14 20:15:00,Unibet,Irina Alekseeva,Melissa Dixon,116,-143
+2023-10-14 20:15:00,TwinSpires,Irina Alekseeva,Melissa Dixon,116,-143
+2023-10-14 20:15:00,BetRivers,Irina Alekseeva,Melissa Dixon,116,-143
+2023-10-14 20:15:00,FanDuel,Irina Alekseeva,Melissa Dixon,122,-156
+2023-10-14 20:15:00,BetMGM,Irina Alekseeva,Melissa Dixon,125,-150
+2023-10-14 20:15:00,Caesars,Irina Alekseeva,Melissa Dixon,125,-150
+2023-10-14 20:15:00,SuperBook,Irina Alekseeva,Melissa Dixon,135,-155
+2023-10-14 20:40:00,BetRivers,Ravena Oliveira,Tainara Lisboa,275,-375
+2023-10-14 20:40:00,TwinSpires,Ravena Oliveira,Tainara Lisboa,275,-375
+2023-10-14 20:40:00,BetOnline.ag,Ravena Oliveira,Tainara Lisboa,270,-333
+2023-10-14 20:40:00,FanDuel,Ravena Oliveira,Tainara Lisboa,285,-400
+2023-10-14 20:40:00,BetUS,Ravena Oliveira,Tainara Lisboa,240,-330
+2023-10-14 20:40:00,LowVig.ag,Ravena Oliveira,Tainara Lisboa,270,-330
+2023-10-14 20:40:00,Unibet,Ravena Oliveira,Tainara Lisboa,275,-375
+2023-10-14 20:40:00,DraftKings,Ravena Oliveira,Tainara Lisboa,285,-360
+2023-10-14 20:40:00,Bovada,Ravena Oliveira,Tainara Lisboa,275,-350
+2023-10-14 20:40:00,BetMGM,Ravena Oliveira,Tainara Lisboa,275,-350
+2023-10-14 20:40:00,Caesars,Ravena Oliveira,Tainara Lisboa,290,-370
+2023-10-14 20:40:00,SuperBook,Ravena Oliveira,Tainara Lisboa,235,-290
+2023-10-14 20:40:00,WynnBET,Ravena Oliveira,Tainara Lisboa,260,-323
+2023-10-14 23:00:00,BetRivers,Adrian Yanez,Jonathan Martinez,-112,-112
+2023-10-14 23:00:00,LowVig.ag,Adrian Yanez,Jonathan Martinez,105,-125
+2023-10-14 23:00:00,Unibet,Adrian Yanez,Jonathan Martinez,-112,-112
+2023-10-14 23:00:00,TwinSpires,Adrian Yanez,Jonathan Martinez,-112,-112
+2023-10-14 23:00:00,BetOnline.ag,Adrian Yanez,Jonathan Martinez,105,-125
+2023-10-14 23:00:00,WynnBET,Adrian Yanez,Jonathan Martinez,-110,-110
+2023-10-14 23:00:00,DraftKings,Adrian Yanez,Jonathan Martinez,-108,-112
+2023-10-14 23:00:00,BetUS,Adrian Yanez,Jonathan Martinez,-105,-125
+2023-10-14 23:00:00,Caesars,Adrian Yanez,Jonathan Martinez,100,-120
+2023-10-14 23:00:00,FanDuel,Adrian Yanez,Jonathan Martinez,-113,-113
+2023-10-14 23:00:00,BetMGM,Adrian Yanez,Jonathan Martinez,-105,-115
+2023-10-14 23:00:00,SuperBook,Adrian Yanez,Jonathan Martinez,100,-120
+2023-10-14 23:00:00,BetRivers,Cameron Saaiman,Christian Rodriguez,125,-159
+2023-10-14 23:00:00,LowVig.ag,Cameron Saaiman,Christian Rodriguez,130,-150
+2023-10-14 23:00:00,Bovada,Cameron Saaiman,Christian Rodriguez,125,-150
+2023-10-14 23:00:00,Unibet,Cameron Saaiman,Christian Rodriguez,125,-159
+2023-10-14 23:00:00,TwinSpires,Cameron Saaiman,Christian Rodriguez,125,-159
+2023-10-14 23:00:00,BetOnline.ag,Cameron Saaiman,Christian Rodriguez,130,-149
+2023-10-14 23:00:00,DraftKings,Cameron Saaiman,Christian Rodriguez,136,-162
+2023-10-14 23:00:00,BetUS,Cameron Saaiman,Christian Rodriguez,120,-150
+2023-10-14 23:00:00,Caesars,Cameron Saaiman,Christian Rodriguez,125,-150
+2023-10-14 23:00:00,FanDuel,Cameron Saaiman,Christian Rodriguez,124,-160
+2023-10-14 23:00:00,BetMGM,Cameron Saaiman,Christian Rodriguez,125,-150
+2023-10-14 23:00:00,SuperBook,Cameron Saaiman,Christian Rodriguez,135,-155
+2023-10-14 23:00:10,BetRivers,Jennifer Maia,Viviane Araujo,-155,123
+2023-10-14 23:00:10,LowVig.ag,Jennifer Maia,Viviane Araujo,-145,125
+2023-10-14 23:00:10,Bovada,Jennifer Maia,Viviane Araujo,-154,128
+2023-10-14 23:00:10,Unibet,Jennifer Maia,Viviane Araujo,-155,123
+2023-10-14 23:00:10,TwinSpires,Jennifer Maia,Viviane Araujo,-155,123
+2023-10-14 23:00:10,BetOnline.ag,Jennifer Maia,Viviane Araujo,-145,125
+2023-10-14 23:00:10,DraftKings,Jennifer Maia,Viviane Araujo,-162,136
+2023-10-14 23:00:10,BetUS,Jennifer Maia,Viviane Araujo,-145,115
+2023-10-14 23:00:10,WynnBET,Jennifer Maia,Viviane Araujo,-149,127
+2023-10-14 23:00:10,Caesars,Jennifer Maia,Viviane Araujo,-150,125
+2023-10-14 23:00:10,FanDuel,Jennifer Maia,Viviane Araujo,-162,126
+2023-10-14 23:00:10,BetMGM,Jennifer Maia,Viviane Araujo,-150,125
+2023-10-14 23:00:10,SuperBook,Jennifer Maia,Viviane Araujo,-145,125
+2023-10-14 23:15:00,BetOnline.ag,Andre Petroski,Michel Pereira,155,-179
+2023-10-14 23:15:00,LowVig.ag,Andre Petroski,Michel Pereira,155,-180
+2023-10-14 23:15:00,SuperBook,Andre Petroski,Michel Pereira,125,-145
+2023-10-14 23:15:00,BetUS,Daniel Da Silva,Edgar Chairez,225,-300
+2023-10-14 23:15:00,Bovada,Daniel Da Silva,Edgar Chairez,235,-300
+2023-10-14 23:15:00,BetOnline.ag,Daniel Da Silva,Edgar Chairez,250,-303
+2023-10-14 23:15:00,LowVig.ag,Daniel Da Silva,Edgar Chairez,250,-300
+2023-10-14 23:15:00,WynnBET,Daniel Da Silva,Edgar Chairez,252,-312
+2023-10-14 23:15:00,DraftKings,Daniel Da Silva,Edgar Chairez,245,-305
+2023-10-14 23:15:00,Caesars,Daniel Da Silva,Edgar Chairez,240,-300
+2023-10-14 23:15:00,SuperBook,Daniel Da Silva,Edgar Chairez,250,-310
+2023-10-14 23:15:00,FanDuel,Daniel Da Silva,Edgar Chairez,240,-330
+2023-10-14 23:15:00,TwinSpires,Daniel Da Silva,Edgar Chairez,240,-305
+2023-10-14 23:15:00,BetRivers,Daniel Da Silva,Edgar Chairez,240,-305
+2023-10-14 23:15:00,Unibet,Daniel Da Silva,Edgar Chairez,240,-305
+2023-10-15 00:00:00,Bovada,Edson Barboza,Sodiq Yusuff,137,-165
+2023-10-15 00:00:00,Caesars,Edson Barboza,Sodiq Yusuff,140,-165
+2023-10-15 00:00:00,LowVig.ag,Edson Barboza,Sodiq Yusuff,142,-162
+2023-10-15 00:00:00,BetOnline.ag,Edson Barboza,Sodiq Yusuff,142,-161
+2023-10-15 00:00:00,TwinSpires,Edson Barboza,Sodiq Yusuff,135,-167
+2023-10-15 00:00:00,Unibet,Edson Barboza,Sodiq Yusuff,135,-167
+2023-10-15 00:00:00,BetRivers,Edson Barboza,Sodiq Yusuff,135,-167
+2023-10-15 00:00:00,FanDuel,Edson Barboza,Sodiq Yusuff,138,-178
+2023-10-15 00:00:00,WynnBET,Edson Barboza,Sodiq Yusuff,140,-164
+2023-10-15 00:00:00,DraftKings,Edson Barboza,Sodiq Yusuff,140,-166
+2023-10-15 00:00:00,BetUS,Edson Barboza,Sodiq Yusuff,132,-162
+2023-10-15 00:00:00,BetMGM,Edson Barboza,Sodiq Yusuff,140,-165
+2023-10-15 00:00:00,SuperBook,Edson Barboza,Sodiq Yusuff,135,-155
+2023-10-21 14:00:00,BetRivers,Anshul Jubli,Mike Breeden,-400,300
+2023-10-21 14:00:00,TwinSpires,Anshul Jubli,Mike Breeden,-400,300
+2023-10-21 14:00:00,BetOnline.ag,Anshul Jubli,Mike Breeden,-417,320
+2023-10-21 14:00:00,Bovada,Anshul Jubli,Mike Breeden,-400,300
+2023-10-21 14:00:00,Unibet,Anshul Jubli,Mike Breeden,-400,300
+2023-10-21 14:00:00,LowVig.ag,Anshul Jubli,Mike Breeden,-420,320
+2023-10-21 14:00:00,Caesars,Anshul Jubli,Mike Breeden,-420,320
+2023-10-21 14:00:00,FanDuel,Anshul Jubli,Mike Breeden,-430,300
+2023-10-21 14:00:00,BetRivers,Javid Basharat,Victor Henry,-455,340
+2023-10-21 14:00:00,TwinSpires,Javid Basharat,Victor Henry,-455,340
+2023-10-21 14:00:00,BetOnline.ag,Javid Basharat,Victor Henry,-455,350
+2023-10-21 14:00:00,Bovada,Javid Basharat,Victor Henry,-400,300
+2023-10-21 14:00:00,Unibet,Javid Basharat,Victor Henry,-455,340
+2023-10-21 14:00:00,LowVig.ag,Javid Basharat,Victor Henry,-450,350
+2023-10-21 14:00:00,Caesars,Javid Basharat,Victor Henry,-420,330
+2023-10-21 14:00:23,BetRivers,Muhammad Mokaev,Tim Elliott,-590,420
+2023-10-21 14:00:23,TwinSpires,Muhammad Mokaev,Tim Elliott,-590,420
+2023-10-21 14:00:23,BetOnline.ag,Muhammad Mokaev,Tim Elliott,-500,375
+2023-10-21 14:00:23,Bovada,Muhammad Mokaev,Tim Elliott,-600,425
+2023-10-21 14:00:23,Unibet,Muhammad Mokaev,Tim Elliott,-590,420
+2023-10-21 14:00:23,LowVig.ag,Muhammad Mokaev,Tim Elliott,-500,375
+2023-10-21 14:00:23,Caesars,Muhammad Mokaev,Tim Elliott,-500,380
+2023-10-21 14:00:23,FanDuel,Muhammad Mokaev,Tim Elliott,-670,430
+2023-10-21 15:10:00,LowVig.ag,Abu Azaitar,Sedriques Dumas,145,-170
+2023-10-21 15:10:00,BetOnline.ag,Abu Azaitar,Sedriques Dumas,145,-169
+2023-10-21 15:10:00,Bovada,Abu Azaitar,Sedriques Dumas,140,-170
+2023-10-21 15:10:00,DraftKings,Abu Azaitar,Sedriques Dumas,142,-170
+2023-10-21 15:10:00,Caesars,Abu Azaitar,Sedriques Dumas,140,-165
+2023-10-21 15:10:00,Unibet,Abu Azaitar,Sedriques Dumas,138,-175
+2023-10-21 15:10:00,BetRivers,Abu Azaitar,Sedriques Dumas,138,-175
+2023-10-21 15:10:00,TwinSpires,Abu Azaitar,Sedriques Dumas,138,-175
+2023-10-21 15:10:00,FanDuel,Abu Azaitar,Sedriques Dumas,138,-178
+2023-10-21 15:10:00,BetOnline.ag,Bruno Silva,Shara Magomedov,169,-192
+2023-10-21 15:10:00,LowVig.ag,Bruno Silva,Shara Magomedov,169,-194
+2023-10-21 15:10:00,DraftKings,Bruno Silva,Shara Magomedov,164,-198
+2023-10-21 15:10:00,Caesars,Bruno Silva,Shara Magomedov,165,-195
+2023-10-21 15:10:00,FanDuel,Bruno Silva,Shara Magomedov,164,-215
+2023-10-21 15:10:00,TwinSpires,Bruno Silva,Shara Magomedov,163,-205
+2023-10-21 15:10:00,BetRivers,Bruno Silva,Shara Magomedov,163,-205
+2023-10-21 15:10:00,Unibet,Bruno Silva,Shara Magomedov,163,-205
+2023-10-21 15:10:00,LowVig.ag,Jinh Yu Frey,Viktoriya Dudakova,295,-360
+2023-10-21 15:10:00,Bovada,Jinh Yu Frey,Viktoriya Dudakova,275,-350
+2023-10-21 15:10:00,BetOnline.ag,Jinh Yu Frey,Viktoriya Dudakova,295,-357
+2023-10-21 15:10:00,DraftKings,Jinh Yu Frey,Viktoriya Dudakova,295,-375
+2023-10-21 15:10:00,Caesars,Jinh Yu Frey,Viktoriya Dudakova,280,-360
+2023-10-21 15:10:00,Unibet,Jinh Yu Frey,Viktoriya Dudakova,265,-345
+2023-10-21 15:10:00,BetRivers,Jinh Yu Frey,Viktoriya Dudakova,265,-345
+2023-10-21 15:10:00,TwinSpires,Jinh Yu Frey,Viktoriya Dudakova,265,-345
+2023-10-21 15:10:00,FanDuel,Jinh Yu Frey,Viktoriya Dudakova,285,-400
+2023-10-21 15:10:00,BetOnline.ag,Muhammadjon Naimov,Nathaniel Wood,250,-303
+2023-10-21 15:10:00,Bovada,Muhammadjon Naimov,Nathaniel Wood,250,-310
+2023-10-21 15:10:00,LowVig.ag,Muhammadjon Naimov,Nathaniel Wood,250,-300
+2023-10-21 15:10:00,DraftKings,Muhammadjon Naimov,Nathaniel Wood,250,-310
+2023-10-21 15:10:00,Caesars,Muhammadjon Naimov,Nathaniel Wood,250,-320
+2023-10-21 15:10:00,Unibet,Muhammadjon Naimov,Nathaniel Wood,245,-315
+2023-10-21 15:10:00,BetRivers,Muhammadjon Naimov,Nathaniel Wood,245,-315
+2023-10-21 15:10:00,TwinSpires,Muhammadjon Naimov,Nathaniel Wood,245,-315
+2023-10-21 15:10:00,FanDuel,Muhammadjon Naimov,Nathaniel Wood,250,-340
+2023-10-21 17:25:00,BetOnline.ag,Mohammad Yahya,Trevor Peek,-130,110
+2023-10-21 17:25:00,LowVig.ag,Mohammad Yahya,Trevor Peek,-130,110
+2023-10-21 17:25:00,Bovada,Mohammad Yahya,Trevor Peek,-140,115
+2023-10-21 17:25:00,DraftKings,Mohammad Yahya,Trevor Peek,-142,120
+2023-10-21 17:25:00,Caesars,Mohammad Yahya,Trevor Peek,-135,115
+2023-10-21 17:25:00,BetRivers,Mohammad Yahya,Trevor Peek,-137,112
+2023-10-21 17:25:00,TwinSpires,Mohammad Yahya,Trevor Peek,-137,112
+2023-10-21 17:25:00,Unibet,Mohammad Yahya,Trevor Peek,-137,112
+2023-10-21 17:25:00,FanDuel,Mohammad Yahya,Trevor Peek,-150,118
+2023-10-21 18:00:00,BetRivers,Johnny Walker,Magomed Ankalaev,265,-345
+2023-10-21 18:00:00,TwinSpires,Johnny Walker,Magomed Ankalaev,265,-345
+2023-10-21 18:00:00,Bovada,Johnny Walker,Magomed Ankalaev,265,-350
+2023-10-21 18:00:00,Unibet,Johnny Walker,Magomed Ankalaev,265,-345
+2023-10-21 18:00:00,Caesars,Johnny Walker,Magomed Ankalaev,270,-340
+2023-10-21 18:00:00,FanDuel,Johnny Walker,Magomed Ankalaev,265,-370
+2023-10-21 18:00:59,BetOnline.ag,Khamzat Chimaev,Paulo Henrique Costa,-370,300
+2023-10-21 18:00:59,Bovada,Khamzat Chimaev,Paulo Henrique Costa,-375,280
+2023-10-21 18:00:59,LowVig.ag,Khamzat Chimaev,Paulo Henrique Costa,-375,300
+2023-10-21 18:00:59,FanDuel,Khamzat Chimaev,Paulo Henrique Costa,-400,285
+2023-10-21 18:00:59,TwinSpires,Khamzat Chimaev,Paulo Henrique Costa,-385,295
+2023-10-21 18:00:59,Unibet,Khamzat Chimaev,Paulo Henrique Costa,-385,295
+2023-10-21 18:00:59,BetRivers,Khamzat Chimaev,Paulo Henrique Costa,-385,295
+2023-10-21 18:00:59,BetMGM,Khamzat Chimaev,Paulo Henrique Costa,-375,280
+2023-10-21 18:00:59,Caesars,Khamzat Chimaev,Paulo Henrique Costa,-380,300
+2023-10-21 18:15:00,BetOnline.ag,Muin Gafurov,Said Nurmagomedov,175,-204
+2023-10-21 18:15:00,LowVig.ag,Muin Gafurov,Said Nurmagomedov,175,-205
+2023-10-21 18:15:00,DraftKings,Muin Gafurov,Said Nurmagomedov,154,-185
+2023-10-21 18:15:00,Bovada,Muin Gafurov,Said Nurmagomedov,165,-200
+2023-10-21 18:15:00,Caesars,Muin Gafurov,Said Nurmagomedov,165,-195
+2023-10-21 18:15:00,TwinSpires,Muin Gafurov,Said Nurmagomedov,163,-205
+2023-10-21 18:15:00,Unibet,Muin Gafurov,Said Nurmagomedov,163,-205
+2023-10-21 18:15:00,BetRivers,Muin Gafurov,Said Nurmagomedov,163,-205
+2023-10-21 18:15:00,FanDuel,Muin Gafurov,Said Nurmagomedov,154,-200
+2023-10-21 19:00:59,FanDuel,Charles Oliveira,Islam Makhachev,255,-350
+2023-10-21 19:00:59,Bovada,Charles Oliveira,Islam Makhachev,265,-350
+2023-10-21 19:00:59,LowVig.ag,Charles Oliveira,Islam Makhachev,270,-330
+2023-10-21 19:00:59,BetOnline.ag,Charles Oliveira,Islam Makhachev,270,-333
+2023-10-21 19:00:59,Caesars,Charles Oliveira,Islam Makhachev,275,-350
+2023-10-21 19:00:59,TwinSpires,Charles Oliveira,Islam Makhachev,265,-345
+2023-10-21 19:00:59,Unibet,Charles Oliveira,Islam Makhachev,265,-345
+2023-10-21 19:00:59,BetRivers,Charles Oliveira,Islam Makhachev,265,-345
+2023-10-21 19:00:59,BetMGM,Charles Oliveira,Islam Makhachev,260,-350
+2023-10-21 19:00:59,WynnBET,Charles Oliveira,Islam Makhachev,267,-333
+2023-11-12 02:30:00,FanDuel,Jessica Andrade,Mackenzie Dern,162,-210
+2023-11-12 02:30:00,DraftKings,Jessica Andrade,Mackenzie Dern,160,-192
+2023-11-12 02:30:00,LowVig.ag,Jessica Andrade,Mackenzie Dern,185,-215
+2023-11-12 02:30:00,BetOnline.ag,Jessica Andrade,Mackenzie Dern,185,-217
+2023-11-12 03:00:00,Bovada,Alex Pereira,Jiri Prochazka,-145,120
+2023-11-12 03:00:00,BetOnline.ag,Alex Pereira,Jiri Prochazka,-135,115
+2023-11-12 03:00:00,FanDuel,Alex Pereira,Jiri Prochazka,-160,124
+2023-11-12 03:00:00,DraftKings,Alex Pereira,Jiri Prochazka,-148,124
+2023-11-12 03:00:00,LowVig.ag,Alex Pereira,Jiri Prochazka,-135,115
+2023-11-12 03:00:00,BetRivers,Alex Pereira,Jiri Prochazka,-150,120
+2023-11-12 03:00:00,Unibet,Alex Pereira,Jiri Prochazka,-150,120
+2023-11-12 03:00:00,TwinSpires,Alex Pereira,Jiri Prochazka,-150,120
+2023-11-12 03:00:00,Caesars,Alex Pereira,Jiri Prochazka,-145,122
+2023-11-12 04:00:10,Unibet,Jon Jones,Stipe Miocic,-420,320
+2023-11-12 04:00:10,BetRivers,Jon Jones,Stipe Miocic,-420,320
+2023-11-12 04:00:10,TwinSpires,Jon Jones,Stipe Miocic,-420,320
+2023-11-12 04:00:10,LowVig.ag,Jon Jones,Stipe Miocic,-370,295
+2023-11-12 04:00:10,BetOnline.ag,Jon Jones,Stipe Miocic,-370,295
+2023-11-12 04:00:10,Bovada,Jon Jones,Stipe Miocic,-375,290
+2023-11-12 04:00:10,FanDuel,Jon Jones,Stipe Miocic,-440,310
+2023-11-12 04:00:10,DraftKings,Jon Jones,Stipe Miocic,-395,310
+2023-12-17 03:00:00,BetRivers,Alexandre Pantoja,Brandon Royval,-240,188
+2023-12-17 03:00:00,LowVig.ag,Alexandre Pantoja,Brandon Royval,-220,170
+2023-12-17 03:00:00,DraftKings,Alexandre Pantoja,Brandon Royval,-238,195
+2023-12-17 03:00:00,Caesars,Alexandre Pantoja,Brandon Royval,-240,195
+2023-12-17 03:00:00,TwinSpires,Alexandre Pantoja,Brandon Royval,-240,188
+2023-12-17 03:00:00,Unibet,Alexandre Pantoja,Brandon Royval,-240,188
+2023-12-17 03:00:00,BetOnline.ag,Alexandre Pantoja,Brandon Royval,-217,170
+2023-12-17 03:00:00,FanDuel,Alexandre Pantoja,Brandon Royval,-245,186
+2023-12-17 03:00:00,BetOnline.ag,Colby Covington,Leon Edwards,-105,-115
+2023-12-17 03:00:00,DraftKings,Colby Covington,Leon Edwards,110,-130
+2023-12-17 03:00:00,Caesars,Colby Covington,Leon Edwards,105,-125
+2023-12-17 03:00:00,LowVig.ag,Colby Covington,Leon Edwards,-105,-115
+2023-12-17 03:00:00,Bovada,Colby Covington,Leon Edwards,-105,-115
+2023-12-17 03:00:00,FanDuel,Colby Covington,Leon Edwards,108,-136
+2023-12-17 03:00:00,Unibet,Colby Covington,Leon Edwards,107,-132
+2023-12-17 03:00:00,TwinSpires,Colby Covington,Leon Edwards,107,-132
+2023-12-17 03:00:00,BetRivers,Colby Covington,Leon Edwards,107,-132
+2023-12-17 03:00:00,LowVig.ag,Paddy Pimblett,Tony Ferguson,-280,240
+2023-12-17 03:00:00,BetOnline.ag,Paddy Pimblett,Tony Ferguson,-278,240
+2023-12-17 03:00:00,FanDuel,Paddy Pimblett,Tony Ferguson,-400,285
+2023-12-17 03:00:00,Bovada,Paddy Pimblett,Tony Ferguson,-300,240
+2023-12-17 03:00:00,DraftKings,Paddy Pimblett,Tony Ferguson,-355,280
+2023-12-17 03:00:00,LowVig.ag,Shavkat Rakhmonov,Stephen Thompson,-549,385
+2023-12-17 03:00:00,BetOnline.ag,Shavkat Rakhmonov,Stephen Thompson,-556,385
+2023-12-17 03:00:00,FanDuel,Shavkat Rakhmonov,Stephen Thompson,-480,330
+2023-12-17 03:00:00,DraftKings,Shavkat Rakhmonov,Stephen Thompson,-455,350
+2023-12-17 03:00:00,Bovada,Shavkat Rakhmonov,Stephen Thompson,-450,350
+2023-12-31 21:00:00,DraftKings,Conor McGregor,Michael Chandler,-122,102
+2023-10-14 20:00:00,BetUS,Dillon Danis,Logan Paul,330,-455
+2023-10-14 20:00:00,LowVig.ag,Dillon Danis,Logan Paul,360,-500
+2023-10-14 20:00:00,BetOnline.ag,Dillon Danis,Logan Paul,360,-500
+2023-10-14 20:00:00,Unibet,Dillon Danis,Logan Paul,450,-715
+2023-10-14 20:00:00,Bovada,Dillon Danis,Logan Paul,300,-450
+2023-10-14 20:00:00,MyBookie.ag,Dillon Danis,Logan Paul,290,-476
+2023-10-14 20:00:00,TwinSpires,Dillon Danis,Logan Paul,450,-715
+2023-10-14 21:00:00,BetUS,KSI,Tommy Fury,245,-335
+2023-10-14 21:00:00,LowVig.ag,KSI,Tommy Fury,260,-350
+2023-10-14 21:00:00,BetOnline.ag,KSI,Tommy Fury,260,-345
+2023-10-14 21:00:00,Bovada,KSI,Tommy Fury,270,-375
+2023-10-14 21:00:00,Unibet,KSI,Tommy Fury,245,-345
+2023-10-14 21:00:00,TwinSpires,KSI,Tommy Fury,245,-345
+2023-10-15 00:00:00,FanDuel,Jackson Jon England,Nathaniel May,-190,148
+2023-10-15 00:00:00,DraftKings,Jackson Jon England,Nathaniel May,-225,175
+2023-10-15 00:00:00,Bovada,Jackson Jon England,Nathaniel May,-230,175
+2023-10-15 00:00:00,FanDuel,Sergei Vorobev,Wade Ryan,-480,330
+2023-10-15 00:00:00,BetOnline.ag,Sergei Vorobev,Wade Ryan,-556,375
+2023-10-15 00:00:00,LowVig.ag,Sergei Vorobev,Wade Ryan,-549,375
+2023-10-15 00:00:00,DraftKings,Sergei Vorobev,Wade Ryan,-500,350
+2023-10-15 01:00:00,LowVig.ag,Miguel Flores,Sam Goodman,700,-1250
+2023-10-15 01:00:00,BetOnline.ag,Miguel Flores,Sam Goodman,700,-1250
+2023-10-15 01:00:00,Bovada,Miguel Flores,Sam Goodman,700,-1400
+2023-10-15 02:00:00,FanDuel,Keyshawn Davis,Nahir Albright,-2000,980
+2023-10-15 02:00:00,DraftKings,Keyshawn Davis,Nahir Albright,-2000,850
+2023-10-15 02:00:00,MyBookie.ag,Keyshawn Davis,Nahir Albright,-2500,717
+2023-10-15 02:00:00,Bovada,Keyshawn Davis,Nahir Albright,-1800,1000
+2023-10-15 02:00:00,LowVig.ag,Keyshawn Davis,Nahir Albright,-2000,1000
+2023-10-15 02:00:00,BetOnline.ag,Keyshawn Davis,Nahir Albright,-2000,1000
+2023-10-15 02:00:00,Barstool Sportsbook,Keyshawn Davis,Nahir Albright,-1600,800
+2023-10-15 03:00:00,BetOnline.ag,Diego Alberto Ruiz,Miguel Berchelt,600,-1000
+2023-10-15 03:00:00,LowVig.ag,Diego Alberto Ruiz,Miguel Berchelt,600,-1000
+2023-10-15 03:00:00,Bovada,Diego Alberto Ruiz,Miguel Berchelt,600,-1100
+2023-10-15 03:00:00,FanDuel,Vincenzo Gualtieri,Zhanibek Alimkhanuly,630,-1250
+2023-10-15 03:00:00,MyBookie.ag,Vincenzo Gualtieri,Zhanibek Alimkhanuly,583,-1428
+2023-10-15 03:00:00,Bovada,Vincenzo Gualtieri,Zhanibek Alimkhanuly,700,-1400
+2023-10-15 03:00:00,LowVig.ag,Vincenzo Gualtieri,Zhanibek Alimkhanuly,1000,-2000
+2023-10-15 03:00:00,BetOnline.ag,Vincenzo Gualtieri,Zhanibek Alimkhanuly,1000,-2000
+2023-10-15 03:00:00,BetMGM,Vincenzo Gualtieri,Zhanibek Alimkhanuly,550,-900
+2023-10-15 03:00:00,Barstool Sportsbook,Vincenzo Gualtieri,Zhanibek Alimkhanuly,600,-1100
+2023-10-15 03:30:28,BetRivers,Brian Mendoza,Tim Tszyu,430,-670
+2023-10-15 03:30:28,Unibet,Brian Mendoza,Tim Tszyu,430,-670
+2023-10-15 03:30:28,MyBookie.ag,Brian Mendoza,Tim Tszyu,393,-714
+2023-10-15 03:30:28,DraftKings,Brian Mendoza,Tim Tszyu,450,-650
+2023-10-15 03:30:28,Bovada,Brian Mendoza,Tim Tszyu,450,-750
+2023-10-15 03:30:28,FanDuel,Brian Mendoza,Tim Tszyu,450,-750
+2023-10-15 03:30:28,TwinSpires,Brian Mendoza,Tim Tszyu,430,-670
+2023-10-15 03:30:28,BetMGM,Brian Mendoza,Tim Tszyu,400,-600
+2023-10-15 03:30:28,BetOnline.ag,Brian Mendoza,Tim Tszyu,500,-833
+2023-10-15 03:30:28,LowVig.ag,Brian Mendoza,Tim Tszyu,500,-800
+2023-10-15 03:30:28,Barstool Sportsbook,Brian Mendoza,Tim Tszyu,500,-800
+2023-10-21 18:00:00,BetUS,Fran Mendoza,Peter Mcgrail,559,-909
+2023-10-21 18:00:00,FanDuel,Fran Mendoza,Peter Mcgrail,600,-1100
+2023-10-21 18:00:00,Bovada,Fran Mendoza,Peter Mcgrail,500,-900
+2023-10-21 18:00:00,BetUS,Jose Sanmartin,Shabaz Masoud,729,-1429
+2023-10-21 18:00:00,FanDuel,Jose Sanmartin,Shabaz Masoud,710,-1300
+2023-10-21 18:00:00,Bovada,Jose Sanmartin,Shabaz Masoud,700,-1400
+2023-10-21 19:00:33,FanDuel,Jack Catterall,Jorge Linares,-850,520
+2023-10-21 19:00:33,DraftKings,Jack Catterall,Jorge Linares,-900,550
+2023-10-21 19:00:33,BetUS,Jack Catterall,Jorge Linares,-1000,600
+2023-10-21 19:00:33,LowVig.ag,Jack Catterall,Jorge Linares,-800,500
+2023-10-21 19:00:33,BetOnline.ag,Jack Catterall,Jorge Linares,-833,500
+2023-10-21 19:00:33,Unibet,Jack Catterall,Jorge Linares,-910,550
+2023-10-21 19:00:33,BetRivers,Jack Catterall,Jorge Linares,-910,550
+2023-10-21 19:00:33,TwinSpires,Jack Catterall,Jorge Linares,-910,550
+2023-10-21 19:00:33,Bovada,Jack Catterall,Jorge Linares,-900,500
+2023-10-21 19:00:33,BetMGM,Jack Catterall,Jorge Linares,-700,500
+2023-10-21 20:00:00,Bovada,Aqib Fiaz,Reece Bellotti,110,-145
+2023-10-21 20:00:00,BetUS,Aqib Fiaz,Reece Bellotti,110,-140
+2023-10-21 20:00:00,DraftKings,Isaac Chamberlain,Mikael Lawal,-185,145
+2023-10-21 20:00:00,BetUS,Isaac Chamberlain,Mikael Lawal,-200,165
+2023-10-21 20:00:00,FanDuel,Isaac Chamberlain,Mikael Lawal,-220,170
+2023-10-21 20:00:00,LowVig.ag,Isaac Chamberlain,Mikael Lawal,-200,160
+2023-10-21 20:00:00,BetOnline.ag,Isaac Chamberlain,Mikael Lawal,-200,160
+2023-10-21 20:00:00,Bovada,Isaac Chamberlain,Mikael Lawal,-200,150
+2023-10-21 21:15:00,BetUS,Dan Azeez,Joshua Buatsi,245,-335
+2023-10-21 21:15:00,DraftKings,Dan Azeez,Joshua Buatsi,240,-330
+2023-10-21 21:15:00,Bovada,Dan Azeez,Joshua Buatsi,270,-375
+2023-10-21 21:15:00,BetMGM,Dan Azeez,Joshua Buatsi,300,-400
+2023-10-22 03:00:00,FanDuel,Alexis Rocha,Giovani Santillan,-750,460
+2023-10-22 03:00:00,BetUS,Alexis Rocha,Giovani Santillan,-625,425
+2023-10-22 03:00:00,Bovada,Alexis Rocha,Giovani Santillan,-650,400
+2023-10-22 03:00:00,DraftKings,Alexis Rocha,Giovani Santillan,-575,390
+2023-10-28 02:00:00,FanDuel,Amanda Serrano,Danila Ramos,-1450,790
+2023-10-28 02:00:00,DraftKings,Amanda Serrano,Danila Ramos,-1400,750
+2023-10-28 18:00:00,BetUS,Carlos Takam,Martin Bakole,464,-714
+2023-10-28 18:00:00,Bovada,Carlos Takam,Martin Bakole,425,-700
+2023-10-28 18:00:00,BetUS,Joseph Parker,Simon Kean,-833,533
+2023-10-28 18:00:00,Bovada,Joseph Parker,Simon Kean,-800,475
+2023-10-28 18:00:00,MyBookie.ag,Joseph Parker,Simon Kean,-666,378
+2023-10-28 18:00:19,MyBookie.ag,Francis Ngannou,Tyson Fury,510,-1111
+2023-10-28 18:00:19,BetUS,Francis Ngannou,Tyson Fury,600,-1000
+2023-10-28 18:00:19,LowVig.ag,Francis Ngannou,Tyson Fury,600,-1000
+2023-10-28 18:00:19,BetOnline.ag,Francis Ngannou,Tyson Fury,600,-1000
+2023-10-28 18:00:19,Bovada,Francis Ngannou,Tyson Fury,700,-1200
+2023-10-28 18:00:19,Unibet,Francis Ngannou,Tyson Fury,700,-1250
+2023-10-28 18:00:19,TwinSpires,Francis Ngannou,Tyson Fury,700,-1250
+2023-10-28 18:00:19,Barstool Sportsbook,Francis Ngannou,Tyson Fury,550,-1000
+2023-10-28 20:00:00,BetUS,David Adeleye,Fabio Wardley,257,-357
+2023-10-28 20:00:00,Bovada,David Adeleye,Fabio Wardley,250,-350
+2023-10-29 04:00:00,BetUS,Eduardo Hernandez,O'Shaquie Foster,165,-200
+2023-10-29 04:00:00,DraftKings,Eduardo Hernandez,O'Shaquie Foster,170,-225
+2023-10-29 04:00:00,MyBookie.ag,Eduardo Hernandez,O'Shaquie Foster,160,-227
+2023-10-29 04:00:00,FanDuel,Eduardo Hernandez,O'Shaquie Foster,182,-240
+2023-10-29 04:00:00,Bovada,Eduardo Hernandez,O'Shaquie Foster,150,-200
+2023-10-29 04:00:00,LowVig.ag,Eduardo Hernandez,O'Shaquie Foster,160,-200
+2023-10-29 04:00:00,BetOnline.ag,Eduardo Hernandez,O'Shaquie Foster,160,-200
+2023-10-29 04:00:00,Barstool Sportsbook,Eduardo Hernandez,O'Shaquie Foster,170,-220
+2023-11-04 17:00:00,DraftKings,Isaias Lucero,Souleymane Cissokho,550,-1000
+2023-11-04 17:00:00,BetUS,Isaias Lucero,Souleymane Cissokho,559,-909
+2023-11-04 17:00:00,MyBookie.ag,Isaias Lucero,Souleymane Cissokho,476,-1000
+2023-11-04 21:00:00,FanDuel,Adrian Curiel Dominguez,Sivenathi Nontshinga,480,-800
+2023-11-04 21:00:00,BetUS,Adrian Curiel Dominguez,Sivenathi Nontshinga,533,-833
+2023-11-04 21:00:00,DraftKings,Adrian Curiel Dominguez,Sivenathi Nontshinga,500,-800
+2023-11-04 21:00:00,MyBookie.ag,Adrian Curiel Dominguez,Sivenathi Nontshinga,450,-909
+2023-11-04 22:00:00,FanDuel,Edward Vazquez,Joe Cordina,690,-1300
+2023-11-04 22:00:00,BetUS,Edward Vazquez,Joe Cordina,700,-1250
+2023-11-04 22:00:00,DraftKings,Edward Vazquez,Joe Cordina,700,-1400
+2023-11-04 22:00:00,MyBookie.ag,Edward Vazquez,Joe Cordina,617,-1666
+2023-11-05 04:00:00,BetUS,Shohjahon Ergashev,Subriel Matias,335,-435
+2023-11-05 04:00:00,MyBookie.ag,Shohjahon Ergashev,Subriel Matias,215,-322
+2023-11-17 03:00:00,FanDuel,Emanuel Navarrete,Robson Conceicao,-1300,700
+2023-11-17 03:00:00,BetUS,Emanuel Navarrete,Robson Conceicao,-1110,710
+2023-11-17 03:00:00,DraftKings,Emanuel Navarrete,Robson Conceicao,-1100,600
+2023-11-17 03:00:00,MyBookie.ag,Emanuel Navarrete,Robson Conceicao,-1250,551
+2023-11-17 04:00:00,BetUS,Edwin De Los Santos,Shakur Stevenson,500,-800
+2023-11-17 04:00:00,DraftKings,Edwin De Los Santos,Shakur Stevenson,600,-1100
+2023-11-17 04:00:00,FanDuel,Edwin De Los Santos,Shakur Stevenson,540,-950
+2023-11-17 04:00:00,MyBookie.ag,Edwin De Los Santos,Shakur Stevenson,554,-1250
+2023-11-17 04:00:00,BetMGM,Edwin De Los Santos,Shakur Stevenson,700,-1400
+2023-11-17 04:00:00,LowVig.ag,Edwin De Los Santos,Shakur Stevenson,500,-800
+2023-11-17 04:00:00,BetOnline.ag,Edwin De Los Santos,Shakur Stevenson,500,-833
+2023-11-17 04:00:00,Barstool Sportsbook,Edwin De Los Santos,Shakur Stevenson,550,-1000
+2023-11-18 19:00:00,BetUS,Anthony Cacace,Ryan Garner,-200,165
+2023-11-18 19:00:00,BetUS,Ekow Essuman,Harry Scarff,-303,228
+2023-11-18 19:00:00,BetUS,Liam Davies,Vincenzo La Femina,-1250,700
+2023-11-18 19:00:00,BetUS,Nathaniel Collins,Zak Miller,-1250,700
+2023-11-18 21:00:00,BetUS,Denzel Bentley,Nathan Heaney,-833,533
+2023-11-18 21:00:00,BetUS,Matteo Signani,Tyler Denny,300,-400
+2023-11-18 21:00:00,DraftKings,Matteo Signani,Tyler Denny,200,-260
+2023-11-18 21:00:00,MyBookie.ag,Matteo Signani,Tyler Denny,198,-294
+2023-11-18 22:00:00,BetUS,Adam Azim,Franck Petitjean,-1665,815
+2023-11-18 22:00:00,DraftKings,Adam Azim,Franck Petitjean,-1600,750
+2023-11-18 22:00:00,MyBookie.ag,Adam Azim,Franck Petitjean,-1666,651
+2023-11-18 22:00:00,BetUS,Isaac Dogboe,Nick Ball,215,-270
+2023-11-19 03:00:00,BetUS,Erika Cruz Hernandez,Mayerlin Rivas,-323,248
+2023-11-19 05:00:00,FanDuel,Diego Pacheco,Marcelo Esteban Coceres,-1800,940
+2023-11-19 05:00:00,BetUS,Diego Pacheco,Marcelo Esteban Coceres,-1667,817
+2023-11-19 05:00:00,DraftKings,Diego Pacheco,Marcelo Esteban Coceres,-1800,800
+2023-11-25 19:00:28,FanDuel,Chantelle Cameron,Katie Taylor,-182,142
+2023-11-25 19:00:28,BetUS,Chantelle Cameron,Katie Taylor,-180,150
+2023-11-25 19:00:28,DraftKings,Chantelle Cameron,Katie Taylor,-185,145
+2023-11-25 19:00:28,BetRivers,Chantelle Cameron,Katie Taylor,-186,140
+2023-11-25 19:00:28,Unibet,Chantelle Cameron,Katie Taylor,-186,140
+2023-11-25 19:00:28,BetMGM,Chantelle Cameron,Katie Taylor,-190,160
+2023-11-25 19:00:28,BetOnline.ag,Chantelle Cameron,Katie Taylor,-175,145
+2023-11-25 19:00:28,LowVig.ag,Chantelle Cameron,Katie Taylor,-175,145
+2023-12-03 04:00:00,LowVig.ag,Oscar Duarte Jurado,Ryan Garcia,260,-350
+2023-12-03 04:00:00,BetOnline.ag,Oscar Duarte Jurado,Ryan Garcia,260,-345
+2023-12-03 04:00:00,BetUS,Oscar Duarte Jurado,Ryan Garcia,257,-357
+2023-12-10 04:00:00,FanDuel,Rafael Espinoza,Robeisy Ramirez,710,-1300
+2023-12-10 05:00:00,BetUS,Devin Haney,Regis Prograis,-325,235
+2023-12-10 05:00:00,DraftKings,Devin Haney,Regis Prograis,-320,240
+2023-12-10 05:00:00,BetMGM,Devin Haney,Regis Prograis,-350,275
+2023-12-10 05:00:00,BetOnline.ag,Devin Haney,Regis Prograis,-370,275
+2023-12-10 05:00:00,LowVig.ag,Devin Haney,Regis Prograis,-375,275
+2023-12-17 04:00:00,BetUS,Jesse Rodriguez,Sunny Edwards,-215,175
+2023-12-17 04:00:00,DraftKings,Jesse Rodriguez,Sunny Edwards,-215,165
+2023-12-17 04:00:00,BetOnline.ag,Jesse Rodriguez,Sunny Edwards,-200,160
+2023-12-17 04:00:00,LowVig.ag,Jesse Rodriguez,Sunny Edwards,-200,160
+2023-12-17 04:00:00,FanDuel,Jesse Rodriguez,Sunny Edwards,-176,138
+2023-12-17 04:00:00,BetMGM,Jesse Rodriguez,Sunny Edwards,-190,160
+2023-12-23 22:00:00,DraftKings,Oleksandr Usyk,Tyson Fury,185,-245
+2023-12-23 22:00:00,BetOnline.ag,Oleksandr Usyk,Tyson Fury,190,-238
+2023-12-23 22:00:00,LowVig.ag,Oleksandr Usyk,Tyson Fury,190,-240
+2023-12-31 00:00:00,Bovada,Errol Spence Jr,Terence Crawford,325,-500
+2024-01-14 04:00:00,DraftKings,Artur Beterbiev,Callum Smith,-350,255
+2024-01-14 04:00:00,MyBookie.ag,Artur Beterbiev,Callum Smith,-370,241
+2024-01-14 04:00:00,Barstool Sportsbook,Artur Beterbiev,Callum Smith,-350,250
+2024-12-31 00:00:00,FanDuel,Oleksandr Usyk,Tyson Fury,180,-235
+2023-10-13 00:16:00,FanDuel,Denver Broncos,Kansas City Chiefs,450,-600
+2023-10-13 00:16:00,BetUS,Denver Broncos,Kansas City Chiefs,480,-650
+2023-10-13 00:16:00,DraftKings,Denver Broncos,Kansas City Chiefs,400,-535
+2023-10-13 00:16:00,MyBookie.ag,Denver Broncos,Kansas City Chiefs,420,-598
+2023-10-13 00:16:00,SuperBook,Denver Broncos,Kansas City Chiefs,425,-600
+2023-10-13 00:16:00,BetOnline.ag,Denver Broncos,Kansas City Chiefs,460,-588
+2023-10-13 00:16:00,LowVig.ag,Denver Broncos,Kansas City Chiefs,460,-599
+2023-10-13 00:16:00,Caesars,Denver Broncos,Kansas City Chiefs,430,-600
+2023-10-13 00:16:00,Bovada,Denver Broncos,Kansas City Chiefs,425,-600
+2023-10-13 00:16:00,BetRivers,Denver Broncos,Kansas City Chiefs,410,-590
+2023-10-13 00:16:00,Unibet,Denver Broncos,Kansas City Chiefs,410,-590
+2023-10-13 00:16:00,TwinSpires,Denver Broncos,Kansas City Chiefs,410,-590
+2023-10-13 00:16:00,PointsBet (US),Denver Broncos,Kansas City Chiefs,450,-625
+2023-10-13 00:16:00,WynnBET,Denver Broncos,Kansas City Chiefs,440,-588
+2023-10-13 00:16:00,BetMGM,Denver Broncos,Kansas City Chiefs,425,-600
+2023-10-13 00:16:00,Barstool Sportsbook,Denver Broncos,Kansas City Chiefs,450,-600
+2023-10-15 13:31:00,FanDuel,Baltimore Ravens,Tennessee Titans,-198,166
+2023-10-15 13:31:00,BetUS,Baltimore Ravens,Tennessee Titans,-200,170
+2023-10-15 13:31:00,DraftKings,Baltimore Ravens,Tennessee Titans,-205,170
+2023-10-15 13:31:00,Caesars,Baltimore Ravens,Tennessee Titans,-205,170
+2023-10-15 13:31:00,LowVig.ag,Baltimore Ravens,Tennessee Titans,-210,180
+2023-10-15 13:31:00,BetOnline.ag,Baltimore Ravens,Tennessee Titans,-208,180
+2023-10-15 13:31:00,WynnBET,Baltimore Ravens,Tennessee Titans,-189,163
+2023-10-15 13:31:00,Bovada,Baltimore Ravens,Tennessee Titans,-200,170
+2023-10-15 13:31:00,MyBookie.ag,Baltimore Ravens,Tennessee Titans,-222,178
+2023-10-15 13:31:00,SuperBook,Baltimore Ravens,Tennessee Titans,-210,175
+2023-10-15 13:31:00,BetRivers,Baltimore Ravens,Tennessee Titans,-195,155
+2023-10-15 13:31:00,Unibet,Baltimore Ravens,Tennessee Titans,-195,155
+2023-10-15 13:31:00,TwinSpires,Baltimore Ravens,Tennessee Titans,-195,155
+2023-10-15 13:31:00,PointsBet (US),Baltimore Ravens,Tennessee Titans,-200,165
+2023-10-15 13:31:00,BetMGM,Baltimore Ravens,Tennessee Titans,-210,170
+2023-10-15 13:31:00,Barstool Sportsbook,Baltimore Ravens,Tennessee Titans,-200,170
+2023-10-15 17:01:00,FanDuel,Atlanta Falcons,Washington Commanders,-138,118
+2023-10-15 17:01:00,BetUS,Atlanta Falcons,Washington Commanders,-140,120
+2023-10-15 17:01:00,DraftKings,Atlanta Falcons,Washington Commanders,-148,124
+2023-10-15 17:01:00,SuperBook,Atlanta Falcons,Washington Commanders,-140,120
+2023-10-15 17:01:00,Caesars,Atlanta Falcons,Washington Commanders,-140,118
+2023-10-15 17:01:00,LowVig.ag,Atlanta Falcons,Washington Commanders,-140,120
+2023-10-15 17:01:00,BetOnline.ag,Atlanta Falcons,Washington Commanders,-141,120
+2023-10-15 17:01:00,Bovada,Atlanta Falcons,Washington Commanders,-145,125
+2023-10-15 17:01:00,MyBookie.ag,Atlanta Falcons,Washington Commanders,-144,118
+2023-10-15 17:01:00,Unibet,Atlanta Falcons,Washington Commanders,-143,118
+2023-10-15 17:01:00,TwinSpires,Atlanta Falcons,Washington Commanders,-143,118
+2023-10-15 17:01:00,BetRivers,Atlanta Falcons,Washington Commanders,-143,118
+2023-10-15 17:01:00,PointsBet (US),Atlanta Falcons,Washington Commanders,-145,120
+2023-10-15 17:01:00,WynnBET,Atlanta Falcons,Washington Commanders,-130,112
+2023-10-15 17:01:00,BetMGM,Atlanta Falcons,Washington Commanders,-145,120
+2023-10-15 17:01:00,Barstool Sportsbook,Atlanta Falcons,Washington Commanders,-140,120
+2023-10-15 17:01:00,FanDuel,Carolina Panthers,Miami Dolphins,610,-900
+2023-10-15 17:01:00,BetUS,Carolina Panthers,Miami Dolphins,570,-850
+2023-10-15 17:01:00,DraftKings,Carolina Panthers,Miami Dolphins,550,-800
+2023-10-15 17:01:00,SuperBook,Carolina Panthers,Miami Dolphins,650,-1100
+2023-10-15 17:01:00,Caesars,Carolina Panthers,Miami Dolphins,600,-900
+2023-10-15 17:01:00,LowVig.ag,Carolina Panthers,Miami Dolphins,615,-847
+2023-10-15 17:01:00,BetOnline.ag,Carolina Panthers,Miami Dolphins,615,-833
+2023-10-15 17:01:00,Bovada,Carolina Panthers,Miami Dolphins,575,-900
+2023-10-15 17:01:00,Unibet,Carolina Panthers,Miami Dolphins,575,-910
+2023-10-15 17:01:00,TwinSpires,Carolina Panthers,Miami Dolphins,575,-910
+2023-10-15 17:01:00,BetRivers,Carolina Panthers,Miami Dolphins,575,-910
+2023-10-15 17:01:00,MyBookie.ag,Carolina Panthers,Miami Dolphins,570,-900
+2023-10-15 17:01:00,PointsBet (US),Carolina Panthers,Miami Dolphins,600,-900
+2023-10-15 17:01:00,WynnBET,Carolina Panthers,Miami Dolphins,625,-909
+2023-10-15 17:01:00,BetMGM,Carolina Panthers,Miami Dolphins,575,-900
+2023-10-15 17:01:00,Barstool Sportsbook,Carolina Panthers,Miami Dolphins,600,-900
+2023-10-15 17:01:00,FanDuel,Chicago Bears,Minnesota Vikings,124,-146
+2023-10-15 17:01:00,DraftKings,Chicago Bears,Minnesota Vikings,114,-135
+2023-10-15 17:01:00,BetUS,Chicago Bears,Minnesota Vikings,120,-140
+2023-10-15 17:01:00,SuperBook,Chicago Bears,Minnesota Vikings,120,-140
+2023-10-15 17:01:00,Caesars,Chicago Bears,Minnesota Vikings,122,-145
+2023-10-15 17:01:00,LowVig.ag,Chicago Bears,Minnesota Vikings,120,-140
+2023-10-15 17:01:00,BetOnline.ag,Chicago Bears,Minnesota Vikings,120,-141
+2023-10-15 17:01:00,Bovada,Chicago Bears,Minnesota Vikings,120,-140
+2023-10-15 17:01:00,MyBookie.ag,Chicago Bears,Minnesota Vikings,116,-142
+2023-10-15 17:01:00,Unibet,Chicago Bears,Minnesota Vikings,116,-139
+2023-10-15 17:01:00,TwinSpires,Chicago Bears,Minnesota Vikings,116,-139
+2023-10-15 17:01:00,BetRivers,Chicago Bears,Minnesota Vikings,116,-139
+2023-10-15 17:01:00,PointsBet (US),Chicago Bears,Minnesota Vikings,120,-145
+2023-10-15 17:01:00,WynnBET,Chicago Bears,Minnesota Vikings,125,-145
+2023-10-15 17:01:00,BetMGM,Chicago Bears,Minnesota Vikings,120,-145
+2023-10-15 17:01:00,Barstool Sportsbook,Chicago Bears,Minnesota Vikings,125,-145
+2023-10-15 17:01:00,FanDuel,Cincinnati Bengals,Seattle Seahawks,-146,124
+2023-10-15 17:01:00,BetUS,Cincinnati Bengals,Seattle Seahawks,-150,130
+2023-10-15 17:01:00,DraftKings,Cincinnati Bengals,Seattle Seahawks,-162,136
+2023-10-15 17:01:00,SuperBook,Cincinnati Bengals,Seattle Seahawks,-150,130
+2023-10-15 17:01:00,Caesars,Cincinnati Bengals,Seattle Seahawks,-155,130
+2023-10-15 17:01:00,LowVig.ag,Cincinnati Bengals,Seattle Seahawks,-155,135
+2023-10-15 17:01:00,BetOnline.ag,Cincinnati Bengals,Seattle Seahawks,-156,135
+2023-10-15 17:01:00,Bovada,Cincinnati Bengals,Seattle Seahawks,-160,135
+2023-10-15 17:01:00,BetRivers,Cincinnati Bengals,Seattle Seahawks,-152,125
+2023-10-15 17:01:00,Unibet,Cincinnati Bengals,Seattle Seahawks,-152,125
+2023-10-15 17:01:00,TwinSpires,Cincinnati Bengals,Seattle Seahawks,-152,125
+2023-10-15 17:01:00,MyBookie.ag,Cincinnati Bengals,Seattle Seahawks,-158,129
+2023-10-15 17:01:00,PointsBet (US),Cincinnati Bengals,Seattle Seahawks,-150,125
+2023-10-15 17:01:00,WynnBET,Cincinnati Bengals,Seattle Seahawks,-149,128
+2023-10-15 17:01:00,BetMGM,Cincinnati Bengals,Seattle Seahawks,-160,135
+2023-10-15 17:01:00,Barstool Sportsbook,Cincinnati Bengals,Seattle Seahawks,-155,135
+2023-10-15 17:01:00,FanDuel,Cleveland Browns,San Francisco 49ers,194,-235
+2023-10-15 17:01:00,BetUS,Cleveland Browns,San Francisco 49ers,210,-260
+2023-10-15 17:01:00,DraftKings,Cleveland Browns,San Francisco 49ers,185,-225
+2023-10-15 17:01:00,SuperBook,Cleveland Browns,San Francisco 49ers,210,-260
+2023-10-15 17:01:00,Caesars,Cleveland Browns,San Francisco 49ers,205,-250
+2023-10-15 17:01:00,LowVig.ag,Cleveland Browns,San Francisco 49ers,215,-255
+2023-10-15 17:01:00,BetOnline.ag,Cleveland Browns,San Francisco 49ers,215,-256
+2023-10-15 17:01:00,Bovada,Cleveland Browns,San Francisco 49ers,220,-270
+2023-10-15 17:01:00,BetRivers,Cleveland Browns,San Francisco 49ers,200,-250
+2023-10-15 17:01:00,Unibet,Cleveland Browns,San Francisco 49ers,200,-250
+2023-10-15 17:01:00,TwinSpires,Cleveland Browns,San Francisco 49ers,200,-250
+2023-10-15 17:01:00,MyBookie.ag,Cleveland Browns,San Francisco 49ers,199,-250
+2023-10-15 17:01:00,PointsBet (US),Cleveland Browns,San Francisco 49ers,210,-260
+2023-10-15 17:01:00,WynnBET,Cleveland Browns,San Francisco 49ers,205,-244
+2023-10-15 17:01:00,BetMGM,Cleveland Browns,San Francisco 49ers,200,-250
+2023-10-15 17:01:00,Barstool Sportsbook,Cleveland Browns,San Francisco 49ers,210,-250
+2023-10-15 17:01:00,FanDuel,Houston Texans,New Orleans Saints,106,-124
+2023-10-15 17:01:00,BetUS,Houston Texans,New Orleans Saints,-110,-110
+2023-10-15 17:01:00,DraftKings,Houston Texans,New Orleans Saints,105,-125
+2023-10-15 17:01:00,SuperBook,Houston Texans,New Orleans Saints,-105,-115
+2023-10-15 17:01:00,Caesars,Houston Texans,New Orleans Saints,105,-125
+2023-10-15 17:01:00,LowVig.ag,Houston Texans,New Orleans Saints,103,-123
+2023-10-15 17:01:00,BetOnline.ag,Houston Texans,New Orleans Saints,103,-123
+2023-10-15 17:01:00,Bovada,Houston Texans,New Orleans Saints,105,-125
+2023-10-15 17:01:00,BetRivers,Houston Texans,New Orleans Saints,105,-127
+2023-10-15 17:01:00,Unibet,Houston Texans,New Orleans Saints,105,-127
+2023-10-15 17:01:00,TwinSpires,Houston Texans,New Orleans Saints,105,-127
+2023-10-15 17:01:00,MyBookie.ag,Houston Texans,New Orleans Saints,-102,-120
+2023-10-15 17:01:00,WynnBET,Houston Texans,New Orleans Saints,100,-116
+2023-10-15 17:01:00,BetMGM,Houston Texans,New Orleans Saints,105,-125
+2023-10-15 17:01:00,PointsBet (US),Houston Texans,New Orleans Saints,105,-125
+2023-10-15 17:01:00,Barstool Sportsbook,Houston Texans,New Orleans Saints,100,-120
+2023-10-15 17:01:00,FanDuel,Indianapolis Colts,Jacksonville Jaguars,172,-205
+2023-10-15 17:01:00,BetUS,Indianapolis Colts,Jacksonville Jaguars,175,-210
+2023-10-15 17:01:00,DraftKings,Indianapolis Colts,Jacksonville Jaguars,164,-198
+2023-10-15 17:01:00,SuperBook,Indianapolis Colts,Jacksonville Jaguars,180,-220
+2023-10-15 17:01:00,Caesars,Indianapolis Colts,Jacksonville Jaguars,175,-210
+2023-10-15 17:01:00,LowVig.ag,Indianapolis Colts,Jacksonville Jaguars,185,-215
+2023-10-15 17:01:00,BetOnline.ag,Indianapolis Colts,Jacksonville Jaguars,185,-217
+2023-10-15 17:01:00,Bovada,Indianapolis Colts,Jacksonville Jaguars,175,-210
+2023-10-15 17:01:00,BetRivers,Indianapolis Colts,Jacksonville Jaguars,170,-210
+2023-10-15 17:01:00,Unibet,Indianapolis Colts,Jacksonville Jaguars,170,-210
+2023-10-15 17:01:00,TwinSpires,Indianapolis Colts,Jacksonville Jaguars,170,-210
+2023-10-15 17:01:00,MyBookie.ag,Indianapolis Colts,Jacksonville Jaguars,167,-207
+2023-10-15 17:01:00,PointsBet (US),Indianapolis Colts,Jacksonville Jaguars,175,-210
+2023-10-15 17:01:00,BetMGM,Indianapolis Colts,Jacksonville Jaguars,170,-210
+2023-10-15 17:01:00,Barstool Sportsbook,Indianapolis Colts,Jacksonville Jaguars,175,-210
+2023-10-15 17:01:00,WynnBET,Indianapolis Colts,Jacksonville Jaguars,170,-200
+2023-10-15 20:05:00,FanDuel,Las Vegas Raiders,New England Patriots,-168,142
+2023-10-15 20:05:00,BetUS,Las Vegas Raiders,New England Patriots,-175,150
+2023-10-15 20:05:00,DraftKings,Las Vegas Raiders,New England Patriots,-155,130
+2023-10-15 20:05:00,SuperBook,Las Vegas Raiders,New England Patriots,-180,150
+2023-10-15 20:05:00,Caesars,Las Vegas Raiders,New England Patriots,-170,143
+2023-10-15 20:05:00,LowVig.ag,Las Vegas Raiders,New England Patriots,-170,150
+2023-10-15 20:05:00,BetOnline.ag,Las Vegas Raiders,New England Patriots,-169,150
+2023-10-15 20:05:00,Bovada,Las Vegas Raiders,New England Patriots,-165,140
+2023-10-15 20:05:00,Unibet,Las Vegas Raiders,New England Patriots,-175,140
+2023-10-15 20:05:00,TwinSpires,Las Vegas Raiders,New England Patriots,-175,140
+2023-10-15 20:05:00,BetRivers,Las Vegas Raiders,New England Patriots,-175,140
+2023-10-15 20:05:00,MyBookie.ag,Las Vegas Raiders,New England Patriots,-166,136
+2023-10-15 20:05:00,WynnBET,Las Vegas Raiders,New England Patriots,-154,133
+2023-10-15 20:05:00,BetMGM,Las Vegas Raiders,New England Patriots,-175,145
+2023-10-15 20:05:00,Barstool Sportsbook,Las Vegas Raiders,New England Patriots,-165,140
+2023-10-15 20:05:00,PointsBet (US),Las Vegas Raiders,New England Patriots,-175,145
+2023-10-15 20:26:00,FanDuel,Arizona Cardinals,Los Angeles Rams,240,-295
+2023-10-15 20:26:00,BetUS,Arizona Cardinals,Los Angeles Rams,220,-270
+2023-10-15 20:26:00,DraftKings,Arizona Cardinals,Los Angeles Rams,230,-285
+2023-10-15 20:26:00,SuperBook,Arizona Cardinals,Los Angeles Rams,240,-300
+2023-10-15 20:26:00,Caesars,Arizona Cardinals,Los Angeles Rams,235,-292
+2023-10-15 20:26:00,LowVig.ag,Arizona Cardinals,Los Angeles Rams,235,-280
+2023-10-15 20:26:00,BetOnline.ag,Arizona Cardinals,Los Angeles Rams,235,-278
+2023-10-15 20:26:00,Bovada,Arizona Cardinals,Los Angeles Rams,230,-280
+2023-10-15 20:26:00,TwinSpires,Arizona Cardinals,Los Angeles Rams,225,-286
+2023-10-15 20:26:00,BetRivers,Arizona Cardinals,Los Angeles Rams,225,-286
+2023-10-15 20:26:00,Unibet,Arizona Cardinals,Los Angeles Rams,225,-286
+2023-10-15 20:26:00,MyBookie.ag,Arizona Cardinals,Los Angeles Rams,222,-284
+2023-10-15 20:26:00,PointsBet (US),Arizona Cardinals,Los Angeles Rams,230,-290
+2023-10-15 20:26:00,WynnBET,Arizona Cardinals,Los Angeles Rams,238,-278
+2023-10-15 20:26:00,BetMGM,Arizona Cardinals,Los Angeles Rams,225,-275
+2023-10-15 20:26:00,Barstool Sportsbook,Arizona Cardinals,Los Angeles Rams,230,-280
+2023-10-15 20:26:00,FanDuel,Detroit Lions,Tampa Bay Buccaneers,-166,140
+2023-10-15 20:26:00,DraftKings,Detroit Lions,Tampa Bay Buccaneers,-162,136
+2023-10-15 20:26:00,BetUS,Detroit Lions,Tampa Bay Buccaneers,-170,148
+2023-10-15 20:26:00,SuperBook,Detroit Lions,Tampa Bay Buccaneers,-180,150
+2023-10-15 20:26:00,Caesars,Detroit Lions,Tampa Bay Buccaneers,-170,143
+2023-10-15 20:26:00,LowVig.ag,Detroit Lions,Tampa Bay Buccaneers,-170,150
+2023-10-15 20:26:00,BetOnline.ag,Detroit Lions,Tampa Bay Buccaneers,-169,150
+2023-10-15 20:26:00,Bovada,Detroit Lions,Tampa Bay Buccaneers,-165,140
+2023-10-15 20:26:00,BetRivers,Detroit Lions,Tampa Bay Buccaneers,-167,135
+2023-10-15 20:26:00,Unibet,Detroit Lions,Tampa Bay Buccaneers,-167,135
+2023-10-15 20:26:00,TwinSpires,Detroit Lions,Tampa Bay Buccaneers,-167,135
+2023-10-15 20:26:00,MyBookie.ag,Detroit Lions,Tampa Bay Buccaneers,-168,137
+2023-10-15 20:26:00,PointsBet (US),Detroit Lions,Tampa Bay Buccaneers,-160,130
+2023-10-15 20:26:00,WynnBET,Detroit Lions,Tampa Bay Buccaneers,-169,145
+2023-10-15 20:26:00,BetMGM,Detroit Lions,Tampa Bay Buccaneers,-165,135
+2023-10-15 20:26:00,Barstool Sportsbook,Detroit Lions,Tampa Bay Buccaneers,-175,150
+2023-10-15 20:26:00,FanDuel,New York Jets,Philadelphia Eagles,265,-330
+2023-10-15 20:26:00,DraftKings,New York Jets,Philadelphia Eagles,230,-285
+2023-10-15 20:26:00,BetUS,New York Jets,Philadelphia Eagles,265,-325
+2023-10-15 20:26:00,SuperBook,New York Jets,Philadelphia Eagles,250,-310
+2023-10-15 20:26:00,Caesars,New York Jets,Philadelphia Eagles,240,-305
+2023-10-15 20:26:00,LowVig.ag,New York Jets,Philadelphia Eagles,250,-300
+2023-10-15 20:26:00,BetOnline.ag,New York Jets,Philadelphia Eagles,250,-303
+2023-10-15 20:26:00,Bovada,New York Jets,Philadelphia Eagles,250,-300
+2023-10-15 20:26:00,BetRivers,New York Jets,Philadelphia Eagles,240,-315
+2023-10-15 20:26:00,Unibet,New York Jets,Philadelphia Eagles,240,-315
+2023-10-15 20:26:00,TwinSpires,New York Jets,Philadelphia Eagles,240,-315
+2023-10-15 20:26:00,MyBookie.ag,New York Jets,Philadelphia Eagles,260,-340
+2023-10-15 20:26:00,PointsBet (US),New York Jets,Philadelphia Eagles,240,-300
+2023-10-15 20:26:00,WynnBET,New York Jets,Philadelphia Eagles,230,-278
+2023-10-15 20:26:00,BetMGM,New York Jets,Philadelphia Eagles,240,-300
+2023-10-15 20:26:00,Barstool Sportsbook,New York Jets,Philadelphia Eagles,250,-300
+2023-10-16 00:21:00,FanDuel,Buffalo Bills,New York Giants,-900,610
+2023-10-16 00:21:00,DraftKings,Buffalo Bills,New York Giants,-850,575
+2023-10-16 00:21:00,BetUS,Buffalo Bills,New York Giants,-900,600
+2023-10-16 00:21:00,SuperBook,Buffalo Bills,New York Giants,-1200,700
+2023-10-16 00:21:00,Caesars,Buffalo Bills,New York Giants,-900,600
+2023-10-16 00:21:00,LowVig.ag,Buffalo Bills,New York Giants,-800,580
+2023-10-16 00:21:00,BetOnline.ag,Buffalo Bills,New York Giants,-833,580
+2023-10-16 00:21:00,Bovada,Buffalo Bills,New York Giants,-900,575
+2023-10-16 00:21:00,BetRivers,Buffalo Bills,New York Giants,-910,575
+2023-10-16 00:21:00,Unibet,Buffalo Bills,New York Giants,-910,575
+2023-10-16 00:21:00,TwinSpires,Buffalo Bills,New York Giants,-910,575
+2023-10-16 00:21:00,MyBookie.ag,Buffalo Bills,New York Giants,-1000,650
+2023-10-16 00:21:00,PointsBet (US),Buffalo Bills,New York Giants,-900,600
+2023-10-16 00:21:00,BetMGM,Buffalo Bills,New York Giants,-900,575
+2023-10-16 00:21:00,Barstool Sportsbook,Buffalo Bills,New York Giants,-1000,700
+2023-10-16 00:21:00,WynnBET,Buffalo Bills,New York Giants,-1000,675
+2023-10-17 00:16:00,FanDuel,Dallas Cowboys,Los Angeles Chargers,-126,108
+2023-10-17 00:16:00,BetUS,Dallas Cowboys,Los Angeles Chargers,-130,110
+2023-10-17 00:16:00,DraftKings,Dallas Cowboys,Los Angeles Chargers,-130,110
+2023-10-17 00:16:00,SuperBook,Dallas Cowboys,Los Angeles Chargers,-130,110
+2023-10-17 00:16:00,Caesars,Dallas Cowboys,Los Angeles Chargers,-130,110
+2023-10-17 00:16:00,LowVig.ag,Dallas Cowboys,Los Angeles Chargers,-130,110
+2023-10-17 00:16:00,BetOnline.ag,Dallas Cowboys,Los Angeles Chargers,-130,110
+2023-10-17 00:16:00,Bovada,Dallas Cowboys,Los Angeles Chargers,-125,105
+2023-10-17 00:16:00,BetRivers,Dallas Cowboys,Los Angeles Chargers,-134,110
+2023-10-17 00:16:00,Unibet,Dallas Cowboys,Los Angeles Chargers,-134,110
+2023-10-17 00:16:00,TwinSpires,Dallas Cowboys,Los Angeles Chargers,-134,110
+2023-10-17 00:16:00,MyBookie.ag,Dallas Cowboys,Los Angeles Chargers,-130,106
+2023-10-17 00:16:00,PointsBet (US),Dallas Cowboys,Los Angeles Chargers,-130,110
+2023-10-17 00:16:00,WynnBET,Dallas Cowboys,Los Angeles Chargers,-125,108
+2023-10-17 00:16:00,BetMGM,Dallas Cowboys,Los Angeles Chargers,-130,110
+2023-10-17 00:16:00,Barstool Sportsbook,Dallas Cowboys,Los Angeles Chargers,-130,110
+2023-10-20 00:16:00,FanDuel,Jacksonville Jaguars,New Orleans Saints,-110,-106
+2023-10-20 00:16:00,DraftKings,Jacksonville Jaguars,New Orleans Saints,-110,-110
+2023-10-20 00:16:00,MyBookie.ag,Jacksonville Jaguars,New Orleans Saints,-111,-109
+2023-10-20 00:16:00,SuperBook,Jacksonville Jaguars,New Orleans Saints,-110,-110
+2023-10-20 00:16:00,BetUS,Jacksonville Jaguars,New Orleans Saints,-110,-110
+2023-10-20 00:16:00,BetOnline.ag,Jacksonville Jaguars,New Orleans Saints,-110,-110
+2023-10-20 00:16:00,LowVig.ag,Jacksonville Jaguars,New Orleans Saints,-105,-105
+2023-10-20 00:16:00,Caesars,Jacksonville Jaguars,New Orleans Saints,-110,-110
+2023-10-22 17:01:00,FanDuel,Atlanta Falcons,Tampa Bay Buccaneers,108,-126
+2023-10-22 17:01:00,DraftKings,Atlanta Falcons,Tampa Bay Buccaneers,114,-135
+2023-10-22 17:01:00,LowVig.ag,Atlanta Falcons,Tampa Bay Buccaneers,100,-110
+2023-10-22 17:01:00,BetOnline.ag,Atlanta Falcons,Tampa Bay Buccaneers,-105,-115
+2023-10-22 17:01:00,SuperBook,Atlanta Falcons,Tampa Bay Buccaneers,-110,-110
+2023-10-22 17:01:00,BetUS,Atlanta Falcons,Tampa Bay Buccaneers,-110,-110
+2023-10-22 17:01:00,Caesars,Atlanta Falcons,Tampa Bay Buccaneers,-110,-110
+2023-10-22 17:01:00,FanDuel,Baltimore Ravens,Detroit Lions,-134,114
+2023-10-22 17:01:00,DraftKings,Baltimore Ravens,Detroit Lions,-142,120
+2023-10-22 17:01:00,BetOnline.ag,Baltimore Ravens,Detroit Lions,-110,-110
+2023-10-22 17:01:00,LowVig.ag,Baltimore Ravens,Detroit Lions,-105,-105
+2023-10-22 17:01:00,SuperBook,Baltimore Ravens,Detroit Lions,-110,-110
+2023-10-22 17:01:00,BetUS,Baltimore Ravens,Detroit Lions,-110,-110
+2023-10-22 17:01:00,Caesars,Baltimore Ravens,Detroit Lions,-110,-110
+2023-10-22 17:01:00,FanDuel,Buffalo Bills,New England Patriots,-360,290
+2023-10-22 17:01:00,DraftKings,Buffalo Bills,New England Patriots,-360,285
+2023-10-22 17:01:00,BetOnline.ag,Buffalo Bills,New England Patriots,100,-120
+2023-10-22 17:01:00,LowVig.ag,Buffalo Bills,New England Patriots,105,-116
+2023-10-22 17:01:00,SuperBook,Buffalo Bills,New England Patriots,-110,-110
+2023-10-22 17:01:00,BetUS,Buffalo Bills,New England Patriots,100,-120
+2023-10-22 17:01:00,Caesars,Buffalo Bills,New England Patriots,100,-120
+2023-10-22 17:01:00,FanDuel,Chicago Bears,Las Vegas Raiders,100,-118
+2023-10-22 17:01:00,DraftKings,Chicago Bears,Las Vegas Raiders,-105,-115
+2023-10-22 17:01:00,SuperBook,Chicago Bears,Las Vegas Raiders,-110,-110
+2023-10-22 17:01:00,BetOnline.ag,Chicago Bears,Las Vegas Raiders,-110,-110
+2023-10-22 17:01:00,LowVig.ag,Chicago Bears,Las Vegas Raiders,-105,-105
+2023-10-22 17:01:00,BetUS,Chicago Bears,Las Vegas Raiders,-110,-110
+2023-10-22 17:01:00,Caesars,Chicago Bears,Las Vegas Raiders,-110,-110
+2023-10-22 17:01:00,FanDuel,Cleveland Browns,Indianapolis Colts,-138,118
+2023-10-22 17:01:00,DraftKings,Cleveland Browns,Indianapolis Colts,-142,120
+2023-10-22 17:01:00,LowVig.ag,Cleveland Browns,Indianapolis Colts,-105,-105
+2023-10-22 17:01:00,BetOnline.ag,Cleveland Browns,Indianapolis Colts,-110,-110
+2023-10-22 17:01:00,SuperBook,Cleveland Browns,Indianapolis Colts,-110,-110
+2023-10-22 17:01:00,BetUS,Cleveland Browns,Indianapolis Colts,-110,-110
+2023-10-22 17:01:00,Caesars,Cleveland Browns,Indianapolis Colts,-110,-110
+2023-10-22 17:01:00,FanDuel,New York Giants,Washington Commanders,-102,-116
+2023-10-22 17:01:00,DraftKings,New York Giants,Washington Commanders,100,-120
+2023-10-22 17:01:00,LowVig.ag,New York Giants,Washington Commanders,-105,-105
+2023-10-22 17:01:00,BetOnline.ag,New York Giants,Washington Commanders,-110,-110
+2023-10-22 17:01:00,SuperBook,New York Giants,Washington Commanders,-110,-110
+2023-10-22 17:01:00,BetUS,New York Giants,Washington Commanders,-110,-110
+2023-10-22 17:01:00,Caesars,New York Giants,Washington Commanders,-110,-110
+2023-10-22 20:06:00,FanDuel,Arizona Cardinals,Seattle Seahawks,265,-330
+2023-10-22 20:06:00,DraftKings,Arizona Cardinals,Seattle Seahawks,275,-345
+2023-10-22 20:06:00,LowVig.ag,Arizona Cardinals,Seattle Seahawks,-102,-108
+2023-10-22 20:06:00,BetOnline.ag,Arizona Cardinals,Seattle Seahawks,-106,-114
+2023-10-22 20:06:00,SuperBook,Arizona Cardinals,Seattle Seahawks,-110,-110
+2023-10-22 20:06:00,BetUS,Arizona Cardinals,Seattle Seahawks,-110,-110
+2023-10-22 20:06:00,Caesars,Arizona Cardinals,Seattle Seahawks,-110,-110
+2023-10-22 20:06:00,FanDuel,Los Angeles Rams,Pittsburgh Steelers,-148,126
+2023-10-22 20:06:00,DraftKings,Los Angeles Rams,Pittsburgh Steelers,-155,130
+2023-10-22 20:06:00,LowVig.ag,Los Angeles Rams,Pittsburgh Steelers,-121,110
+2023-10-22 20:06:00,BetOnline.ag,Los Angeles Rams,Pittsburgh Steelers,-125,105
+2023-10-22 20:06:00,BetUS,Los Angeles Rams,Pittsburgh Steelers,-105,-115
+2023-10-22 20:06:00,SuperBook,Los Angeles Rams,Pittsburgh Steelers,-110,-110
+2023-10-22 20:06:00,Caesars,Los Angeles Rams,Pittsburgh Steelers,-105,-115
+2023-10-22 20:26:00,FanDuel,Denver Broncos,Green Bay Packers,102,-120
+2023-10-22 20:26:00,DraftKings,Denver Broncos,Green Bay Packers,100,-120
+2023-10-22 20:26:00,LowVig.ag,Denver Broncos,Green Bay Packers,-105,-105
+2023-10-22 20:26:00,BetOnline.ag,Denver Broncos,Green Bay Packers,-110,-110
+2023-10-22 20:26:00,SuperBook,Denver Broncos,Green Bay Packers,-110,-110
+2023-10-22 20:26:00,BetUS,Denver Broncos,Green Bay Packers,-110,-110
+2023-10-22 20:26:00,Caesars,Denver Broncos,Green Bay Packers,-110,-110
+2023-10-22 20:26:00,FanDuel,Kansas City Chiefs,Los Angeles Chargers,-270,220
+2023-10-22 20:26:00,DraftKings,Kansas City Chiefs,Los Angeles Chargers,-245,200
+2023-10-22 20:26:00,LowVig.ag,Kansas City Chiefs,Los Angeles Chargers,-105,-105
+2023-10-22 20:26:00,BetOnline.ag,Kansas City Chiefs,Los Angeles Chargers,-110,-110
+2023-10-22 20:26:00,SuperBook,Kansas City Chiefs,Los Angeles Chargers,-110,-110
+2023-10-22 20:26:00,BetUS,Kansas City Chiefs,Los Angeles Chargers,-110,-110
+2023-10-22 20:26:00,Caesars,Kansas City Chiefs,Los Angeles Chargers,-110,-110
+2023-10-23 00:21:00,FanDuel,Miami Dolphins,Philadelphia Eagles,120,-142
+2023-10-23 00:21:00,DraftKings,Miami Dolphins,Philadelphia Eagles,120,-142
+2023-10-23 00:21:00,LowVig.ag,Miami Dolphins,Philadelphia Eagles,110,-121
+2023-10-23 00:21:00,BetOnline.ag,Miami Dolphins,Philadelphia Eagles,105,-125
+2023-10-23 00:21:00,SuperBook,Miami Dolphins,Philadelphia Eagles,-110,-110
+2023-10-23 00:21:00,BetUS,Miami Dolphins,Philadelphia Eagles,-110,-110
+2023-10-23 00:21:00,Caesars,Miami Dolphins,Philadelphia Eagles,-110,-110
+2023-10-24 00:16:00,FanDuel,Minnesota Vikings,San Francisco 49ers,285,-355
+2023-10-24 00:16:00,DraftKings,Minnesota Vikings,San Francisco 49ers,270,-340
+2023-10-24 00:16:00,BetOnline.ag,Minnesota Vikings,San Francisco 49ers,-104,-116
+2023-10-24 00:16:00,LowVig.ag,Minnesota Vikings,San Francisco 49ers,101,-112
+2023-10-24 00:16:00,SuperBook,Minnesota Vikings,San Francisco 49ers,-110,-110
+2023-10-24 00:16:00,BetUS,Minnesota Vikings,San Francisco 49ers,-105,-115
+2023-10-24 00:16:00,Caesars,Minnesota Vikings,San Francisco 49ers,-105,-115
+2023-10-10 23:00:00,DraftKings,Louisiana Tech Bulldogs,Middle Tennessee Blue Raiders,130,-155
+2023-10-10 23:00:00,FanDuel,Louisiana Tech Bulldogs,Middle Tennessee Blue Raiders,134,-162
+2023-10-10 23:00:00,Bovada,Louisiana Tech Bulldogs,Middle Tennessee Blue Raiders,135,-160
+2023-10-10 23:00:00,Unibet,Louisiana Tech Bulldogs,Middle Tennessee Blue Raiders,125,-155
+2023-10-10 23:00:00,TwinSpires,Louisiana Tech Bulldogs,Middle Tennessee Blue Raiders,-112,-109
+2023-10-10 23:00:00,BetRivers,Louisiana Tech Bulldogs,Middle Tennessee Blue Raiders,125,-155
+2023-10-10 23:00:00,Barstool Sportsbook,Louisiana Tech Bulldogs,Middle Tennessee Blue Raiders,125,-145
+2023-10-10 23:00:00,BetMGM,Louisiana Tech Bulldogs,Middle Tennessee Blue Raiders,130,-160
+2023-10-10 23:00:00,PointsBet (US),Louisiana Tech Bulldogs,Middle Tennessee Blue Raiders,130,-155
+2023-10-10 23:00:00,Caesars,Louisiana Tech Bulldogs,Middle Tennessee Blue Raiders,130,-155
+2023-10-10 23:00:00,BetOnline.ag,Louisiana Tech Bulldogs,Middle Tennessee Blue Raiders,126,-147
+2023-10-10 23:00:00,SuperBook,Louisiana Tech Bulldogs,Middle Tennessee Blue Raiders,135,-155
+2023-10-10 23:00:00,BetUS,Louisiana Tech Bulldogs,Middle Tennessee Blue Raiders,125,-145
+2023-10-10 23:00:00,LowVig.ag,Louisiana Tech Bulldogs,Middle Tennessee Blue Raiders,126,-146
+2023-10-10 23:00:00,WynnBET,Louisiana Tech Bulldogs,Middle Tennessee Blue Raiders,133,-154
+2023-10-10 23:00:00,MyBookie.ag,Louisiana Tech Bulldogs,Middle Tennessee Blue Raiders,130,-158
+2023-10-10 23:30:00,DraftKings,Appalachian State Mountaineers,Coastal Carolina Chanticleers,-205,170
+2023-10-10 23:30:00,FanDuel,Appalachian State Mountaineers,Coastal Carolina Chanticleers,-205,168
+2023-10-10 23:30:00,Bovada,Appalachian State Mountaineers,Coastal Carolina Chanticleers,-195,165
+2023-10-10 23:30:00,Unibet,Appalachian State Mountaineers,Coastal Carolina Chanticleers,-215,165
+2023-10-10 23:30:00,TwinSpires,Appalachian State Mountaineers,Coastal Carolina Chanticleers,-112,-109
+2023-10-10 23:30:00,BetRivers,Appalachian State Mountaineers,Coastal Carolina Chanticleers,-215,165
+2023-10-10 23:30:00,Barstool Sportsbook,Appalachian State Mountaineers,Coastal Carolina Chanticleers,-200,170
+2023-10-10 23:30:00,BetMGM,Appalachian State Mountaineers,Coastal Carolina Chanticleers,-210,170
+2023-10-10 23:30:00,PointsBet (US),Appalachian State Mountaineers,Coastal Carolina Chanticleers,-216,175
+2023-10-10 23:30:00,Caesars,Appalachian State Mountaineers,Coastal Carolina Chanticleers,-210,175
+2023-10-10 23:30:00,BetOnline.ag,Appalachian State Mountaineers,Coastal Carolina Chanticleers,-196,170
+2023-10-10 23:30:00,SuperBook,Appalachian State Mountaineers,Coastal Carolina Chanticleers,-220,180
+2023-10-10 23:30:00,BetUS,Appalachian State Mountaineers,Coastal Carolina Chanticleers,-220,180
+2023-10-10 23:30:00,LowVig.ag,Appalachian State Mountaineers,Coastal Carolina Chanticleers,-195,170
+2023-10-10 23:30:00,WynnBET,Appalachian State Mountaineers,Coastal Carolina Chanticleers,-208,178
+2023-10-10 23:30:00,MyBookie.ag,Appalachian State Mountaineers,Coastal Carolina Chanticleers,-207,167
+2023-10-10 23:30:00,DraftKings,Jacksonville State Gamecocks,Liberty Flames,225,-278
+2023-10-10 23:30:00,FanDuel,Jacksonville State Gamecocks,Liberty Flames,220,-280
+2023-10-10 23:30:00,Bovada,Jacksonville State Gamecocks,Liberty Flames,225,-275
+2023-10-10 23:30:00,Unibet,Jacksonville State Gamecocks,Liberty Flames,225,-295
+2023-10-10 23:30:00,TwinSpires,Jacksonville State Gamecocks,Liberty Flames,-122,100
+2023-10-10 23:30:00,BetRivers,Jacksonville State Gamecocks,Liberty Flames,225,-295
+2023-10-10 23:30:00,Barstool Sportsbook,Jacksonville State Gamecocks,Liberty Flames,215,-260
+2023-10-10 23:30:00,BetMGM,Jacksonville State Gamecocks,Liberty Flames,220,-275
+2023-10-10 23:30:00,PointsBet (US),Jacksonville State Gamecocks,Liberty Flames,225,-281
+2023-10-10 23:30:00,Caesars,Jacksonville State Gamecocks,Liberty Flames,222,-278
+2023-10-10 23:30:00,SuperBook,Jacksonville State Gamecocks,Liberty Flames,230,-280
+2023-10-10 23:30:00,BetUS,Jacksonville State Gamecocks,Liberty Flames,215,-265
+2023-10-10 23:30:00,LowVig.ag,Jacksonville State Gamecocks,Liberty Flames,220,-260
+2023-10-10 23:30:00,WynnBET,Jacksonville State Gamecocks,Liberty Flames,238,-278
+2023-10-10 23:30:00,MyBookie.ag,Jacksonville State Gamecocks,Liberty Flames,210,-265
+2023-10-11 23:30:00,DraftKings,Florida International Panthers,UTEP Miners,-125,105
+2023-10-11 23:30:00,FanDuel,Florida International Panthers,UTEP Miners,-128,106
+2023-10-11 23:30:00,Bovada,Florida International Panthers,UTEP Miners,-135,115
+2023-10-11 23:30:00,Unibet,Florida International Panthers,UTEP Miners,-122,102
+2023-10-11 23:30:00,TwinSpires,Florida International Panthers,UTEP Miners,-110,-110
+2023-10-11 23:30:00,BetRivers,Florida International Panthers,UTEP Miners,-122,102
+2023-10-11 23:30:00,Barstool Sportsbook,Florida International Panthers,UTEP Miners,-130,110
+2023-10-11 23:30:00,BetMGM,Florida International Panthers,UTEP Miners,-135,110
+2023-10-11 23:30:00,PointsBet (US),Florida International Panthers,UTEP Miners,-131,110
+2023-10-11 23:30:00,Caesars,Florida International Panthers,UTEP Miners,-135,115
+2023-10-11 23:30:00,BetOnline.ag,Florida International Panthers,UTEP Miners,-130,110
+2023-10-11 23:30:00,SuperBook,Florida International Panthers,UTEP Miners,-130,110
+2023-10-11 23:30:00,BetUS,Florida International Panthers,UTEP Miners,-110,-110
+2023-10-11 23:30:00,LowVig.ag,Florida International Panthers,UTEP Miners,-130,110
+2023-10-11 23:30:00,WynnBET,Florida International Panthers,UTEP Miners,-125,108
+2023-10-11 23:30:00,MyBookie.ag,Florida International Panthers,UTEP Miners,-123,-102
+2023-10-12 01:00:00,DraftKings,New Mexico State Aggies,Sam Houston State Bearkats,-170,142
+2023-10-12 01:00:00,FanDuel,New Mexico State Aggies,Sam Houston State Bearkats,-176,146
+2023-10-12 01:00:00,Bovada,New Mexico State Aggies,Sam Houston State Bearkats,-175,150
+2023-10-12 01:00:00,TwinSpires,New Mexico State Aggies,Sam Houston State Bearkats,-109,-112
+2023-10-12 01:00:00,BetRivers,New Mexico State Aggies,Sam Houston State Bearkats,-175,135
+2023-10-12 01:00:00,Unibet,New Mexico State Aggies,Sam Houston State Bearkats,-175,135
+2023-10-12 01:00:00,Barstool Sportsbook,New Mexico State Aggies,Sam Houston State Bearkats,-165,140
+2023-10-12 01:00:00,BetMGM,New Mexico State Aggies,Sam Houston State Bearkats,-175,145
+2023-10-12 01:00:00,PointsBet (US),New Mexico State Aggies,Sam Houston State Bearkats,-176,145
+2023-10-12 01:00:00,Caesars,New Mexico State Aggies,Sam Houston State Bearkats,-170,143
+2023-10-12 01:00:00,BetOnline.ag,New Mexico State Aggies,Sam Houston State Bearkats,-164,145
+2023-10-12 01:00:00,SuperBook,New Mexico State Aggies,Sam Houston State Bearkats,-170,145
+2023-10-12 01:00:00,BetUS,New Mexico State Aggies,Sam Houston State Bearkats,-170,148
+2023-10-12 01:00:00,LowVig.ag,New Mexico State Aggies,Sam Houston State Bearkats,-165,145
+2023-10-12 01:00:00,WynnBET,New Mexico State Aggies,Sam Houston State Bearkats,-169,145
+2023-10-12 01:00:00,MyBookie.ag,New Mexico State Aggies,Sam Houston State Bearkats,-176,143
+2023-10-12 23:00:00,DraftKings,Houston Cougars,West Virginia Mountaineers,130,-155
+2023-10-12 23:00:00,FanDuel,Houston Cougars,West Virginia Mountaineers,132,-160
+2023-10-12 23:00:00,BetRivers,Houston Cougars,West Virginia Mountaineers,123,-150
+2023-10-12 23:00:00,TwinSpires,Houston Cougars,West Virginia Mountaineers,-106,-115
+2023-10-12 23:00:00,Unibet,Houston Cougars,West Virginia Mountaineers,123,-150
+2023-10-12 23:00:00,Bovada,Houston Cougars,West Virginia Mountaineers,130,-150
+2023-10-12 23:00:00,Barstool Sportsbook,Houston Cougars,West Virginia Mountaineers,130,-150
+2023-10-12 23:00:00,BetMGM,Houston Cougars,West Virginia Mountaineers,125,-150
+2023-10-12 23:00:00,PointsBet (US),Houston Cougars,West Virginia Mountaineers,125,-145
+2023-10-12 23:00:00,Caesars,Houston Cougars,West Virginia Mountaineers,122,-145
+2023-10-12 23:00:00,BetOnline.ag,Houston Cougars,West Virginia Mountaineers,133,-154
+2023-10-12 23:00:00,SuperBook,Houston Cougars,West Virginia Mountaineers,125,-145
+2023-10-12 23:00:00,BetUS,Houston Cougars,West Virginia Mountaineers,133,-153
+2023-10-12 23:00:00,LowVig.ag,Houston Cougars,West Virginia Mountaineers,133,-153
+2023-10-12 23:00:00,WynnBET,Houston Cougars,West Virginia Mountaineers,128,-149
+2023-10-12 23:00:00,MyBookie.ag,Houston Cougars,West Virginia Mountaineers,128,-156
+2023-10-12 23:30:00,DraftKings,East Carolina Pirates,SMU Mustangs,340,-440
+2023-10-12 23:30:00,FanDuel,East Carolina Pirates,SMU Mustangs,360,-480
+2023-10-12 23:30:00,Bovada,East Carolina Pirates,SMU Mustangs,345,-470
+2023-10-12 23:30:00,Unibet,East Carolina Pirates,SMU Mustangs,340,-480
+2023-10-12 23:30:00,TwinSpires,East Carolina Pirates,SMU Mustangs,-109,-112
+2023-10-12 23:30:00,BetRivers,East Carolina Pirates,SMU Mustangs,340,-480
+2023-10-12 23:30:00,Barstool Sportsbook,East Carolina Pirates,SMU Mustangs,340,-425
+2023-10-12 23:30:00,BetMGM,East Carolina Pirates,SMU Mustangs,333,-450
+2023-10-12 23:30:00,PointsBet (US),East Carolina Pirates,SMU Mustangs,335,-446
+2023-10-12 23:30:00,Caesars,East Carolina Pirates,SMU Mustangs,335,-440
+2023-10-12 23:30:00,BetOnline.ag,East Carolina Pirates,SMU Mustangs,340,-417
+2023-10-12 23:30:00,SuperBook,East Carolina Pirates,SMU Mustangs,325,-425
+2023-10-12 23:30:00,BetUS,East Carolina Pirates,SMU Mustangs,330,-420
+2023-10-12 23:30:00,LowVig.ag,East Carolina Pirates,SMU Mustangs,340,-420
+2023-10-12 23:30:00,WynnBET,East Carolina Pirates,SMU Mustangs,360,-455
+2023-10-12 23:30:00,MyBookie.ag,East Carolina Pirates,SMU Mustangs,330,-450
+2023-10-13 23:00:00,DraftKings,Memphis Tigers,Tulane Green Wave,160,-192
+2023-10-13 23:00:00,FanDuel,Memphis Tigers,Tulane Green Wave,160,-194
+2023-10-13 23:00:00,Bovada,Memphis Tigers,Tulane Green Wave,165,-195
+2023-10-13 23:00:00,Unibet,Memphis Tigers,Tulane Green Wave,145,-186
+2023-10-13 23:00:00,TwinSpires,Memphis Tigers,Tulane Green Wave,-112,-109
+2023-10-13 23:00:00,BetRivers,Memphis Tigers,Tulane Green Wave,145,-186
+2023-10-13 23:00:00,Barstool Sportsbook,Memphis Tigers,Tulane Green Wave,170,-200
+2023-10-13 23:00:00,BetMGM,Memphis Tigers,Tulane Green Wave,165,-200
+2023-10-13 23:00:00,PointsBet (US),Memphis Tigers,Tulane Green Wave,165,-200
+2023-10-13 23:00:00,Caesars,Memphis Tigers,Tulane Green Wave,162,-195
+2023-10-13 23:00:00,BetOnline.ag,Memphis Tigers,Tulane Green Wave,172,-196
+2023-10-13 23:00:00,SuperBook,Memphis Tigers,Tulane Green Wave,165,-195
+2023-10-13 23:00:00,BetUS,Memphis Tigers,Tulane Green Wave,167,-197
+2023-10-13 23:00:00,LowVig.ag,Memphis Tigers,Tulane Green Wave,172,-197
+2023-10-13 23:00:00,WynnBET,Memphis Tigers,Tulane Green Wave,163,-189
+2023-10-13 23:00:00,MyBookie.ag,Memphis Tigers,Tulane Green Wave,156,-194
+2023-10-14 00:00:00,DraftKings,Fresno State Bulldogs,Utah State Aggies,-238,195
+2023-10-14 00:00:00,FanDuel,Fresno State Bulldogs,Utah State Aggies,-235,190
+2023-10-14 00:00:00,Unibet,Fresno State Bulldogs,Utah State Aggies,-235,185
+2023-10-14 00:00:00,TwinSpires,Fresno State Bulldogs,Utah State Aggies,-109,-112
+2023-10-14 00:00:00,BetRivers,Fresno State Bulldogs,Utah State Aggies,-235,185
+2023-10-14 00:00:00,Barstool Sportsbook,Fresno State Bulldogs,Utah State Aggies,-225,190
+2023-10-14 00:00:00,BetMGM,Fresno State Bulldogs,Utah State Aggies,-225,185
+2023-10-14 00:00:00,PointsBet (US),Fresno State Bulldogs,Utah State Aggies,-221,180
+2023-10-14 00:00:00,Caesars,Fresno State Bulldogs,Utah State Aggies,-220,180
+2023-10-14 00:00:00,Bovada,Fresno State Bulldogs,Utah State Aggies,-230,190
+2023-10-14 00:00:00,BetOnline.ag,Fresno State Bulldogs,Utah State Aggies,-208,180
+2023-10-14 00:00:00,SuperBook,Fresno State Bulldogs,Utah State Aggies,-220,180
+2023-10-14 00:00:00,BetUS,Fresno State Bulldogs,Utah State Aggies,-210,175
+2023-10-14 00:00:00,LowVig.ag,Fresno State Bulldogs,Utah State Aggies,-210,180
+2023-10-14 00:00:00,WynnBET,Fresno State Bulldogs,Utah State Aggies,-233,195
+2023-10-14 00:00:00,MyBookie.ag,Fresno State Bulldogs,Utah State Aggies,-232,185
+2023-10-14 02:00:00,DraftKings,Colorado Buffaloes,Stanford Cardinal,-410,320
+2023-10-14 02:00:00,FanDuel,Colorado Buffaloes,Stanford Cardinal,-430,330
+2023-10-14 02:00:00,BetRivers,Colorado Buffaloes,Stanford Cardinal,-455,320
+2023-10-14 02:00:00,TwinSpires,Colorado Buffaloes,Stanford Cardinal,-112,-109
+2023-10-14 02:00:00,Unibet,Colorado Buffaloes,Stanford Cardinal,-455,320
+2023-10-14 02:00:00,Bovada,Colorado Buffaloes,Stanford Cardinal,-430,320
+2023-10-14 02:00:00,Barstool Sportsbook,Colorado Buffaloes,Stanford Cardinal,-425,340
+2023-10-14 02:00:00,BetMGM,Colorado Buffaloes,Stanford Cardinal,-450,340
+2023-10-14 02:00:00,PointsBet (US),Colorado Buffaloes,Stanford Cardinal,-440,330
+2023-10-14 02:00:00,Caesars,Colorado Buffaloes,Stanford Cardinal,-430,328
+2023-10-14 02:00:00,BetOnline.ag,Colorado Buffaloes,Stanford Cardinal,-400,320
+2023-10-14 02:00:00,SuperBook,Colorado Buffaloes,Stanford Cardinal,-425,325
+2023-10-14 02:00:00,BetUS,Colorado Buffaloes,Stanford Cardinal,-425,335
+2023-10-14 02:00:00,LowVig.ag,Colorado Buffaloes,Stanford Cardinal,-400,320
+2023-10-14 02:00:00,WynnBET,Colorado Buffaloes,Stanford Cardinal,-400,320
+2023-10-14 02:00:00,MyBookie.ag,Colorado Buffaloes,Stanford Cardinal,-429,320
+2023-10-14 16:00:00,DraftKings,Alabama Crimson Tide,Arkansas Razorbacks,-1200,750
+2023-10-14 16:00:00,FanDuel,Alabama Crimson Tide,Arkansas Razorbacks,-1400,800
+2023-10-14 16:00:00,BetRivers,Alabama Crimson Tide,Arkansas Razorbacks,-1667,800
+2023-10-14 16:00:00,Unibet,Alabama Crimson Tide,Arkansas Razorbacks,-1667,800
+2023-10-14 16:00:00,TwinSpires,Alabama Crimson Tide,Arkansas Razorbacks,-109,-112
+2023-10-14 16:00:00,Barstool Sportsbook,Alabama Crimson Tide,Arkansas Razorbacks,-1400,800
+2023-10-14 16:00:00,BetMGM,Alabama Crimson Tide,Arkansas Razorbacks,-1100,700
+2023-10-14 16:00:00,Caesars,Alabama Crimson Tide,Arkansas Razorbacks,-1100,700
+2023-10-14 16:00:00,BetOnline.ag,Alabama Crimson Tide,Arkansas Razorbacks,-1250,750
+2023-10-14 16:00:00,SuperBook,Alabama Crimson Tide,Arkansas Razorbacks,-1600,850
+2023-10-14 16:00:00,BetUS,Alabama Crimson Tide,Arkansas Razorbacks,-1200,750
+2023-10-14 16:00:00,PointsBet (US),Alabama Crimson Tide,Arkansas Razorbacks,-1370,765
+2023-10-14 16:00:00,LowVig.ag,Alabama Crimson Tide,Arkansas Razorbacks,-1205,750
+2023-10-14 16:00:00,WynnBET,Alabama Crimson Tide,Arkansas Razorbacks,-1250,775
+2023-10-14 16:00:00,MyBookie.ag,Alabama Crimson Tide,Arkansas Razorbacks,-1298,720
+2023-10-14 16:00:00,DraftKings,Cincinnati Bearcats,Iowa State Cyclones,-218,180
+2023-10-14 16:00:00,FanDuel,Cincinnati Bearcats,Iowa State Cyclones,-215,176
+2023-10-14 16:00:00,BetRivers,Cincinnati Bearcats,Iowa State Cyclones,-200,170
+2023-10-14 16:00:00,TwinSpires,Cincinnati Bearcats,Iowa State Cyclones,-110,-110
+2023-10-14 16:00:00,Unibet,Cincinnati Bearcats,Iowa State Cyclones,-200,170
+2023-10-14 16:00:00,Bovada,Cincinnati Bearcats,Iowa State Cyclones,-210,175
+2023-10-14 16:00:00,Barstool Sportsbook,Cincinnati Bearcats,Iowa State Cyclones,-210,175
+2023-10-14 16:00:00,PointsBet (US),Cincinnati Bearcats,Iowa State Cyclones,-206,170
+2023-10-14 16:00:00,BetMGM,Cincinnati Bearcats,Iowa State Cyclones,-200,165
+2023-10-14 16:00:00,Caesars,Cincinnati Bearcats,Iowa State Cyclones,-205,170
+2023-10-14 16:00:00,BetOnline.ag,Cincinnati Bearcats,Iowa State Cyclones,-192,167
+2023-10-14 16:00:00,SuperBook,Cincinnati Bearcats,Iowa State Cyclones,-200,170
+2023-10-14 16:00:00,BetUS,Cincinnati Bearcats,Iowa State Cyclones,-200,170
+2023-10-14 16:00:00,LowVig.ag,Cincinnati Bearcats,Iowa State Cyclones,-192,167
+2023-10-14 16:00:00,WynnBET,Cincinnati Bearcats,Iowa State Cyclones,-208,178
+2023-10-14 16:00:00,MyBookie.ag,Cincinnati Bearcats,Iowa State Cyclones,-219,176
+2023-10-14 16:00:00,DraftKings,Eastern Michigan Eagles,Kent State Golden Flashes,-410,320
+2023-10-14 16:00:00,FanDuel,Eastern Michigan Eagles,Kent State Golden Flashes,-420,320
+2023-10-14 16:00:00,Bovada,Eastern Michigan Eagles,Kent State Golden Flashes,-420,315
+2023-10-14 16:00:00,Unibet,Eastern Michigan Eagles,Kent State Golden Flashes,-385,290
+2023-10-14 16:00:00,TwinSpires,Eastern Michigan Eagles,Kent State Golden Flashes,-110,-110
+2023-10-14 16:00:00,BetRivers,Eastern Michigan Eagles,Kent State Golden Flashes,-385,290
+2023-10-14 16:00:00,Barstool Sportsbook,Eastern Michigan Eagles,Kent State Golden Flashes,-380,300
+2023-10-14 16:00:00,BetMGM,Eastern Michigan Eagles,Kent State Golden Flashes,-450,325
+2023-10-14 16:00:00,PointsBet (US),Eastern Michigan Eagles,Kent State Golden Flashes,-400,305
+2023-10-14 16:00:00,Caesars,Eastern Michigan Eagles,Kent State Golden Flashes,-385,300
+2023-10-14 16:00:00,BetOnline.ag,Eastern Michigan Eagles,Kent State Golden Flashes,-370,305
+2023-10-14 16:00:00,SuperBook,Eastern Michigan Eagles,Kent State Golden Flashes,-400,300
+2023-10-14 16:00:00,BetUS,Eastern Michigan Eagles,Kent State Golden Flashes,-390,310
+2023-10-14 16:00:00,LowVig.ag,Eastern Michigan Eagles,Kent State Golden Flashes,-375,305
+2023-10-14 16:00:00,WynnBET,Eastern Michigan Eagles,Kent State Golden Flashes,-370,300
+2023-10-14 16:00:00,MyBookie.ag,Eastern Michigan Eagles,Kent State Golden Flashes,-400,300
+2023-10-14 16:00:00,DraftKings,Florida State Seminoles,Syracuse Orange,-1000,650
+2023-10-14 16:00:00,FanDuel,Florida State Seminoles,Syracuse Orange,-1000,640
+2023-10-14 16:00:00,TwinSpires,Florida State Seminoles,Syracuse Orange,-107,-117
+2023-10-14 16:00:00,BetRivers,Florida State Seminoles,Syracuse Orange,-1000,600
+2023-10-14 16:00:00,Unibet,Florida State Seminoles,Syracuse Orange,-1000,600
+2023-10-14 16:00:00,Barstool Sportsbook,Florida State Seminoles,Syracuse Orange,-900,600
+2023-10-14 16:00:00,BetMGM,Florida State Seminoles,Syracuse Orange,-900,575
+2023-10-14 16:00:00,PointsBet (US),Florida State Seminoles,Syracuse Orange,-1080,655
+2023-10-14 16:00:00,Caesars,Florida State Seminoles,Syracuse Orange,-1000,650
+2023-10-14 16:00:00,BetOnline.ag,Florida State Seminoles,Syracuse Orange,-105,-115
+2023-10-14 16:00:00,SuperBook,Florida State Seminoles,Syracuse Orange,-1200,700
+2023-10-14 16:00:00,BetUS,Florida State Seminoles,Syracuse Orange,-950,620
+2023-10-14 16:00:00,LowVig.ag,Florida State Seminoles,Syracuse Orange,-101,-111
+2023-10-14 16:00:00,MyBookie.ag,Florida State Seminoles,Syracuse Orange,-847,550
+2023-10-14 16:00:00,DraftKings,Georgia Bulldogs,Vanderbilt Commodores,-112,-108
+2023-10-14 16:00:00,FanDuel,Georgia Bulldogs,Vanderbilt Commodores,-105,-115
+2023-10-14 16:00:00,Bovada,Georgia Bulldogs,Vanderbilt Commodores,-110,-110
+2023-10-14 16:00:00,Unibet,Georgia Bulldogs,Vanderbilt Commodores,-110,-110
+2023-10-14 16:00:00,TwinSpires,Georgia Bulldogs,Vanderbilt Commodores,-110,-110
+2023-10-14 16:00:00,BetRivers,Georgia Bulldogs,Vanderbilt Commodores,-110,-110
+2023-10-14 16:00:00,Barstool Sportsbook,Georgia Bulldogs,Vanderbilt Commodores,-15000,3500
+2023-10-14 16:00:00,BetMGM,Georgia Bulldogs,Vanderbilt Commodores,-110,-110
+2023-10-14 16:00:00,Caesars,Georgia Bulldogs,Vanderbilt Commodores,-15000,2200
+2023-10-14 16:00:00,BetOnline.ag,Georgia Bulldogs,Vanderbilt Commodores,-110,-110
+2023-10-14 16:00:00,SuperBook,Georgia Bulldogs,Vanderbilt Commodores,-110,-110
+2023-10-14 16:00:00,BetUS,Georgia Bulldogs,Vanderbilt Commodores,-110,-110
+2023-10-14 16:00:00,PointsBet (US),Georgia Bulldogs,Vanderbilt Commodores,-110,-110
+2023-10-14 16:00:00,LowVig.ag,Georgia Bulldogs,Vanderbilt Commodores,-106,-106
+2023-10-14 16:00:00,WynnBET,Georgia Bulldogs,Vanderbilt Commodores,-10000,2000
+2023-10-14 16:00:00,MyBookie.ag,Georgia Bulldogs,Vanderbilt Commodores,-110,-110
+2023-10-14 16:00:00,DraftKings,Georgia Southern Eagles,James Madison Dukes,154,-185
+2023-10-14 16:00:00,FanDuel,Georgia Southern Eagles,James Madison Dukes,162,-196
+2023-10-14 16:00:00,Bovada,Georgia Southern Eagles,James Madison Dukes,160,-185
+2023-10-14 16:00:00,Unibet,Georgia Southern Eagles,James Madison Dukes,155,-200
+2023-10-14 16:00:00,TwinSpires,Georgia Southern Eagles,James Madison Dukes,-110,-110
+2023-10-14 16:00:00,BetRivers,Georgia Southern Eagles,James Madison Dukes,155,-200
+2023-10-14 16:00:00,Barstool Sportsbook,Georgia Southern Eagles,James Madison Dukes,165,-195
+2023-10-14 16:00:00,PointsBet (US),Georgia Southern Eagles,James Madison Dukes,165,-200
+2023-10-14 16:00:00,Caesars,Georgia Southern Eagles,James Madison Dukes,162,-195
+2023-10-14 16:00:00,BetMGM,Georgia Southern Eagles,James Madison Dukes,165,-200
+2023-10-14 16:00:00,BetOnline.ag,Georgia Southern Eagles,James Madison Dukes,170,-196
+2023-10-14 16:00:00,SuperBook,Georgia Southern Eagles,James Madison Dukes,170,-200
+2023-10-14 16:00:00,BetUS,Georgia Southern Eagles,James Madison Dukes,165,-195
+2023-10-14 16:00:00,LowVig.ag,Georgia Southern Eagles,James Madison Dukes,170,-195
+2023-10-14 16:00:00,WynnBET,Georgia Southern Eagles,James Madison Dukes,163,-189
+2023-10-14 16:00:00,MyBookie.ag,Georgia Southern Eagles,James Madison Dukes,155,-191
+2023-10-14 16:00:00,DraftKings,Indiana Hoosiers,Michigan Wolverines,-110,-110
+2023-10-14 16:00:00,FanDuel,Indiana Hoosiers,Michigan Wolverines,-110,-110
+2023-10-14 16:00:00,BetRivers,Indiana Hoosiers,Michigan Wolverines,-110,-110
+2023-10-14 16:00:00,TwinSpires,Indiana Hoosiers,Michigan Wolverines,-110,-110
+2023-10-14 16:00:00,Unibet,Indiana Hoosiers,Michigan Wolverines,-110,-110
+2023-10-14 16:00:00,Bovada,Indiana Hoosiers,Michigan Wolverines,-110,-110
+2023-10-14 16:00:00,Barstool Sportsbook,Indiana Hoosiers,Michigan Wolverines,-110,-110
+2023-10-14 16:00:00,BetMGM,Indiana Hoosiers,Michigan Wolverines,-110,-110
+2023-10-14 16:00:00,Caesars,Indiana Hoosiers,Michigan Wolverines,-110,-110
+2023-10-14 16:00:00,BetOnline.ag,Indiana Hoosiers,Michigan Wolverines,-116,-104
+2023-10-14 16:00:00,SuperBook,Indiana Hoosiers,Michigan Wolverines,-110,-110
+2023-10-14 16:00:00,BetUS,Indiana Hoosiers,Michigan Wolverines,-110,-110
+2023-10-14 16:00:00,PointsBet (US),Indiana Hoosiers,Michigan Wolverines,-110,-110
+2023-10-14 16:00:00,LowVig.ag,Indiana Hoosiers,Michigan Wolverines,-112,100
+2023-10-14 16:00:00,WynnBET,Indiana Hoosiers,Michigan Wolverines,2000,-10000
+2023-10-14 16:00:00,FanDuel,Michigan State Spartans,Rutgers Scarlet Knights,168,-205
+2023-10-14 16:00:00,Unibet,Michigan State Spartans,Rutgers Scarlet Knights,170,-210
+2023-10-14 16:00:00,Bovada,Michigan State Spartans,Rutgers Scarlet Knights,170,-200
+2023-10-14 16:00:00,TwinSpires,Michigan State Spartans,Rutgers Scarlet Knights,-108,-113
+2023-10-14 16:00:00,BetRivers,Michigan State Spartans,Rutgers Scarlet Knights,170,-210
+2023-10-14 16:00:00,Barstool Sportsbook,Michigan State Spartans,Rutgers Scarlet Knights,170,-200
+2023-10-14 16:00:00,PointsBet (US),Michigan State Spartans,Rutgers Scarlet Knights,170,-206
+2023-10-14 16:00:00,BetMGM,Michigan State Spartans,Rutgers Scarlet Knights,175,-225
+2023-10-14 16:00:00,Caesars,Michigan State Spartans,Rutgers Scarlet Knights,175,-210
+2023-10-14 16:00:00,BetOnline.ag,Michigan State Spartans,Rutgers Scarlet Knights,170,-196
+2023-10-14 16:00:00,SuperBook,Michigan State Spartans,Rutgers Scarlet Knights,170,-200
+2023-10-14 16:00:00,BetUS,Michigan State Spartans,Rutgers Scarlet Knights,170,-200
+2023-10-14 16:00:00,LowVig.ag,Michigan State Spartans,Rutgers Scarlet Knights,170,-195
+2023-10-14 16:00:00,WynnBET,Michigan State Spartans,Rutgers Scarlet Knights,185,-222
+2023-10-14 16:00:00,MyBookie.ag,Michigan State Spartans,Rutgers Scarlet Knights,170,-210
+2023-10-14 16:00:00,DraftKings,North Texas Mean Green,Temple Owls,-238,195
+2023-10-14 16:00:00,FanDuel,North Texas Mean Green,Temple Owls,-250,202
+2023-10-14 16:00:00,Bovada,North Texas Mean Green,Temple Owls,-240,200
+2023-10-14 16:00:00,Unibet,North Texas Mean Green,Temple Owls,-265,210
+2023-10-14 16:00:00,TwinSpires,North Texas Mean Green,Temple Owls,-112,-109
+2023-10-14 16:00:00,BetRivers,North Texas Mean Green,Temple Owls,-265,210
+2023-10-14 16:00:00,Barstool Sportsbook,North Texas Mean Green,Temple Owls,-230,195
+2023-10-14 16:00:00,PointsBet (US),North Texas Mean Green,Temple Owls,-261,210
+2023-10-14 16:00:00,BetMGM,North Texas Mean Green,Temple Owls,-275,210
+2023-10-14 16:00:00,Caesars,North Texas Mean Green,Temple Owls,-260,210
+2023-10-14 16:00:00,BetOnline.ag,North Texas Mean Green,Temple Owls,-256,215
+2023-10-14 16:00:00,SuperBook,North Texas Mean Green,Temple Owls,-250,200
+2023-10-14 16:00:00,BetUS,North Texas Mean Green,Temple Owls,-255,208
+2023-10-14 16:00:00,LowVig.ag,North Texas Mean Green,Temple Owls,-255,215
+2023-10-14 16:00:00,WynnBET,North Texas Mean Green,Temple Owls,-238,203
+2023-10-14 16:00:00,MyBookie.ag,North Texas Mean Green,Temple Owls,-275,225
+2023-10-14 16:00:00,DraftKings,Ohio State Buckeyes,Purdue Boilermakers,-1200,750
+2023-10-14 16:00:00,FanDuel,Ohio State Buckeyes,Purdue Boilermakers,-1600,860
+2023-10-14 16:00:00,BetRivers,Ohio State Buckeyes,Purdue Boilermakers,-1430,800
+2023-10-14 16:00:00,TwinSpires,Ohio State Buckeyes,Purdue Boilermakers,-109,-112
+2023-10-14 16:00:00,Unibet,Ohio State Buckeyes,Purdue Boilermakers,-1430,800
+2023-10-14 16:00:00,Barstool Sportsbook,Ohio State Buckeyes,Purdue Boilermakers,-1200,750
+2023-10-14 16:00:00,Caesars,Ohio State Buckeyes,Purdue Boilermakers,-1400,800
+2023-10-14 16:00:00,BetMGM,Ohio State Buckeyes,Purdue Boilermakers,-1400,800
+2023-10-14 16:00:00,BetOnline.ag,Ohio State Buckeyes,Purdue Boilermakers,-1250,750
+2023-10-14 16:00:00,SuperBook,Ohio State Buckeyes,Purdue Boilermakers,-1500,800
+2023-10-14 16:00:00,BetUS,Ohio State Buckeyes,Purdue Boilermakers,-1200,750
+2023-10-14 16:00:00,PointsBet (US),Ohio State Buckeyes,Purdue Boilermakers,-1425,785
+2023-10-14 16:00:00,LowVig.ag,Ohio State Buckeyes,Purdue Boilermakers,-1205,750
+2023-10-14 16:00:00,WynnBET,Ohio State Buckeyes,Purdue Boilermakers,-1111,725
+2023-10-14 16:00:00,MyBookie.ag,Ohio State Buckeyes,Purdue Boilermakers,-1204,680
+2023-10-14 18:00:00,DraftKings,Ball State Cardinals,Toledo Rockets,550,-800
+2023-10-14 18:00:00,Bovada,Ball State Cardinals,Toledo Rockets,500,-750
+2023-10-14 18:00:00,Unibet,Ball State Cardinals,Toledo Rockets,600,-1000
+2023-10-14 18:00:00,TwinSpires,Ball State Cardinals,Toledo Rockets,-110,-110
+2023-10-14 18:00:00,BetRivers,Ball State Cardinals,Toledo Rockets,600,-1000
+2023-10-14 18:00:00,FanDuel,Ball State Cardinals,Toledo Rockets,610,-950
+2023-10-14 18:00:00,Barstool Sportsbook,Ball State Cardinals,Toledo Rockets,600,-900
+2023-10-14 18:00:00,PointsBet (US),Ball State Cardinals,Toledo Rockets,570,-885
+2023-10-14 18:00:00,Caesars,Ball State Cardinals,Toledo Rockets,550,-800
+2023-10-14 18:00:00,BetMGM,Ball State Cardinals,Toledo Rockets,550,-800
+2023-10-14 18:00:00,BetOnline.ag,Ball State Cardinals,Toledo Rockets,550,-769
+2023-10-14 18:00:00,SuperBook,Ball State Cardinals,Toledo Rockets,575,-900
+2023-10-14 18:00:00,BetUS,Ball State Cardinals,Toledo Rockets,570,-850
+2023-10-14 18:00:00,LowVig.ag,Ball State Cardinals,Toledo Rockets,550,-752
+2023-10-14 18:00:00,MyBookie.ag,Ball State Cardinals,Toledo Rockets,550,-847
+2023-10-14 18:00:00,DraftKings,Charlotte 49ers,Navy Midshipmen,130,-155
+2023-10-14 18:00:00,Bovada,Charlotte 49ers,Navy Midshipmen,135,-160
+2023-10-14 18:00:00,Unibet,Charlotte 49ers,Navy Midshipmen,130,-162
+2023-10-14 18:00:00,TwinSpires,Charlotte 49ers,Navy Midshipmen,-108,-113
+2023-10-14 18:00:00,BetRivers,Charlotte 49ers,Navy Midshipmen,130,-162
+2023-10-14 18:00:00,FanDuel,Charlotte 49ers,Navy Midshipmen,136,-164
+2023-10-14 18:00:00,Barstool Sportsbook,Charlotte 49ers,Navy Midshipmen,135,-155
+2023-10-14 18:00:00,PointsBet (US),Charlotte 49ers,Navy Midshipmen,130,-155
+2023-10-14 18:00:00,Caesars,Charlotte 49ers,Navy Midshipmen,135,-160
+2023-10-14 18:00:00,BetMGM,Charlotte 49ers,Navy Midshipmen,140,-165
+2023-10-14 18:00:00,BetOnline.ag,Charlotte 49ers,Navy Midshipmen,135,-156
+2023-10-14 18:00:00,SuperBook,Charlotte 49ers,Navy Midshipmen,130,-150
+2023-10-14 18:00:00,BetUS,Charlotte 49ers,Navy Midshipmen,135,-155
+2023-10-14 18:00:00,LowVig.ag,Charlotte 49ers,Navy Midshipmen,135,-155
+2023-10-14 18:00:00,WynnBET,Charlotte 49ers,Navy Midshipmen,128,-149
+2023-10-14 18:00:00,MyBookie.ag,Charlotte 49ers,Navy Midshipmen,133,-163
+2023-10-14 19:00:00,DraftKings,California Golden Bears,Utah Utes,440,-600
+2023-10-14 19:00:00,TwinSpires,California Golden Bears,Utah Utes,-109,-112
+2023-10-14 19:00:00,BetRivers,California Golden Bears,Utah Utes,430,-625
+2023-10-14 19:00:00,Unibet,California Golden Bears,Utah Utes,430,-625
+2023-10-14 19:00:00,FanDuel,California Golden Bears,Utah Utes,450,-630
+2023-10-14 19:00:00,Barstool Sportsbook,California Golden Bears,Utah Utes,425,-550
+2023-10-14 19:00:00,PointsBet (US),California Golden Bears,Utah Utes,410,-571
+2023-10-14 19:00:00,Caesars,California Golden Bears,Utah Utes,400,-550
+2023-10-14 19:00:00,BetOnline.ag,California Golden Bears,Utah Utes,420,-526
+2023-10-14 19:00:00,SuperBook,California Golden Bears,Utah Utes,400,-550
+2023-10-14 19:00:00,BetUS,California Golden Bears,Utah Utes,425,-565
+2023-10-14 19:00:00,BetMGM,California Golden Bears,Utah Utes,425,-600
+2023-10-14 19:00:00,MyBookie.ag,California Golden Bears,Utah Utes,430,-625
+2023-10-14 19:30:00,DraftKings,Akron Zips,Central Michigan Chippewas,360,-470
+2023-10-14 19:30:00,Bovada,Akron Zips,Central Michigan Chippewas,340,-460
+2023-10-14 19:30:00,Unibet,Akron Zips,Central Michigan Chippewas,340,-455
+2023-10-14 19:30:00,TwinSpires,Akron Zips,Central Michigan Chippewas,-112,-109
+2023-10-14 19:30:00,BetRivers,Akron Zips,Central Michigan Chippewas,340,-455
+2023-10-14 19:30:00,FanDuel,Akron Zips,Central Michigan Chippewas,375,-500
+2023-10-14 19:30:00,Barstool Sportsbook,Akron Zips,Central Michigan Chippewas,340,-425
+2023-10-14 19:30:00,PointsBet (US),Akron Zips,Central Michigan Chippewas,340,-460
+2023-10-14 19:30:00,Caesars,Akron Zips,Central Michigan Chippewas,345,-455
+2023-10-14 19:30:00,BetMGM,Akron Zips,Central Michigan Chippewas,360,-500
+2023-10-14 19:30:00,BetOnline.ag,Akron Zips,Central Michigan Chippewas,320,-400
+2023-10-14 19:30:00,SuperBook,Akron Zips,Central Michigan Chippewas,350,-450
+2023-10-14 19:30:00,BetUS,Akron Zips,Central Michigan Chippewas,320,-400
+2023-10-14 19:30:00,LowVig.ag,Akron Zips,Central Michigan Chippewas,320,-400
+2023-10-14 19:30:00,MyBookie.ag,Akron Zips,Central Michigan Chippewas,350,-500
+2023-10-14 19:30:00,DraftKings,Army Black Knights,Troy Trojans,170,-205
+2023-10-14 19:30:00,Bovada,Army Black Knights,Troy Trojans,170,-200
+2023-10-14 19:30:00,FanDuel,Army Black Knights,Troy Trojans,172,-210
+2023-10-14 19:30:00,Unibet,Army Black Knights,Troy Trojans,155,-195
+2023-10-14 19:30:00,TwinSpires,Army Black Knights,Troy Trojans,-110,-110
+2023-10-14 19:30:00,BetRivers,Army Black Knights,Troy Trojans,155,-195
+2023-10-14 19:30:00,Barstool Sportsbook,Army Black Knights,Troy Trojans,170,-200
+2023-10-14 19:30:00,PointsBet (US),Army Black Knights,Troy Trojans,160,-196
+2023-10-14 19:30:00,Caesars,Army Black Knights,Troy Trojans,162,-195
+2023-10-14 19:30:00,BetMGM,Army Black Knights,Troy Trojans,150,-185
+2023-10-14 19:30:00,BetOnline.ag,Army Black Knights,Troy Trojans,165,-189
+2023-10-14 19:30:00,SuperBook,Army Black Knights,Troy Trojans,160,-190
+2023-10-14 19:30:00,BetUS,Army Black Knights,Troy Trojans,163,-190
+2023-10-14 19:30:00,LowVig.ag,Army Black Knights,Troy Trojans,165,-190
+2023-10-14 19:30:00,MyBookie.ag,Army Black Knights,Troy Trojans,167,-207
+2023-10-14 19:30:00,DraftKings,BYU Cougars,TCU Horned Frogs,170,-205
+2023-10-14 19:30:00,FanDuel,BYU Cougars,TCU Horned Frogs,184,-225
+2023-10-14 19:30:00,Bovada,BYU Cougars,TCU Horned Frogs,180,-220
+2023-10-14 19:30:00,Unibet,BYU Cougars,TCU Horned Frogs,160,-200
+2023-10-14 19:30:00,TwinSpires,BYU Cougars,TCU Horned Frogs,-109,-112
+2023-10-14 19:30:00,BetRivers,BYU Cougars,TCU Horned Frogs,160,-200
+2023-10-14 19:30:00,Barstool Sportsbook,BYU Cougars,TCU Horned Frogs,175,-210
+2023-10-14 19:30:00,PointsBet (US),BYU Cougars,TCU Horned Frogs,190,-236
+2023-10-14 19:30:00,Caesars,BYU Cougars,TCU Horned Frogs,185,-225
+2023-10-14 19:30:00,BetMGM,BYU Cougars,TCU Horned Frogs,175,-210
+2023-10-14 19:30:00,BetOnline.ag,BYU Cougars,TCU Horned Frogs,190,-217
+2023-10-14 19:30:00,SuperBook,BYU Cougars,TCU Horned Frogs,190,-240
+2023-10-14 19:30:00,BetUS,BYU Cougars,TCU Horned Frogs,185,-225
+2023-10-14 19:30:00,LowVig.ag,BYU Cougars,TCU Horned Frogs,190,-220
+2023-10-14 19:30:00,MyBookie.ag,BYU Cougars,TCU Horned Frogs,177,-222
+2023-10-14 19:30:00,DraftKings,Bowling Green Falcons,Buffalo Bulls,170,-205
+2023-10-14 19:30:00,Bovada,Bowling Green Falcons,Buffalo Bulls,165,-195
+2023-10-14 19:30:00,Unibet,Bowling Green Falcons,Buffalo Bulls,155,-190
+2023-10-14 19:30:00,TwinSpires,Bowling Green Falcons,Buffalo Bulls,-109,-112
+2023-10-14 19:30:00,BetRivers,Bowling Green Falcons,Buffalo Bulls,155,-190
+2023-10-14 19:30:00,FanDuel,Bowling Green Falcons,Buffalo Bulls,168,-205
+2023-10-14 19:30:00,Barstool Sportsbook,Bowling Green Falcons,Buffalo Bulls,180,-215
+2023-10-14 19:30:00,PointsBet (US),Bowling Green Falcons,Buffalo Bulls,170,-206
+2023-10-14 19:30:00,Caesars,Bowling Green Falcons,Buffalo Bulls,170,-205
+2023-10-14 19:30:00,BetMGM,Bowling Green Falcons,Buffalo Bulls,175,-210
+2023-10-14 19:30:00,BetOnline.ag,Bowling Green Falcons,Buffalo Bulls,175,-204
+2023-10-14 19:30:00,SuperBook,Bowling Green Falcons,Buffalo Bulls,170,-200
+2023-10-14 19:30:00,BetUS,Bowling Green Falcons,Buffalo Bulls,172,-205
+2023-10-14 19:30:00,LowVig.ag,Bowling Green Falcons,Buffalo Bulls,175,-205
+2023-10-14 19:30:00,MyBookie.ag,Bowling Green Falcons,Buffalo Bulls,172,-214
+2023-10-14 19:30:00,DraftKings,Florida Atlantic Owls,South Florida Bulls,110,-130
+2023-10-14 19:30:00,Bovada,Florida Atlantic Owls,South Florida Bulls,120,-140
+2023-10-14 19:30:00,FanDuel,Florida Atlantic Owls,South Florida Bulls,112,-134
+2023-10-14 19:30:00,BetRivers,Florida Atlantic Owls,South Florida Bulls,105,-129
+2023-10-14 19:30:00,Unibet,Florida Atlantic Owls,South Florida Bulls,105,-129
+2023-10-14 19:30:00,TwinSpires,Florida Atlantic Owls,South Florida Bulls,-109,-112
+2023-10-14 19:30:00,Barstool Sportsbook,Florida Atlantic Owls,South Florida Bulls,115,-135
+2023-10-14 19:30:00,PointsBet (US),Florida Atlantic Owls,South Florida Bulls,115,-136
+2023-10-14 19:30:00,Caesars,Florida Atlantic Owls,South Florida Bulls,115,-135
+2023-10-14 19:30:00,BetMGM,Florida Atlantic Owls,South Florida Bulls,110,-135
+2023-10-14 19:30:00,BetOnline.ag,Florida Atlantic Owls,South Florida Bulls,115,-135
+2023-10-14 19:30:00,SuperBook,Florida Atlantic Owls,South Florida Bulls,115,-135
+2023-10-14 19:30:00,BetUS,Florida Atlantic Owls,South Florida Bulls,115,-135
+2023-10-14 19:30:00,LowVig.ag,Florida Atlantic Owls,South Florida Bulls,115,-135
+2023-10-14 19:30:00,MyBookie.ag,Florida Atlantic Owls,South Florida Bulls,108,-131
+2023-10-14 19:30:00,DraftKings,Florida Gators,South Carolina Gamecocks,114,-135
+2023-10-14 19:30:00,FanDuel,Florida Gators,South Carolina Gamecocks,108,-130
+2023-10-14 19:30:00,Bovada,Florida Gators,South Carolina Gamecocks,105,-125
+2023-10-14 19:30:00,Unibet,Florida Gators,South Carolina Gamecocks,107,-130
+2023-10-14 19:30:00,TwinSpires,Florida Gators,South Carolina Gamecocks,-110,-110
+2023-10-14 19:30:00,BetRivers,Florida Gators,South Carolina Gamecocks,107,-130
+2023-10-14 19:30:00,PointsBet (US),Florida Gators,South Carolina Gamecocks,110,-131
+2023-10-14 19:30:00,Caesars,Florida Gators,South Carolina Gamecocks,105,-125
+2023-10-14 19:30:00,BetMGM,Florida Gators,South Carolina Gamecocks,110,-135
+2023-10-14 19:30:00,Barstool Sportsbook,Florida Gators,South Carolina Gamecocks,110,-130
+2023-10-14 19:30:00,BetOnline.ag,Florida Gators,South Carolina Gamecocks,110,-130
+2023-10-14 19:30:00,SuperBook,Florida Gators,South Carolina Gamecocks,110,-130
+2023-10-14 19:30:00,BetUS,Florida Gators,South Carolina Gamecocks,110,-130
+2023-10-14 19:30:00,LowVig.ag,Florida Gators,South Carolina Gamecocks,110,-130
+2023-10-14 19:30:00,MyBookie.ag,Florida Gators,South Carolina Gamecocks,108,-131
+2023-10-14 19:30:00,DraftKings,Illinois Fighting Illini,Maryland Terrapins,440,-600
+2023-10-14 19:30:00,FanDuel,Illinois Fighting Illini,Maryland Terrapins,400,-550
+2023-10-14 19:30:00,Bovada,Illinois Fighting Illini,Maryland Terrapins,400,-575
+2023-10-14 19:30:00,TwinSpires,Illinois Fighting Illini,Maryland Terrapins,-112,-109
+2023-10-14 19:30:00,BetRivers,Illinois Fighting Illini,Maryland Terrapins,400,-560
+2023-10-14 19:30:00,Unibet,Illinois Fighting Illini,Maryland Terrapins,400,-560
+2023-10-14 19:30:00,Barstool Sportsbook,Illinois Fighting Illini,Maryland Terrapins,425,-550
+2023-10-14 19:30:00,PointsBet (US),Illinois Fighting Illini,Maryland Terrapins,425,-605
+2023-10-14 19:30:00,Caesars,Illinois Fighting Illini,Maryland Terrapins,430,-600
+2023-10-14 19:30:00,BetOnline.ag,Illinois Fighting Illini,Maryland Terrapins,430,-556
+2023-10-14 19:30:00,SuperBook,Illinois Fighting Illini,Maryland Terrapins,425,-600
+2023-10-14 19:30:00,BetUS,Illinois Fighting Illini,Maryland Terrapins,450,-600
+2023-10-14 19:30:00,LowVig.ag,Illinois Fighting Illini,Maryland Terrapins,430,-549
+2023-10-14 19:30:00,BetMGM,Illinois Fighting Illini,Maryland Terrapins,450,-650
+2023-10-14 19:30:00,MyBookie.ag,Illinois Fighting Illini,Maryland Terrapins,400,-574
+2023-10-14 19:30:00,DraftKings,Kansas Jayhawks,Oklahoma State Cowboys,-148,124
+2023-10-14 19:30:00,FanDuel,Kansas Jayhawks,Oklahoma State Cowboys,-156,130
+2023-10-14 19:30:00,TwinSpires,Kansas Jayhawks,Oklahoma State Cowboys,-110,-110
+2023-10-14 19:30:00,BetRivers,Kansas Jayhawks,Oklahoma State Cowboys,-155,125
+2023-10-14 19:30:00,Unibet,Kansas Jayhawks,Oklahoma State Cowboys,-155,125
+2023-10-14 19:30:00,Barstool Sportsbook,Kansas Jayhawks,Oklahoma State Cowboys,-150,130
+2023-10-14 19:30:00,PointsBet (US),Kansas Jayhawks,Oklahoma State Cowboys,-160,135
+2023-10-14 19:30:00,Caesars,Kansas Jayhawks,Oklahoma State Cowboys,-160,135
+2023-10-14 19:30:00,BetOnline.ag,Kansas Jayhawks,Oklahoma State Cowboys,-149,130
+2023-10-14 19:30:00,SuperBook,Kansas Jayhawks,Oklahoma State Cowboys,-155,135
+2023-10-14 19:30:00,BetUS,Kansas Jayhawks,Oklahoma State Cowboys,-150,130
+2023-10-14 19:30:00,LowVig.ag,Kansas Jayhawks,Oklahoma State Cowboys,-150,130
+2023-10-14 19:30:00,BetMGM,Kansas Jayhawks,Oklahoma State Cowboys,-160,135
+2023-10-14 19:30:00,MyBookie.ag,Kansas Jayhawks,Oklahoma State Cowboys,-155,126
+2023-10-14 19:30:00,DraftKings,Miami (OH) RedHawks,Western Michigan Broncos,-325,260
+2023-10-14 19:30:00,Bovada,Miami (OH) RedHawks,Western Michigan Broncos,-340,270
+2023-10-14 19:30:00,Unibet,Miami (OH) RedHawks,Western Michigan Broncos,-315,240
+2023-10-14 19:30:00,TwinSpires,Miami (OH) RedHawks,Western Michigan Broncos,-110,-110
+2023-10-14 19:30:00,BetRivers,Miami (OH) RedHawks,Western Michigan Broncos,-315,240
+2023-10-14 19:30:00,FanDuel,Miami (OH) RedHawks,Western Michigan Broncos,-360,280
+2023-10-14 19:30:00,Barstool Sportsbook,Miami (OH) RedHawks,Western Michigan Broncos,-320,260
+2023-10-14 19:30:00,PointsBet (US),Miami (OH) RedHawks,Western Michigan Broncos,-331,255
+2023-10-14 19:30:00,Caesars,Miami (OH) RedHawks,Western Michigan Broncos,-335,260
+2023-10-14 19:30:00,BetMGM,Miami (OH) RedHawks,Western Michigan Broncos,-350,275
+2023-10-14 19:30:00,BetOnline.ag,Miami (OH) RedHawks,Western Michigan Broncos,-312,265
+2023-10-14 19:30:00,SuperBook,Miami (OH) RedHawks,Western Michigan Broncos,-310,250
+2023-10-14 19:30:00,BetUS,Miami (OH) RedHawks,Western Michigan Broncos,-320,263
+2023-10-14 19:30:00,LowVig.ag,Miami (OH) RedHawks,Western Michigan Broncos,-315,265
+2023-10-14 19:30:00,MyBookie.ag,Miami (OH) RedHawks,Western Michigan Broncos,-349,270
+2023-10-14 19:30:00,DraftKings,Oregon Ducks,Washington Huskies,130,-155
+2023-10-14 19:30:00,FanDuel,Oregon Ducks,Washington Huskies,125,-150
+2023-10-14 19:30:00,TwinSpires,Oregon Ducks,Washington Huskies,-114,-107
+2023-10-14 19:30:00,BetRivers,Oregon Ducks,Washington Huskies,116,-141
+2023-10-14 19:30:00,Unibet,Oregon Ducks,Washington Huskies,116,-141
+2023-10-14 19:30:00,Barstool Sportsbook,Oregon Ducks,Washington Huskies,125,-145
+2023-10-14 19:30:00,BetMGM,Oregon Ducks,Washington Huskies,125,-150
+2023-10-14 19:30:00,PointsBet (US),Oregon Ducks,Washington Huskies,120,-140
+2023-10-14 19:30:00,Caesars,Oregon Ducks,Washington Huskies,122,-145
+2023-10-14 19:30:00,BetOnline.ag,Oregon Ducks,Washington Huskies,117,-137
+2023-10-14 19:30:00,SuperBook,Oregon Ducks,Washington Huskies,120,-140
+2023-10-14 19:30:00,BetUS,Oregon Ducks,Washington Huskies,115,-135
+2023-10-14 19:30:00,LowVig.ag,Oregon Ducks,Washington Huskies,117,-137
+2023-10-14 19:30:00,MyBookie.ag,Oregon Ducks,Washington Huskies,124,-151
+2023-10-14 19:30:00,DraftKings,Penn State Nittany Lions,UMass Minutemen,-110,-110
+2023-10-14 19:30:00,FanDuel,Penn State Nittany Lions,UMass Minutemen,-110,-110
+2023-10-14 19:30:00,Unibet,Penn State Nittany Lions,UMass Minutemen,-112,-109
+2023-10-14 19:30:00,TwinSpires,Penn State Nittany Lions,UMass Minutemen,-112,-109
+2023-10-14 19:30:00,BetRivers,Penn State Nittany Lions,UMass Minutemen,-112,-109
+2023-10-14 19:30:00,Barstool Sportsbook,Penn State Nittany Lions,UMass Minutemen,-105,-115
+2023-10-14 19:30:00,Caesars,Penn State Nittany Lions,UMass Minutemen,-110,-110
+2023-10-14 19:30:00,BetMGM,Penn State Nittany Lions,UMass Minutemen,-110,-110
+2023-10-14 19:30:00,BetOnline.ag,Penn State Nittany Lions,UMass Minutemen,-110,-110
+2023-10-14 19:30:00,BetUS,Penn State Nittany Lions,UMass Minutemen,-110,-110
+2023-10-14 19:30:00,PointsBet (US),Penn State Nittany Lions,UMass Minutemen,-110,-110
+2023-10-14 19:30:00,LowVig.ag,Penn State Nittany Lions,UMass Minutemen,-106,-106
+2023-10-14 19:30:00,SuperBook,Penn State Nittany Lions,UMass Minutemen,-110,-110
+2023-10-14 19:30:00,DraftKings,Tennessee Volunteers,Texas A&M Aggies,-170,142
+2023-10-14 19:30:00,FanDuel,Tennessee Volunteers,Texas A&M Aggies,-178,146
+2023-10-14 19:30:00,Unibet,Tennessee Volunteers,Texas A&M Aggies,-175,138
+2023-10-14 19:30:00,TwinSpires,Tennessee Volunteers,Texas A&M Aggies,-112,-109
+2023-10-14 19:30:00,BetRivers,Tennessee Volunteers,Texas A&M Aggies,-175,138
+2023-10-14 19:30:00,Barstool Sportsbook,Tennessee Volunteers,Texas A&M Aggies,-165,140
+2023-10-14 19:30:00,PointsBet (US),Tennessee Volunteers,Texas A&M Aggies,-176,145
+2023-10-14 19:30:00,Caesars,Tennessee Volunteers,Texas A&M Aggies,-170,143
+2023-10-14 19:30:00,BetOnline.ag,Tennessee Volunteers,Texas A&M Aggies,-169,150
+2023-10-14 19:30:00,SuperBook,Tennessee Volunteers,Texas A&M Aggies,-180,150
+2023-10-14 19:30:00,BetUS,Tennessee Volunteers,Texas A&M Aggies,-170,148
+2023-10-14 19:30:00,LowVig.ag,Tennessee Volunteers,Texas A&M Aggies,-170,150
+2023-10-14 19:30:00,BetMGM,Tennessee Volunteers,Texas A&M Aggies,-175,145
+2023-10-14 19:30:00,MyBookie.ag,Tennessee Volunteers,Texas A&M Aggies,-175,141
+2023-10-14 19:30:00,DraftKings,Virginia Tech Hokies,Wake Forest Demon Deacons,-122,102
+2023-10-14 19:30:00,Bovada,Virginia Tech Hokies,Wake Forest Demon Deacons,-120,100
+2023-10-14 19:30:00,Unibet,Virginia Tech Hokies,Wake Forest Demon Deacons,-114,-107
+2023-10-14 19:30:00,TwinSpires,Virginia Tech Hokies,Wake Forest Demon Deacons,-109,-112
+2023-10-14 19:30:00,BetRivers,Virginia Tech Hokies,Wake Forest Demon Deacons,-114,-107
+2023-10-14 19:30:00,FanDuel,Virginia Tech Hokies,Wake Forest Demon Deacons,-125,104
+2023-10-14 19:30:00,Barstool Sportsbook,Virginia Tech Hokies,Wake Forest Demon Deacons,-120,100
+2023-10-14 19:30:00,PointsBet (US),Virginia Tech Hokies,Wake Forest Demon Deacons,-125,105
+2023-10-14 19:30:00,Caesars,Virginia Tech Hokies,Wake Forest Demon Deacons,-125,105
+2023-10-14 19:30:00,BetMGM,Virginia Tech Hokies,Wake Forest Demon Deacons,-125,105
+2023-10-14 19:30:00,BetOnline.ag,Virginia Tech Hokies,Wake Forest Demon Deacons,-125,105
+2023-10-14 19:30:00,SuperBook,Virginia Tech Hokies,Wake Forest Demon Deacons,-125,105
+2023-10-14 19:30:00,BetUS,Virginia Tech Hokies,Wake Forest Demon Deacons,-125,105
+2023-10-14 19:30:00,LowVig.ag,Virginia Tech Hokies,Wake Forest Demon Deacons,-125,105
+2023-10-14 19:30:00,MyBookie.ag,Virginia Tech Hokies,Wake Forest Demon Deacons,-124,102
+2023-10-14 20:00:00,DraftKings,Iowa Hawkeyes,Wisconsin Badgers,280,-355
+2023-10-14 20:00:00,FanDuel,Iowa Hawkeyes,Wisconsin Badgers,300,-400
+2023-10-14 20:00:00,Bovada,Iowa Hawkeyes,Wisconsin Badgers,295,-390
+2023-10-14 20:00:00,Unibet,Iowa Hawkeyes,Wisconsin Badgers,300,-400
+2023-10-14 20:00:00,TwinSpires,Iowa Hawkeyes,Wisconsin Badgers,-110,-110
+2023-10-14 20:00:00,BetRivers,Iowa Hawkeyes,Wisconsin Badgers,300,-400
+2023-10-14 20:00:00,Barstool Sportsbook,Iowa Hawkeyes,Wisconsin Badgers,280,-350
+2023-10-14 20:00:00,PointsBet (US),Iowa Hawkeyes,Wisconsin Badgers,280,-360
+2023-10-14 20:00:00,Caesars,Iowa Hawkeyes,Wisconsin Badgers,278,-355
+2023-10-14 20:00:00,BetOnline.ag,Iowa Hawkeyes,Wisconsin Badgers,280,-345
+2023-10-14 20:00:00,SuperBook,Iowa Hawkeyes,Wisconsin Badgers,275,-350
+2023-10-14 20:00:00,BetUS,Iowa Hawkeyes,Wisconsin Badgers,280,-350
+2023-10-14 20:00:00,LowVig.ag,Iowa Hawkeyes,Wisconsin Badgers,280,-350
+2023-10-14 20:00:00,BetMGM,Iowa Hawkeyes,Wisconsin Badgers,280,-375
+2023-10-14 20:00:00,MyBookie.ag,Iowa Hawkeyes,Wisconsin Badgers,280,-370
+2023-10-14 20:00:00,DraftKings,Northern Illinois Huskies,Ohio Bobcats,205,-250
+2023-10-14 20:00:00,Bovada,Northern Illinois Huskies,Ohio Bobcats,215,-260
+2023-10-14 20:00:00,FanDuel,Northern Illinois Huskies,Ohio Bobcats,225,-280
+2023-10-14 20:00:00,Unibet,Northern Illinois Huskies,Ohio Bobcats,185,-245
+2023-10-14 20:00:00,TwinSpires,Northern Illinois Huskies,Ohio Bobcats,-110,-110
+2023-10-14 20:00:00,BetRivers,Northern Illinois Huskies,Ohio Bobcats,185,-245
+2023-10-14 20:00:00,Barstool Sportsbook,Northern Illinois Huskies,Ohio Bobcats,210,-250
+2023-10-14 20:00:00,PointsBet (US),Northern Illinois Huskies,Ohio Bobcats,205,-255
+2023-10-14 20:00:00,Caesars,Northern Illinois Huskies,Ohio Bobcats,205,-250
+2023-10-14 20:00:00,BetMGM,Northern Illinois Huskies,Ohio Bobcats,200,-250
+2023-10-14 20:00:00,SuperBook,Northern Illinois Huskies,Ohio Bobcats,210,-260
+2023-10-14 20:00:00,BetUS,Northern Illinois Huskies,Ohio Bobcats,208,-255
+2023-10-14 20:00:00,LowVig.ag,Northern Illinois Huskies,Ohio Bobcats,220,-260
+2023-10-14 20:00:00,MyBookie.ag,Northern Illinois Huskies,Ohio Bobcats,214,-270
+2023-10-14 21:00:00,DraftKings,Nevada Wolf Pack,UNLV Rebels,295,-375
+2023-10-14 21:00:00,Bovada,Nevada Wolf Pack,UNLV Rebels,285,-370
+2023-10-14 21:00:00,FanDuel,Nevada Wolf Pack,UNLV Rebels,285,-365
+2023-10-14 21:00:00,BetRivers,Nevada Wolf Pack,UNLV Rebels,250,-345
+2023-10-14 21:00:00,Unibet,Nevada Wolf Pack,UNLV Rebels,250,-345
+2023-10-14 21:00:00,Barstool Sportsbook,Nevada Wolf Pack,UNLV Rebels,280,-350
+2023-10-14 21:00:00,TwinSpires,Nevada Wolf Pack,UNLV Rebels,-113,-108
+2023-10-14 21:00:00,PointsBet (US),Nevada Wolf Pack,UNLV Rebels,280,-360
+2023-10-14 21:00:00,Caesars,Nevada Wolf Pack,UNLV Rebels,285,-365
+2023-10-14 21:00:00,BetMGM,Nevada Wolf Pack,UNLV Rebels,290,-375
+2023-10-14 21:00:00,BetOnline.ag,Nevada Wolf Pack,UNLV Rebels,270,-323
+2023-10-14 21:00:00,SuperBook,Nevada Wolf Pack,UNLV Rebels,275,-350
+2023-10-14 21:00:00,BetUS,Nevada Wolf Pack,UNLV Rebels,265,-325
+2023-10-14 21:00:00,LowVig.ag,Nevada Wolf Pack,UNLV Rebels,270,-325
+2023-10-14 21:00:00,MyBookie.ag,Nevada Wolf Pack,UNLV Rebels,270,-359
+2023-10-14 22:00:00,DraftKings,New Mexico Lobos,San Jose State Spartans,250,-310
+2023-10-14 22:00:00,Bovada,New Mexico Lobos,San Jose State Spartans,255,-310
+2023-10-14 22:00:00,FanDuel,New Mexico Lobos,San Jose State Spartans,260,-330
+2023-10-14 22:00:00,Barstool Sportsbook,New Mexico Lobos,San Jose State Spartans,250,-300
+2023-10-14 22:00:00,BetRivers,New Mexico Lobos,San Jose State Spartans,230,-295
+2023-10-14 22:00:00,Unibet,New Mexico Lobos,San Jose State Spartans,230,-295
+2023-10-14 22:00:00,TwinSpires,New Mexico Lobos,San Jose State Spartans,-112,-109
+2023-10-14 22:00:00,PointsBet (US),New Mexico Lobos,San Jose State Spartans,250,-315
+2023-10-14 22:00:00,Caesars,New Mexico Lobos,San Jose State Spartans,250,-320
+2023-10-14 22:00:00,BetMGM,New Mexico Lobos,San Jose State Spartans,260,-350
+2023-10-14 22:00:00,SuperBook,New Mexico Lobos,San Jose State Spartans,250,-310
+2023-10-14 22:00:00,BetUS,New Mexico Lobos,San Jose State Spartans,256,-310
+2023-10-14 22:00:00,LowVig.ag,New Mexico Lobos,San Jose State Spartans,255,-305
+2023-10-14 22:00:00,MyBookie.ag,New Mexico Lobos,San Jose State Spartans,255,-330
+2023-10-14 22:30:00,DraftKings,Louisville Cardinals,Pittsburgh Panthers,-310,250
+2023-10-14 22:30:00,FanDuel,Louisville Cardinals,Pittsburgh Panthers,-310,245
+2023-10-14 22:30:00,Barstool Sportsbook,Louisville Cardinals,Pittsburgh Panthers,-320,260
+2023-10-14 22:30:00,Unibet,Louisville Cardinals,Pittsburgh Panthers,-335,245
+2023-10-14 22:30:00,TwinSpires,Louisville Cardinals,Pittsburgh Panthers,-112,-109
+2023-10-14 22:30:00,BetRivers,Louisville Cardinals,Pittsburgh Panthers,-335,245
+2023-10-14 22:30:00,PointsBet (US),Louisville Cardinals,Pittsburgh Panthers,-315,250
+2023-10-14 22:30:00,Caesars,Louisville Cardinals,Pittsburgh Panthers,-320,250
+2023-10-14 22:30:00,BetMGM,Louisville Cardinals,Pittsburgh Panthers,-300,250
+2023-10-14 22:30:00,BetOnline.ag,Louisville Cardinals,Pittsburgh Panthers,-294,245
+2023-10-14 22:30:00,SuperBook,Louisville Cardinals,Pittsburgh Panthers,-310,250
+2023-10-14 22:30:00,BetUS,Louisville Cardinals,Pittsburgh Panthers,-310,256
+2023-10-14 22:30:00,LowVig.ag,Louisville Cardinals,Pittsburgh Panthers,-290,245
+2023-10-14 22:30:00,MyBookie.ag,Louisville Cardinals,Pittsburgh Panthers,-319,248
+2023-10-14 23:00:00,DraftKings,Air Force Falcons,Wyoming Cowboys,-380,300
+2023-10-14 23:00:00,Bovada,Air Force Falcons,Wyoming Cowboys,-415,310
+2023-10-14 23:00:00,FanDuel,Air Force Falcons,Wyoming Cowboys,-385,300
+2023-10-14 23:00:00,Barstool Sportsbook,Air Force Falcons,Wyoming Cowboys,-360,290
+2023-10-14 23:00:00,BetRivers,Air Force Falcons,Wyoming Cowboys,-360,280
+2023-10-14 23:00:00,Unibet,Air Force Falcons,Wyoming Cowboys,-360,280
+2023-10-14 23:00:00,TwinSpires,Air Force Falcons,Wyoming Cowboys,-108,-113
+2023-10-14 23:00:00,PointsBet (US),Air Force Falcons,Wyoming Cowboys,-391,300
+2023-10-14 23:00:00,Caesars,Air Force Falcons,Wyoming Cowboys,-385,300
+2023-10-14 23:00:00,BetMGM,Air Force Falcons,Wyoming Cowboys,-350,280
+2023-10-14 23:00:00,BetOnline.ag,Air Force Falcons,Wyoming Cowboys,-385,310
+2023-10-14 23:00:00,SuperBook,Air Force Falcons,Wyoming Cowboys,-400,300
+2023-10-14 23:00:00,BetUS,Air Force Falcons,Wyoming Cowboys,-390,310
+2023-10-14 23:00:00,LowVig.ag,Air Force Falcons,Wyoming Cowboys,-380,310
+2023-10-14 23:00:00,MyBookie.ag,Air Force Falcons,Wyoming Cowboys,-370,280
+2023-10-14 23:00:00,DraftKings,Arizona Wildcats,Washington State Cougars,260,-325
+2023-10-14 23:00:00,FanDuel,Arizona Wildcats,Washington State Cougars,260,-330
+2023-10-14 23:00:00,Bovada,Arizona Wildcats,Washington State Cougars,250,-300
+2023-10-14 23:00:00,Barstool Sportsbook,Arizona Wildcats,Washington State Cougars,250,-300
+2023-10-14 23:00:00,BetRivers,Arizona Wildcats,Washington State Cougars,230,-295
+2023-10-14 23:00:00,Unibet,Arizona Wildcats,Washington State Cougars,230,-295
+2023-10-14 23:00:00,TwinSpires,Arizona Wildcats,Washington State Cougars,-110,-110
+2023-10-14 23:00:00,PointsBet (US),Arizona Wildcats,Washington State Cougars,250,-315
+2023-10-14 23:00:00,Caesars,Arizona Wildcats,Washington State Cougars,250,-320
+2023-10-14 23:00:00,BetOnline.ag,Arizona Wildcats,Washington State Cougars,250,-303
+2023-10-14 23:00:00,SuperBook,Arizona Wildcats,Washington State Cougars,250,-310
+2023-10-14 23:00:00,BetUS,Arizona Wildcats,Washington State Cougars,250,-300
+2023-10-14 23:00:00,LowVig.ag,Arizona Wildcats,Washington State Cougars,250,-300
+2023-10-14 23:00:00,BetMGM,Arizona Wildcats,Washington State Cougars,260,-350
+2023-10-14 23:00:00,MyBookie.ag,Arizona Wildcats,Washington State Cougars,240,-309
+2023-10-14 23:00:00,DraftKings,Auburn Tigers,LSU Tigers,310,-395
+2023-10-14 23:00:00,FanDuel,Auburn Tigers,LSU Tigers,340,-450
+2023-10-14 23:00:00,Barstool Sportsbook,Auburn Tigers,LSU Tigers,340,-425
+2023-10-14 23:00:00,BetRivers,Auburn Tigers,LSU Tigers,300,-420
+2023-10-14 23:00:00,Unibet,Auburn Tigers,LSU Tigers,300,-420
+2023-10-14 23:00:00,TwinSpires,Auburn Tigers,LSU Tigers,-110,-110
+2023-10-14 23:00:00,PointsBet (US),Auburn Tigers,LSU Tigers,335,-446
+2023-10-14 23:00:00,Caesars,Auburn Tigers,LSU Tigers,328,-430
+2023-10-14 23:00:00,BetOnline.ag,Auburn Tigers,LSU Tigers,350,-435
+2023-10-14 23:00:00,SuperBook,Auburn Tigers,LSU Tigers,325,-425
+2023-10-14 23:00:00,BetUS,Auburn Tigers,LSU Tigers,335,-425
+2023-10-14 23:00:00,LowVig.ag,Auburn Tigers,LSU Tigers,350,-429
+2023-10-14 23:00:00,BetMGM,Auburn Tigers,LSU Tigers,310,-400
+2023-10-14 23:00:00,MyBookie.ag,Auburn Tigers,LSU Tigers,320,-429
+2023-10-14 23:00:00,DraftKings,Georgia State Panthers,Marshall Thundering Herd,-115,-105
+2023-10-14 23:00:00,Bovada,Georgia State Panthers,Marshall Thundering Herd,-115,-105
+2023-10-14 23:00:00,FanDuel,Georgia State Panthers,Marshall Thundering Herd,-113,-106
+2023-10-14 23:00:00,Barstool Sportsbook,Georgia State Panthers,Marshall Thundering Herd,-115,-105
+2023-10-14 23:00:00,TwinSpires,Georgia State Panthers,Marshall Thundering Herd,-110,-110
+2023-10-14 23:00:00,BetRivers,Georgia State Panthers,Marshall Thundering Herd,-120,-103
+2023-10-14 23:00:00,Unibet,Georgia State Panthers,Marshall Thundering Herd,-120,-103
+2023-10-14 23:00:00,PointsBet (US),Georgia State Panthers,Marshall Thundering Herd,-115,-105
+2023-10-14 23:00:00,Caesars,Georgia State Panthers,Marshall Thundering Herd,-115,-105
+2023-10-14 23:00:00,BetMGM,Georgia State Panthers,Marshall Thundering Herd,-115,-105
+2023-10-14 23:00:00,BetOnline.ag,Georgia State Panthers,Marshall Thundering Herd,-106,-114
+2023-10-14 23:00:00,BetUS,Georgia State Panthers,Marshall Thundering Herd,-110,-110
+2023-10-14 23:00:00,LowVig.ag,Georgia State Panthers,Marshall Thundering Herd,-103,-109
+2023-10-14 23:00:00,MyBookie.ag,Georgia State Panthers,Marshall Thundering Herd,-114,-106
+2023-10-14 23:00:00,DraftKings,Kansas State Wildcats,Texas Tech Red Raiders,-105,-115
+2023-10-14 23:00:00,FanDuel,Kansas State Wildcats,Texas Tech Red Raiders,-102,-118
+2023-10-14 23:00:00,Bovada,Kansas State Wildcats,Texas Tech Red Raiders,100,-120
+2023-10-14 23:00:00,Barstool Sportsbook,Kansas State Wildcats,Texas Tech Red Raiders,100,-120
+2023-10-14 23:00:00,Unibet,Kansas State Wildcats,Texas Tech Red Raiders,-103,-120
+2023-10-14 23:00:00,TwinSpires,Kansas State Wildcats,Texas Tech Red Raiders,-112,-109
+2023-10-14 23:00:00,BetRivers,Kansas State Wildcats,Texas Tech Red Raiders,-103,-120
+2023-10-14 23:00:00,PointsBet (US),Kansas State Wildcats,Texas Tech Red Raiders,100,-121
+2023-10-14 23:00:00,Caesars,Kansas State Wildcats,Texas Tech Red Raiders,100,-120
+2023-10-14 23:00:00,BetOnline.ag,Kansas State Wildcats,Texas Tech Red Raiders,-102,-118
+2023-10-14 23:00:00,SuperBook,Kansas State Wildcats,Texas Tech Red Raiders,100,-120
+2023-10-14 23:00:00,BetUS,Kansas State Wildcats,Texas Tech Red Raiders,100,-120
+2023-10-14 23:00:00,LowVig.ag,Kansas State Wildcats,Texas Tech Red Raiders,-102,-118
+2023-10-14 23:00:00,BetMGM,Kansas State Wildcats,Texas Tech Red Raiders,-105,-115
+2023-10-14 23:00:00,MyBookie.ag,Kansas State Wildcats,Texas Tech Red Raiders,-105,-116
+2023-10-14 23:00:00,DraftKings,Texas State Bobcats,UL Monroe Warhawks,-800,550
+2023-10-14 23:00:00,Bovada,Texas State Bobcats,UL Monroe Warhawks,-800,525
+2023-10-14 23:00:00,FanDuel,Texas State Bobcats,UL Monroe Warhawks,-750,520
+2023-10-14 23:00:00,Barstool Sportsbook,Texas State Bobcats,UL Monroe Warhawks,-800,550
+2023-10-14 23:00:00,BetRivers,Texas State Bobcats,UL Monroe Warhawks,-715,480
+2023-10-14 23:00:00,Unibet,Texas State Bobcats,UL Monroe Warhawks,-715,480
+2023-10-14 23:00:00,TwinSpires,Texas State Bobcats,UL Monroe Warhawks,-110,-110
+2023-10-14 23:00:00,PointsBet (US),Texas State Bobcats,UL Monroe Warhawks,-826,540
+2023-10-14 23:00:00,Caesars,Texas State Bobcats,UL Monroe Warhawks,-800,550
+2023-10-14 23:00:00,BetMGM,Texas State Bobcats,UL Monroe Warhawks,-800,550
+2023-10-14 23:00:00,BetOnline.ag,Texas State Bobcats,UL Monroe Warhawks,-833,580
+2023-10-14 23:00:00,SuperBook,Texas State Bobcats,UL Monroe Warhawks,-850,550
+2023-10-14 23:00:00,BetUS,Texas State Bobcats,UL Monroe Warhawks,-800,550
+2023-10-14 23:00:00,LowVig.ag,Texas State Bobcats,UL Monroe Warhawks,-800,580
+2023-10-14 23:00:00,MyBookie.ag,Texas State Bobcats,UL Monroe Warhawks,-699,470
+2023-10-14 23:30:00,DraftKings,Kentucky Wildcats,Missouri Tigers,-135,114
+2023-10-14 23:30:00,FanDuel,Kentucky Wildcats,Missouri Tigers,-134,112
+2023-10-14 23:30:00,Barstool Sportsbook,Kentucky Wildcats,Missouri Tigers,-135,115
+2023-10-14 23:30:00,BetMGM,Kentucky Wildcats,Missouri Tigers,-140,115
+2023-10-14 23:30:00,PointsBet (US),Kentucky Wildcats,Missouri Tigers,-140,120
+2023-10-14 23:30:00,Caesars,Kentucky Wildcats,Missouri Tigers,-135,115
+2023-10-14 23:30:00,Bovada,Kentucky Wildcats,Missouri Tigers,-140,120
+2023-10-14 23:30:00,BetOnline.ag,Kentucky Wildcats,Missouri Tigers,-141,120
+2023-10-14 23:30:00,SuperBook,Kentucky Wildcats,Missouri Tigers,-140,120
+2023-10-14 23:30:00,BetRivers,Kentucky Wildcats,Missouri Tigers,-141,112
+2023-10-14 23:30:00,Unibet,Kentucky Wildcats,Missouri Tigers,-141,112
+2023-10-14 23:30:00,TwinSpires,Kentucky Wildcats,Missouri Tigers,-109,-112
+2023-10-14 23:30:00,BetUS,Kentucky Wildcats,Missouri Tigers,-135,115
+2023-10-14 23:30:00,LowVig.ag,Kentucky Wildcats,Missouri Tigers,-140,120
+2023-10-14 23:30:00,MyBookie.ag,Kentucky Wildcats,Missouri Tigers,-136,112
+2023-10-14 23:30:00,DraftKings,Miami Hurricanes,North Carolina Tar Heels,145,-175
+2023-10-14 23:30:00,FanDuel,Miami Hurricanes,North Carolina Tar Heels,158,-192
+2023-10-14 23:30:00,Bovada,Miami Hurricanes,North Carolina Tar Heels,150,-175
+2023-10-14 23:30:00,Barstool Sportsbook,Miami Hurricanes,North Carolina Tar Heels,155,-185
+2023-10-14 23:30:00,TwinSpires,Miami Hurricanes,North Carolina Tar Heels,-110,-110
+2023-10-14 23:30:00,BetRivers,Miami Hurricanes,North Carolina Tar Heels,143,-175
+2023-10-14 23:30:00,Unibet,Miami Hurricanes,North Carolina Tar Heels,143,-175
+2023-10-14 23:30:00,PointsBet (US),Miami Hurricanes,North Carolina Tar Heels,150,-180
+2023-10-14 23:30:00,Caesars,Miami Hurricanes,North Carolina Tar Heels,150,-178
+2023-10-14 23:30:00,BetMGM,Miami Hurricanes,North Carolina Tar Heels,150,-185
+2023-10-14 23:30:00,BetOnline.ag,Miami Hurricanes,North Carolina Tar Heels,150,-169
+2023-10-14 23:30:00,SuperBook,Miami Hurricanes,North Carolina Tar Heels,150,-180
+2023-10-14 23:30:00,BetUS,Miami Hurricanes,North Carolina Tar Heels,155,-180
+2023-10-14 23:30:00,LowVig.ag,Miami Hurricanes,North Carolina Tar Heels,150,-170
+2023-10-14 23:30:00,MyBookie.ag,Miami Hurricanes,North Carolina Tar Heels,151,-186
+2023-10-14 23:30:00,BetRivers,Notre Dame Fighting Irish,USC Trojans,-130,105
+2023-10-14 23:30:00,Unibet,Notre Dame Fighting Irish,USC Trojans,-130,105
+2023-10-14 23:30:00,FanDuel,Notre Dame Fighting Irish,USC Trojans,-134,112
+2023-10-14 23:30:00,TwinSpires,Notre Dame Fighting Irish,USC Trojans,-109,-112
+2023-10-14 23:30:00,DraftKings,Notre Dame Fighting Irish,USC Trojans,-142,120
+2023-10-14 23:30:00,Barstool Sportsbook,Notre Dame Fighting Irish,USC Trojans,-135,115
+2023-10-14 23:30:00,BetMGM,Notre Dame Fighting Irish,USC Trojans,-135,110
+2023-10-14 23:30:00,PointsBet (US),Notre Dame Fighting Irish,USC Trojans,-136,115
+2023-10-14 23:30:00,Caesars,Notre Dame Fighting Irish,USC Trojans,-140,118
+2023-10-14 23:30:00,BetOnline.ag,Notre Dame Fighting Irish,USC Trojans,-135,115
+2023-10-14 23:30:00,SuperBook,Notre Dame Fighting Irish,USC Trojans,-135,115
+2023-10-14 23:30:00,BetUS,Notre Dame Fighting Irish,USC Trojans,-135,115
+2023-10-14 23:30:00,LowVig.ag,Notre Dame Fighting Irish,USC Trojans,-135,115
+2023-10-14 23:30:00,MyBookie.ag,Notre Dame Fighting Irish,USC Trojans,-140,114
+2023-10-15 00:00:00,DraftKings,Duke Blue Devils,NC State Wolfpack,-175,145
+2023-10-15 00:00:00,FanDuel,Duke Blue Devils,NC State Wolfpack,-182,150
+2023-10-15 00:00:00,Barstool Sportsbook,Duke Blue Devils,NC State Wolfpack,-175,150
+2023-10-15 00:00:00,PointsBet (US),Duke Blue Devils,NC State Wolfpack,-176,145
+2023-10-15 00:00:00,Caesars,Duke Blue Devils,NC State Wolfpack,-170,143
+2023-10-15 00:00:00,BetOnline.ag,Duke Blue Devils,NC State Wolfpack,-169,150
+2023-10-15 00:00:00,SuperBook,Duke Blue Devils,NC State Wolfpack,-170,145
+2023-10-15 00:00:00,BetRivers,Duke Blue Devils,NC State Wolfpack,-167,132
+2023-10-15 00:00:00,Unibet,Duke Blue Devils,NC State Wolfpack,-167,132
+2023-10-15 00:00:00,TwinSpires,Duke Blue Devils,NC State Wolfpack,-112,-109
+2023-10-15 00:00:00,BetUS,Duke Blue Devils,NC State Wolfpack,-170,148
+2023-10-15 00:00:00,LowVig.ag,Duke Blue Devils,NC State Wolfpack,-170,150
+2023-10-15 00:00:00,MyBookie.ag,Duke Blue Devils,NC State Wolfpack,-181,147
+2023-10-15 00:00:00,DraftKings,Oregon State Beavers,UCLA Bruins,-185,154
+2023-10-15 00:00:00,FanDuel,Oregon State Beavers,UCLA Bruins,-182,150
+2023-10-15 00:00:00,Barstool Sportsbook,Oregon State Beavers,UCLA Bruins,-185,155
+2023-10-15 00:00:00,PointsBet (US),Oregon State Beavers,UCLA Bruins,-186,155
+2023-10-15 00:00:00,Caesars,Oregon State Beavers,UCLA Bruins,-190,158
+2023-10-15 00:00:00,BetOnline.ag,Oregon State Beavers,UCLA Bruins,-179,160
+2023-10-15 00:00:00,SuperBook,Oregon State Beavers,UCLA Bruins,-185,155
+2023-10-15 00:00:00,BetRivers,Oregon State Beavers,UCLA Bruins,-180,140
+2023-10-15 00:00:00,Unibet,Oregon State Beavers,UCLA Bruins,-180,140
+2023-10-15 00:00:00,TwinSpires,Oregon State Beavers,UCLA Bruins,-109,-112
+2023-10-15 00:00:00,BetUS,Oregon State Beavers,UCLA Bruins,-180,155
+2023-10-15 00:00:00,LowVig.ag,Oregon State Beavers,UCLA Bruins,-180,160
+2023-10-15 00:00:00,MyBookie.ag,Oregon State Beavers,UCLA Bruins,-186,151
+2023-10-15 00:00:00,DraftKings,UAB Blazers,UTSA Roadrunners,300,-380
+2023-10-15 00:00:00,Bovada,UAB Blazers,UTSA Roadrunners,290,-380
+2023-10-15 00:00:00,FanDuel,UAB Blazers,UTSA Roadrunners,285,-365
+2023-10-15 00:00:00,Barstool Sportsbook,UAB Blazers,UTSA Roadrunners,300,-380
+2023-10-15 00:00:00,PointsBet (US),UAB Blazers,UTSA Roadrunners,300,-391
+2023-10-15 00:00:00,Caesars,UAB Blazers,UTSA Roadrunners,300,-385
+2023-10-15 00:00:00,BetOnline.ag,UAB Blazers,UTSA Roadrunners,300,-370
+2023-10-15 00:00:00,SuperBook,UAB Blazers,UTSA Roadrunners,300,-400
+2023-10-15 00:00:00,TwinSpires,UAB Blazers,UTSA Roadrunners,-108,-113
+2023-10-15 00:00:00,BetRivers,UAB Blazers,UTSA Roadrunners,280,-375
+2023-10-15 00:00:00,Unibet,UAB Blazers,UTSA Roadrunners,280,-375
+2023-10-15 00:00:00,BetUS,UAB Blazers,UTSA Roadrunners,320,-400
+2023-10-15 00:00:00,LowVig.ag,UAB Blazers,UTSA Roadrunners,300,-370
+2023-10-15 00:00:00,MyBookie.ag,UAB Blazers,UTSA Roadrunners,275,-359
+2023-10-15 01:45:00,DraftKings,Boise State Broncos,Colorado State Rams,-298,240
+2023-10-15 01:45:00,FanDuel,Boise State Broncos,Colorado State Rams,-315,250
+2023-10-15 01:45:00,Bovada,Boise State Broncos,Colorado State Rams,-290,240
+2023-10-15 01:45:00,Barstool Sportsbook,Boise State Broncos,Colorado State Rams,-280,230
+2023-10-15 01:45:00,PointsBet (US),Boise State Broncos,Colorado State Rams,-310,245
+2023-10-15 01:45:00,Caesars,Boise State Broncos,Colorado State Rams,-305,240
+2023-10-15 01:45:00,BetOnline.ag,Boise State Broncos,Colorado State Rams,-294,245
+2023-10-15 01:45:00,SuperBook,Boise State Broncos,Colorado State Rams,-310,250
+2023-10-15 01:45:00,BetRivers,Boise State Broncos,Colorado State Rams,-295,225
+2023-10-15 01:45:00,Unibet,Boise State Broncos,Colorado State Rams,-295,225
+2023-10-15 01:45:00,TwinSpires,Boise State Broncos,Colorado State Rams,-110,-110
+2023-10-15 01:45:00,BetUS,Boise State Broncos,Colorado State Rams,-290,240
+2023-10-15 01:45:00,LowVig.ag,Boise State Broncos,Colorado State Rams,-290,245
+2023-10-15 01:45:00,MyBookie.ag,Boise State Broncos,Colorado State Rams,-284,224
+2023-10-15 03:00:00,DraftKings,Hawaii Rainbow Warriors,San Diego State Aztecs,200,-245
+2023-10-15 03:00:00,FanDuel,Hawaii Rainbow Warriors,San Diego State Aztecs,188,-230
+2023-10-15 03:00:00,Bovada,Hawaii Rainbow Warriors,San Diego State Aztecs,190,-230
+2023-10-15 03:00:00,Barstool Sportsbook,Hawaii Rainbow Warriors,San Diego State Aztecs,190,-225
+2023-10-15 03:00:00,PointsBet (US),Hawaii Rainbow Warriors,San Diego State Aztecs,190,-236
+2023-10-15 03:00:00,Caesars,Hawaii Rainbow Warriors,San Diego State Aztecs,192,-235
+2023-10-15 03:00:00,BetOnline.ag,Hawaii Rainbow Warriors,San Diego State Aztecs,190,-217
+2023-10-15 03:00:00,SuperBook,Hawaii Rainbow Warriors,San Diego State Aztecs,190,-240
+2023-10-15 03:00:00,BetUS,Hawaii Rainbow Warriors,San Diego State Aztecs,195,-235
+2023-10-15 03:00:00,BetRivers,Hawaii Rainbow Warriors,San Diego State Aztecs,175,-225
+2023-10-15 03:00:00,Unibet,Hawaii Rainbow Warriors,San Diego State Aztecs,175,-225
+2023-10-15 03:00:00,TwinSpires,Hawaii Rainbow Warriors,San Diego State Aztecs,-112,-109
+2023-10-15 03:00:00,LowVig.ag,Hawaii Rainbow Warriors,San Diego State Aztecs,190,-220
+2023-10-15 03:00:00,MyBookie.ag,Hawaii Rainbow Warriors,San Diego State Aztecs,188,-235
+2023-10-10 20:07:00,DraftKings,Houston Astros,Minnesota Twins,-10000,2200
+2023-10-10 20:07:00,FanDuel,Houston Astros,Minnesota Twins,-8000,3500
+2023-10-10 20:07:00,PointsBet (US),Houston Astros,Minnesota Twins,-5989,1700
+2023-10-10 20:07:00,Caesars,Houston Astros,Minnesota Twins,-10000,2200
+2023-10-10 20:07:00,BetMGM,Houston Astros,Minnesota Twins,-10000,1900
+2023-10-10 20:07:00,Barstool Sportsbook,Houston Astros,Minnesota Twins,-5000,1800
+2023-10-10 20:07:00,MyBookie.ag,Houston Astros,Minnesota Twins,-10000,1350
+2023-10-10 20:07:00,WynnBET,Houston Astros,Minnesota Twins,-164,115
+2023-10-10 20:07:00,Unibet,Houston Astros,Minnesota Twins,-167,133
+2023-10-10 20:07:00,TwinSpires,Houston Astros,Minnesota Twins,-167,133
+2023-10-10 20:07:00,Bovada,Houston Astros,Minnesota Twins,-3300,1200
+2023-10-11 00:03:00,DraftKings,Baltimore Orioles,Texas Rangers,114,-135
+2023-10-11 00:03:00,FanDuel,Baltimore Orioles,Texas Rangers,120,-142
+2023-10-11 00:03:00,PointsBet (US),Baltimore Orioles,Texas Rangers,120,-145
+2023-10-11 00:03:00,BetMGM,Baltimore Orioles,Texas Rangers,115,-135
+2023-10-11 00:03:00,Barstool Sportsbook,Baltimore Orioles,Texas Rangers,120,-140
+2023-10-11 00:03:00,MyBookie.ag,Baltimore Orioles,Texas Rangers,114,-140
+2023-10-11 00:03:00,Caesars,Baltimore Orioles,Texas Rangers,118,-140
+2023-10-11 00:03:00,BetRivers,Baltimore Orioles,Texas Rangers,117,-137
+2023-10-11 00:03:00,Unibet,Baltimore Orioles,Texas Rangers,117,-137
+2023-10-11 00:03:00,TwinSpires,Baltimore Orioles,Texas Rangers,117,-137
+2023-10-11 00:03:00,SuperBook,Baltimore Orioles,Texas Rangers,120,-140
+2023-10-11 00:03:00,Bovada,Baltimore Orioles,Texas Rangers,119,-142
+2023-10-11 00:03:00,WynnBET,Baltimore Orioles,Texas Rangers,125,-137
+2023-10-11 00:03:00,LowVig.ag,Baltimore Orioles,Texas Rangers,125,-136
+2023-10-11 00:03:00,BetOnline.ag,Baltimore Orioles,Texas Rangers,125,-135
+2023-10-11 00:03:00,BetUS,Baltimore Orioles,Texas Rangers,125,-140
+2023-10-11 21:07:00,DraftKings,Atlanta Braves,Philadelphia Phillies,102,-122
+2023-10-11 21:07:00,FanDuel,Atlanta Braves,Philadelphia Phillies,100,-118
+2023-10-11 21:07:00,LowVig.ag,Atlanta Braves,Philadelphia Phillies,112,-122
+2023-10-11 21:07:00,PointsBet (US),Atlanta Braves,Philadelphia Phillies,105,-125
+2023-10-11 21:07:00,BetOnline.ag,Atlanta Braves,Philadelphia Phillies,112,-122
+2023-10-11 21:07:00,Caesars,Atlanta Braves,Philadelphia Phillies,110,-130
+2023-10-11 21:07:00,Barstool Sportsbook,Atlanta Braves,Philadelphia Phillies,105,-125
+2023-10-11 21:07:00,BetMGM,Atlanta Braves,Philadelphia Phillies,105,-125
+2023-10-11 21:07:00,MyBookie.ag,Atlanta Braves,Philadelphia Phillies,103,-126
+2023-10-11 21:07:00,SuperBook,Atlanta Braves,Philadelphia Phillies,108,-128
+2023-10-11 21:07:00,WynnBET,Atlanta Braves,Philadelphia Phillies,113,-125
+2023-10-11 21:07:00,TwinSpires,Atlanta Braves,Philadelphia Phillies,110,-137
+2023-10-11 21:07:00,BetRivers,Atlanta Braves,Philadelphia Phillies,110,-127
+2023-10-11 21:07:00,Unibet,Atlanta Braves,Philadelphia Phillies,110,-127
+2023-10-11 21:07:00,Bovada,Atlanta Braves,Philadelphia Phillies,104,-124
+2023-10-12 01:07:00,DraftKings,Arizona Diamondbacks,Los Angeles Dodgers,124,-148
+2023-10-12 01:07:00,FanDuel,Arizona Diamondbacks,Los Angeles Dodgers,122,-144
+2023-10-12 01:07:00,PointsBet (US),Arizona Diamondbacks,Los Angeles Dodgers,120,-145
+2023-10-12 01:07:00,BetMGM,Arizona Diamondbacks,Los Angeles Dodgers,125,-150
+2023-10-12 01:07:00,Barstool Sportsbook,Arizona Diamondbacks,Los Angeles Dodgers,125,-145
+2023-10-12 01:07:00,MyBookie.ag,Arizona Diamondbacks,Los Angeles Dodgers,122,-149
+2023-10-12 01:07:00,SuperBook,Arizona Diamondbacks,Los Angeles Dodgers,125,-145
+2023-10-12 01:07:00,BetRivers,Arizona Diamondbacks,Los Angeles Dodgers,118,-139
+2023-10-12 01:07:00,TwinSpires,Arizona Diamondbacks,Los Angeles Dodgers,118,-139
+2023-10-12 01:07:00,Unibet,Arizona Diamondbacks,Los Angeles Dodgers,118,-139
+2023-10-12 01:07:00,Caesars,Arizona Diamondbacks,Los Angeles Dodgers,122,-145
+2023-10-12 01:07:00,Bovada,Arizona Diamondbacks,Los Angeles Dodgers,122,-145
+2023-10-12 01:07:00,WynnBET,Arizona Diamondbacks,Los Angeles Dodgers,132,-145
+2023-10-12 01:07:00,BetOnline.ag,Arizona Diamondbacks,Los Angeles Dodgers,129,-141
+2023-10-12 01:07:00,LowVig.ag,Arizona Diamondbacks,Los Angeles Dodgers,129,-140
+2023-10-12 01:07:00,BetUS,Arizona Diamondbacks,Los Angeles Dodgers,125,-140
+2023-10-24 23:30:00,DraftKings,Denver Nuggets,Los Angeles Lakers,-205,170
+2023-10-24 23:30:00,FanDuel,Denver Nuggets,Los Angeles Lakers,-215,180
+2023-10-24 23:30:00,Caesars,Denver Nuggets,Los Angeles Lakers,-205,170
+2023-10-24 23:30:00,Bovada,Denver Nuggets,Los Angeles Lakers,-210,175
+2023-10-24 23:30:00,SuperBook,Denver Nuggets,Los Angeles Lakers,-110,-110
+2023-10-24 23:30:00,BetOnline.ag,Denver Nuggets,Los Angeles Lakers,-110,-110
+2023-10-24 23:30:00,LowVig.ag,Denver Nuggets,Los Angeles Lakers,-105,-105
+2023-10-24 23:30:00,BetMGM,Denver Nuggets,Los Angeles Lakers,-210,170
+2023-10-24 23:30:00,BetRivers,Denver Nuggets,Los Angeles Lakers,-205,170
+2023-10-24 23:30:00,Unibet,Denver Nuggets,Los Angeles Lakers,-205,170
+2023-10-24 23:30:00,MyBookie.ag,Denver Nuggets,Los Angeles Lakers,-196,157
+2023-10-24 23:30:00,Barstool Sportsbook,Denver Nuggets,Los Angeles Lakers,-210,160
+2023-10-24 23:30:00,PointsBet (US),Denver Nuggets,Los Angeles Lakers,-200,165
+2023-10-24 23:30:00,TwinSpires,Denver Nuggets,Los Angeles Lakers,-205,170
+2023-10-25 02:00:00,DraftKings,Golden State Warriors,Phoenix Suns,-110,-110
+2023-10-25 02:00:00,FanDuel,Golden State Warriors,Phoenix Suns,-106,-110
+2023-10-25 02:00:00,Caesars,Golden State Warriors,Phoenix Suns,100,-120
+2023-10-25 02:00:00,Bovada,Golden State Warriors,Phoenix Suns,-115,-105
+2023-10-25 02:00:00,SuperBook,Golden State Warriors,Phoenix Suns,-110,-110
+2023-10-25 02:00:00,BetOnline.ag,Golden State Warriors,Phoenix Suns,-116,-104
+2023-10-25 02:00:00,LowVig.ag,Golden State Warriors,Phoenix Suns,-108,-102
+2023-10-25 02:00:00,BetMGM,Golden State Warriors,Phoenix Suns,-120,100
+2023-10-25 02:00:00,BetRivers,Golden State Warriors,Phoenix Suns,-103,-117
+2023-10-25 02:00:00,Unibet,Golden State Warriors,Phoenix Suns,-103,-117
+2023-10-25 02:00:00,MyBookie.ag,Golden State Warriors,Phoenix Suns,-116,-105
+2023-10-25 02:00:00,PointsBet (US),Golden State Warriors,Phoenix Suns,-115,-105
+2023-10-25 02:00:00,TwinSpires,Golden State Warriors,Phoenix Suns,-103,-117
+2023-10-25 23:00:00,FanDuel,Atlanta Hawks,Charlotte Hornets,-120,102
+2023-10-25 23:00:00,DraftKings,Atlanta Hawks,Charlotte Hornets,-125,105
+2023-10-25 23:00:00,BetMGM,Atlanta Hawks,Charlotte Hornets,-125,105
+2023-10-25 23:00:00,MyBookie.ag,Atlanta Hawks,Charlotte Hornets,-125,102
+2023-10-25 23:00:00,Caesars,Atlanta Hawks,Charlotte Hornets,-125,105
+2023-10-25 23:00:00,LowVig.ag,Atlanta Hawks,Charlotte Hornets,-105,-105
+2023-10-25 23:00:00,BetOnline.ag,Atlanta Hawks,Charlotte Hornets,-110,-110
+2023-10-25 23:00:00,Bovada,Atlanta Hawks,Charlotte Hornets,-125,105
+2023-10-25 23:00:00,Barstool Sportsbook,Atlanta Hawks,Charlotte Hornets,-125,100
+2023-10-25 23:00:00,Unibet,Atlanta Hawks,Charlotte Hornets,-124,102
+2023-10-25 23:00:00,BetRivers,Atlanta Hawks,Charlotte Hornets,-124,102
+2023-10-25 23:00:00,TwinSpires,Atlanta Hawks,Charlotte Hornets,-124,102
+2023-10-25 23:00:00,FanDuel,Boston Celtics,New York Knicks,-136,116
+2023-10-25 23:00:00,DraftKings,Boston Celtics,New York Knicks,-135,114
+2023-10-25 23:00:00,BetMGM,Boston Celtics,New York Knicks,-125,105
+2023-10-25 23:00:00,MyBookie.ag,Boston Celtics,New York Knicks,-136,111
+2023-10-25 23:00:00,Caesars,Boston Celtics,New York Knicks,-135,115
+2023-10-25 23:00:00,LowVig.ag,Boston Celtics,New York Knicks,-105,-105
+2023-10-25 23:00:00,BetOnline.ag,Boston Celtics,New York Knicks,-110,-110
+2023-10-25 23:00:00,Bovada,Boston Celtics,New York Knicks,-135,115
+2023-10-25 23:00:00,Barstool Sportsbook,Boston Celtics,New York Knicks,-135,110
+2023-10-25 23:00:00,BetRivers,Boston Celtics,New York Knicks,-136,112
+2023-10-25 23:00:00,Unibet,Boston Celtics,New York Knicks,-136,112
+2023-10-25 23:00:00,TwinSpires,Boston Celtics,New York Knicks,-136,112
+2023-10-25 23:00:00,FanDuel,Houston Rockets,Orlando Magic,126,-148
+2023-10-25 23:00:00,DraftKings,Houston Rockets,Orlando Magic,136,-162
+2023-10-25 23:00:00,BetMGM,Houston Rockets,Orlando Magic,135,-160
+2023-10-25 23:00:00,MyBookie.ag,Houston Rockets,Orlando Magic,127,-156
+2023-10-25 23:00:00,Caesars,Houston Rockets,Orlando Magic,135,-160
+2023-10-25 23:00:00,LowVig.ag,Houston Rockets,Orlando Magic,-105,-105
+2023-10-25 23:00:00,BetOnline.ag,Houston Rockets,Orlando Magic,-110,-110
+2023-10-25 23:00:00,Bovada,Houston Rockets,Orlando Magic,135,-160
+2023-10-25 23:00:00,Barstool Sportsbook,Houston Rockets,Orlando Magic,130,-160
+2023-10-25 23:00:00,Unibet,Houston Rockets,Orlando Magic,115,-139
+2023-10-25 23:00:00,BetRivers,Houston Rockets,Orlando Magic,115,-139
+2023-10-25 23:00:00,TwinSpires,Houston Rockets,Orlando Magic,115,-139
+2023-10-25 23:00:00,FanDuel,Indiana Pacers,Washington Wizards,-330,265
+2023-10-25 23:00:00,DraftKings,Indiana Pacers,Washington Wizards,-325,260
+2023-10-25 23:00:00,BetMGM,Indiana Pacers,Washington Wizards,-350,260
+2023-10-25 23:00:00,MyBookie.ag,Indiana Pacers,Washington Wizards,-303,237
+2023-10-25 23:00:00,Caesars,Indiana Pacers,Washington Wizards,-335,260
+2023-10-25 23:00:00,LowVig.ag,Indiana Pacers,Washington Wizards,-105,-105
+2023-10-25 23:00:00,BetOnline.ag,Indiana Pacers,Washington Wizards,-110,-110
+2023-10-25 23:00:00,Bovada,Indiana Pacers,Washington Wizards,-320,260
+2023-10-25 23:00:00,Barstool Sportsbook,Indiana Pacers,Washington Wizards,-325,240
+2023-10-25 23:00:00,TwinSpires,Indiana Pacers,Washington Wizards,-305,240
+2023-10-25 23:00:00,BetRivers,Indiana Pacers,Washington Wizards,-305,240
+2023-10-25 23:00:00,Unibet,Indiana Pacers,Washington Wizards,-305,240
+2023-10-25 23:30:00,FanDuel,Brooklyn Nets,Cleveland Cavaliers,-102,-116
+2023-10-25 23:30:00,DraftKings,Brooklyn Nets,Cleveland Cavaliers,105,-125
+2023-10-25 23:30:00,BetMGM,Brooklyn Nets,Cleveland Cavaliers,105,-125
+2023-10-25 23:30:00,MyBookie.ag,Brooklyn Nets,Cleveland Cavaliers,100,-121
+2023-10-25 23:30:00,Caesars,Brooklyn Nets,Cleveland Cavaliers,105,-125
+2023-10-25 23:30:00,LowVig.ag,Brooklyn Nets,Cleveland Cavaliers,-105,-105
+2023-10-25 23:30:00,BetOnline.ag,Brooklyn Nets,Cleveland Cavaliers,-110,-110
+2023-10-25 23:30:00,Bovada,Brooklyn Nets,Cleveland Cavaliers,105,-125
+2023-10-25 23:30:00,Barstool Sportsbook,Brooklyn Nets,Cleveland Cavaliers,100,-125
+2023-10-25 23:30:00,Unibet,Brooklyn Nets,Cleveland Cavaliers,-105,-117
+2023-10-25 23:30:00,BetRivers,Brooklyn Nets,Cleveland Cavaliers,-105,-117
+2023-10-25 23:30:00,TwinSpires,Brooklyn Nets,Cleveland Cavaliers,-105,-117
+2023-10-25 23:30:00,FanDuel,Detroit Pistons,Miami Heat,360,-460
+2023-10-25 23:30:00,DraftKings,Detroit Pistons,Miami Heat,340,-440
+2023-10-25 23:30:00,BetMGM,Detroit Pistons,Miami Heat,400,-550
+2023-10-25 23:30:00,MyBookie.ag,Detroit Pistons,Miami Heat,377,-526
+2023-10-25 23:30:00,Caesars,Detroit Pistons,Miami Heat,400,-550
+2023-10-25 23:30:00,LowVig.ag,Detroit Pistons,Miami Heat,-105,-105
+2023-10-25 23:30:00,BetOnline.ag,Detroit Pistons,Miami Heat,-110,-110
+2023-10-25 23:30:00,Bovada,Detroit Pistons,Miami Heat,400,-575
+2023-10-25 23:30:00,Barstool Sportsbook,Detroit Pistons,Miami Heat,350,-550
+2023-10-25 23:30:00,Unibet,Detroit Pistons,Miami Heat,350,-480
+2023-10-25 23:30:00,BetRivers,Detroit Pistons,Miami Heat,350,-480
+2023-10-25 23:30:00,TwinSpires,Detroit Pistons,Miami Heat,350,-480
+2023-10-25 23:30:00,FanDuel,Minnesota Timberwolves,Toronto Raptors,-102,-116
+2023-10-25 23:30:00,TwinSpires,Minnesota Timberwolves,Toronto Raptors,-109,-112
+2023-10-25 23:30:00,BetOnline.ag,Minnesota Timberwolves,Toronto Raptors,-110,-110
+2023-10-25 23:30:00,LowVig.ag,Minnesota Timberwolves,Toronto Raptors,-105,-105
+2023-10-25 23:30:00,Bovada,Minnesota Timberwolves,Toronto Raptors,-110,-110
+2023-10-25 23:30:00,Caesars,Minnesota Timberwolves,Toronto Raptors,-110,-110
+2023-10-25 23:30:00,BetMGM,Minnesota Timberwolves,Toronto Raptors,-105,-115
+2023-10-25 23:30:00,Unibet,Minnesota Timberwolves,Toronto Raptors,-109,-112
+2023-10-25 23:30:00,BetRivers,Minnesota Timberwolves,Toronto Raptors,-109,-112
+2023-10-25 23:30:00,MyBookie.ag,Minnesota Timberwolves,Toronto Raptors,-105,-116
+2023-10-25 23:30:00,Barstool Sportsbook,Minnesota Timberwolves,Toronto Raptors,-105,-115
+2023-10-26 00:00:00,FanDuel,Chicago Bulls,Oklahoma City Thunder,-118,100
+2023-10-26 00:00:00,DraftKings,Chicago Bulls,Oklahoma City Thunder,-110,-110
+2023-10-26 00:00:00,BetMGM,Chicago Bulls,Oklahoma City Thunder,-115,-105
+2023-10-26 00:00:00,MyBookie.ag,Chicago Bulls,Oklahoma City Thunder,-114,-106
+2023-10-26 00:00:00,Caesars,Chicago Bulls,Oklahoma City Thunder,-120,100
+2023-10-26 00:00:00,LowVig.ag,Chicago Bulls,Oklahoma City Thunder,-105,-105
+2023-10-26 00:00:00,BetOnline.ag,Chicago Bulls,Oklahoma City Thunder,-110,-110
+2023-10-26 00:00:00,Bovada,Chicago Bulls,Oklahoma City Thunder,-120,100
+2023-10-26 00:00:00,Barstool Sportsbook,Chicago Bulls,Oklahoma City Thunder,-115,-105
+2023-10-26 00:00:00,Unibet,Chicago Bulls,Oklahoma City Thunder,-121,100
+2023-10-26 00:00:00,BetRivers,Chicago Bulls,Oklahoma City Thunder,-121,100
+2023-10-26 00:00:00,TwinSpires,Chicago Bulls,Oklahoma City Thunder,-121,100
+2023-10-26 00:00:00,FanDuel,Memphis Grizzlies,New Orleans Pelicans,-136,116
+2023-10-26 00:00:00,DraftKings,Memphis Grizzlies,New Orleans Pelicans,-125,105
+2023-10-26 00:00:00,BetMGM,Memphis Grizzlies,New Orleans Pelicans,-125,105
+2023-10-26 00:00:00,Caesars,Memphis Grizzlies,New Orleans Pelicans,-125,105
+2023-10-26 00:00:00,BetOnline.ag,Memphis Grizzlies,New Orleans Pelicans,-115,-105
+2023-10-26 00:00:00,LowVig.ag,Memphis Grizzlies,New Orleans Pelicans,-110,100
+2023-10-26 00:00:00,Bovada,Memphis Grizzlies,New Orleans Pelicans,-125,105
+2023-10-26 00:00:00,MyBookie.ag,Memphis Grizzlies,New Orleans Pelicans,-125,102
+2023-10-26 00:00:00,Barstool Sportsbook,Memphis Grizzlies,New Orleans Pelicans,-130,105
+2023-10-26 00:00:00,Unibet,Memphis Grizzlies,New Orleans Pelicans,-137,114
+2023-10-26 00:00:00,BetRivers,Memphis Grizzlies,New Orleans Pelicans,-137,114
+2023-10-26 00:00:00,TwinSpires,Memphis Grizzlies,New Orleans Pelicans,-137,114
+2023-10-26 01:00:00,FanDuel,Sacramento Kings,Utah Jazz,-118,100
+2023-10-26 01:00:00,DraftKings,Sacramento Kings,Utah Jazz,-118,-102
+2023-10-26 01:00:00,MyBookie.ag,Sacramento Kings,Utah Jazz,-119,-102
+2023-10-26 01:00:00,Caesars,Sacramento Kings,Utah Jazz,-120,100
+2023-10-26 01:00:00,LowVig.ag,Sacramento Kings,Utah Jazz,-105,-105
+2023-10-26 01:00:00,BetOnline.ag,Sacramento Kings,Utah Jazz,-110,-110
+2023-10-26 01:00:00,Bovada,Sacramento Kings,Utah Jazz,-120,100
+2023-10-26 01:00:00,Barstool Sportsbook,Sacramento Kings,Utah Jazz,-120,100
+2023-10-26 01:00:00,Unibet,Sacramento Kings,Utah Jazz,-121,100
+2023-10-26 01:00:00,BetRivers,Sacramento Kings,Utah Jazz,-121,100
+2023-10-26 01:00:00,TwinSpires,Sacramento Kings,Utah Jazz,-121,100
+2023-10-26 01:30:00,FanDuel,Dallas Mavericks,San Antonio Spurs,-230,190
+2023-10-26 01:30:00,Bovada,Dallas Mavericks,San Antonio Spurs,-225,185
+2023-10-26 01:30:00,DraftKings,Dallas Mavericks,San Antonio Spurs,-198,164
+2023-10-26 01:30:00,BetMGM,Dallas Mavericks,San Antonio Spurs,-200,165
+2023-10-26 01:30:00,MyBookie.ag,Dallas Mavericks,San Antonio Spurs,-212,170
+2023-10-26 01:30:00,Caesars,Dallas Mavericks,San Antonio Spurs,-210,175
+2023-10-26 01:30:00,LowVig.ag,Dallas Mavericks,San Antonio Spurs,-105,-105
+2023-10-26 01:30:00,BetOnline.ag,Dallas Mavericks,San Antonio Spurs,-110,-110
+2023-10-26 01:30:00,Barstool Sportsbook,Dallas Mavericks,San Antonio Spurs,-210,160
+2023-10-26 01:30:00,Unibet,Dallas Mavericks,San Antonio Spurs,-220,175
+2023-10-26 01:30:00,BetRivers,Dallas Mavericks,San Antonio Spurs,-220,175
+2023-10-26 01:30:00,TwinSpires,Dallas Mavericks,San Antonio Spurs,-220,175
+2023-10-26 23:30:00,FanDuel,Milwaukee Bucks,Philadelphia 76ers,-225,188
+2023-10-26 23:30:00,Bovada,Milwaukee Bucks,Philadelphia 76ers,-210,175
+2023-10-26 23:30:00,DraftKings,Milwaukee Bucks,Philadelphia 76ers,-205,170
+2023-10-26 23:30:00,MyBookie.ag,Milwaukee Bucks,Philadelphia 76ers,-217,173
+2023-10-26 23:30:00,Caesars,Milwaukee Bucks,Philadelphia 76ers,-215,178
+2023-10-26 23:30:00,LowVig.ag,Milwaukee Bucks,Philadelphia 76ers,-105,-105
+2023-10-26 23:30:00,BetOnline.ag,Milwaukee Bucks,Philadelphia 76ers,-110,-110
+2023-10-26 23:30:00,Unibet,Milwaukee Bucks,Philadelphia 76ers,-220,180
+2023-10-26 23:30:00,BetRivers,Milwaukee Bucks,Philadelphia 76ers,-220,180
+2023-10-26 23:30:00,TwinSpires,Milwaukee Bucks,Philadelphia 76ers,-220,180
+2023-10-28 02:00:00,Bovada,Golden State Warriors,Sacramento Kings,100,-120
+2023-10-28 02:00:00,DraftKings,Golden State Warriors,Sacramento Kings,-102,-118
+2023-11-03 23:00:00,DraftKings,Brooklyn Nets,Chicago Bulls,124,-148
+2023-11-03 23:00:00,Bovada,Brooklyn Nets,Chicago Bulls,125,-145
+2023-11-03 23:00:00,MyBookie.ag,Brooklyn Nets,Chicago Bulls,122,-149
+2023-11-03 23:00:00,Barstool Sportsbook,Brooklyn Nets,Chicago Bulls,120,-150
+2023-11-03 23:00:00,DraftKings,Cleveland Cavaliers,Indiana Pacers,-115,-105
+2023-11-03 23:00:00,Bovada,Cleveland Cavaliers,Indiana Pacers,-120,100
+2023-11-03 23:00:00,MyBookie.ag,Cleveland Cavaliers,Indiana Pacers,-116,-105
+2023-11-03 23:00:00,Barstool Sportsbook,Cleveland Cavaliers,Indiana Pacers,-115,-105
+2023-11-04 00:00:00,DraftKings,Golden State Warriors,Oklahoma City Thunder,-115,-105
+2023-11-04 00:00:00,Bovada,Golden State Warriors,Oklahoma City Thunder,-115,-105
+2023-11-04 00:00:00,MyBookie.ag,Golden State Warriors,Oklahoma City Thunder,-116,-105
+2023-11-04 00:00:00,Barstool Sportsbook,Golden State Warriors,Oklahoma City Thunder,-115,-105
+2023-11-04 00:00:00,DraftKings,Miami Heat,Washington Wizards,-340,270
+2023-11-04 00:00:00,Bovada,Miami Heat,Washington Wizards,-340,270
+2023-11-04 00:00:00,MyBookie.ag,Miami Heat,Washington Wizards,-344,261
+2023-11-04 00:00:00,Barstool Sportsbook,Miami Heat,Washington Wizards,-350,250
+2023-11-04 02:00:00,DraftKings,Dallas Mavericks,Denver Nuggets,170,-205
+2023-11-04 02:00:00,Bovada,Dallas Mavericks,Denver Nuggets,170,-200
+2023-11-04 02:00:00,MyBookie.ag,Dallas Mavericks,Denver Nuggets,168,-208
+2023-11-04 02:00:00,Barstool Sportsbook,Dallas Mavericks,Denver Nuggets,160,-210
+2023-11-10 23:00:00,DraftKings,Charlotte Hornets,Washington Wizards,-105,-115
+2023-11-10 23:00:00,Bovada,Charlotte Hornets,Washington Wizards,-105,-115
+2023-11-10 23:00:00,MyBookie.ag,Charlotte Hornets,Washington Wizards,-105,-116
+2023-11-10 23:00:00,Barstool Sportsbook,Charlotte Hornets,Washington Wizards,-105,-115
+2023-11-10 23:00:00,DraftKings,Detroit Pistons,Philadelphia 76ers,205,-250
+2023-11-10 23:00:00,Bovada,Detroit Pistons,Philadelphia 76ers,210,-250
+2023-11-10 23:00:00,MyBookie.ag,Detroit Pistons,Philadelphia 76ers,198,-250
+2023-11-10 23:00:00,Barstool Sportsbook,Detroit Pistons,Philadelphia 76ers,190,-250
+2023-11-11 00:00:00,DraftKings,Houston Rockets,New Orleans Pelicans,-105,-115
+2023-11-11 00:00:00,Bovada,Houston Rockets,New Orleans Pelicans,-105,-115
+2023-11-11 00:00:00,MyBookie.ag,Houston Rockets,New Orleans Pelicans,-105,-116
+2023-11-11 00:00:00,Barstool Sportsbook,Houston Rockets,New Orleans Pelicans,-105,-115
+2023-11-11 00:00:00,DraftKings,Memphis Grizzlies,Utah Jazz,-270,220
+2023-11-11 00:00:00,Bovada,Memphis Grizzlies,Utah Jazz,-270,220
+2023-11-11 00:00:00,MyBookie.ag,Memphis Grizzlies,Utah Jazz,-270,213
+2023-11-11 00:00:00,Barstool Sportsbook,Memphis Grizzlies,Utah Jazz,-275,210
+2023-11-11 00:00:00,DraftKings,Minnesota Timberwolves,San Antonio Spurs,-148,124
+2023-11-11 00:00:00,Bovada,Minnesota Timberwolves,San Antonio Spurs,-150,130
+2023-11-11 00:00:00,MyBookie.ag,Minnesota Timberwolves,San Antonio Spurs,-149,122
+2023-11-11 00:00:00,Barstool Sportsbook,Minnesota Timberwolves,San Antonio Spurs,-150,120
+2023-11-11 00:30:00,DraftKings,Dallas Mavericks,Los Angeles Clippers,-115,-105
+2023-11-11 00:30:00,Bovada,Dallas Mavericks,Los Angeles Clippers,-115,-105
+2023-11-11 00:30:00,MyBookie.ag,Dallas Mavericks,Los Angeles Clippers,-116,-105
+2023-11-11 00:30:00,Barstool Sportsbook,Dallas Mavericks,Los Angeles Clippers,-115,-105
+2023-11-11 02:00:00,DraftKings,Oklahoma City Thunder,Sacramento Kings,120,-142
+2023-11-11 02:00:00,Bovada,Oklahoma City Thunder,Sacramento Kings,120,-140
+2023-11-11 02:00:00,MyBookie.ag,Oklahoma City Thunder,Sacramento Kings,117,-142
+2023-11-11 02:00:00,Barstool Sportsbook,Oklahoma City Thunder,Sacramento Kings,115,-140
+2023-11-14 23:00:00,DraftKings,Atlanta Hawks,Detroit Pistons,-148,124
+2023-11-14 23:00:00,Bovada,Atlanta Hawks,Detroit Pistons,-145,125
+2023-11-14 23:00:00,MyBookie.ag,Atlanta Hawks,Detroit Pistons,-149,122
+2023-11-14 23:00:00,Barstool Sportsbook,Atlanta Hawks,Detroit Pistons,-150,120
+2023-11-14 23:00:00,DraftKings,Charlotte Hornets,Miami Heat,120,-142
+2023-11-14 23:00:00,Bovada,Charlotte Hornets,Miami Heat,125,-145
+2023-11-14 23:00:00,Barstool Sportsbook,Charlotte Hornets,Miami Heat,115,-140
+2023-11-14 23:00:00,DraftKings,Indiana Pacers,Philadelphia 76ers,210,-258
+2023-11-14 23:00:00,Bovada,Indiana Pacers,Philadelphia 76ers,210,-250
+2023-11-14 23:00:00,MyBookie.ag,Indiana Pacers,Philadelphia 76ers,205,-263
+2023-11-14 23:00:00,Barstool Sportsbook,Indiana Pacers,Philadelphia 76ers,200,-260
+2023-11-14 23:30:00,DraftKings,Brooklyn Nets,Orlando Magic,-142,120
+2023-11-14 23:30:00,Bovada,Brooklyn Nets,Orlando Magic,-140,120
+2023-11-14 23:30:00,MyBookie.ag,Brooklyn Nets,Orlando Magic,-142,117
+2023-11-14 23:30:00,Barstool Sportsbook,Brooklyn Nets,Orlando Magic,-140,115
+2023-11-14 23:30:00,DraftKings,Oklahoma City Thunder,San Antonio Spurs,-310,250
+2023-11-14 23:30:00,Bovada,Oklahoma City Thunder,San Antonio Spurs,-300,250
+2023-11-14 23:30:00,Barstool Sportsbook,Oklahoma City Thunder,San Antonio Spurs,-300,225
+2023-11-15 00:00:00,DraftKings,Dallas Mavericks,New Orleans Pelicans,120,-142
+2023-11-15 00:00:00,Bovada,Dallas Mavericks,New Orleans Pelicans,120,-140
+2023-11-15 00:00:00,MyBookie.ag,Dallas Mavericks,New Orleans Pelicans,117,-142
+2023-11-15 00:00:00,Barstool Sportsbook,Dallas Mavericks,New Orleans Pelicans,115,-140
+2023-11-15 02:00:00,DraftKings,Denver Nuggets,Los Angeles Clippers,-230,190
+2023-11-15 02:00:00,MyBookie.ag,Denver Nuggets,Los Angeles Clippers,-232,184
+2023-11-15 02:00:00,Bovada,Denver Nuggets,Los Angeles Clippers,-230,190
+2023-11-15 02:00:00,Barstool Sportsbook,Denver Nuggets,Los Angeles Clippers,-225,175
+2023-11-15 02:00:00,DraftKings,Golden State Warriors,Minnesota Timberwolves,-192,160
+2023-11-15 02:00:00,Bovada,Golden State Warriors,Minnesota Timberwolves,-185,160
+2023-11-15 02:00:00,MyBookie.ag,Golden State Warriors,Minnesota Timberwolves,-192,156
+2023-11-15 02:00:00,Barstool Sportsbook,Golden State Warriors,Minnesota Timberwolves,-190,150
+2023-11-15 02:30:00,DraftKings,Los Angeles Lakers,Memphis Grizzlies,-175,145
+2023-11-15 02:30:00,Bovada,Los Angeles Lakers,Memphis Grizzlies,-170,145
+2023-11-15 02:30:00,MyBookie.ag,Los Angeles Lakers,Memphis Grizzlies,-175,143
+2023-11-15 02:30:00,Barstool Sportsbook,Los Angeles Lakers,Memphis Grizzlies,-175,135
+2023-11-17 23:00:00,DraftKings,New York Knicks,Washington Wizards,-142,120
+2023-11-17 23:00:00,Bovada,New York Knicks,Washington Wizards,-140,120
+2023-11-17 23:00:00,MyBookie.ag,New York Knicks,Washington Wizards,-142,117
+2023-11-17 23:00:00,Barstool Sportsbook,New York Knicks,Washington Wizards,-140,115
+2023-11-17 23:30:00,DraftKings,Atlanta Hawks,Philadelphia 76ers,-110,-110
+2023-11-17 23:30:00,Bovada,Atlanta Hawks,Philadelphia 76ers,-110,-110
+2023-11-17 23:30:00,MyBookie.ag,Atlanta Hawks,Philadelphia 76ers,-111,-111
+2023-11-17 23:30:00,Barstool Sportsbook,Atlanta Hawks,Philadelphia 76ers,-110,-110
+2023-11-17 23:30:00,DraftKings,Cleveland Cavaliers,Detroit Pistons,-455,350
+2023-11-17 23:30:00,Bovada,Cleveland Cavaliers,Detroit Pistons,-460,340
+2023-11-17 23:30:00,MyBookie.ag,Cleveland Cavaliers,Detroit Pistons,-384,295
+2023-11-17 23:30:00,Barstool Sportsbook,Cleveland Cavaliers,Detroit Pistons,-400,275
+2023-11-17 23:30:00,DraftKings,Sacramento Kings,San Antonio Spurs,-130,110
+2023-11-17 23:30:00,Bovada,Sacramento Kings,San Antonio Spurs,-130,110
+2023-11-17 23:30:00,MyBookie.ag,Sacramento Kings,San Antonio Spurs,-131,108
+2023-11-17 23:30:00,Barstool Sportsbook,Sacramento Kings,San Antonio Spurs,-130,105
+2023-11-18 00:00:00,DraftKings,Chicago Bulls,Orlando Magic,-148,124
+2023-11-18 00:00:00,Bovada,Chicago Bulls,Orlando Magic,-145,125
+2023-11-18 00:00:00,MyBookie.ag,Chicago Bulls,Orlando Magic,-149,122
+2023-11-18 00:00:00,Barstool Sportsbook,Chicago Bulls,Orlando Magic,-150,120
+2023-11-18 00:00:00,DraftKings,Denver Nuggets,New Orleans Pelicans,-118,-102
+2023-11-18 00:00:00,Bovada,Denver Nuggets,New Orleans Pelicans,-120,100
+2023-11-18 00:00:00,MyBookie.ag,Denver Nuggets,New Orleans Pelicans,-119,-103
+2023-11-18 00:00:00,Barstool Sportsbook,Denver Nuggets,New Orleans Pelicans,-120,100
+2023-11-18 02:30:00,DraftKings,Houston Rockets,Los Angeles Clippers,220,-270
+2023-11-18 02:30:00,Bovada,Houston Rockets,Los Angeles Clippers,220,-270
+2023-11-18 02:30:00,MyBookie.ag,Houston Rockets,Los Angeles Clippers,213,-270
+2023-11-18 02:30:00,Barstool Sportsbook,Houston Rockets,Los Angeles Clippers,210,-275
+2023-11-21 23:00:00,DraftKings,Orlando Magic,Toronto Raptors,-142,120
+2023-11-21 23:00:00,Bovada,Orlando Magic,Toronto Raptors,-140,120
+2023-11-21 23:00:00,MyBookie.ag,Orlando Magic,Toronto Raptors,-142,117
+2023-11-21 23:00:00,Barstool Sportsbook,Orlando Magic,Toronto Raptors,-140,115
+2023-11-21 23:30:00,DraftKings,Atlanta Hawks,Indiana Pacers,-192,160
+2023-11-21 23:30:00,Bovada,Atlanta Hawks,Indiana Pacers,-185,160
+2023-11-21 23:30:00,MyBookie.ag,Atlanta Hawks,Indiana Pacers,-192,156
+2023-11-21 23:30:00,Barstool Sportsbook,Atlanta Hawks,Indiana Pacers,-190,150
+2023-11-21 23:30:00,DraftKings,Cleveland Cavaliers,Philadelphia 76ers,140,-166
+2023-11-21 23:30:00,Bovada,Cleveland Cavaliers,Philadelphia 76ers,140,-165
+2023-11-21 23:30:00,MyBookie.ag,Cleveland Cavaliers,Philadelphia 76ers,136,-166
+2023-11-21 23:30:00,Barstool Sportsbook,Cleveland Cavaliers,Philadelphia 76ers,130,-165
+2023-11-22 02:00:00,DraftKings,Los Angeles Lakers,Utah Jazz,-325,260
+2023-11-22 02:00:00,Bovada,Los Angeles Lakers,Utah Jazz,-320,260
+2023-11-22 02:00:00,MyBookie.ag,Los Angeles Lakers,Utah Jazz,-322,250
+2023-11-22 02:00:00,Barstool Sportsbook,Los Angeles Lakers,Utah Jazz,-325,240
+2023-11-24 23:30:00,DraftKings,Miami Heat,New York Knicks,110,-130
+2023-11-24 23:30:00,Bovada,Miami Heat,New York Knicks,110,-130
+2023-11-24 23:30:00,MyBookie.ag,Miami Heat,New York Knicks,108,-131
+2023-11-24 23:30:00,Barstool Sportsbook,Miami Heat,New York Knicks,105,-130
+2023-11-25 00:00:00,DraftKings,Denver Nuggets,Houston Rockets,-175,145
+2023-11-25 00:00:00,Bovada,Denver Nuggets,Houston Rockets,-175,150
+2023-11-25 00:00:00,MyBookie.ag,Denver Nuggets,Houston Rockets,-175,142
+2023-11-25 00:00:00,Barstool Sportsbook,Denver Nuggets,Houston Rockets,-175,135
+2023-11-25 00:00:00,DraftKings,Detroit Pistons,Indiana Pacers,205,-250
+2023-11-25 00:00:00,Bovada,Detroit Pistons,Indiana Pacers,205,-245
+2023-11-25 00:00:00,MyBookie.ag,Detroit Pistons,Indiana Pacers,198,-250
+2023-11-25 00:00:00,Barstool Sportsbook,Detroit Pistons,Indiana Pacers,190,-250
+2023-11-25 00:00:00,DraftKings,Minnesota Timberwolves,Sacramento Kings,-142,120
+2023-11-25 00:00:00,Bovada,Minnesota Timberwolves,Sacramento Kings,-140,120
+2023-11-25 00:00:00,MyBookie.ag,Minnesota Timberwolves,Sacramento Kings,-142,117
+2023-11-25 00:00:00,Barstool Sportsbook,Minnesota Timberwolves,Sacramento Kings,-140,115
+2023-11-25 02:00:00,DraftKings,Golden State Warriors,San Antonio Spurs,-520,390
+2023-11-25 02:00:00,Bovada,Golden State Warriors,San Antonio Spurs,-525,375
+2023-11-25 02:30:00,DraftKings,Los Angeles Clippers,New Orleans Pelicans,-148,124
+2023-11-25 02:30:00,MyBookie.ag,Los Angeles Clippers,New Orleans Pelicans,-149,122
+2023-11-25 02:30:00,Barstool Sportsbook,Los Angeles Clippers,New Orleans Pelicans,-150,120
+2023-11-25 02:30:00,Bovada,Los Angeles Clippers,New Orleans Pelicans,-150,130
+2023-11-28 23:30:00,DraftKings,Atlanta Hawks,Cleveland Cavaliers,145,-175
+2023-11-28 23:30:00,Bovada,Atlanta Hawks,Cleveland Cavaliers,145,-170
+2023-11-28 23:30:00,MyBookie.ag,Atlanta Hawks,Cleveland Cavaliers,143,-175
+2023-11-28 23:30:00,Barstool Sportsbook,Atlanta Hawks,Cleveland Cavaliers,135,-175
+2023-11-28 23:30:00,DraftKings,Charlotte Hornets,New York Knicks,235,-290
+2023-11-28 23:30:00,Bovada,Charlotte Hornets,New York Knicks,235,-285
+2023-11-28 23:30:00,MyBookie.ag,Charlotte Hornets,New York Knicks,227,-294
+2023-11-28 23:30:00,Barstool Sportsbook,Charlotte Hornets,New York Knicks,220,-285
+2023-11-29 00:00:00,DraftKings,Minnesota Timberwolves,Oklahoma City Thunder,-148,124
+2023-11-29 00:00:00,Bovada,Minnesota Timberwolves,Oklahoma City Thunder,-145,125
+2023-11-29 00:00:00,MyBookie.ag,Minnesota Timberwolves,Oklahoma City Thunder,-149,122
+2023-11-29 00:00:00,Barstool Sportsbook,Minnesota Timberwolves,Oklahoma City Thunder,-150,120
+2023-11-29 00:30:00,DraftKings,Dallas Mavericks,Houston Rockets,-218,180
+2023-11-29 00:30:00,Bovada,Dallas Mavericks,Houston Rockets,-220,180
+2023-11-29 00:30:00,MyBookie.ag,Dallas Mavericks,Houston Rockets,-222,176
+2023-11-29 00:30:00,Barstool Sportsbook,Dallas Mavericks,Houston Rockets,-215,165
+2023-11-29 02:00:00,DraftKings,Golden State Warriors,Sacramento Kings,-110,-110
+2023-11-29 02:00:00,Bovada,Golden State Warriors,Sacramento Kings,-110,-110
+2023-11-29 02:00:00,MyBookie.ag,Golden State Warriors,Sacramento Kings,-109,-111
+2023-11-29 02:00:00,Barstool Sportsbook,Golden State Warriors,Sacramento Kings,-110,-110
+2023-12-25 22:00:00,DraftKings,Boston Celtics,Los Angeles Lakers,-125,105
+2023-12-25 22:00:00,FanDuel,Boston Celtics,Los Angeles Lakers,-122,104
+2023-12-25 22:00:00,Bovada,Boston Celtics,Los Angeles Lakers,-120,100
+2023-12-25 22:00:00,Caesars,Boston Celtics,Los Angeles Lakers,-130,110
+2023-12-25 22:00:00,SuperBook,Boston Celtics,Los Angeles Lakers,-110,-110
+2023-12-25 22:00:00,BetOnline.ag,Boston Celtics,Los Angeles Lakers,-110,-110
+2023-12-25 22:00:00,LowVig.ag,Boston Celtics,Los Angeles Lakers,-105,-105
+2023-12-25 22:00:00,Unibet,Boston Celtics,Los Angeles Lakers,-124,102
+2023-12-25 22:00:00,BetRivers,Boston Celtics,Los Angeles Lakers,-124,102
+2023-12-25 22:00:00,BetMGM,Boston Celtics,Los Angeles Lakers,-120,100
+2023-12-25 22:00:00,MyBookie.ag,Boston Celtics,Los Angeles Lakers,-125,102
+2023-12-25 22:00:00,Barstool Sportsbook,Boston Celtics,Los Angeles Lakers,-125,100
+2023-12-25 23:00:00,DraftKings,Denver Nuggets,Golden State Warriors,-192,160
+2023-12-25 23:00:00,FanDuel,Denver Nuggets,Golden State Warriors,-205,172
+2023-12-25 23:00:00,Bovada,Denver Nuggets,Golden State Warriors,-185,160
+2023-12-25 23:00:00,Caesars,Denver Nuggets,Golden State Warriors,-195,162
+2023-12-25 23:00:00,SuperBook,Denver Nuggets,Golden State Warriors,-110,-110
+2023-12-25 23:00:00,BetOnline.ag,Denver Nuggets,Golden State Warriors,-110,-110
+2023-12-25 23:00:00,LowVig.ag,Denver Nuggets,Golden State Warriors,-105,-105
+2023-12-25 23:00:00,Unibet,Denver Nuggets,Golden State Warriors,-205,165
+2023-12-25 23:00:00,BetRivers,Denver Nuggets,Golden State Warriors,-205,165
+2023-12-25 23:00:00,BetMGM,Denver Nuggets,Golden State Warriors,-200,165
+2023-12-25 23:00:00,DraftKings,Miami Heat,Philadelphia 76ers,-130,110
+2023-12-25 23:00:00,FanDuel,Miami Heat,Philadelphia 76ers,-130,110
+2023-12-25 23:00:00,Bovada,Miami Heat,Philadelphia 76ers,-130,110
+2023-12-25 23:00:00,Caesars,Miami Heat,Philadelphia 76ers,-135,115
+2023-12-25 23:00:00,SuperBook,Miami Heat,Philadelphia 76ers,-110,-110
+2023-12-25 23:00:00,BetOnline.ag,Miami Heat,Philadelphia 76ers,-110,-110
+2023-12-25 23:00:00,LowVig.ag,Miami Heat,Philadelphia 76ers,-105,-105
+2023-12-25 23:00:00,Unibet,Miami Heat,Philadelphia 76ers,-129,107
+2023-12-25 23:00:00,BetRivers,Miami Heat,Philadelphia 76ers,-129,107
+2023-12-25 23:00:00,MyBookie.ag,Miami Heat,Philadelphia 76ers,-131,107
+2023-12-25 23:00:00,Barstool Sportsbook,Miami Heat,Philadelphia 76ers,-130,105
+2023-12-25 23:00:00,DraftKings,Milwaukee Bucks,New York Knicks,-185,154
+2023-12-25 23:00:00,FanDuel,Milwaukee Bucks,New York Knicks,-180,150
+2023-12-25 23:00:00,Caesars,Milwaukee Bucks,New York Knicks,-160,135
+2023-12-25 23:00:00,SuperBook,Milwaukee Bucks,New York Knicks,-110,-110
+2023-12-25 23:00:00,BetOnline.ag,Milwaukee Bucks,New York Knicks,-110,-110
+2023-12-25 23:00:00,LowVig.ag,Milwaukee Bucks,New York Knicks,-105,-105
+2023-12-25 23:00:00,Unibet,Milwaukee Bucks,New York Knicks,-177,143
+2023-12-25 23:00:00,BetRivers,Milwaukee Bucks,New York Knicks,-177,143
+2023-12-26 03:30:00,DraftKings,Dallas Mavericks,Phoenix Suns,185,-225
+2023-12-26 03:30:00,FanDuel,Dallas Mavericks,Phoenix Suns,215,-260
+2023-12-26 03:30:00,Bovada,Dallas Mavericks,Phoenix Suns,185,-225
+2023-12-26 03:30:00,Caesars,Dallas Mavericks,Phoenix Suns,192,-235
+2023-12-26 03:30:00,SuperBook,Dallas Mavericks,Phoenix Suns,-110,-110
+2023-12-26 03:30:00,BetOnline.ag,Dallas Mavericks,Phoenix Suns,-110,-110
+2023-12-26 03:30:00,LowVig.ag,Dallas Mavericks,Phoenix Suns,-105,-105
+2023-12-26 03:30:00,Unibet,Dallas Mavericks,Phoenix Suns,200,-250
+2023-12-26 03:30:00,BetRivers,Dallas Mavericks,Phoenix Suns,200,-250
+2023-12-26 03:30:00,BetMGM,Dallas Mavericks,Phoenix Suns,185,-225
+2023-12-26 03:30:00,MyBookie.ag,Dallas Mavericks,Phoenix Suns,191,-238
+2023-12-26 03:30:00,Barstool Sportsbook,Dallas Mavericks,Phoenix Suns,180,-240
+2024-01-15 17:00:00,DraftKings,Houston Rockets,Philadelphia 76ers,240,-298
+2024-01-15 17:00:00,Bovada,Houston Rockets,Philadelphia 76ers,240,-290
+2024-01-15 18:30:00,DraftKings,Dallas Mavericks,New Orleans Pelicans,-162,136
+2024-01-15 18:30:00,Bovada,Dallas Mavericks,New Orleans Pelicans,-160,135
+2024-01-15 19:00:00,DraftKings,Detroit Pistons,Washington Wizards,114,-135
+2024-01-15 19:00:00,Bovada,Detroit Pistons,Washington Wizards,120,-140
+2024-01-15 19:00:00,DraftKings,New York Knicks,Orlando Magic,-225,185
+2024-01-15 19:00:00,Bovada,New York Knicks,Orlando Magic,-225,185
+2024-01-15 19:30:00,DraftKings,Atlanta Hawks,San Antonio Spurs,-310,250
+2024-01-15 19:30:00,Bovada,Atlanta Hawks,San Antonio Spurs,-300,250
+2024-01-15 22:00:00,DraftKings,Golden State Warriors,Memphis Grizzlies,110,-130
+2024-01-15 22:00:00,Bovada,Golden State Warriors,Memphis Grizzlies,110,-130
+2024-01-15 23:00:00,DraftKings,Chicago Bulls,Cleveland Cavaliers,215,-265
+2024-01-15 23:00:00,Bovada,Chicago Bulls,Cleveland Cavaliers,215,-260
+2024-01-15 23:30:00,DraftKings,Brooklyn Nets,Miami Heat,110,-130
+2024-01-15 23:30:00,Bovada,Brooklyn Nets,Miami Heat,110,-130
+2024-01-16 01:00:00,DraftKings,Indiana Pacers,Utah Jazz,-102,-118
+2024-01-16 01:00:00,Bovada,Indiana Pacers,Utah Jazz,100,-120
+2024-01-16 02:30:00,DraftKings,Los Angeles Lakers,Oklahoma City Thunder,-192,160
+2024-01-16 02:30:00,Bovada,Los Angeles Lakers,Oklahoma City Thunder,-185,160
+2023-10-10 21:32:45,Bovada,Nashville Predators,Tampa Bay Lightning,250,-350
+2023-10-10 21:32:45,Unibet,Nashville Predators,Tampa Bay Lightning,295,-400
+2023-10-10 21:32:45,FanDuel,Nashville Predators,Tampa Bay Lightning,265,-370
+2023-10-10 21:32:45,TwinSpires,Nashville Predators,Tampa Bay Lightning,295,-400
+2023-10-10 21:32:45,Caesars,Nashville Predators,Tampa Bay Lightning,240,-320
+2023-10-10 21:32:45,Barstool Sportsbook,Nashville Predators,Tampa Bay Lightning,260,-375
+2023-10-10 21:32:45,BetMGM,Nashville Predators,Tampa Bay Lightning,280,-400
+2023-10-10 21:32:45,PointsBet (US),Nashville Predators,Tampa Bay Lightning,250,-350
+2023-10-11 00:08:00,DraftKings,Chicago Blackhawks,Pittsburgh Penguins,200,-245
+2023-10-11 00:08:00,BetOnline.ag,Chicago Blackhawks,Pittsburgh Penguins,217,-244
+2023-10-11 00:08:00,BetUS,Chicago Blackhawks,Pittsburgh Penguins,220,-260
+2023-10-11 00:08:00,LowVig.ag,Chicago Blackhawks,Pittsburgh Penguins,217,-246
+2023-10-11 00:08:00,Bovada,Chicago Blackhawks,Pittsburgh Penguins,220,-270
+2023-10-11 00:08:00,Unibet,Chicago Blackhawks,Pittsburgh Penguins,210,-265
+2023-10-11 00:08:00,FanDuel,Chicago Blackhawks,Pittsburgh Penguins,205,-255
+2023-10-11 00:08:00,BetRivers,Chicago Blackhawks,Pittsburgh Penguins,210,-265
+2023-10-11 00:08:00,TwinSpires,Chicago Blackhawks,Pittsburgh Penguins,210,-265
+2023-10-11 00:08:00,SuperBook,Chicago Blackhawks,Pittsburgh Penguins,210,-260
+2023-10-11 00:08:00,Caesars,Chicago Blackhawks,Pittsburgh Penguins,205,-250
+2023-10-11 00:08:00,Barstool Sportsbook,Chicago Blackhawks,Pittsburgh Penguins,210,-250
+2023-10-11 00:08:00,BetMGM,Chicago Blackhawks,Pittsburgh Penguins,200,-250
+2023-10-11 00:08:00,PointsBet (US),Chicago Blackhawks,Pittsburgh Penguins,175,-240
+2023-10-11 03:09:00,DraftKings,Seattle Kraken,Vegas Golden Knights,142,-170
+2023-10-11 03:09:00,BetOnline.ag,Seattle Kraken,Vegas Golden Knights,142,-161
+2023-10-11 03:09:00,BetUS,Seattle Kraken,Vegas Golden Knights,135,-155
+2023-10-11 03:09:00,LowVig.ag,Seattle Kraken,Vegas Golden Knights,142,-160
+2023-10-11 03:09:00,Bovada,Seattle Kraken,Vegas Golden Knights,140,-165
+2023-10-11 03:09:00,Unibet,Seattle Kraken,Vegas Golden Knights,138,-167
+2023-10-11 03:09:00,FanDuel,Seattle Kraken,Vegas Golden Knights,138,-166
+2023-10-11 03:09:00,BetRivers,Seattle Kraken,Vegas Golden Knights,138,-167
+2023-10-11 03:09:00,TwinSpires,Seattle Kraken,Vegas Golden Knights,138,-167
+2023-10-11 03:09:00,SuperBook,Seattle Kraken,Vegas Golden Knights,140,-165
+2023-10-11 03:09:00,Caesars,Seattle Kraken,Vegas Golden Knights,140,-165
+2023-10-11 03:09:00,Barstool Sportsbook,Seattle Kraken,Vegas Golden Knights,140,-165
+2023-10-11 03:09:00,BetMGM,Seattle Kraken,Vegas Golden Knights,135,-165
+2023-10-11 03:09:00,PointsBet (US),Seattle Kraken,Vegas Golden Knights,135,-175
+2023-10-11 23:00:00,DraftKings,Carolina Hurricanes,Ottawa Senators,-205,170
+2023-10-11 23:00:00,LowVig.ag,Carolina Hurricanes,Ottawa Senators,-198,176
+2023-10-11 23:00:00,Bovada,Carolina Hurricanes,Ottawa Senators,-195,165
+2023-10-11 23:00:00,Unibet,Carolina Hurricanes,Ottawa Senators,-200,163
+2023-10-11 23:00:00,FanDuel,Carolina Hurricanes,Ottawa Senators,-205,168
+2023-10-11 23:00:00,BetRivers,Carolina Hurricanes,Ottawa Senators,-200,163
+2023-10-11 23:00:00,TwinSpires,Carolina Hurricanes,Ottawa Senators,-200,163
+2023-10-11 23:00:00,BetOnline.ag,Carolina Hurricanes,Ottawa Senators,-200,176
+2023-10-11 23:00:00,Caesars,Carolina Hurricanes,Ottawa Senators,-205,170
+2023-10-11 23:00:00,BetMGM,Carolina Hurricanes,Ottawa Senators,-210,170
+2023-10-11 23:00:00,PointsBet (US),Carolina Hurricanes,Ottawa Senators,-200,150
+2023-10-11 23:00:00,Barstool Sportsbook,Carolina Hurricanes,Ottawa Senators,-200,170
+2023-10-11 23:00:00,BetUS,Carolina Hurricanes,Ottawa Senators,-200,170
+2023-10-11 23:00:00,DraftKings,Montréal Canadiens,Toronto Maple Leafs,240,-298
+2023-10-11 23:00:00,LowVig.ag,Montréal Canadiens,Toronto Maple Leafs,241,-275
+2023-10-11 23:00:00,Bovada,Montréal Canadiens,Toronto Maple Leafs,240,-290
+2023-10-11 23:00:00,Unibet,Montréal Canadiens,Toronto Maple Leafs,235,-295
+2023-10-11 23:00:00,FanDuel,Montréal Canadiens,Toronto Maple Leafs,235,-295
+2023-10-11 23:00:00,BetRivers,Montréal Canadiens,Toronto Maple Leafs,235,-295
+2023-10-11 23:00:00,TwinSpires,Montréal Canadiens,Toronto Maple Leafs,235,-295
+2023-10-11 23:00:00,BetOnline.ag,Montréal Canadiens,Toronto Maple Leafs,241,-278
+2023-10-11 23:00:00,Caesars,Montréal Canadiens,Toronto Maple Leafs,240,-305
+2023-10-11 23:00:00,Barstool Sportsbook,Montréal Canadiens,Toronto Maple Leafs,240,-290
+2023-10-11 23:00:00,BetMGM,Montréal Canadiens,Toronto Maple Leafs,240,-300
+2023-10-11 23:00:00,PointsBet (US),Montréal Canadiens,Toronto Maple Leafs,210,-290
+2023-10-11 23:00:00,BetUS,Montréal Canadiens,Toronto Maple Leafs,250,-300
+2023-10-11 23:30:00,DraftKings,Boston Bruins,Chicago Blackhawks,-305,245
+2023-10-11 23:30:00,LowVig.ag,Boston Bruins,Chicago Blackhawks,-305,267
+2023-10-11 23:30:00,Bovada,Boston Bruins,Chicago Blackhawks,-320,260
+2023-10-11 23:30:00,Unibet,Boston Bruins,Chicago Blackhawks,-305,240
+2023-10-11 23:30:00,FanDuel,Boston Bruins,Chicago Blackhawks,-315,250
+2023-10-11 23:30:00,BetRivers,Boston Bruins,Chicago Blackhawks,-305,240
+2023-10-11 23:30:00,TwinSpires,Boston Bruins,Chicago Blackhawks,-305,240
+2023-10-11 23:30:00,BetOnline.ag,Boston Bruins,Chicago Blackhawks,-303,267
+2023-10-11 23:30:00,Caesars,Boston Bruins,Chicago Blackhawks,-320,250
+2023-10-11 23:30:00,BetMGM,Boston Bruins,Chicago Blackhawks,-300,240
+2023-10-12 02:00:00,DraftKings,Calgary Flames,Winnipeg Jets,-135,114
+2023-10-12 02:00:00,LowVig.ag,Calgary Flames,Winnipeg Jets,-130,116
+2023-10-12 02:00:00,Bovada,Calgary Flames,Winnipeg Jets,-135,115
+2023-10-12 02:00:00,Unibet,Calgary Flames,Winnipeg Jets,-141,117
+2023-10-12 02:00:00,FanDuel,Calgary Flames,Winnipeg Jets,-142,118
+2023-10-12 02:00:00,BetRivers,Calgary Flames,Winnipeg Jets,-141,117
+2023-10-12 02:00:00,TwinSpires,Calgary Flames,Winnipeg Jets,-141,117
+2023-10-12 02:00:00,BetOnline.ag,Calgary Flames,Winnipeg Jets,-130,116
+2023-10-12 02:00:00,Caesars,Calgary Flames,Winnipeg Jets,-140,118
+2023-10-12 02:00:00,BetMGM,Calgary Flames,Winnipeg Jets,-140,115
+2023-10-12 02:00:00,PointsBet (US),Calgary Flames,Winnipeg Jets,-140,105
+2023-10-12 02:00:00,Barstool Sportsbook,Calgary Flames,Winnipeg Jets,-135,115
+2023-10-12 02:00:00,BetUS,Calgary Flames,Winnipeg Jets,-140,120
+2023-10-12 02:00:00,DraftKings,Colorado Avalanche,Los Angeles Kings,-110,-110
+2023-10-12 02:00:00,LowVig.ag,Colorado Avalanche,Los Angeles Kings,-113,100
+2023-10-12 02:00:00,Bovada,Colorado Avalanche,Los Angeles Kings,-120,100
+2023-10-12 02:00:00,Unibet,Colorado Avalanche,Los Angeles Kings,-120,100
+2023-10-12 02:00:00,FanDuel,Colorado Avalanche,Los Angeles Kings,-115,-104
+2023-10-12 02:00:00,BetRivers,Colorado Avalanche,Los Angeles Kings,-120,100
+2023-10-12 02:00:00,TwinSpires,Colorado Avalanche,Los Angeles Kings,-120,100
+2023-10-12 02:00:00,BetOnline.ag,Colorado Avalanche,Los Angeles Kings,-115,102
+2023-10-12 02:00:00,Caesars,Colorado Avalanche,Los Angeles Kings,-110,-110
+2023-10-12 02:00:00,BetMGM,Colorado Avalanche,Los Angeles Kings,-110,-110
+2023-10-12 02:00:00,PointsBet (US),Colorado Avalanche,Los Angeles Kings,-115,-115
+2023-10-12 02:00:00,Barstool Sportsbook,Colorado Avalanche,Los Angeles Kings,-120,100
+2023-10-12 02:00:00,BetUS,Colorado Avalanche,Los Angeles Kings,-113,-107
+2023-10-12 02:00:00,DraftKings,Edmonton Oilers,Vancouver Canucks,-162,136
+2023-10-12 02:00:00,LowVig.ag,Edmonton Oilers,Vancouver Canucks,-162,144
+2023-10-12 02:00:00,Bovada,Edmonton Oilers,Vancouver Canucks,-165,140
+2023-10-12 02:00:00,Unibet,Edmonton Oilers,Vancouver Canucks,-162,133
+2023-10-12 02:00:00,FanDuel,Edmonton Oilers,Vancouver Canucks,-164,136
+2023-10-12 02:00:00,BetRivers,Edmonton Oilers,Vancouver Canucks,-162,133
+2023-10-12 02:00:00,TwinSpires,Edmonton Oilers,Vancouver Canucks,-162,133
+2023-10-12 02:00:00,BetOnline.ag,Edmonton Oilers,Vancouver Canucks,-161,144
+2023-10-12 02:00:00,Caesars,Edmonton Oilers,Vancouver Canucks,-165,140
+2023-10-12 02:00:00,BetMGM,Edmonton Oilers,Vancouver Canucks,-160,135
+2023-10-12 02:00:00,PointsBet (US),Edmonton Oilers,Vancouver Canucks,-170,130
+2023-10-12 02:00:00,Barstool Sportsbook,Edmonton Oilers,Vancouver Canucks,-160,140
+2023-10-12 02:00:00,BetUS,Edmonton Oilers,Vancouver Canucks,-165,145
+2023-10-12 23:00:00,DraftKings,Buffalo Sabres,New York Rangers,105,-125
+2023-10-12 23:00:00,Bovada,Buffalo Sabres,New York Rangers,100,-120
+2023-10-12 23:00:00,FanDuel,Buffalo Sabres,New York Rangers,-108,-111
+2023-10-12 23:00:00,Caesars,Buffalo Sabres,New York Rangers,105,-125
+2023-10-12 23:00:00,BetMGM,Buffalo Sabres,New York Rangers,105,-125
+2023-10-12 23:00:00,LowVig.ag,Buffalo Sabres,New York Rangers,105,-118
+2023-10-12 23:00:00,BetOnline.ag,Buffalo Sabres,New York Rangers,105,-118
+2023-10-12 23:00:00,DraftKings,Columbus Blue Jackets,Philadelphia Flyers,-130,110
+2023-10-12 23:00:00,Bovada,Columbus Blue Jackets,Philadelphia Flyers,-135,115
+2023-10-12 23:00:00,FanDuel,Columbus Blue Jackets,Philadelphia Flyers,-142,118
+2023-10-12 23:00:00,Caesars,Columbus Blue Jackets,Philadelphia Flyers,-135,115
+2023-10-12 23:00:00,BetMGM,Columbus Blue Jackets,Philadelphia Flyers,-135,115
+2023-10-12 23:00:00,PointsBet (US),Columbus Blue Jackets,Philadelphia Flyers,-130,100
+2023-10-12 23:00:00,LowVig.ag,Columbus Blue Jackets,Philadelphia Flyers,-130,116
+2023-10-12 23:00:00,BetOnline.ag,Columbus Blue Jackets,Philadelphia Flyers,-130,116
+2023-10-12 23:00:00,DraftKings,Detroit Red Wings,New Jersey Devils,210,-258
+2023-10-12 23:00:00,Bovada,Detroit Red Wings,New Jersey Devils,215,-260
+2023-10-12 23:00:00,FanDuel,Detroit Red Wings,New Jersey Devils,210,-260
+2023-10-12 23:00:00,Caesars,Detroit Red Wings,New Jersey Devils,215,-267
+2023-10-12 23:00:00,BetMGM,Detroit Red Wings,New Jersey Devils,200,-250
+2023-10-12 23:00:00,PointsBet (US),Detroit Red Wings,New Jersey Devils,230,-325
+2023-10-12 23:00:00,BetOnline.ag,Detroit Red Wings,New Jersey Devils,224,-256
+2023-10-12 23:00:00,LowVig.ag,Detroit Red Wings,New Jersey Devils,224,-255
+2023-10-13 00:00:00,DraftKings,Dallas Stars,St Louis Blues,-205,170
+2023-10-13 00:00:00,Bovada,Dallas Stars,St Louis Blues,-210,175
+2023-10-13 00:00:00,Caesars,Dallas Stars,St Louis Blues,-210,175
+2023-10-13 00:00:00,BetMGM,Dallas Stars,St Louis Blues,-210,170
+2023-10-13 00:00:00,PointsBet (US),Dallas Stars,St Louis Blues,-210,160
+2023-10-13 00:00:00,BetOnline.ag,Dallas Stars,St Louis Blues,-208,186
+2023-10-13 00:00:00,LowVig.ag,Dallas Stars,St Louis Blues,-210,186
+2023-10-13 00:00:00,DraftKings,Florida Panthers,Minnesota Wild,105,-125
+2023-10-13 00:00:00,Bovada,Florida Panthers,Minnesota Wild,110,-130
+2023-10-13 00:00:00,FanDuel,Florida Panthers,Minnesota Wild,110,-132
+2023-10-13 00:00:00,Caesars,Florida Panthers,Minnesota Wild,105,-125
+2023-10-13 00:00:00,BetMGM,Florida Panthers,Minnesota Wild,105,-125
+2023-10-13 00:00:00,PointsBet (US),Florida Panthers,Minnesota Wild,-105,-125
+2023-10-13 00:00:00,LowVig.ag,Florida Panthers,Minnesota Wild,106,-119
+2023-10-13 00:00:00,BetOnline.ag,Florida Panthers,Minnesota Wild,106,-119
+2023-10-13 00:00:00,DraftKings,Nashville Predators,Seattle Kraken,-105,-115
+2023-10-13 00:00:00,Bovada,Nashville Predators,Seattle Kraken,-105,-115
+2023-10-13 00:00:00,FanDuel,Nashville Predators,Seattle Kraken,-105,-114
+2023-10-13 00:00:00,BetMGM,Nashville Predators,Seattle Kraken,-105,-115
+2023-10-13 00:00:00,LowVig.ag,Nashville Predators,Seattle Kraken,-102,-110
+2023-10-13 00:00:00,BetOnline.ag,Nashville Predators,Seattle Kraken,-102,-110
+2023-10-13 02:30:00,DraftKings,San Jose Sharks,Vegas Golden Knights,200,-245
+2023-10-13 02:30:00,Bovada,San Jose Sharks,Vegas Golden Knights,190,-230
+2023-10-13 02:30:00,FanDuel,San Jose Sharks,Vegas Golden Knights,188,-230
+2023-10-13 02:30:00,Caesars,San Jose Sharks,Vegas Golden Knights,196,-240
+2023-10-13 02:30:00,BetMGM,San Jose Sharks,Vegas Golden Knights,200,-250
+2023-10-13 23:00:00,DraftKings,Arizona Coyotes,New Jersey Devils,240,-298
+2023-10-13 23:00:00,FanDuel,Arizona Coyotes,New Jersey Devils,230,-285
+2023-10-13 23:00:00,Caesars,Arizona Coyotes,New Jersey Devils,228,-285
+2023-10-13 23:00:00,Bovada,Arizona Coyotes,New Jersey Devils,235,-285
+2023-10-13 23:00:00,DraftKings,Pittsburgh Penguins,Washington Capitals,-120,100
+2023-10-13 23:00:00,FanDuel,Pittsburgh Penguins,Washington Capitals,-122,102
+2023-10-13 23:00:00,Caesars,Pittsburgh Penguins,Washington Capitals,-125,105
+2023-10-13 23:00:00,Bovada,Pittsburgh Penguins,Washington Capitals,-120,100
+2023-10-14 17:00:00,DraftKings,Ottawa Senators,Philadelphia Flyers,-185,154
+2023-10-14 20:00:00,DraftKings,Florida Panthers,Winnipeg Jets,-110,-110
+2023-10-14 23:00:00,DraftKings,Boston Bruins,Nashville Predators,-205,170
+2023-10-14 23:00:00,DraftKings,Calgary Flames,Pittsburgh Penguins,-105,-115
+2023-10-14 23:00:00,DraftKings,Chicago Blackhawks,Montréal Canadiens,110,-130
+2023-10-14 23:00:00,DraftKings,Columbus Blue Jackets,New York Rangers,164,-198
+2023-10-14 23:00:00,DraftKings,Detroit Red Wings,Tampa Bay Lightning,-110,-110
+2023-10-14 23:00:00,DraftKings,Minnesota Wild,Toronto Maple Leafs,145,-175
+2023-10-14 23:30:00,DraftKings,Buffalo Sabres,New York Islanders,110,-130
+2023-10-14 23:30:00,Caesars,Buffalo Sabres,New York Islanders,110,-130
+2023-10-15 00:00:00,DraftKings,Seattle Kraken,St Louis Blues,-110,-110
+2023-10-15 02:00:00,DraftKings,Anaheim Ducks,Vegas Golden Knights,280,-355
+2023-10-15 02:00:00,Caesars,Anaheim Ducks,Vegas Golden Knights,275,-350
+2023-10-15 02:00:00,DraftKings,Colorado Avalanche,San Jose Sharks,-245,200
+2023-10-15 02:00:00,DraftKings,Edmonton Oilers,Vancouver Canucks,-205,170
+2023-10-15 02:30:00,DraftKings,Carolina Hurricanes,Los Angeles Kings,-120,100

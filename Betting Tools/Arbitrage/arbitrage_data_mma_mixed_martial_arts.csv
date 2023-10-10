@@ -1,0 +1,104 @@
+event_time,bookmaker,Fighter,Opponent,odds_f1,odds_f2
+2023-10-11 00:15:00,Bovada,Davi Bittencourt,Lucas Rocha,-125,105
+2023-10-11 00:15:00,BetMGM,Davi Bittencourt,Lucas Rocha,-135,110
+2023-10-11 00:15:00,FanDuel,Davi Bittencourt,Lucas Rocha,-132,104
+2023-10-11 00:40:00,Bovada,Issa Isakov,Marquel Mederos,-210,170
+2023-10-11 00:40:00,BetMGM,Issa Isakov,Marquel Mederos,-200,165
+2023-10-11 00:40:00,FanDuel,Issa Isakov,Marquel Mederos,-205,158
+2023-10-11 01:05:00,Bovada,Torrez Finney,Yuri Panferov,-185,155
+2023-10-11 01:05:00,BetMGM,Torrez Finney,Yuri Panferov,-200,165
+2023-10-11 01:05:00,FanDuel,Torrez Finney,Yuri Panferov,-200,156
+2023-10-11 01:30:00,Bovada,Connor Matthews,Jair Farias,175,-215
+2023-10-11 01:30:00,BetMGM,Connor Matthews,Jair Farias,165,-200
+2023-10-11 01:30:00,FanDuel,Connor Matthews,Jair Farias,144,-186
+2023-10-11 01:55:00,Bovada,Andre Lima,Rickson Thai Zenidim,-260,210
+2023-10-11 01:55:00,FanDuel,Andre Lima,Rickson Thai Zenidim,-290,215
+2023-10-11 02:20:00,Bovada,Cortavious Romious,Ramon Taveras,-225,180
+2023-10-11 02:20:00,BetMGM,Cortavious Romious,Ramon Taveras,-225,180
+2023-10-14 20:00:00,Bovada,Ashley Yoder,Emily Ducote,275,-350
+2023-10-14 20:00:00,DraftKings,Ashley Yoder,Emily Ducote,285,-360
+2023-10-14 20:00:00,FanDuel,Ashley Yoder,Emily Ducote,250,-340
+2023-10-14 20:00:00,BetMGM,Ashley Yoder,Emily Ducote,275,-350
+2023-10-14 20:00:00,Bovada,Darren Elkins,TJ Brown,185,-225
+2023-10-14 20:00:00,DraftKings,Darren Elkins,TJ Brown,170,-205
+2023-10-14 20:00:00,FanDuel,Darren Elkins,TJ Brown,172,-225
+2023-10-14 20:00:00,BetMGM,Darren Elkins,TJ Brown,165,-200
+2023-10-14 20:15:00,BetMGM,Chris Gutierrez,Heili Alateng,-300,250
+2023-10-14 20:15:00,FanDuel,Chris Gutierrez,Heili Alateng,-340,250
+2023-10-14 20:15:00,DraftKings,Chris Gutierrez,Heili Alateng,-325,260
+2023-10-14 20:15:00,DraftKings,Irina Alekseeva,Melissa Dixon,124,-148
+2023-10-14 20:15:00,Bovada,Irina Alekseeva,Melissa Dixon,125,-150
+2023-10-14 20:15:00,FanDuel,Irina Alekseeva,Melissa Dixon,122,-156
+2023-10-14 20:15:00,BetMGM,Irina Alekseeva,Melissa Dixon,125,-150
+2023-10-14 20:40:00,FanDuel,Ravena Oliveira,Tainara Lisboa,285,-400
+2023-10-14 20:40:00,DraftKings,Ravena Oliveira,Tainara Lisboa,285,-360
+2023-10-14 20:40:00,Bovada,Ravena Oliveira,Tainara Lisboa,275,-350
+2023-10-14 20:40:00,BetMGM,Ravena Oliveira,Tainara Lisboa,275,-350
+2023-10-14 23:00:00,DraftKings,Adrian Yanez,Jonathan Martinez,-108,-112
+2023-10-14 23:00:00,FanDuel,Adrian Yanez,Jonathan Martinez,-113,-113
+2023-10-14 23:00:00,BetMGM,Adrian Yanez,Jonathan Martinez,-105,-115
+2023-10-14 23:00:00,Bovada,Cameron Saaiman,Christian Rodriguez,125,-150
+2023-10-14 23:00:00,DraftKings,Cameron Saaiman,Christian Rodriguez,136,-162
+2023-10-14 23:00:00,FanDuel,Cameron Saaiman,Christian Rodriguez,124,-160
+2023-10-14 23:00:00,BetMGM,Cameron Saaiman,Christian Rodriguez,125,-150
+2023-10-14 23:00:10,Bovada,Jennifer Maia,Viviane Araujo,-154,128
+2023-10-14 23:00:10,DraftKings,Jennifer Maia,Viviane Araujo,-162,136
+2023-10-14 23:00:10,FanDuel,Jennifer Maia,Viviane Araujo,-162,126
+2023-10-14 23:00:10,BetMGM,Jennifer Maia,Viviane Araujo,-150,125
+2023-10-14 23:15:00,Bovada,Daniel Da Silva,Edgar Chairez,235,-300
+2023-10-14 23:15:00,DraftKings,Daniel Da Silva,Edgar Chairez,245,-305
+2023-10-14 23:15:00,FanDuel,Daniel Da Silva,Edgar Chairez,240,-330
+2023-10-15 00:00:00,Bovada,Edson Barboza,Sodiq Yusuff,137,-165
+2023-10-15 00:00:00,FanDuel,Edson Barboza,Sodiq Yusuff,138,-178
+2023-10-15 00:00:00,DraftKings,Edson Barboza,Sodiq Yusuff,140,-166
+2023-10-15 00:00:00,BetMGM,Edson Barboza,Sodiq Yusuff,140,-165
+2023-10-21 14:00:00,Bovada,Anshul Jubli,Mike Breeden,-400,300
+2023-10-21 14:00:00,FanDuel,Anshul Jubli,Mike Breeden,-430,300
+2023-10-21 14:00:00,Bovada,Javid Basharat,Victor Henry,-400,300
+2023-10-21 14:00:23,Bovada,Muhammad Mokaev,Tim Elliott,-600,425
+2023-10-21 14:00:23,FanDuel,Muhammad Mokaev,Tim Elliott,-670,430
+2023-10-21 15:10:00,Bovada,Abu Azaitar,Sedriques Dumas,140,-170
+2023-10-21 15:10:00,DraftKings,Abu Azaitar,Sedriques Dumas,142,-170
+2023-10-21 15:10:00,FanDuel,Abu Azaitar,Sedriques Dumas,138,-178
+2023-10-21 15:10:00,DraftKings,Bruno Silva,Shara Magomedov,164,-198
+2023-10-21 15:10:00,FanDuel,Bruno Silva,Shara Magomedov,164,-215
+2023-10-21 15:10:00,Bovada,Jinh Yu Frey,Viktoriya Dudakova,275,-350
+2023-10-21 15:10:00,DraftKings,Jinh Yu Frey,Viktoriya Dudakova,295,-375
+2023-10-21 15:10:00,FanDuel,Jinh Yu Frey,Viktoriya Dudakova,285,-400
+2023-10-21 15:10:00,Bovada,Muhammadjon Naimov,Nathaniel Wood,250,-310
+2023-10-21 15:10:00,DraftKings,Muhammadjon Naimov,Nathaniel Wood,250,-310
+2023-10-21 15:10:00,FanDuel,Muhammadjon Naimov,Nathaniel Wood,250,-340
+2023-10-21 17:25:00,Bovada,Mohammad Yahya,Trevor Peek,-140,115
+2023-10-21 17:25:00,DraftKings,Mohammad Yahya,Trevor Peek,-142,120
+2023-10-21 17:25:00,FanDuel,Mohammad Yahya,Trevor Peek,-150,118
+2023-10-21 18:00:00,Bovada,Johnny Walker,Magomed Ankalaev,265,-350
+2023-10-21 18:00:00,FanDuel,Johnny Walker,Magomed Ankalaev,265,-370
+2023-10-21 18:00:59,Bovada,Khamzat Chimaev,Paulo Henrique Costa,-375,280
+2023-10-21 18:00:59,FanDuel,Khamzat Chimaev,Paulo Henrique Costa,-400,285
+2023-10-21 18:00:59,BetMGM,Khamzat Chimaev,Paulo Henrique Costa,-375,280
+2023-10-21 18:15:00,DraftKings,Muin Gafurov,Said Nurmagomedov,154,-185
+2023-10-21 18:15:00,Bovada,Muin Gafurov,Said Nurmagomedov,165,-200
+2023-10-21 18:15:00,FanDuel,Muin Gafurov,Said Nurmagomedov,154,-200
+2023-10-21 19:00:59,FanDuel,Charles Oliveira,Islam Makhachev,255,-350
+2023-10-21 19:00:59,Bovada,Charles Oliveira,Islam Makhachev,265,-350
+2023-10-21 19:00:59,BetMGM,Charles Oliveira,Islam Makhachev,260,-350
+2023-11-12 02:30:00,FanDuel,Jessica Andrade,Mackenzie Dern,162,-210
+2023-11-12 02:30:00,DraftKings,Jessica Andrade,Mackenzie Dern,160,-192
+2023-11-12 03:00:00,Bovada,Alex Pereira,Jiri Prochazka,-145,120
+2023-11-12 03:00:00,FanDuel,Alex Pereira,Jiri Prochazka,-160,124
+2023-11-12 03:00:00,DraftKings,Alex Pereira,Jiri Prochazka,-148,124
+2023-11-12 04:00:10,Bovada,Jon Jones,Stipe Miocic,-375,290
+2023-11-12 04:00:10,FanDuel,Jon Jones,Stipe Miocic,-440,310
+2023-11-12 04:00:10,DraftKings,Jon Jones,Stipe Miocic,-395,310
+2023-12-17 03:00:00,DraftKings,Alexandre Pantoja,Brandon Royval,-238,195
+2023-12-17 03:00:00,FanDuel,Alexandre Pantoja,Brandon Royval,-245,186
+2023-12-17 03:00:00,DraftKings,Colby Covington,Leon Edwards,110,-130
+2023-12-17 03:00:00,Bovada,Colby Covington,Leon Edwards,-105,-115
+2023-12-17 03:00:00,FanDuel,Colby Covington,Leon Edwards,108,-136
+2023-12-17 03:00:00,FanDuel,Paddy Pimblett,Tony Ferguson,-400,285
+2023-12-17 03:00:00,Bovada,Paddy Pimblett,Tony Ferguson,-300,240
+2023-12-17 03:00:00,DraftKings,Paddy Pimblett,Tony Ferguson,-355,280
+2023-12-17 03:00:00,FanDuel,Shavkat Rakhmonov,Stephen Thompson,-480,330
+2023-12-17 03:00:00,DraftKings,Shavkat Rakhmonov,Stephen Thompson,-455,350
+2023-12-17 03:00:00,Bovada,Shavkat Rakhmonov,Stephen Thompson,-450,350
+2023-12-31 21:00:00,DraftKings,Conor McGregor,Michael Chandler,-122,102
