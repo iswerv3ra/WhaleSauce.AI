@@ -1,45 +1,164 @@
 event_time,bookmaker,Fighter,Opponent,odds_f1,odds_f2
-2023-10-10 21:32:45,Bovada,Nashville Predators,Tampa Bay Lightning,255,-360
-2023-10-11 00:08:00,DraftKings,Chicago Blackhawks,Pittsburgh Penguins,200,-245
-2023-10-11 00:08:00,BetUS,Chicago Blackhawks,Pittsburgh Penguins,220,-260
-2023-10-11 00:08:00,Bovada,Chicago Blackhawks,Pittsburgh Penguins,220,-270
-2023-10-11 03:09:00,DraftKings,Seattle Kraken,Vegas Golden Knights,142,-170
-2023-10-11 03:09:00,BetUS,Seattle Kraken,Vegas Golden Knights,135,-155
-2023-10-11 03:09:00,Bovada,Seattle Kraken,Vegas Golden Knights,135,-160
+2023-10-11 02:30:00,Bovada,Seattle Kraken,Vegas Golden Knights,900,-2000
+2023-10-11 02:30:00,Unibet,Seattle Kraken,Vegas Golden Knights,1000,-2500
+2023-10-11 02:30:00,FanDuel,Seattle Kraken,Vegas Golden Knights,900,-2500
+2023-10-11 02:30:00,TwinSpires,Seattle Kraken,Vegas Golden Knights,1000,-2500
+2023-10-11 02:30:00,Caesars,Seattle Kraken,Vegas Golden Knights,800,-1600
+2023-10-11 02:30:00,Barstool Sportsbook,Seattle Kraken,Vegas Golden Knights,900,-2000
+2023-10-11 02:30:00,BetMGM,Seattle Kraken,Vegas Golden Knights,950,-2500
+2023-10-11 02:30:00,PointsBet (US),Seattle Kraken,Vegas Golden Knights,850,-1664
 2023-10-11 23:00:00,DraftKings,Carolina Hurricanes,Ottawa Senators,-205,170
-2023-10-11 23:00:00,Bovada,Carolina Hurricanes,Ottawa Senators,-195,165
+2023-10-11 23:00:00,LowVig.ag,Carolina Hurricanes,Ottawa Senators,-198,176
+2023-10-11 23:00:00,Bovada,Carolina Hurricanes,Ottawa Senators,-200,170
+2023-10-11 23:00:00,Unibet,Carolina Hurricanes,Ottawa Senators,-205,165
+2023-10-11 23:00:00,FanDuel,Carolina Hurricanes,Ottawa Senators,-215,176
+2023-10-11 23:00:00,BetRivers,Carolina Hurricanes,Ottawa Senators,-205,165
+2023-10-11 23:00:00,TwinSpires,Carolina Hurricanes,Ottawa Senators,-205,165
+2023-10-11 23:00:00,BetOnline.ag,Carolina Hurricanes,Ottawa Senators,-200,176
+2023-10-11 23:00:00,Caesars,Carolina Hurricanes,Ottawa Senators,-205,170
+2023-10-11 23:00:00,BetMGM,Carolina Hurricanes,Ottawa Senators,-210,170
+2023-10-11 23:00:00,PointsBet (US),Carolina Hurricanes,Ottawa Senators,-200,150
+2023-10-11 23:00:00,Barstool Sportsbook,Carolina Hurricanes,Ottawa Senators,-200,170
 2023-10-11 23:00:00,BetUS,Carolina Hurricanes,Ottawa Senators,-200,170
+2023-10-11 23:00:00,SuperBook,Carolina Hurricanes,Ottawa Senators,-200,170
 2023-10-11 23:00:00,DraftKings,Montréal Canadiens,Toronto Maple Leafs,240,-298
+2023-10-11 23:00:00,LowVig.ag,Montréal Canadiens,Toronto Maple Leafs,246,-280
 2023-10-11 23:00:00,Bovada,Montréal Canadiens,Toronto Maple Leafs,240,-290
+2023-10-11 23:00:00,Unibet,Montréal Canadiens,Toronto Maple Leafs,230,-286
+2023-10-11 23:00:00,FanDuel,Montréal Canadiens,Toronto Maple Leafs,235,-295
+2023-10-11 23:00:00,BetRivers,Montréal Canadiens,Toronto Maple Leafs,230,-286
+2023-10-11 23:00:00,TwinSpires,Montréal Canadiens,Toronto Maple Leafs,230,-286
+2023-10-11 23:00:00,BetOnline.ag,Montréal Canadiens,Toronto Maple Leafs,246,-278
+2023-10-11 23:00:00,Caesars,Montréal Canadiens,Toronto Maple Leafs,240,-305
+2023-10-11 23:00:00,Barstool Sportsbook,Montréal Canadiens,Toronto Maple Leafs,240,-290
+2023-10-11 23:00:00,BetMGM,Montréal Canadiens,Toronto Maple Leafs,240,-300
+2023-10-11 23:00:00,PointsBet (US),Montréal Canadiens,Toronto Maple Leafs,210,-290
 2023-10-11 23:00:00,BetUS,Montréal Canadiens,Toronto Maple Leafs,250,-300
+2023-10-11 23:00:00,SuperBook,Montréal Canadiens,Toronto Maple Leafs,240,-300
 2023-10-11 23:30:00,DraftKings,Boston Bruins,Chicago Blackhawks,-305,245
-2023-10-11 23:30:00,Bovada,Boston Bruins,Chicago Blackhawks,-320,260
+2023-10-11 23:30:00,LowVig.ag,Boston Bruins,Chicago Blackhawks,-305,267
+2023-10-11 23:30:00,Bovada,Boston Bruins,Chicago Blackhawks,-330,265
+2023-10-11 23:30:00,Unibet,Boston Bruins,Chicago Blackhawks,-305,240
+2023-10-11 23:30:00,FanDuel,Boston Bruins,Chicago Blackhawks,-320,250
+2023-10-11 23:30:00,BetRivers,Boston Bruins,Chicago Blackhawks,-305,240
+2023-10-11 23:30:00,TwinSpires,Boston Bruins,Chicago Blackhawks,-305,240
+2023-10-11 23:30:00,BetOnline.ag,Boston Bruins,Chicago Blackhawks,-303,267
+2023-10-11 23:30:00,Caesars,Boston Bruins,Chicago Blackhawks,-320,250
+2023-10-11 23:30:00,BetMGM,Boston Bruins,Chicago Blackhawks,-300,240
+2023-10-11 23:30:00,Barstool Sportsbook,Boston Bruins,Chicago Blackhawks,-290,240
+2023-10-11 23:30:00,BetUS,Boston Bruins,Chicago Blackhawks,-305,255
 2023-10-12 02:00:00,DraftKings,Calgary Flames,Winnipeg Jets,-135,114
-2023-10-12 02:00:00,Bovada,Calgary Flames,Winnipeg Jets,-135,115
-2023-10-12 02:00:00,BetUS,Calgary Flames,Winnipeg Jets,-140,120
-2023-10-12 02:00:00,DraftKings,Colorado Avalanche,Los Angeles Kings,-110,-110
+2023-10-12 02:00:00,LowVig.ag,Calgary Flames,Winnipeg Jets,-127,113
+2023-10-12 02:00:00,Bovada,Calgary Flames,Winnipeg Jets,-130,110
+2023-10-12 02:00:00,Unibet,Calgary Flames,Winnipeg Jets,-141,117
+2023-10-12 02:00:00,FanDuel,Calgary Flames,Winnipeg Jets,-137,114
+2023-10-12 02:00:00,BetRivers,Calgary Flames,Winnipeg Jets,-141,117
+2023-10-12 02:00:00,TwinSpires,Calgary Flames,Winnipeg Jets,-141,117
+2023-10-12 02:00:00,BetOnline.ag,Calgary Flames,Winnipeg Jets,-127,113
+2023-10-12 02:00:00,Caesars,Calgary Flames,Winnipeg Jets,-140,118
+2023-10-12 02:00:00,BetMGM,Calgary Flames,Winnipeg Jets,-140,115
+2023-10-12 02:00:00,PointsBet (US),Calgary Flames,Winnipeg Jets,-140,105
+2023-10-12 02:00:00,Barstool Sportsbook,Calgary Flames,Winnipeg Jets,-130,110
+2023-10-12 02:00:00,BetUS,Calgary Flames,Winnipeg Jets,-135,115
+2023-10-12 02:00:00,SuperBook,Calgary Flames,Winnipeg Jets,-136,116
+2023-10-12 02:00:00,DraftKings,Colorado Avalanche,Los Angeles Kings,-115,-105
+2023-10-12 02:00:00,LowVig.ag,Colorado Avalanche,Los Angeles Kings,-115,102
 2023-10-12 02:00:00,Bovada,Colorado Avalanche,Los Angeles Kings,-120,100
-2023-10-12 02:00:00,BetUS,Colorado Avalanche,Los Angeles Kings,-110,-110
+2023-10-12 02:00:00,Unibet,Colorado Avalanche,Los Angeles Kings,-120,100
+2023-10-12 02:00:00,BetRivers,Colorado Avalanche,Los Angeles Kings,-120,100
+2023-10-12 02:00:00,TwinSpires,Colorado Avalanche,Los Angeles Kings,-120,100
+2023-10-12 02:00:00,BetOnline.ag,Colorado Avalanche,Los Angeles Kings,-115,102
+2023-10-12 02:00:00,Caesars,Colorado Avalanche,Los Angeles Kings,-120,100
+2023-10-12 02:00:00,BetMGM,Colorado Avalanche,Los Angeles Kings,-115,-105
+2023-10-12 02:00:00,PointsBet (US),Colorado Avalanche,Los Angeles Kings,-120,-110
+2023-10-12 02:00:00,Barstool Sportsbook,Colorado Avalanche,Los Angeles Kings,-120,100
+2023-10-12 02:00:00,BetUS,Colorado Avalanche,Los Angeles Kings,-120,100
+2023-10-12 02:00:00,SuperBook,Colorado Avalanche,Los Angeles Kings,-120,104
 2023-10-12 02:00:00,DraftKings,Edmonton Oilers,Vancouver Canucks,-162,136
-2023-10-12 02:00:00,Bovada,Edmonton Oilers,Vancouver Canucks,-165,140
-2023-10-12 02:00:00,BetUS,Edmonton Oilers,Vancouver Canucks,-165,145
-2023-10-12 23:00:00,DraftKings,Buffalo Sabres,New York Rangers,105,-125
+2023-10-12 02:00:00,LowVig.ag,Edmonton Oilers,Vancouver Canucks,-157,140
+2023-10-12 02:00:00,Bovada,Edmonton Oilers,Vancouver Canucks,-160,135
+2023-10-12 02:00:00,Unibet,Edmonton Oilers,Vancouver Canucks,-162,133
+2023-10-12 02:00:00,FanDuel,Edmonton Oilers,Vancouver Canucks,-164,136
+2023-10-12 02:00:00,BetRivers,Edmonton Oilers,Vancouver Canucks,-162,133
+2023-10-12 02:00:00,TwinSpires,Edmonton Oilers,Vancouver Canucks,-162,133
+2023-10-12 02:00:00,BetOnline.ag,Edmonton Oilers,Vancouver Canucks,-156,140
+2023-10-12 02:00:00,Caesars,Edmonton Oilers,Vancouver Canucks,-165,140
+2023-10-12 02:00:00,BetMGM,Edmonton Oilers,Vancouver Canucks,-160,135
+2023-10-12 02:00:00,PointsBet (US),Edmonton Oilers,Vancouver Canucks,-170,130
+2023-10-12 02:00:00,Barstool Sportsbook,Edmonton Oilers,Vancouver Canucks,-160,140
+2023-10-12 02:00:00,BetUS,Edmonton Oilers,Vancouver Canucks,-160,140
+2023-10-12 02:00:00,SuperBook,Edmonton Oilers,Vancouver Canucks,-165,140
+2023-10-12 23:00:00,DraftKings,Buffalo Sabres,New York Rangers,100,-120
 2023-10-12 23:00:00,Bovada,Buffalo Sabres,New York Rangers,100,-120
+2023-10-12 23:00:00,FanDuel,Buffalo Sabres,New York Rangers,-108,-111
+2023-10-12 23:00:00,Caesars,Buffalo Sabres,New York Rangers,105,-125
+2023-10-12 23:00:00,BetMGM,Buffalo Sabres,New York Rangers,105,-125
+2023-10-12 23:00:00,LowVig.ag,Buffalo Sabres,New York Rangers,109,-123
+2023-10-12 23:00:00,BetOnline.ag,Buffalo Sabres,New York Rangers,109,-123
+2023-10-12 23:00:00,TwinSpires,Buffalo Sabres,New York Rangers,102,-124
+2023-10-12 23:00:00,Unibet,Buffalo Sabres,New York Rangers,102,-124
+2023-10-12 23:00:00,BetRivers,Buffalo Sabres,New York Rangers,102,-124
 2023-10-12 23:00:00,DraftKings,Columbus Blue Jackets,Philadelphia Flyers,-130,110
 2023-10-12 23:00:00,Bovada,Columbus Blue Jackets,Philadelphia Flyers,-135,115
+2023-10-12 23:00:00,FanDuel,Columbus Blue Jackets,Philadelphia Flyers,-142,118
+2023-10-12 23:00:00,Caesars,Columbus Blue Jackets,Philadelphia Flyers,-135,115
+2023-10-12 23:00:00,BetMGM,Columbus Blue Jackets,Philadelphia Flyers,-135,115
+2023-10-12 23:00:00,LowVig.ag,Columbus Blue Jackets,Philadelphia Flyers,-128,114
+2023-10-12 23:00:00,BetOnline.ag,Columbus Blue Jackets,Philadelphia Flyers,-128,114
+2023-10-12 23:00:00,BetRivers,Columbus Blue Jackets,Philadelphia Flyers,-141,116
+2023-10-12 23:00:00,TwinSpires,Columbus Blue Jackets,Philadelphia Flyers,-141,116
+2023-10-12 23:00:00,Unibet,Columbus Blue Jackets,Philadelphia Flyers,-141,116
 2023-10-12 23:00:00,DraftKings,Detroit Red Wings,New Jersey Devils,210,-258
 2023-10-12 23:00:00,Bovada,Detroit Red Wings,New Jersey Devils,215,-260
+2023-10-12 23:00:00,FanDuel,Detroit Red Wings,New Jersey Devils,210,-260
+2023-10-12 23:00:00,Caesars,Detroit Red Wings,New Jersey Devils,215,-267
+2023-10-12 23:00:00,BetMGM,Detroit Red Wings,New Jersey Devils,200,-250
+2023-10-12 23:00:00,BetOnline.ag,Detroit Red Wings,New Jersey Devils,221,-250
+2023-10-12 23:00:00,LowVig.ag,Detroit Red Wings,New Jersey Devils,221,-251
+2023-10-12 23:00:00,TwinSpires,Detroit Red Wings,New Jersey Devils,200,-250
+2023-10-12 23:00:00,BetRivers,Detroit Red Wings,New Jersey Devils,200,-250
+2023-10-12 23:00:00,Unibet,Detroit Red Wings,New Jersey Devils,200,-250
 2023-10-13 00:00:00,DraftKings,Dallas Stars,St Louis Blues,-205,170
 2023-10-13 00:00:00,Bovada,Dallas Stars,St Louis Blues,-210,175
+2023-10-13 00:00:00,Caesars,Dallas Stars,St Louis Blues,-210,175
+2023-10-13 00:00:00,BetMGM,Dallas Stars,St Louis Blues,-210,170
+2023-10-13 00:00:00,BetOnline.ag,Dallas Stars,St Louis Blues,-208,186
+2023-10-13 00:00:00,LowVig.ag,Dallas Stars,St Louis Blues,-210,186
+2023-10-13 00:00:00,TwinSpires,Dallas Stars,St Louis Blues,-230,185
+2023-10-13 00:00:00,Unibet,Dallas Stars,St Louis Blues,-230,185
+2023-10-13 00:00:00,BetRivers,Dallas Stars,St Louis Blues,-230,185
 2023-10-13 00:00:00,DraftKings,Florida Panthers,Minnesota Wild,105,-125
 2023-10-13 00:00:00,Bovada,Florida Panthers,Minnesota Wild,110,-130
+2023-10-13 00:00:00,FanDuel,Florida Panthers,Minnesota Wild,110,-132
+2023-10-13 00:00:00,Caesars,Florida Panthers,Minnesota Wild,105,-125
+2023-10-13 00:00:00,BetMGM,Florida Panthers,Minnesota Wild,105,-125
+2023-10-13 00:00:00,LowVig.ag,Florida Panthers,Minnesota Wild,106,-119
+2023-10-13 00:00:00,BetOnline.ag,Florida Panthers,Minnesota Wild,106,-119
+2023-10-13 00:00:00,Unibet,Florida Panthers,Minnesota Wild,112,-136
+2023-10-13 00:00:00,BetRivers,Florida Panthers,Minnesota Wild,112,-136
+2023-10-13 00:00:00,TwinSpires,Florida Panthers,Minnesota Wild,112,-136
 2023-10-13 00:00:00,DraftKings,Nashville Predators,Seattle Kraken,-105,-115
 2023-10-13 00:00:00,Bovada,Nashville Predators,Seattle Kraken,-105,-115
+2023-10-13 00:00:00,FanDuel,Nashville Predators,Seattle Kraken,-105,-114
+2023-10-13 00:00:00,BetMGM,Nashville Predators,Seattle Kraken,-105,-115
+2023-10-13 00:00:00,Unibet,Nashville Predators,Seattle Kraken,-110,-110
+2023-10-13 00:00:00,BetRivers,Nashville Predators,Seattle Kraken,-110,-110
+2023-10-13 00:00:00,TwinSpires,Nashville Predators,Seattle Kraken,-110,-110
 2023-10-13 02:30:00,DraftKings,San Jose Sharks,Vegas Golden Knights,200,-245
 2023-10-13 02:30:00,Bovada,San Jose Sharks,Vegas Golden Knights,190,-230
+2023-10-13 02:30:00,FanDuel,San Jose Sharks,Vegas Golden Knights,188,-230
+2023-10-13 02:30:00,Caesars,San Jose Sharks,Vegas Golden Knights,196,-240
+2023-10-13 02:30:00,BetMGM,San Jose Sharks,Vegas Golden Knights,200,-250
+2023-10-13 02:30:00,TwinSpires,San Jose Sharks,Vegas Golden Knights,185,-230
+2023-10-13 02:30:00,Unibet,San Jose Sharks,Vegas Golden Knights,185,-230
+2023-10-13 02:30:00,BetRivers,San Jose Sharks,Vegas Golden Knights,185,-230
 2023-10-13 23:00:00,DraftKings,Arizona Coyotes,New Jersey Devils,240,-298
+2023-10-13 23:00:00,FanDuel,Arizona Coyotes,New Jersey Devils,230,-285
+2023-10-13 23:00:00,Caesars,Arizona Coyotes,New Jersey Devils,228,-285
 2023-10-13 23:00:00,Bovada,Arizona Coyotes,New Jersey Devils,235,-285
 2023-10-13 23:00:00,DraftKings,Pittsburgh Penguins,Washington Capitals,-120,100
+2023-10-13 23:00:00,FanDuel,Pittsburgh Penguins,Washington Capitals,-122,102
+2023-10-13 23:00:00,Caesars,Pittsburgh Penguins,Washington Capitals,-125,105
 2023-10-13 23:00:00,Bovada,Pittsburgh Penguins,Washington Capitals,-120,100
 2023-10-14 17:00:00,DraftKings,Ottawa Senators,Philadelphia Flyers,-185,154
 2023-10-14 20:00:00,DraftKings,Florida Panthers,Winnipeg Jets,-110,-110
@@ -50,8 +169,10 @@ event_time,bookmaker,Fighter,Opponent,odds_f1,odds_f2
 2023-10-14 23:00:00,DraftKings,Detroit Red Wings,Tampa Bay Lightning,-110,-110
 2023-10-14 23:00:00,DraftKings,Minnesota Wild,Toronto Maple Leafs,145,-175
 2023-10-14 23:30:00,DraftKings,Buffalo Sabres,New York Islanders,110,-130
+2023-10-14 23:30:00,Caesars,Buffalo Sabres,New York Islanders,110,-130
 2023-10-15 00:00:00,DraftKings,Seattle Kraken,St Louis Blues,-110,-110
 2023-10-15 02:00:00,DraftKings,Anaheim Ducks,Vegas Golden Knights,280,-355
+2023-10-15 02:00:00,Caesars,Anaheim Ducks,Vegas Golden Knights,275,-350
 2023-10-15 02:00:00,DraftKings,Colorado Avalanche,San Jose Sharks,-245,200
 2023-10-15 02:00:00,DraftKings,Edmonton Oilers,Vancouver Canucks,-205,170
 2023-10-15 02:30:00,DraftKings,Carolina Hurricanes,Los Angeles Kings,-120,100

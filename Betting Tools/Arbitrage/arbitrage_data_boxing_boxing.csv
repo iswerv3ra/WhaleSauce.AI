@@ -7,28 +7,31 @@ event_time,bookmaker,Fighter,Opponent,odds_f1,odds_f2
 2023-10-14 20:00:00,MyBookie.ag,Dillon Danis,Logan Paul,290,-476
 2023-10-14 20:00:00,TwinSpires,Dillon Danis,Logan Paul,450,-715
 2023-10-14 21:00:00,BetUS,KSI,Tommy Fury,245,-335
-2023-10-14 21:00:00,LowVig.ag,KSI,Tommy Fury,250,-325
-2023-10-14 21:00:00,BetOnline.ag,KSI,Tommy Fury,250,-323
-2023-10-14 21:00:00,Bovada,KSI,Tommy Fury,255,-360
+2023-10-14 21:00:00,LowVig.ag,KSI,Tommy Fury,260,-350
+2023-10-14 21:00:00,BetOnline.ag,KSI,Tommy Fury,260,-345
+2023-10-14 21:00:00,Bovada,KSI,Tommy Fury,260,-375
 2023-10-14 21:00:00,Unibet,KSI,Tommy Fury,245,-345
 2023-10-14 21:00:00,TwinSpires,KSI,Tommy Fury,245,-345
 2023-10-15 00:00:00,FanDuel,Jackson Jon England,Nathaniel May,-190,148
 2023-10-15 00:00:00,DraftKings,Jackson Jon England,Nathaniel May,-225,175
+2023-10-15 00:00:00,Bovada,Jackson Jon England,Nathaniel May,-230,175
 2023-10-15 00:00:00,FanDuel,Sergei Vorobev,Wade Ryan,-480,330
 2023-10-15 00:00:00,BetOnline.ag,Sergei Vorobev,Wade Ryan,-556,375
 2023-10-15 00:00:00,LowVig.ag,Sergei Vorobev,Wade Ryan,-549,375
 2023-10-15 00:00:00,DraftKings,Sergei Vorobev,Wade Ryan,-500,350
 2023-10-15 01:00:00,LowVig.ag,Miguel Flores,Sam Goodman,700,-1250
 2023-10-15 01:00:00,BetOnline.ag,Miguel Flores,Sam Goodman,700,-1250
-2023-10-15 02:00:00,FanDuel,Keyshawn Davis,Nahir Albright,-2000,980
+2023-10-15 01:00:00,Bovada,Miguel Flores,Sam Goodman,700,-1400
+2023-10-15 02:00:00,FanDuel,Keyshawn Davis,Nahir Albright,-2000,1000
 2023-10-15 02:00:00,DraftKings,Keyshawn Davis,Nahir Albright,-2000,850
 2023-10-15 02:00:00,MyBookie.ag,Keyshawn Davis,Nahir Albright,-2500,717
-2023-10-15 02:00:00,Bovada,Keyshawn Davis,Nahir Albright,-1800,800
+2023-10-15 02:00:00,Bovada,Keyshawn Davis,Nahir Albright,-1800,1000
 2023-10-15 02:00:00,LowVig.ag,Keyshawn Davis,Nahir Albright,-2000,1000
 2023-10-15 02:00:00,BetOnline.ag,Keyshawn Davis,Nahir Albright,-2000,1000
 2023-10-15 02:00:00,Barstool Sportsbook,Keyshawn Davis,Nahir Albright,-1600,800
 2023-10-15 03:00:00,BetOnline.ag,Diego Alberto Ruiz,Miguel Berchelt,600,-1000
 2023-10-15 03:00:00,LowVig.ag,Diego Alberto Ruiz,Miguel Berchelt,600,-1000
+2023-10-15 03:00:00,Bovada,Diego Alberto Ruiz,Miguel Berchelt,600,-1100
 2023-10-15 03:00:00,FanDuel,Vincenzo Gualtieri,Zhanibek Alimkhanuly,630,-1250
 2023-10-15 03:00:00,MyBookie.ag,Vincenzo Gualtieri,Zhanibek Alimkhanuly,583,-1428
 2023-10-15 03:00:00,Bovada,Vincenzo Gualtieri,Zhanibek Alimkhanuly,700,-1400
@@ -40,19 +43,20 @@ event_time,bookmaker,Fighter,Opponent,odds_f1,odds_f2
 2023-10-15 03:30:28,Unibet,Brian Mendoza,Tim Tszyu,430,-670
 2023-10-15 03:30:28,MyBookie.ag,Brian Mendoza,Tim Tszyu,393,-714
 2023-10-15 03:30:28,DraftKings,Brian Mendoza,Tim Tszyu,450,-650
-2023-10-15 03:30:28,Bovada,Brian Mendoza,Tim Tszyu,450,-700
+2023-10-15 03:30:28,Bovada,Brian Mendoza,Tim Tszyu,450,-750
 2023-10-15 03:30:28,FanDuel,Brian Mendoza,Tim Tszyu,450,-750
 2023-10-15 03:30:28,TwinSpires,Brian Mendoza,Tim Tszyu,430,-670
 2023-10-15 03:30:28,BetMGM,Brian Mendoza,Tim Tszyu,400,-600
 2023-10-15 03:30:28,BetOnline.ag,Brian Mendoza,Tim Tszyu,500,-833
 2023-10-15 03:30:28,LowVig.ag,Brian Mendoza,Tim Tszyu,500,-800
-2023-10-15 03:30:28,Barstool Sportsbook,Brian Mendoza,Tim Tszyu,475,-700
+2023-10-15 03:30:28,Barstool Sportsbook,Brian Mendoza,Tim Tszyu,500,-800
 2023-10-21 18:00:00,BetUS,Fran Mendoza,Peter Mcgrail,559,-909
 2023-10-21 18:00:00,FanDuel,Fran Mendoza,Peter Mcgrail,600,-1100
 2023-10-21 18:00:00,Bovada,Fran Mendoza,Peter Mcgrail,500,-900
 2023-10-21 18:00:00,BetUS,Jose Sanmartin,Shabaz Masoud,729,-1429
 2023-10-21 18:00:00,FanDuel,Jose Sanmartin,Shabaz Masoud,710,-1300
 2023-10-21 18:00:00,Bovada,Jose Sanmartin,Shabaz Masoud,700,-1400
+2023-10-21 18:00:00,MyBookie.ag,Jose Sanmartin,Shabaz Masoud,631,-1666
 2023-10-21 19:00:33,FanDuel,Jack Catterall,Jorge Linares,-850,520
 2023-10-21 19:00:33,DraftKings,Jack Catterall,Jorge Linares,-900,550
 2023-10-21 19:00:33,BetUS,Jack Catterall,Jorge Linares,-1000,600
@@ -83,9 +87,10 @@ event_time,bookmaker,Fighter,Opponent,odds_f1,odds_f2
 2023-10-28 02:00:00,DraftKings,Amanda Serrano,Danila Ramos,-1400,750
 2023-10-28 18:00:00,BetUS,Carlos Takam,Martin Bakole,464,-714
 2023-10-28 18:00:00,Bovada,Carlos Takam,Martin Bakole,425,-700
+2023-10-28 18:00:00,MyBookie.ag,Carlos Takam,Martin Bakole,442,-833
 2023-10-28 18:00:00,BetUS,Joseph Parker,Simon Kean,-833,533
 2023-10-28 18:00:00,Bovada,Joseph Parker,Simon Kean,-800,475
-2023-10-28 18:00:00,MyBookie.ag,Joseph Parker,Simon Kean,-666,378
+2023-10-28 18:00:00,MyBookie.ag,Joseph Parker,Simon Kean,-833,439
 2023-10-28 18:00:19,MyBookie.ag,Francis Ngannou,Tyson Fury,510,-1111
 2023-10-28 18:00:19,BetUS,Francis Ngannou,Tyson Fury,600,-1000
 2023-10-28 18:00:19,LowVig.ag,Francis Ngannou,Tyson Fury,600,-1000
@@ -110,12 +115,12 @@ event_time,bookmaker,Fighter,Opponent,odds_f1,odds_f2
 2023-11-04 21:00:00,FanDuel,Adrian Curiel Dominguez,Sivenathi Nontshinga,480,-800
 2023-11-04 21:00:00,BetUS,Adrian Curiel Dominguez,Sivenathi Nontshinga,533,-833
 2023-11-04 21:00:00,DraftKings,Adrian Curiel Dominguez,Sivenathi Nontshinga,500,-800
-2023-11-04 21:00:00,MyBookie.ag,Adrian Curiel Dominguez,Sivenathi Nontshinga,426,-833
+2023-11-04 21:00:00,MyBookie.ag,Adrian Curiel Dominguez,Sivenathi Nontshinga,450,-909
 2023-11-04 22:00:00,FanDuel,Edward Vazquez,Joe Cordina,690,-1300
 2023-11-04 22:00:00,BetUS,Edward Vazquez,Joe Cordina,700,-1250
 2023-11-04 22:00:00,DraftKings,Edward Vazquez,Joe Cordina,700,-1400
 2023-11-04 22:00:00,MyBookie.ag,Edward Vazquez,Joe Cordina,617,-1666
-2023-11-05 04:00:00,BetUS,Shohjahon Ergashev,Subriel Matias,330,-455
+2023-11-05 04:00:00,BetUS,Shohjahon Ergashev,Subriel Matias,335,-435
 2023-11-05 04:00:00,MyBookie.ag,Shohjahon Ergashev,Subriel Matias,215,-322
 2023-11-17 03:00:00,FanDuel,Emanuel Navarrete,Robson Conceicao,-1300,700
 2023-11-17 03:00:00,BetUS,Emanuel Navarrete,Robson Conceicao,-1110,710
@@ -139,7 +144,7 @@ event_time,bookmaker,Fighter,Opponent,odds_f1,odds_f2
 2023-11-18 21:00:00,MyBookie.ag,Matteo Signani,Tyler Denny,198,-294
 2023-11-18 22:00:00,BetUS,Adam Azim,Franck Petitjean,-1665,815
 2023-11-18 22:00:00,DraftKings,Adam Azim,Franck Petitjean,-1600,750
-2023-11-18 22:00:00,MyBookie.ag,Adam Azim,Franck Petitjean,-1666,648
+2023-11-18 22:00:00,MyBookie.ag,Adam Azim,Franck Petitjean,-1666,651
 2023-11-18 22:00:00,BetUS,Isaac Dogboe,Nick Ball,215,-265
 2023-11-19 03:00:00,BetUS,Erika Cruz Hernandez,Mayerlin Rivas,-323,248
 2023-11-19 05:00:00,FanDuel,Diego Pacheco,Marcelo Esteban Coceres,-1800,940

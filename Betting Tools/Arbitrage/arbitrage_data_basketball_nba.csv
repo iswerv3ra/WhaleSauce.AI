@@ -4,8 +4,8 @@ event_time,bookmaker,Fighter,Opponent,odds_f1,odds_f2
 2023-10-24 23:30:00,Caesars,Denver Nuggets,Los Angeles Lakers,-205,170
 2023-10-24 23:30:00,Bovada,Denver Nuggets,Los Angeles Lakers,-210,175
 2023-10-24 23:30:00,SuperBook,Denver Nuggets,Los Angeles Lakers,-110,-110
-2023-10-24 23:30:00,BetOnline.ag,Denver Nuggets,Los Angeles Lakers,-110,-110
-2023-10-24 23:30:00,LowVig.ag,Denver Nuggets,Los Angeles Lakers,-105,-105
+2023-10-24 23:30:00,BetOnline.ag,Denver Nuggets,Los Angeles Lakers,-105,-115
+2023-10-24 23:30:00,LowVig.ag,Denver Nuggets,Los Angeles Lakers,100,-110
 2023-10-24 23:30:00,BetMGM,Denver Nuggets,Los Angeles Lakers,-210,170
 2023-10-24 23:30:00,BetRivers,Denver Nuggets,Los Angeles Lakers,-205,170
 2023-10-24 23:30:00,Unibet,Denver Nuggets,Los Angeles Lakers,-205,170
@@ -222,7 +222,6 @@ event_time,bookmaker,Fighter,Opponent,odds_f1,odds_f2
 2023-11-14 23:00:00,Barstool Sportsbook,Atlanta Hawks,Detroit Pistons,-150,120
 2023-11-14 23:00:00,DraftKings,Charlotte Hornets,Miami Heat,120,-142
 2023-11-14 23:00:00,Bovada,Charlotte Hornets,Miami Heat,125,-145
-2023-11-14 23:00:00,MyBookie.ag,Charlotte Hornets,Miami Heat,117,-142
 2023-11-14 23:00:00,Barstool Sportsbook,Charlotte Hornets,Miami Heat,115,-140
 2023-11-14 23:00:00,DraftKings,Indiana Pacers,Philadelphia 76ers,210,-258
 2023-11-14 23:00:00,Bovada,Indiana Pacers,Philadelphia 76ers,210,-250
