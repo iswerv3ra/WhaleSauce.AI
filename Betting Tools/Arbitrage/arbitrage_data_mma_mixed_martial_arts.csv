@@ -1,271 +1,278 @@
-event_time,bookmaker,Fighter,Opponent,odds_f1,odds_f2
-2023-10-14 20:00:00,BetRivers,Ashley Yoder,Emily Ducote,270,-360
-2023-10-14 20:00:00,LowVig.ag,Ashley Yoder,Emily Ducote,300,-400
-2023-10-14 20:00:00,Bovada,Ashley Yoder,Emily Ducote,285,-400
-2023-10-14 20:00:00,TwinSpires,Ashley Yoder,Emily Ducote,270,-360
-2023-10-14 20:00:00,Unibet,Ashley Yoder,Emily Ducote,270,-360
-2023-10-14 20:00:00,BetOnline.ag,Ashley Yoder,Emily Ducote,300,-400
-2023-10-14 20:00:00,WynnBET,Ashley Yoder,Emily Ducote,295,-370
-2023-10-14 20:00:00,DraftKings,Ashley Yoder,Emily Ducote,295,-375
-2023-10-14 20:00:00,FanDuel,Ashley Yoder,Emily Ducote,250,-340
-2023-10-14 20:00:00,BetUS,Ashley Yoder,Emily Ducote,300,-400
-2023-10-14 20:00:00,BetMGM,Ashley Yoder,Emily Ducote,275,-350
-2023-10-14 20:00:00,Caesars,Ashley Yoder,Emily Ducote,290,-360
-2023-10-14 20:00:00,SuperBook,Ashley Yoder,Emily Ducote,300,-400
-2023-10-14 20:00:00,BetRivers,Darren Elkins,TJ Brown,170,-215
-2023-10-14 20:00:00,LowVig.ag,Darren Elkins,TJ Brown,152,-177
-2023-10-14 20:00:00,Bovada,Darren Elkins,TJ Brown,155,-185
-2023-10-14 20:00:00,TwinSpires,Darren Elkins,TJ Brown,170,-215
-2023-10-14 20:00:00,Unibet,Darren Elkins,TJ Brown,170,-215
-2023-10-14 20:00:00,BetOnline.ag,Darren Elkins,TJ Brown,152,-179
-2023-10-14 20:00:00,BetUS,Darren Elkins,TJ Brown,155,-185
-2023-10-14 20:00:00,WynnBET,Darren Elkins,TJ Brown,160,-189
-2023-10-14 20:00:00,DraftKings,Darren Elkins,TJ Brown,170,-205
-2023-10-14 20:00:00,FanDuel,Darren Elkins,TJ Brown,168,-220
-2023-10-14 20:00:00,BetMGM,Darren Elkins,TJ Brown,165,-200
-2023-10-14 20:00:00,Caesars,Darren Elkins,TJ Brown,160,-190
-2023-10-14 20:00:00,SuperBook,Darren Elkins,TJ Brown,145,-170
-2023-10-14 20:15:00,BetUS,Chris Gutierrez,Heili Alateng,-425,325
-2023-10-14 20:15:00,BetOnline.ag,Chris Gutierrez,Heili Alateng,-417,325
-2023-10-14 20:15:00,LowVig.ag,Chris Gutierrez,Heili Alateng,-426,325
-2023-10-14 20:15:00,WynnBET,Chris Gutierrez,Heili Alateng,-333,267
-2023-10-14 20:15:00,SuperBook,Chris Gutierrez,Heili Alateng,-350,275
-2023-10-14 20:15:00,BetRivers,Chris Gutierrez,Heili Alateng,-305,240
-2023-10-14 20:15:00,TwinSpires,Chris Gutierrez,Heili Alateng,-305,240
-2023-10-14 20:15:00,Unibet,Chris Gutierrez,Heili Alateng,-305,240
-2023-10-14 20:15:00,BetMGM,Chris Gutierrez,Heili Alateng,-400,310
-2023-10-14 20:15:00,FanDuel,Chris Gutierrez,Heili Alateng,-340,250
-2023-10-14 20:15:00,DraftKings,Chris Gutierrez,Heili Alateng,-380,300
-2023-10-14 20:15:00,Caesars,Chris Gutierrez,Heili Alateng,-360,280
-2023-10-14 20:15:00,Bovada,Chris Gutierrez,Heili Alateng,-350,280
-2023-10-14 20:15:00,BetOnline.ag,Irina Alekseeva,Melissa Dixon,130,-149
-2023-10-14 20:15:00,BetUS,Irina Alekseeva,Melissa Dixon,120,-150
-2023-10-14 20:15:00,LowVig.ag,Irina Alekseeva,Melissa Dixon,130,-150
-2023-10-14 20:15:00,DraftKings,Irina Alekseeva,Melissa Dixon,124,-148
-2023-10-14 20:15:00,WynnBET,Irina Alekseeva,Melissa Dixon,127,-149
-2023-10-14 20:15:00,Bovada,Irina Alekseeva,Melissa Dixon,125,-150
-2023-10-14 20:15:00,Unibet,Irina Alekseeva,Melissa Dixon,116,-143
-2023-10-14 20:15:00,TwinSpires,Irina Alekseeva,Melissa Dixon,116,-143
-2023-10-14 20:15:00,BetRivers,Irina Alekseeva,Melissa Dixon,116,-143
-2023-10-14 20:15:00,FanDuel,Irina Alekseeva,Melissa Dixon,122,-156
-2023-10-14 20:15:00,BetMGM,Irina Alekseeva,Melissa Dixon,125,-150
-2023-10-14 20:15:00,Caesars,Irina Alekseeva,Melissa Dixon,125,-150
-2023-10-14 20:15:00,SuperBook,Irina Alekseeva,Melissa Dixon,130,-150
-2023-10-14 20:40:00,BetRivers,Ravena Oliveira,Tainara Lisboa,275,-375
-2023-10-14 20:40:00,TwinSpires,Ravena Oliveira,Tainara Lisboa,275,-375
-2023-10-14 20:40:00,BetOnline.ag,Ravena Oliveira,Tainara Lisboa,270,-323
-2023-10-14 20:40:00,FanDuel,Ravena Oliveira,Tainara Lisboa,285,-400
-2023-10-14 20:40:00,BetUS,Ravena Oliveira,Tainara Lisboa,245,-320
-2023-10-14 20:40:00,LowVig.ag,Ravena Oliveira,Tainara Lisboa,270,-321
-2023-10-14 20:40:00,Unibet,Ravena Oliveira,Tainara Lisboa,275,-375
-2023-10-14 20:40:00,DraftKings,Ravena Oliveira,Tainara Lisboa,295,-375
-2023-10-14 20:40:00,Bovada,Ravena Oliveira,Tainara Lisboa,275,-350
-2023-10-14 20:40:00,BetMGM,Ravena Oliveira,Tainara Lisboa,275,-350
-2023-10-14 20:40:00,Caesars,Ravena Oliveira,Tainara Lisboa,290,-370
-2023-10-14 20:40:00,SuperBook,Ravena Oliveira,Tainara Lisboa,235,-290
-2023-10-14 20:40:00,WynnBET,Ravena Oliveira,Tainara Lisboa,260,-323
-2023-10-14 23:00:00,BetRivers,Adrian Yanez,Jonathan Martinez,-112,-112
-2023-10-14 23:00:00,LowVig.ag,Adrian Yanez,Jonathan Martinez,106,-126
-2023-10-14 23:00:00,Unibet,Adrian Yanez,Jonathan Martinez,-112,-112
-2023-10-14 23:00:00,TwinSpires,Adrian Yanez,Jonathan Martinez,-112,-112
-2023-10-14 23:00:00,BetOnline.ag,Adrian Yanez,Jonathan Martinez,106,-127
-2023-10-14 23:00:00,WynnBET,Adrian Yanez,Jonathan Martinez,-110,-110
-2023-10-14 23:00:00,DraftKings,Adrian Yanez,Jonathan Martinez,-105,-115
-2023-10-14 23:00:00,BetUS,Adrian Yanez,Jonathan Martinez,-104,-126
-2023-10-14 23:00:00,Caesars,Adrian Yanez,Jonathan Martinez,100,-120
-2023-10-14 23:00:00,FanDuel,Adrian Yanez,Jonathan Martinez,-113,-113
-2023-10-14 23:00:00,BetMGM,Adrian Yanez,Jonathan Martinez,-105,-115
-2023-10-14 23:00:00,SuperBook,Adrian Yanez,Jonathan Martinez,100,-120
-2023-10-14 23:00:00,BetRivers,Cameron Saaiman,Christian Rodriguez,125,-159
-2023-10-14 23:00:00,LowVig.ag,Cameron Saaiman,Christian Rodriguez,125,-145
-2023-10-14 23:00:00,Bovada,Cameron Saaiman,Christian Rodriguez,125,-150
-2023-10-14 23:00:00,Unibet,Cameron Saaiman,Christian Rodriguez,125,-159
-2023-10-14 23:00:00,TwinSpires,Cameron Saaiman,Christian Rodriguez,125,-159
-2023-10-14 23:00:00,BetOnline.ag,Cameron Saaiman,Christian Rodriguez,125,-145
-2023-10-14 23:00:00,DraftKings,Cameron Saaiman,Christian Rodriguez,130,-155
-2023-10-14 23:00:00,BetUS,Cameron Saaiman,Christian Rodriguez,115,-145
-2023-10-14 23:00:00,Caesars,Cameron Saaiman,Christian Rodriguez,125,-150
-2023-10-14 23:00:00,FanDuel,Cameron Saaiman,Christian Rodriguez,124,-160
-2023-10-14 23:00:00,BetMGM,Cameron Saaiman,Christian Rodriguez,125,-150
-2023-10-14 23:00:00,SuperBook,Cameron Saaiman,Christian Rodriguez,135,-155
-2023-10-14 23:00:10,BetRivers,Jennifer Maia,Viviane Araujo,-155,123
-2023-10-14 23:00:10,LowVig.ag,Jennifer Maia,Viviane Araujo,-151,131
-2023-10-14 23:00:10,Bovada,Jennifer Maia,Viviane Araujo,-155,130
-2023-10-14 23:00:10,Unibet,Jennifer Maia,Viviane Araujo,-155,123
-2023-10-14 23:00:10,TwinSpires,Jennifer Maia,Viviane Araujo,-155,123
-2023-10-14 23:00:10,BetOnline.ag,Jennifer Maia,Viviane Araujo,-152,131
-2023-10-14 23:00:10,DraftKings,Jennifer Maia,Viviane Araujo,-162,136
-2023-10-14 23:00:10,BetUS,Jennifer Maia,Viviane Araujo,-151,121
-2023-10-14 23:00:10,WynnBET,Jennifer Maia,Viviane Araujo,-149,127
-2023-10-14 23:00:10,Caesars,Jennifer Maia,Viviane Araujo,-150,125
-2023-10-14 23:00:10,FanDuel,Jennifer Maia,Viviane Araujo,-162,126
-2023-10-14 23:00:10,BetMGM,Jennifer Maia,Viviane Araujo,-150,125
-2023-10-14 23:00:10,SuperBook,Jennifer Maia,Viviane Araujo,-145,125
-2023-10-14 23:15:00,BetOnline.ag,Andre Petroski,Michel Pereira,160,-185
-2023-10-14 23:15:00,LowVig.ag,Andre Petroski,Michel Pereira,160,-185
-2023-10-14 23:15:00,Bovada,Andre Petroski,Michel Pereira,142,-175
-2023-10-14 23:15:00,BetUS,Daniel Da Silva,Edgar Chairez,265,-365
-2023-10-14 23:15:00,Bovada,Daniel Da Silva,Edgar Chairez,250,-325
-2023-10-14 23:15:00,BetOnline.ag,Daniel Da Silva,Edgar Chairez,300,-370
-2023-10-14 23:15:00,LowVig.ag,Daniel Da Silva,Edgar Chairez,300,-365
-2023-10-14 23:15:00,WynnBET,Daniel Da Silva,Edgar Chairez,252,-312
-2023-10-14 23:15:00,DraftKings,Daniel Da Silva,Edgar Chairez,250,-310
-2023-10-14 23:15:00,Caesars,Daniel Da Silva,Edgar Chairez,240,-300
-2023-10-14 23:15:00,SuperBook,Daniel Da Silva,Edgar Chairez,250,-310
-2023-10-14 23:15:00,FanDuel,Daniel Da Silva,Edgar Chairez,240,-330
-2023-10-14 23:15:00,TwinSpires,Daniel Da Silva,Edgar Chairez,240,-305
-2023-10-14 23:15:00,BetRivers,Daniel Da Silva,Edgar Chairez,240,-305
-2023-10-14 23:15:00,Unibet,Daniel Da Silva,Edgar Chairez,240,-305
-2023-10-15 00:00:00,Bovada,Edson Barboza,Sodiq Yusuff,137,-165
-2023-10-15 00:00:00,Caesars,Edson Barboza,Sodiq Yusuff,140,-165
-2023-10-15 00:00:00,LowVig.ag,Edson Barboza,Sodiq Yusuff,142,-162
-2023-10-15 00:00:00,BetOnline.ag,Edson Barboza,Sodiq Yusuff,142,-161
-2023-10-15 00:00:00,TwinSpires,Edson Barboza,Sodiq Yusuff,135,-167
-2023-10-15 00:00:00,Unibet,Edson Barboza,Sodiq Yusuff,135,-167
-2023-10-15 00:00:00,BetRivers,Edson Barboza,Sodiq Yusuff,135,-167
-2023-10-15 00:00:00,FanDuel,Edson Barboza,Sodiq Yusuff,138,-178
-2023-10-15 00:00:00,WynnBET,Edson Barboza,Sodiq Yusuff,140,-164
-2023-10-15 00:00:00,DraftKings,Edson Barboza,Sodiq Yusuff,140,-166
-2023-10-15 00:00:00,BetUS,Edson Barboza,Sodiq Yusuff,132,-162
-2023-10-15 00:00:00,BetMGM,Edson Barboza,Sodiq Yusuff,140,-165
-2023-10-15 00:00:00,SuperBook,Edson Barboza,Sodiq Yusuff,135,-155
-2023-10-21 14:00:00,BetRivers,Anshul Jubli,Mike Breeden,-400,300
-2023-10-21 14:00:00,TwinSpires,Anshul Jubli,Mike Breeden,-400,300
-2023-10-21 14:00:00,BetOnline.ag,Anshul Jubli,Mike Breeden,-417,320
-2023-10-21 14:00:00,Bovada,Anshul Jubli,Mike Breeden,-400,300
-2023-10-21 14:00:00,Unibet,Anshul Jubli,Mike Breeden,-400,300
-2023-10-21 14:00:00,LowVig.ag,Anshul Jubli,Mike Breeden,-420,320
-2023-10-21 14:00:00,Caesars,Anshul Jubli,Mike Breeden,-420,320
-2023-10-21 14:00:00,FanDuel,Anshul Jubli,Mike Breeden,-430,300
-2023-10-21 14:00:00,BetRivers,Javid Basharat,Victor Henry,-455,340
-2023-10-21 14:00:00,TwinSpires,Javid Basharat,Victor Henry,-455,340
-2023-10-21 14:00:00,BetOnline.ag,Javid Basharat,Victor Henry,-455,350
-2023-10-21 14:00:00,Bovada,Javid Basharat,Victor Henry,-400,300
-2023-10-21 14:00:00,Unibet,Javid Basharat,Victor Henry,-455,340
-2023-10-21 14:00:00,LowVig.ag,Javid Basharat,Victor Henry,-450,350
-2023-10-21 14:00:00,Caesars,Javid Basharat,Victor Henry,-420,330
-2023-10-21 14:00:23,BetRivers,Muhammad Mokaev,Tim Elliott,-590,420
-2023-10-21 14:00:23,TwinSpires,Muhammad Mokaev,Tim Elliott,-590,420
-2023-10-21 14:00:23,BetOnline.ag,Muhammad Mokaev,Tim Elliott,-500,375
-2023-10-21 14:00:23,Bovada,Muhammad Mokaev,Tim Elliott,-600,425
-2023-10-21 14:00:23,Unibet,Muhammad Mokaev,Tim Elliott,-590,420
-2023-10-21 14:00:23,LowVig.ag,Muhammad Mokaev,Tim Elliott,-500,375
-2023-10-21 14:00:23,Caesars,Muhammad Mokaev,Tim Elliott,-500,380
-2023-10-21 14:00:23,FanDuel,Muhammad Mokaev,Tim Elliott,-670,430
-2023-10-21 15:10:00,LowVig.ag,Abu Azaitar,Sedriques Dumas,145,-170
-2023-10-21 15:10:00,BetOnline.ag,Abu Azaitar,Sedriques Dumas,145,-169
-2023-10-21 15:10:00,Bovada,Abu Azaitar,Sedriques Dumas,140,-170
-2023-10-21 15:10:00,DraftKings,Abu Azaitar,Sedriques Dumas,142,-170
-2023-10-21 15:10:00,Caesars,Abu Azaitar,Sedriques Dumas,140,-165
-2023-10-21 15:10:00,Unibet,Abu Azaitar,Sedriques Dumas,138,-175
-2023-10-21 15:10:00,BetRivers,Abu Azaitar,Sedriques Dumas,138,-175
-2023-10-21 15:10:00,TwinSpires,Abu Azaitar,Sedriques Dumas,138,-175
-2023-10-21 15:10:00,FanDuel,Abu Azaitar,Sedriques Dumas,138,-178
-2023-10-21 15:10:00,BetOnline.ag,Bruno Silva,Shara Magomedov,169,-192
-2023-10-21 15:10:00,LowVig.ag,Bruno Silva,Shara Magomedov,169,-194
-2023-10-21 15:10:00,DraftKings,Bruno Silva,Shara Magomedov,164,-198
-2023-10-21 15:10:00,Caesars,Bruno Silva,Shara Magomedov,165,-195
-2023-10-21 15:10:00,FanDuel,Bruno Silva,Shara Magomedov,164,-215
-2023-10-21 15:10:00,TwinSpires,Bruno Silva,Shara Magomedov,163,-205
-2023-10-21 15:10:00,BetRivers,Bruno Silva,Shara Magomedov,163,-205
-2023-10-21 15:10:00,Unibet,Bruno Silva,Shara Magomedov,163,-205
-2023-10-21 15:10:00,LowVig.ag,Jinh Yu Frey,Viktoriya Dudakova,295,-360
-2023-10-21 15:10:00,Bovada,Jinh Yu Frey,Viktoriya Dudakova,275,-375
-2023-10-21 15:10:00,BetOnline.ag,Jinh Yu Frey,Viktoriya Dudakova,295,-357
-2023-10-21 15:10:00,DraftKings,Jinh Yu Frey,Viktoriya Dudakova,295,-375
-2023-10-21 15:10:00,Caesars,Jinh Yu Frey,Viktoriya Dudakova,280,-360
-2023-10-21 15:10:00,Unibet,Jinh Yu Frey,Viktoriya Dudakova,265,-345
-2023-10-21 15:10:00,BetRivers,Jinh Yu Frey,Viktoriya Dudakova,265,-345
-2023-10-21 15:10:00,TwinSpires,Jinh Yu Frey,Viktoriya Dudakova,265,-345
-2023-10-21 15:10:00,FanDuel,Jinh Yu Frey,Viktoriya Dudakova,285,-400
-2023-10-21 15:10:00,BetOnline.ag,Muhammadjon Naimov,Nathaniel Wood,250,-303
-2023-10-21 15:10:00,Bovada,Muhammadjon Naimov,Nathaniel Wood,250,-310
-2023-10-21 15:10:00,LowVig.ag,Muhammadjon Naimov,Nathaniel Wood,250,-300
-2023-10-21 15:10:00,DraftKings,Muhammadjon Naimov,Nathaniel Wood,250,-310
-2023-10-21 15:10:00,Caesars,Muhammadjon Naimov,Nathaniel Wood,250,-320
-2023-10-21 15:10:00,Unibet,Muhammadjon Naimov,Nathaniel Wood,245,-315
-2023-10-21 15:10:00,BetRivers,Muhammadjon Naimov,Nathaniel Wood,245,-315
-2023-10-21 15:10:00,TwinSpires,Muhammadjon Naimov,Nathaniel Wood,245,-315
-2023-10-21 15:10:00,FanDuel,Muhammadjon Naimov,Nathaniel Wood,250,-340
-2023-10-21 17:25:00,BetOnline.ag,Mohammad Yahya,Trevor Peek,-130,110
-2023-10-21 17:25:00,LowVig.ag,Mohammad Yahya,Trevor Peek,-130,110
-2023-10-21 17:25:00,Bovada,Mohammad Yahya,Trevor Peek,-140,115
-2023-10-21 17:25:00,DraftKings,Mohammad Yahya,Trevor Peek,-142,120
-2023-10-21 17:25:00,Caesars,Mohammad Yahya,Trevor Peek,-135,115
-2023-10-21 17:25:00,BetRivers,Mohammad Yahya,Trevor Peek,-137,112
-2023-10-21 17:25:00,TwinSpires,Mohammad Yahya,Trevor Peek,-137,112
-2023-10-21 17:25:00,Unibet,Mohammad Yahya,Trevor Peek,-137,112
-2023-10-21 17:25:00,FanDuel,Mohammad Yahya,Trevor Peek,-150,118
-2023-10-21 18:00:00,BetRivers,Johnny Walker,Magomed Ankalaev,265,-345
-2023-10-21 18:00:00,TwinSpires,Johnny Walker,Magomed Ankalaev,265,-345
-2023-10-21 18:00:00,Bovada,Johnny Walker,Magomed Ankalaev,265,-350
-2023-10-21 18:00:00,Unibet,Johnny Walker,Magomed Ankalaev,265,-345
-2023-10-21 18:00:00,Caesars,Johnny Walker,Magomed Ankalaev,270,-340
-2023-10-21 18:00:00,FanDuel,Johnny Walker,Magomed Ankalaev,265,-370
-2023-10-21 18:00:59,BetOnline.ag,Khamzat Chimaev,Paulo Henrique Costa,-370,295
-2023-10-21 18:00:59,Bovada,Khamzat Chimaev,Paulo Henrique Costa,-375,290
-2023-10-21 18:00:59,LowVig.ag,Khamzat Chimaev,Paulo Henrique Costa,-370,295
-2023-10-21 18:00:59,FanDuel,Khamzat Chimaev,Paulo Henrique Costa,-400,285
-2023-10-21 18:00:59,TwinSpires,Khamzat Chimaev,Paulo Henrique Costa,-385,295
-2023-10-21 18:00:59,Unibet,Khamzat Chimaev,Paulo Henrique Costa,-385,295
-2023-10-21 18:00:59,BetRivers,Khamzat Chimaev,Paulo Henrique Costa,-385,295
-2023-10-21 18:00:59,BetMGM,Khamzat Chimaev,Paulo Henrique Costa,-375,280
-2023-10-21 18:00:59,Caesars,Khamzat Chimaev,Paulo Henrique Costa,-380,300
-2023-10-21 18:15:00,BetOnline.ag,Muin Gafurov,Said Nurmagomedov,175,-204
-2023-10-21 18:15:00,LowVig.ag,Muin Gafurov,Said Nurmagomedov,175,-205
-2023-10-21 18:15:00,DraftKings,Muin Gafurov,Said Nurmagomedov,154,-185
-2023-10-21 18:15:00,Bovada,Muin Gafurov,Said Nurmagomedov,165,-200
-2023-10-21 18:15:00,Caesars,Muin Gafurov,Said Nurmagomedov,165,-195
-2023-10-21 18:15:00,TwinSpires,Muin Gafurov,Said Nurmagomedov,163,-205
-2023-10-21 18:15:00,Unibet,Muin Gafurov,Said Nurmagomedov,163,-205
-2023-10-21 18:15:00,BetRivers,Muin Gafurov,Said Nurmagomedov,163,-205
-2023-10-21 18:15:00,FanDuel,Muin Gafurov,Said Nurmagomedov,154,-200
-2023-10-21 20:00:00,BetOnline.ag,Alex Volkanovski,Islam Makhachev,220,-263
-2023-10-21 20:00:00,FanDuel,Alex Volkanovski,Islam Makhachev,200,-265
-2023-10-21 20:00:00,LowVig.ag,Alex Volkanovski,Islam Makhachev,220,-260
-2023-10-21 20:00:00,DraftKings,Alex Volkanovski,Islam Makhachev,205,-250
-2023-11-12 03:00:00,Bovada,Alex Pereira,Jiri Prochazka,-145,120
-2023-11-12 03:00:00,BetOnline.ag,Alex Pereira,Jiri Prochazka,-135,115
-2023-11-12 03:00:00,FanDuel,Alex Pereira,Jiri Prochazka,-160,124
-2023-11-12 03:00:00,DraftKings,Alex Pereira,Jiri Prochazka,-148,124
-2023-11-12 03:00:00,LowVig.ag,Alex Pereira,Jiri Prochazka,-135,115
-2023-11-12 03:00:00,BetRivers,Alex Pereira,Jiri Prochazka,-150,120
-2023-11-12 03:00:00,Unibet,Alex Pereira,Jiri Prochazka,-150,120
-2023-11-12 03:00:00,TwinSpires,Alex Pereira,Jiri Prochazka,-150,120
-2023-11-12 03:00:00,Caesars,Alex Pereira,Jiri Prochazka,-145,122
-2023-11-12 04:00:10,Unibet,Jon Jones,Stipe Miocic,-420,320
-2023-11-12 04:00:10,BetRivers,Jon Jones,Stipe Miocic,-420,320
-2023-11-12 04:00:10,TwinSpires,Jon Jones,Stipe Miocic,-420,320
-2023-11-12 04:00:10,LowVig.ag,Jon Jones,Stipe Miocic,-370,295
-2023-11-12 04:00:10,BetOnline.ag,Jon Jones,Stipe Miocic,-370,295
-2023-11-12 04:00:10,Bovada,Jon Jones,Stipe Miocic,-375,290
-2023-11-12 04:00:10,FanDuel,Jon Jones,Stipe Miocic,-440,310
-2023-11-12 04:00:10,DraftKings,Jon Jones,Stipe Miocic,-395,310
-2023-12-17 03:00:00,BetRivers,Alexandre Pantoja,Brandon Royval,-240,188
-2023-12-17 03:00:00,LowVig.ag,Alexandre Pantoja,Brandon Royval,-220,170
-2023-12-17 03:00:00,DraftKings,Alexandre Pantoja,Brandon Royval,-238,195
-2023-12-17 03:00:00,Caesars,Alexandre Pantoja,Brandon Royval,-240,195
-2023-12-17 03:00:00,TwinSpires,Alexandre Pantoja,Brandon Royval,-240,188
-2023-12-17 03:00:00,Unibet,Alexandre Pantoja,Brandon Royval,-240,188
-2023-12-17 03:00:00,BetOnline.ag,Alexandre Pantoja,Brandon Royval,-217,170
-2023-12-17 03:00:00,FanDuel,Alexandre Pantoja,Brandon Royval,-245,186
-2023-12-17 03:00:00,BetOnline.ag,Colby Covington,Leon Edwards,-105,-115
-2023-12-17 03:00:00,DraftKings,Colby Covington,Leon Edwards,110,-130
-2023-12-17 03:00:00,Caesars,Colby Covington,Leon Edwards,105,-125
-2023-12-17 03:00:00,LowVig.ag,Colby Covington,Leon Edwards,-105,-115
-2023-12-17 03:00:00,Bovada,Colby Covington,Leon Edwards,-105,-115
-2023-12-17 03:00:00,FanDuel,Colby Covington,Leon Edwards,108,-136
-2023-12-17 03:00:00,Unibet,Colby Covington,Leon Edwards,107,-132
-2023-12-17 03:00:00,TwinSpires,Colby Covington,Leon Edwards,107,-132
-2023-12-17 03:00:00,BetRivers,Colby Covington,Leon Edwards,107,-132
-2023-12-17 03:00:00,LowVig.ag,Paddy Pimblett,Tony Ferguson,-280,240
-2023-12-17 03:00:00,BetOnline.ag,Paddy Pimblett,Tony Ferguson,-278,240
-2023-12-17 03:00:00,FanDuel,Paddy Pimblett,Tony Ferguson,-400,285
-2023-12-17 03:00:00,Bovada,Paddy Pimblett,Tony Ferguson,-300,240
-2023-12-17 03:00:00,DraftKings,Paddy Pimblett,Tony Ferguson,-355,280
-2023-12-17 03:00:00,LowVig.ag,Shavkat Rakhmonov,Stephen Thompson,-549,385
-2023-12-17 03:00:00,BetOnline.ag,Shavkat Rakhmonov,Stephen Thompson,-556,385
-2023-12-17 03:00:00,FanDuel,Shavkat Rakhmonov,Stephen Thompson,-480,330
-2023-12-17 03:00:00,DraftKings,Shavkat Rakhmonov,Stephen Thompson,-455,350
-2023-12-17 03:00:00,Bovada,Shavkat Rakhmonov,Stephen Thompson,-450,350
-2023-12-31 21:00:00,DraftKings,Conor McGregor,Michael Chandler,-122,102
+event_time,bookmaker,Fighter,Opponent,odds_f1,odds_f2,market
+2023-10-14 20:00:00,BetRivers,Ashley Yoder,Emily Ducote,300,-400,h2h
+2023-10-14 20:00:00,LowVig.ag,Ashley Yoder,Emily Ducote,275,-350,h2h
+2023-10-14 20:00:00,Bovada,Ashley Yoder,Emily Ducote,290,-375,h2h
+2023-10-14 20:00:00,TwinSpires,Ashley Yoder,Emily Ducote,300,-400,h2h
+2023-10-14 20:00:00,Unibet,Ashley Yoder,Emily Ducote,300,-400,h2h
+2023-10-14 20:00:00,BetOnline.ag,Ashley Yoder,Emily Ducote,275,-345,h2h
+2023-10-14 20:00:00,WynnBET,Ashley Yoder,Emily Ducote,295,-370,h2h
+2023-10-14 20:00:00,DraftKings,Ashley Yoder,Emily Ducote,295,-375,h2h
+2023-10-14 20:00:00,FanDuel,Ashley Yoder,Emily Ducote,250,-340,h2h
+2023-10-14 20:00:00,BetUS,Ashley Yoder,Emily Ducote,250,-350,h2h
+2023-10-14 20:00:00,BetMGM,Ashley Yoder,Emily Ducote,300,-400,h2h
+2023-10-14 20:00:00,Caesars,Ashley Yoder,Emily Ducote,290,-360,h2h
+2023-10-14 20:00:00,SuperBook,Ashley Yoder,Emily Ducote,300,-400,h2h
+2023-10-14 20:00:00,BetRivers,Darren Elkins,TJ Brown,143,-180,h2h
+2023-10-14 20:00:00,LowVig.ag,Darren Elkins,TJ Brown,155,-180,h2h
+2023-10-14 20:00:00,Bovada,Darren Elkins,TJ Brown,155,-185,h2h
+2023-10-14 20:00:00,TwinSpires,Darren Elkins,TJ Brown,143,-180,h2h
+2023-10-14 20:00:00,Unibet,Darren Elkins,TJ Brown,143,-180,h2h
+2023-10-14 20:00:00,BetOnline.ag,Darren Elkins,TJ Brown,155,-179,h2h
+2023-10-14 20:00:00,BetUS,Darren Elkins,TJ Brown,155,-185,h2h
+2023-10-14 20:00:00,WynnBET,Darren Elkins,TJ Brown,152,-179,h2h
+2023-10-14 20:00:00,DraftKings,Darren Elkins,TJ Brown,170,-205,h2h
+2023-10-14 20:00:00,FanDuel,Darren Elkins,TJ Brown,168,-220,h2h
+2023-10-14 20:00:00,BetMGM,Darren Elkins,TJ Brown,165,-200,h2h
+2023-10-14 20:00:00,Caesars,Darren Elkins,TJ Brown,160,-190,h2h
+2023-10-14 20:00:00,SuperBook,Darren Elkins,TJ Brown,145,-170,h2h
+2023-10-14 20:15:00,BetUS,Chris Gutierrez,Heili Alateng,-450,325,h2h
+2023-10-14 20:15:00,BetOnline.ag,Chris Gutierrez,Heili Alateng,-455,350,h2h
+2023-10-14 20:15:00,LowVig.ag,Chris Gutierrez,Heili Alateng,-450,350,h2h
+2023-10-14 20:15:00,WynnBET,Chris Gutierrez,Heili Alateng,-333,267,h2h
+2023-10-14 20:15:00,SuperBook,Chris Gutierrez,Heili Alateng,-450,350,h2h
+2023-10-14 20:15:00,BetRivers,Chris Gutierrez,Heili Alateng,-385,295,h2h
+2023-10-14 20:15:00,TwinSpires,Chris Gutierrez,Heili Alateng,-385,295,h2h
+2023-10-14 20:15:00,Unibet,Chris Gutierrez,Heili Alateng,-385,295,h2h
+2023-10-14 20:15:00,BetMGM,Chris Gutierrez,Heili Alateng,-450,333,h2h
+2023-10-14 20:15:00,FanDuel,Chris Gutierrez,Heili Alateng,-340,250,h2h
+2023-10-14 20:15:00,DraftKings,Chris Gutierrez,Heili Alateng,-380,300,h2h
+2023-10-14 20:15:00,Caesars,Chris Gutierrez,Heili Alateng,-400,310,h2h
+2023-10-14 20:15:00,Bovada,Chris Gutierrez,Heili Alateng,-375,290,h2h
+2023-10-14 20:15:00,BetOnline.ag,Irina Alekseeva,Melissa Dixon,130,-149,h2h
+2023-10-14 20:15:00,BetUS,Irina Alekseeva,Melissa Dixon,120,-150,h2h
+2023-10-14 20:15:00,LowVig.ag,Irina Alekseeva,Melissa Dixon,130,-150,h2h
+2023-10-14 20:15:00,DraftKings,Irina Alekseeva,Melissa Dixon,124,-148,h2h
+2023-10-14 20:15:00,WynnBET,Irina Alekseeva,Melissa Dixon,127,-149,h2h
+2023-10-14 20:15:00,Bovada,Irina Alekseeva,Melissa Dixon,125,-150,h2h
+2023-10-14 20:15:00,Unibet,Irina Alekseeva,Melissa Dixon,120,-150,h2h
+2023-10-14 20:15:00,TwinSpires,Irina Alekseeva,Melissa Dixon,120,-150,h2h
+2023-10-14 20:15:00,BetRivers,Irina Alekseeva,Melissa Dixon,120,-150,h2h
+2023-10-14 20:15:00,FanDuel,Irina Alekseeva,Melissa Dixon,122,-156,h2h
+2023-10-14 20:15:00,BetMGM,Irina Alekseeva,Melissa Dixon,125,-150,h2h
+2023-10-14 20:15:00,Caesars,Irina Alekseeva,Melissa Dixon,125,-150,h2h
+2023-10-14 20:15:00,SuperBook,Irina Alekseeva,Melissa Dixon,130,-150,h2h
+2023-10-14 20:40:00,BetRivers,Ravena Oliveira,Tainara Lisboa,250,-335,h2h
+2023-10-14 20:40:00,TwinSpires,Ravena Oliveira,Tainara Lisboa,250,-335,h2h
+2023-10-14 20:40:00,BetOnline.ag,Ravena Oliveira,Tainara Lisboa,270,-323,h2h
+2023-10-14 20:40:00,FanDuel,Ravena Oliveira,Tainara Lisboa,285,-400,h2h
+2023-10-14 20:40:00,BetUS,Ravena Oliveira,Tainara Lisboa,245,-320,h2h
+2023-10-14 20:40:00,LowVig.ag,Ravena Oliveira,Tainara Lisboa,270,-321,h2h
+2023-10-14 20:40:00,Unibet,Ravena Oliveira,Tainara Lisboa,250,-335,h2h
+2023-10-14 20:40:00,DraftKings,Ravena Oliveira,Tainara Lisboa,270,-340,h2h
+2023-10-14 20:40:00,Bovada,Ravena Oliveira,Tainara Lisboa,260,-325,h2h
+2023-10-14 20:40:00,BetMGM,Ravena Oliveira,Tainara Lisboa,275,-350,h2h
+2023-10-14 20:40:00,Caesars,Ravena Oliveira,Tainara Lisboa,290,-370,h2h
+2023-10-14 20:40:00,SuperBook,Ravena Oliveira,Tainara Lisboa,235,-290,h2h
+2023-10-14 20:40:00,WynnBET,Ravena Oliveira,Tainara Lisboa,260,-323,h2h
+2023-10-14 23:00:00,BetRivers,Adrian Yanez,Jonathan Martinez,102,-127,h2h
+2023-10-14 23:00:00,LowVig.ag,Adrian Yanez,Jonathan Martinez,108,-128,h2h
+2023-10-14 23:00:00,Unibet,Adrian Yanez,Jonathan Martinez,102,-127,h2h
+2023-10-14 23:00:00,TwinSpires,Adrian Yanez,Jonathan Martinez,102,-127,h2h
+2023-10-14 23:00:00,BetOnline.ag,Adrian Yanez,Jonathan Martinez,108,-128,h2h
+2023-10-14 23:00:00,WynnBET,Adrian Yanez,Jonathan Martinez,100,-120,h2h
+2023-10-14 23:00:00,DraftKings,Adrian Yanez,Jonathan Martinez,-105,-115,h2h
+2023-10-14 23:00:00,BetUS,Adrian Yanez,Jonathan Martinez,-102,-128,h2h
+2023-10-14 23:00:00,Caesars,Adrian Yanez,Jonathan Martinez,100,-120,h2h
+2023-10-14 23:00:00,FanDuel,Adrian Yanez,Jonathan Martinez,-113,-113,h2h
+2023-10-14 23:00:00,BetMGM,Adrian Yanez,Jonathan Martinez,105,-125,h2h
+2023-10-14 23:00:00,SuperBook,Adrian Yanez,Jonathan Martinez,110,-130,h2h
+2023-10-14 23:00:00,BetRivers,Cameron Saaiman,Christian Rodriguez,116,-143,h2h
+2023-10-14 23:00:00,LowVig.ag,Cameron Saaiman,Christian Rodriguez,120,-140,h2h
+2023-10-14 23:00:00,Bovada,Cameron Saaiman,Christian Rodriguez,125,-150,h2h
+2023-10-14 23:00:00,Unibet,Cameron Saaiman,Christian Rodriguez,116,-143,h2h
+2023-10-14 23:00:00,TwinSpires,Cameron Saaiman,Christian Rodriguez,116,-143,h2h
+2023-10-14 23:00:00,BetOnline.ag,Cameron Saaiman,Christian Rodriguez,120,-141,h2h
+2023-10-14 23:00:00,DraftKings,Cameron Saaiman,Christian Rodriguez,130,-155,h2h
+2023-10-14 23:00:00,BetUS,Cameron Saaiman,Christian Rodriguez,110,-140,h2h
+2023-10-14 23:00:00,Caesars,Cameron Saaiman,Christian Rodriguez,125,-150,h2h
+2023-10-14 23:00:00,FanDuel,Cameron Saaiman,Christian Rodriguez,124,-160,h2h
+2023-10-14 23:00:00,BetMGM,Cameron Saaiman,Christian Rodriguez,115,-140,h2h
+2023-10-14 23:00:00,SuperBook,Cameron Saaiman,Christian Rodriguez,135,-155,h2h
+2023-10-14 23:00:10,BetRivers,Jennifer Maia,Viviane Araujo,-155,123,h2h
+2023-10-14 23:00:10,LowVig.ag,Jennifer Maia,Viviane Araujo,-151,131,h2h
+2023-10-14 23:00:10,Bovada,Jennifer Maia,Viviane Araujo,-155,130,h2h
+2023-10-14 23:00:10,Unibet,Jennifer Maia,Viviane Araujo,-155,123,h2h
+2023-10-14 23:00:10,TwinSpires,Jennifer Maia,Viviane Araujo,-155,123,h2h
+2023-10-14 23:00:10,BetOnline.ag,Jennifer Maia,Viviane Araujo,-152,131,h2h
+2023-10-14 23:00:10,DraftKings,Jennifer Maia,Viviane Araujo,-162,136,h2h
+2023-10-14 23:00:10,BetUS,Jennifer Maia,Viviane Araujo,-151,121,h2h
+2023-10-14 23:00:10,WynnBET,Jennifer Maia,Viviane Araujo,-149,127,h2h
+2023-10-14 23:00:10,Caesars,Jennifer Maia,Viviane Araujo,-150,125,h2h
+2023-10-14 23:00:10,FanDuel,Jennifer Maia,Viviane Araujo,-162,126,h2h
+2023-10-14 23:00:10,BetMGM,Jennifer Maia,Viviane Araujo,-160,130,h2h
+2023-10-14 23:00:10,SuperBook,Jennifer Maia,Viviane Araujo,-150,130,h2h
+2023-10-14 23:15:00,BetOnline.ag,Andre Petroski,Michel Pereira,170,-200,h2h
+2023-10-14 23:15:00,LowVig.ag,Andre Petroski,Michel Pereira,170,-200,h2h
+2023-10-14 23:15:00,Bovada,Andre Petroski,Michel Pereira,150,-180,h2h
+2023-10-14 23:15:00,TwinSpires,Andre Petroski,Michel Pereira,150,-186,h2h
+2023-10-14 23:15:00,Unibet,Andre Petroski,Michel Pereira,150,-186,h2h
+2023-10-14 23:15:00,BetRivers,Andre Petroski,Michel Pereira,150,-186,h2h
+2023-10-14 23:15:00,BetUS,Daniel Da Silva,Edgar Chairez,250,-340,h2h
+2023-10-14 23:15:00,Bovada,Daniel Da Silva,Edgar Chairez,250,-325,h2h
+2023-10-14 23:15:00,BetOnline.ag,Daniel Da Silva,Edgar Chairez,280,-345,h2h
+2023-10-14 23:15:00,LowVig.ag,Daniel Da Silva,Edgar Chairez,280,-340,h2h
+2023-10-14 23:15:00,WynnBET,Daniel Da Silva,Edgar Chairez,295,-370,h2h
+2023-10-14 23:15:00,DraftKings,Daniel Da Silva,Edgar Chairez,250,-310,h2h
+2023-10-14 23:15:00,Caesars,Daniel Da Silva,Edgar Chairez,240,-300,h2h
+2023-10-14 23:15:00,SuperBook,Daniel Da Silva,Edgar Chairez,300,-400,h2h
+2023-10-14 23:15:00,FanDuel,Daniel Da Silva,Edgar Chairez,240,-330,h2h
+2023-10-14 23:15:00,TwinSpires,Daniel Da Silva,Edgar Chairez,240,-305,h2h
+2023-10-14 23:15:00,BetRivers,Daniel Da Silva,Edgar Chairez,240,-305,h2h
+2023-10-14 23:15:00,Unibet,Daniel Da Silva,Edgar Chairez,240,-305,h2h
+2023-10-15 00:00:00,Bovada,Edson Barboza,Sodiq Yusuff,137,-165,h2h
+2023-10-15 00:00:00,Caesars,Edson Barboza,Sodiq Yusuff,140,-165,h2h
+2023-10-15 00:00:00,LowVig.ag,Edson Barboza,Sodiq Yusuff,142,-162,h2h
+2023-10-15 00:00:00,BetOnline.ag,Edson Barboza,Sodiq Yusuff,142,-161,h2h
+2023-10-15 00:00:00,TwinSpires,Edson Barboza,Sodiq Yusuff,135,-167,h2h
+2023-10-15 00:00:00,Unibet,Edson Barboza,Sodiq Yusuff,135,-167,h2h
+2023-10-15 00:00:00,BetRivers,Edson Barboza,Sodiq Yusuff,135,-167,h2h
+2023-10-15 00:00:00,FanDuel,Edson Barboza,Sodiq Yusuff,138,-178,h2h
+2023-10-15 00:00:00,WynnBET,Edson Barboza,Sodiq Yusuff,140,-164,h2h
+2023-10-15 00:00:00,DraftKings,Edson Barboza,Sodiq Yusuff,140,-166,h2h
+2023-10-15 00:00:00,DraftKings,Edson Barboza,Sodiq Yusuff,-120,-110,spreads
+2023-10-15 00:00:00,BetUS,Edson Barboza,Sodiq Yusuff,132,-162,h2h
+2023-10-15 00:00:00,BetMGM,Edson Barboza,Sodiq Yusuff,140,-165,h2h
+2023-10-15 00:00:00,SuperBook,Edson Barboza,Sodiq Yusuff,135,-155,h2h
+2023-10-21 14:00:00,BetRivers,Anshul Jubli,Mike Breeden,-400,300,h2h
+2023-10-21 14:00:00,TwinSpires,Anshul Jubli,Mike Breeden,-400,300,h2h
+2023-10-21 14:00:00,BetOnline.ag,Anshul Jubli,Mike Breeden,-417,320,h2h
+2023-10-21 14:00:00,Bovada,Anshul Jubli,Mike Breeden,-400,300,h2h
+2023-10-21 14:00:00,Unibet,Anshul Jubli,Mike Breeden,-400,300,h2h
+2023-10-21 14:00:00,LowVig.ag,Anshul Jubli,Mike Breeden,-420,320,h2h
+2023-10-21 14:00:00,Caesars,Anshul Jubli,Mike Breeden,-420,320,h2h
+2023-10-21 14:00:00,FanDuel,Anshul Jubli,Mike Breeden,-430,300,h2h
+2023-10-21 14:00:00,BetRivers,Javid Basharat,Victor Henry,-455,340,h2h
+2023-10-21 14:00:00,TwinSpires,Javid Basharat,Victor Henry,-455,340,h2h
+2023-10-21 14:00:00,BetOnline.ag,Javid Basharat,Victor Henry,-455,350,h2h
+2023-10-21 14:00:00,Bovada,Javid Basharat,Victor Henry,-425,325,h2h
+2023-10-21 14:00:00,Unibet,Javid Basharat,Victor Henry,-455,340,h2h
+2023-10-21 14:00:00,LowVig.ag,Javid Basharat,Victor Henry,-450,350,h2h
+2023-10-21 14:00:00,Caesars,Javid Basharat,Victor Henry,-420,330,h2h
+2023-10-21 14:00:23,BetRivers,Muhammad Mokaev,Tim Elliott,-590,420,h2h
+2023-10-21 14:00:23,TwinSpires,Muhammad Mokaev,Tim Elliott,-590,420,h2h
+2023-10-21 14:00:23,BetOnline.ag,Muhammad Mokaev,Tim Elliott,-455,350,h2h
+2023-10-21 14:00:23,Bovada,Muhammad Mokaev,Tim Elliott,-600,425,h2h
+2023-10-21 14:00:23,Unibet,Muhammad Mokaev,Tim Elliott,-590,420,h2h
+2023-10-21 14:00:23,LowVig.ag,Muhammad Mokaev,Tim Elliott,-450,350,h2h
+2023-10-21 14:00:23,Caesars,Muhammad Mokaev,Tim Elliott,-500,380,h2h
+2023-10-21 14:00:23,FanDuel,Muhammad Mokaev,Tim Elliott,-620,400,h2h
+2023-10-21 15:10:00,LowVig.ag,Abu Azaitar,Sedriques Dumas,145,-170,h2h
+2023-10-21 15:10:00,BetOnline.ag,Abu Azaitar,Sedriques Dumas,145,-169,h2h
+2023-10-21 15:10:00,Bovada,Abu Azaitar,Sedriques Dumas,140,-170,h2h
+2023-10-21 15:10:00,DraftKings,Abu Azaitar,Sedriques Dumas,142,-170,h2h
+2023-10-21 15:10:00,Caesars,Abu Azaitar,Sedriques Dumas,140,-165,h2h
+2023-10-21 15:10:00,Unibet,Abu Azaitar,Sedriques Dumas,138,-175,h2h
+2023-10-21 15:10:00,BetRivers,Abu Azaitar,Sedriques Dumas,138,-175,h2h
+2023-10-21 15:10:00,TwinSpires,Abu Azaitar,Sedriques Dumas,138,-175,h2h
+2023-10-21 15:10:00,FanDuel,Abu Azaitar,Sedriques Dumas,138,-178,h2h
+2023-10-21 15:10:00,BetOnline.ag,Bruno Silva,Shara Magomedov,169,-192,h2h
+2023-10-21 15:10:00,LowVig.ag,Bruno Silva,Shara Magomedov,169,-194,h2h
+2023-10-21 15:10:00,DraftKings,Bruno Silva,Shara Magomedov,164,-198,h2h
+2023-10-21 15:10:00,Caesars,Bruno Silva,Shara Magomedov,165,-195,h2h
+2023-10-21 15:10:00,FanDuel,Bruno Silva,Shara Magomedov,164,-215,h2h
+2023-10-21 15:10:00,TwinSpires,Bruno Silva,Shara Magomedov,163,-205,h2h
+2023-10-21 15:10:00,BetRivers,Bruno Silva,Shara Magomedov,163,-205,h2h
+2023-10-21 15:10:00,Unibet,Bruno Silva,Shara Magomedov,163,-205,h2h
+2023-10-21 15:10:00,LowVig.ag,Jinh Yu Frey,Viktoriya Dudakova,295,-360,h2h
+2023-10-21 15:10:00,Bovada,Jinh Yu Frey,Viktoriya Dudakova,290,-375,h2h
+2023-10-21 15:10:00,BetOnline.ag,Jinh Yu Frey,Viktoriya Dudakova,295,-357,h2h
+2023-10-21 15:10:00,DraftKings,Jinh Yu Frey,Viktoriya Dudakova,295,-375,h2h
+2023-10-21 15:10:00,Caesars,Jinh Yu Frey,Viktoriya Dudakova,280,-360,h2h
+2023-10-21 15:10:00,Unibet,Jinh Yu Frey,Viktoriya Dudakova,265,-345,h2h
+2023-10-21 15:10:00,BetRivers,Jinh Yu Frey,Viktoriya Dudakova,265,-345,h2h
+2023-10-21 15:10:00,TwinSpires,Jinh Yu Frey,Viktoriya Dudakova,265,-345,h2h
+2023-10-21 15:10:00,FanDuel,Jinh Yu Frey,Viktoriya Dudakova,285,-400,h2h
+2023-10-21 15:10:00,BetOnline.ag,Muhammadjon Naimov,Nathaniel Wood,250,-303,h2h
+2023-10-21 15:10:00,Bovada,Muhammadjon Naimov,Nathaniel Wood,250,-310,h2h
+2023-10-21 15:10:00,LowVig.ag,Muhammadjon Naimov,Nathaniel Wood,250,-300,h2h
+2023-10-21 15:10:00,DraftKings,Muhammadjon Naimov,Nathaniel Wood,250,-310,h2h
+2023-10-21 15:10:00,Caesars,Muhammadjon Naimov,Nathaniel Wood,250,-320,h2h
+2023-10-21 15:10:00,Unibet,Muhammadjon Naimov,Nathaniel Wood,245,-315,h2h
+2023-10-21 15:10:00,BetRivers,Muhammadjon Naimov,Nathaniel Wood,245,-315,h2h
+2023-10-21 15:10:00,TwinSpires,Muhammadjon Naimov,Nathaniel Wood,245,-315,h2h
+2023-10-21 15:10:00,FanDuel,Muhammadjon Naimov,Nathaniel Wood,250,-340,h2h
+2023-10-21 17:25:00,BetOnline.ag,Mohammad Yahya,Trevor Peek,-120,100,h2h
+2023-10-21 17:25:00,LowVig.ag,Mohammad Yahya,Trevor Peek,-120,100,h2h
+2023-10-21 17:25:00,Bovada,Mohammad Yahya,Trevor Peek,-140,115,h2h
+2023-10-21 17:25:00,DraftKings,Mohammad Yahya,Trevor Peek,-142,120,h2h
+2023-10-21 17:25:00,Caesars,Mohammad Yahya,Trevor Peek,-135,115,h2h
+2023-10-21 17:25:00,BetRivers,Mohammad Yahya,Trevor Peek,-137,112,h2h
+2023-10-21 17:25:00,TwinSpires,Mohammad Yahya,Trevor Peek,-137,112,h2h
+2023-10-21 17:25:00,Unibet,Mohammad Yahya,Trevor Peek,-137,112,h2h
+2023-10-21 17:25:00,FanDuel,Mohammad Yahya,Trevor Peek,-150,118,h2h
+2023-10-21 18:00:00,BetRivers,Johnny Walker,Magomed Ankalaev,265,-345,h2h
+2023-10-21 18:00:00,TwinSpires,Johnny Walker,Magomed Ankalaev,265,-345,h2h
+2023-10-21 18:00:00,Bovada,Johnny Walker,Magomed Ankalaev,265,-350,h2h
+2023-10-21 18:00:00,Unibet,Johnny Walker,Magomed Ankalaev,265,-345,h2h
+2023-10-21 18:00:00,Caesars,Johnny Walker,Magomed Ankalaev,270,-340,h2h
+2023-10-21 18:00:00,FanDuel,Johnny Walker,Magomed Ankalaev,265,-370,h2h
+2023-10-21 18:00:59,BetOnline.ag,Khamzat Chimaev,Paulo Henrique Costa,-370,295,h2h
+2023-10-21 18:00:59,Bovada,Khamzat Chimaev,Paulo Henrique Costa,-400,300,h2h
+2023-10-21 18:00:59,LowVig.ag,Khamzat Chimaev,Paulo Henrique Costa,-370,295,h2h
+2023-10-21 18:00:59,TwinSpires,Khamzat Chimaev,Paulo Henrique Costa,-385,295,h2h
+2023-10-21 18:00:59,Unibet,Khamzat Chimaev,Paulo Henrique Costa,-385,295,h2h
+2023-10-21 18:00:59,BetRivers,Khamzat Chimaev,Paulo Henrique Costa,-385,295,h2h
+2023-10-21 18:00:59,BetMGM,Khamzat Chimaev,Paulo Henrique Costa,-375,280,h2h
+2023-10-21 18:00:59,Caesars,Khamzat Chimaev,Paulo Henrique Costa,-380,300,h2h
+2023-10-21 18:15:00,BetOnline.ag,Muin Gafurov,Said Nurmagomedov,175,-204,h2h
+2023-10-21 18:15:00,LowVig.ag,Muin Gafurov,Said Nurmagomedov,175,-205,h2h
+2023-10-21 18:15:00,DraftKings,Muin Gafurov,Said Nurmagomedov,154,-185,h2h
+2023-10-21 18:15:00,Bovada,Muin Gafurov,Said Nurmagomedov,165,-200,h2h
+2023-10-21 18:15:00,Caesars,Muin Gafurov,Said Nurmagomedov,165,-195,h2h
+2023-10-21 18:15:00,TwinSpires,Muin Gafurov,Said Nurmagomedov,163,-205,h2h
+2023-10-21 18:15:00,Unibet,Muin Gafurov,Said Nurmagomedov,163,-205,h2h
+2023-10-21 18:15:00,BetRivers,Muin Gafurov,Said Nurmagomedov,163,-205,h2h
+2023-10-21 18:15:00,FanDuel,Muin Gafurov,Said Nurmagomedov,154,-200,h2h
+2023-10-21 20:30:00,BetOnline.ag,Alex Volkanovski,Islam Makhachev,205,-238,h2h
+2023-10-21 20:30:00,FanDuel,Alex Volkanovski,Islam Makhachev,200,-265,h2h
+2023-10-21 20:30:00,LowVig.ag,Alex Volkanovski,Islam Makhachev,205,-240,h2h
+2023-10-21 20:30:00,DraftKings,Alex Volkanovski,Islam Makhachev,205,-250,h2h
+2023-10-21 20:30:00,Bovada,Alex Volkanovski,Islam Makhachev,195,-240,h2h
+2023-10-21 20:30:00,TwinSpires,Alex Volkanovski,Islam Makhachev,195,-250,h2h
+2023-10-21 20:30:00,BetRivers,Alex Volkanovski,Islam Makhachev,195,-250,h2h
+2023-10-21 20:30:00,Unibet,Alex Volkanovski,Islam Makhachev,195,-250,h2h
+2023-11-12 03:00:00,Bovada,Alex Pereira,Jiri Prochazka,-145,120,h2h
+2023-11-12 03:00:00,BetOnline.ag,Alex Pereira,Jiri Prochazka,-135,115,h2h
+2023-11-12 03:00:00,FanDuel,Alex Pereira,Jiri Prochazka,-160,124,h2h
+2023-11-12 03:00:00,DraftKings,Alex Pereira,Jiri Prochazka,-148,124,h2h
+2023-11-12 03:00:00,LowVig.ag,Alex Pereira,Jiri Prochazka,-135,115,h2h
+2023-11-12 03:00:00,BetRivers,Alex Pereira,Jiri Prochazka,-150,120,h2h
+2023-11-12 03:00:00,Unibet,Alex Pereira,Jiri Prochazka,-150,120,h2h
+2023-11-12 03:00:00,TwinSpires,Alex Pereira,Jiri Prochazka,-150,120,h2h
+2023-11-12 03:00:00,Caesars,Alex Pereira,Jiri Prochazka,-145,122,h2h
+2023-11-12 04:00:10,Unibet,Jon Jones,Stipe Miocic,-420,320,h2h
+2023-11-12 04:00:10,BetRivers,Jon Jones,Stipe Miocic,-420,320,h2h
+2023-11-12 04:00:10,TwinSpires,Jon Jones,Stipe Miocic,-420,320,h2h
+2023-11-12 04:00:10,LowVig.ag,Jon Jones,Stipe Miocic,-370,295,h2h
+2023-11-12 04:00:10,BetOnline.ag,Jon Jones,Stipe Miocic,-370,295,h2h
+2023-11-12 04:00:10,Bovada,Jon Jones,Stipe Miocic,-375,290,h2h
+2023-11-12 04:00:10,FanDuel,Jon Jones,Stipe Miocic,-440,310,h2h
+2023-11-12 04:00:10,DraftKings,Jon Jones,Stipe Miocic,-395,310,h2h
+2023-12-17 03:00:00,BetRivers,Alexandre Pantoja,Brandon Royval,-240,188,h2h
+2023-12-17 03:00:00,LowVig.ag,Alexandre Pantoja,Brandon Royval,-220,170,h2h
+2023-12-17 03:00:00,DraftKings,Alexandre Pantoja,Brandon Royval,-238,195,h2h
+2023-12-17 03:00:00,Caesars,Alexandre Pantoja,Brandon Royval,-240,195,h2h
+2023-12-17 03:00:00,TwinSpires,Alexandre Pantoja,Brandon Royval,-240,188,h2h
+2023-12-17 03:00:00,Unibet,Alexandre Pantoja,Brandon Royval,-240,188,h2h
+2023-12-17 03:00:00,BetOnline.ag,Alexandre Pantoja,Brandon Royval,-217,170,h2h
+2023-12-17 03:00:00,FanDuel,Alexandre Pantoja,Brandon Royval,-245,186,h2h
+2023-12-17 03:00:00,BetOnline.ag,Colby Covington,Leon Edwards,-105,-115,h2h
+2023-12-17 03:00:00,DraftKings,Colby Covington,Leon Edwards,110,-130,h2h
+2023-12-17 03:00:00,Caesars,Colby Covington,Leon Edwards,105,-125,h2h
+2023-12-17 03:00:00,LowVig.ag,Colby Covington,Leon Edwards,-105,-115,h2h
+2023-12-17 03:00:00,Bovada,Colby Covington,Leon Edwards,-105,-115,h2h
+2023-12-17 03:00:00,FanDuel,Colby Covington,Leon Edwards,108,-136,h2h
+2023-12-17 03:00:00,Unibet,Colby Covington,Leon Edwards,107,-132,h2h
+2023-12-17 03:00:00,TwinSpires,Colby Covington,Leon Edwards,107,-132,h2h
+2023-12-17 03:00:00,BetRivers,Colby Covington,Leon Edwards,107,-132,h2h
+2023-12-17 03:00:00,LowVig.ag,Paddy Pimblett,Tony Ferguson,-280,240,h2h
+2023-12-17 03:00:00,BetOnline.ag,Paddy Pimblett,Tony Ferguson,-278,240,h2h
+2023-12-17 03:00:00,FanDuel,Paddy Pimblett,Tony Ferguson,-400,285,h2h
+2023-12-17 03:00:00,Bovada,Paddy Pimblett,Tony Ferguson,-300,240,h2h
+2023-12-17 03:00:00,DraftKings,Paddy Pimblett,Tony Ferguson,-355,280,h2h
+2023-12-17 03:00:00,LowVig.ag,Shavkat Rakhmonov,Stephen Thompson,-549,385,h2h
+2023-12-17 03:00:00,BetOnline.ag,Shavkat Rakhmonov,Stephen Thompson,-556,385,h2h
+2023-12-17 03:00:00,FanDuel,Shavkat Rakhmonov,Stephen Thompson,-480,330,h2h
+2023-12-17 03:00:00,DraftKings,Shavkat Rakhmonov,Stephen Thompson,-455,350,h2h
+2023-12-17 03:00:00,Bovada,Shavkat Rakhmonov,Stephen Thompson,-450,350,h2h
+2023-12-31 21:00:00,DraftKings,Conor McGregor,Michael Chandler,-122,102,h2h
