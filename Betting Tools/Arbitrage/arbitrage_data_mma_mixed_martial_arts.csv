@@ -1,7 +1,7 @@
 event_time,bookmaker,Fighter,Opponent,odds_f1,odds_f2
 2023-10-14 20:00:00,BetRivers,Ashley Yoder,Emily Ducote,270,-360
 2023-10-14 20:00:00,LowVig.ag,Ashley Yoder,Emily Ducote,300,-400
-2023-10-14 20:00:00,Bovada,Ashley Yoder,Emily Ducote,300,-400
+2023-10-14 20:00:00,Bovada,Ashley Yoder,Emily Ducote,285,-400
 2023-10-14 20:00:00,TwinSpires,Ashley Yoder,Emily Ducote,270,-360
 2023-10-14 20:00:00,Unibet,Ashley Yoder,Emily Ducote,270,-360
 2023-10-14 20:00:00,BetOnline.ag,Ashley Yoder,Emily Ducote,300,-400
@@ -37,6 +37,7 @@ event_time,bookmaker,Fighter,Opponent,odds_f1,odds_f2
 2023-10-14 20:15:00,FanDuel,Chris Gutierrez,Heili Alateng,-340,250
 2023-10-14 20:15:00,DraftKings,Chris Gutierrez,Heili Alateng,-380,300
 2023-10-14 20:15:00,Caesars,Chris Gutierrez,Heili Alateng,-360,280
+2023-10-14 20:15:00,Bovada,Chris Gutierrez,Heili Alateng,-350,275
 2023-10-14 20:15:00,BetOnline.ag,Irina Alekseeva,Melissa Dixon,130,-149
 2023-10-14 20:15:00,BetUS,Irina Alekseeva,Melissa Dixon,120,-150
 2023-10-14 20:15:00,LowVig.ag,Irina Alekseeva,Melissa Dixon,130,-150
@@ -58,7 +59,7 @@ event_time,bookmaker,Fighter,Opponent,odds_f1,odds_f2
 2023-10-14 20:40:00,LowVig.ag,Ravena Oliveira,Tainara Lisboa,270,-321
 2023-10-14 20:40:00,Unibet,Ravena Oliveira,Tainara Lisboa,275,-375
 2023-10-14 20:40:00,DraftKings,Ravena Oliveira,Tainara Lisboa,295,-375
-2023-10-14 20:40:00,Bovada,Ravena Oliveira,Tainara Lisboa,280,-350
+2023-10-14 20:40:00,Bovada,Ravena Oliveira,Tainara Lisboa,275,-350
 2023-10-14 20:40:00,BetMGM,Ravena Oliveira,Tainara Lisboa,275,-350
 2023-10-14 20:40:00,Caesars,Ravena Oliveira,Tainara Lisboa,290,-370
 2023-10-14 20:40:00,SuperBook,Ravena Oliveira,Tainara Lisboa,235,-290
@@ -89,7 +90,7 @@ event_time,bookmaker,Fighter,Opponent,odds_f1,odds_f2
 2023-10-14 23:00:00,SuperBook,Cameron Saaiman,Christian Rodriguez,135,-155
 2023-10-14 23:00:10,BetRivers,Jennifer Maia,Viviane Araujo,-155,123
 2023-10-14 23:00:10,LowVig.ag,Jennifer Maia,Viviane Araujo,-151,131
-2023-10-14 23:00:10,Bovada,Jennifer Maia,Viviane Araujo,-154,128
+2023-10-14 23:00:10,Bovada,Jennifer Maia,Viviane Araujo,-155,130
 2023-10-14 23:00:10,Unibet,Jennifer Maia,Viviane Araujo,-155,123
 2023-10-14 23:00:10,TwinSpires,Jennifer Maia,Viviane Araujo,-155,123
 2023-10-14 23:00:10,BetOnline.ag,Jennifer Maia,Viviane Araujo,-152,131
@@ -102,8 +103,9 @@ event_time,bookmaker,Fighter,Opponent,odds_f1,odds_f2
 2023-10-14 23:00:10,SuperBook,Jennifer Maia,Viviane Araujo,-145,125
 2023-10-14 23:15:00,BetOnline.ag,Andre Petroski,Michel Pereira,160,-185
 2023-10-14 23:15:00,LowVig.ag,Andre Petroski,Michel Pereira,160,-185
+2023-10-14 23:15:00,Bovada,Andre Petroski,Michel Pereira,145,-175
 2023-10-14 23:15:00,BetUS,Daniel Da Silva,Edgar Chairez,265,-365
-2023-10-14 23:15:00,Bovada,Daniel Da Silva,Edgar Chairez,245,-325
+2023-10-14 23:15:00,Bovada,Daniel Da Silva,Edgar Chairez,250,-325
 2023-10-14 23:15:00,BetOnline.ag,Daniel Da Silva,Edgar Chairez,300,-370
 2023-10-14 23:15:00,LowVig.ag,Daniel Da Silva,Edgar Chairez,300,-365
 2023-10-14 23:15:00,WynnBET,Daniel Da Silva,Edgar Chairez,252,-312
@@ -168,7 +170,7 @@ event_time,bookmaker,Fighter,Opponent,odds_f1,odds_f2
 2023-10-21 15:10:00,BetRivers,Bruno Silva,Shara Magomedov,163,-205
 2023-10-21 15:10:00,Unibet,Bruno Silva,Shara Magomedov,163,-205
 2023-10-21 15:10:00,LowVig.ag,Jinh Yu Frey,Viktoriya Dudakova,295,-360
-2023-10-21 15:10:00,Bovada,Jinh Yu Frey,Viktoriya Dudakova,290,-375
+2023-10-21 15:10:00,Bovada,Jinh Yu Frey,Viktoriya Dudakova,275,-375
 2023-10-21 15:10:00,BetOnline.ag,Jinh Yu Frey,Viktoriya Dudakova,295,-357
 2023-10-21 15:10:00,DraftKings,Jinh Yu Frey,Viktoriya Dudakova,295,-375
 2023-10-21 15:10:00,Caesars,Jinh Yu Frey,Viktoriya Dudakova,280,-360
