@@ -1,302 +1,308 @@
 arb_percent,event_time,Fighter,odds_f1,Opponent,odds_f2,bookmaker_f1,bookmaker_f2,market,Sport
-2.0,2023-10-15 17:01:00,Chicago Bears,100,Minnesota Vikings,100,BetUS,Barstool Sportsbook,spreads,americanfootball_nfl
-2.0,2023-10-14 19:30:00,Oregon Ducks,100,Washington Huskies,100,FanDuel,Caesars,spreads,americanfootball_ncaaf
-2.0,2023-10-23 00:21:00,Miami Dolphins,100,Philadelphia Eagles,100,BetOnline.ag,SuperBook,spreads,americanfootball_nfl
 2.0,2023-10-15 20:26:00,Detroit Lions,100,Tampa Bay Buccaneers,100,BetUS,SuperBook,spreads,americanfootball_nfl
-2.0,2023-10-25 02:00:00,Golden State Warriors,100,Phoenix Suns,100,Caesars,BetMGM,h2h,basketball_nba
-2.0,2023-10-15 17:01:00,Cincinnati Bengals,100,Seattle Seahawks,100,SuperBook,BetUS,spreads,americanfootball_nfl
-1.96,2023-10-12 23:00:00,Detroit Red Wings,100,New Jersey Devils,104,DraftKings,TwinSpires,spreads,icehockey_nhl
-1.29,2023-10-11 21:07:00,Atlanta Braves,160,Philadelphia Phillies,150,DraftKings,BetMGM,spreads,baseball_mlb
-1.08,2023-10-13 00:00:00,Nashville Predators,220,Seattle Kraken,160,FanDuel,Bovada,spreads,icehockey_nhl
-0.33,2023-10-21 17:25:00,Mohammad Yahya,-150,Trevor Peek,100,FanDuel,BetOnline.ag,h2h,mma_mixed_martial_arts
-0.28,2023-10-14 23:00:00,Cameron Saaiman,110,Christian Rodriguez,-160,BetUS,FanDuel,h2h,mma_mixed_martial_arts
+2.0,2023-10-23 00:21:00,Miami Dolphins,100,Philadelphia Eagles,100,BetOnline.ag,SuperBook,spreads,americanfootball_nfl
+2.0,2023-10-15 17:01:00,Chicago Bears,100,Minnesota Vikings,100,BetUS,Bovada,spreads,americanfootball_nfl
+2.0,2023-10-14 19:30:00,Oregon Ducks,100,Washington Huskies,100,FanDuel,Caesars,spreads,americanfootball_ncaaf
+2.0,2023-10-15 17:01:00,Cincinnati Bengals,100,Seattle Seahawks,100,SuperBook,BetOnline.ag,spreads,americanfootball_nfl
+1.41,2023-10-12 01:07:00,Arizona Diamondbacks,100,Los Angeles Dodgers,245,BetMGM,TwinSpires,spreads,baseball_mlb
+1.31,2023-10-11 23:00:00,Carolina Hurricanes,260,Ottawa Senators,108,BetMGM,FanDuel,spreads,icehockey_nhl
+0.97,2023-10-13 00:00:00,Nashville Predators,200,Seattle Kraken,215,BetMGM,Caesars,spreads,icehockey_nhl
+0.57,2023-10-12 01:07:00,Arizona Diamondbacks,-100000,Los Angeles Dodgers,175,PointsBet (US),WynnBET,h2h,baseball_mlb
+0.33,2023-10-11 23:30:00,Boston Bruins,-150,Chicago Blackhawks,100,Caesars,Bovada,spreads,icehockey_nhl
+0.3,2023-10-11 23:37:38,Florida International Panthers,260,UTEP Miners,-1250,Caesars,MyBookie.ag,h2h,americanfootball_ncaaf
+0.29,2023-10-11 23:00:00,Montréal Canadiens,102,Toronto Maple Leafs,-145,Unibet,Bovada,h2h,icehockey_nhl
+0.29,2023-10-11 23:37:38,Florida International Panthers,100,UTEP Miners,-140,BetMGM,FanDuel,spreads,americanfootball_ncaaf
 0.27,2023-11-18 21:00:00,Matteo Signani,192,Tyler Denny,-400,MyBookie.ag,BetUS,h2h,boxing_boxing
+0.27,2023-10-13 02:30:00,San Jose Sharks,-137,Vegas Golden Knights,100,TwinSpires,DraftKings,spreads,icehockey_nhl
 0.26,2023-12-17 04:00:00,Jesse Rodriguez,-215,Sunny Edwards,138,BetUS,FanDuel,h2h,boxing_boxing
-0.25,2023-10-11 23:30:00,Boston Bruins,-137,Chicago Blackhawks,102,FanDuel,Unibet,spreads,icehockey_nhl
-0.25,2023-10-26 00:00:00,Memphis Grizzlies,-136,New Orleans Pelicans,102,FanDuel,MyBookie.ag,h2h,basketball_nba
-0.25,2023-10-12 23:00:00,Buffalo Sabres,104,New York Rangers,-140,FanDuel,Bovada,h2h,icehockey_nhl
-0.25,2023-10-29 04:00:00,Eduardo Hernandez,150,O'Shaquie Foster,-240,Bovada,FanDuel,h2h,boxing_boxing
+0.25,2023-10-12 23:05:00,Buffalo Sabres,104,New York Rangers,-140,FanDuel,Bovada,h2h,icehockey_nhl
 0.25,2023-10-25 23:00:00,Houston Rockets,115,Orlando Magic,-162,Unibet,DraftKings,h2h,basketball_nba
-0.24,2023-10-21 20:00:00,Isaac Chamberlain,-220,Mikael Lawal,145,FanDuel,DraftKings,h2h,boxing_boxing
+0.25,2023-10-26 00:00:00,Memphis Grizzlies,-136,New Orleans Pelicans,102,FanDuel,MyBookie.ag,h2h,basketball_nba
 0.24,2023-11-12 03:00:00,Alex Pereira,-160,Jiri Prochazka,115,FanDuel,BetOnline.ag,h2h,mma_mixed_martial_arts
-0.24,2023-10-14 20:00:00,Darren Elkins,143,TJ Brown,-220,BetRivers,FanDuel,h2h,mma_mixed_martial_arts
 0.24,2023-11-11 15:00:41,Michigan Wolverines,-160,Penn State Nittany Lions,115,FanDuel,Unibet,h2h,americanfootball_ncaaf
-0.24,2023-10-14 23:00:10,Jennifer Maia,-170,Viviane Araujo,121,FanDuel,BetUS,h2h,mma_mixed_martial_arts
 0.24,2023-11-05 04:00:00,Shohjahon Ergashev,215,Subriel Matias,-435,MyBookie.ag,BetUS,h2h,boxing_boxing
+0.24,2023-10-11 23:07:00,Houston Astros,-100000,Minnesota Twins,410,PointsBet (US),MyBookie.ag,h2h,baseball_mlb
+0.24,2023-10-14 23:00:00,Cameron Saaiman,116,Christian Rodriguez,-160,BetRivers,FanDuel,h2h,mma_mixed_martial_arts
+0.24,2023-10-12 22:07:00,Atlanta Braves,104,Philadelphia Phillies,-138,MyBookie.ag,FanDuel,spreads,baseball_mlb
+0.24,2023-10-21 20:00:00,Isaac Chamberlain,-220,Mikael Lawal,145,FanDuel,DraftKings,h2h,boxing_boxing
+0.24,2023-10-14 20:00:00,Darren Elkins,143,TJ Brown,-220,BetRivers,FanDuel,h2h,mma_mixed_martial_arts
 0.23,2023-12-25 22:00:00,Boston Celtics,-130,Los Angeles Lakers,100,Caesars,Bovada,h2h,basketball_nba
+0.23,2023-10-29 04:00:00,Eduardo Hernandez,155,O'Shaquie Foster,-240,Bovada,DraftKings,h2h,boxing_boxing
+0.23,2023-10-15 20:05:00,Las Vegas Raiders,-175,New England Patriots,125,Unibet,PointsBet (US),h2h,americanfootball_nfl
+0.23,2023-10-12 23:00:00,Columbus Blue Jackets,-130,Philadelphia Flyers,100,DraftKings,Bovada,h2h,icehockey_nhl
+0.23,2023-10-14 20:15:00,Irina Alekseeva,115,Melissa Dixon,-156,Bovada,FanDuel,h2h,mma_mixed_martial_arts
 0.23,2023-10-14 23:00:00,Adrian Yanez,100,Jonathan Martinez,-130,WynnBET,Caesars,h2h,mma_mixed_martial_arts
-0.23,2023-10-11 23:00:00,Femke Hermans,-175,Mary Spencer,125,LowVig.ag,Bovada,h2h,boxing_boxing
-0.22,2023-10-12 02:00:00,Calgary Flames,-136,Winnipeg Jets,105,Unibet,Bovada,h2h,icehockey_nhl
+0.23,2023-10-14 23:00:10,Jennifer Maia,-170,Viviane Araujo,122,FanDuel,BetUS,h2h,mma_mixed_martial_arts
 0.22,2023-10-25 23:00:00,Boston Celtics,-136,New York Knicks,105,BetRivers,BetMGM,h2h,basketball_nba
-0.22,2023-10-15 17:01:00,Atlanta Falcons,-148,Washington Commanders,112,DraftKings,WynnBET,h2h,americanfootball_nfl
+0.22,2023-10-17 00:16:00,Dallas Cowboys,-141,Los Angeles Chargers,108,BetOnline.ag,WynnBET,h2h,americanfootball_nfl
+0.22,2023-10-12 23:00:00,Houston Cougars,116,West Virginia Mountaineers,-155,BetRivers,PointsBet (US),h2h,americanfootball_ncaaf
 0.22,2023-10-14 19:30:00,Florida Gators,105,South Carolina Gamecocks,-137,Bovada,FanDuel,h2h,americanfootball_ncaaf
-0.22,2023-10-12 23:00:00,Columbus Blue Jackets,-137,Philadelphia Flyers,105,FanDuel,Bovada,h2h,icehockey_nhl
 0.22,2023-10-21 20:00:00,Aqib Fiaz,110,Reece Bellotti,-145,BetUS,Bovada,h2h,boxing_boxing
-0.22,2023-12-17 03:00:00,Colby Covington,105,Leon Edwards,-136,Caesars,FanDuel,h2h,mma_mixed_martial_arts
 0.22,2023-10-13 00:00:00,Florida Panthers,105,Minnesota Wild,-136,DraftKings,Unibet,h2h,icehockey_nhl
-0.22,2023-10-12 01:07:00,Arizona Diamondbacks,108,Los Angeles Dodgers,-141,FanDuel,TwinSpires,h2h,baseball_mlb
+0.22,2023-10-15 17:01:00,Atlanta Falcons,-148,Washington Commanders,112,DraftKings,WynnBET,h2h,americanfootball_nfl
 0.22,2023-11-25 18:00:00,Kentucky Wildcats,102,Louisville Cardinals,-132,FanDuel,Unibet,h2h,americanfootball_ncaaf
-0.21,2023-12-25 23:00:00,Miami Heat,-135,Philadelphia 76ers,105,Caesars,Barstool Sportsbook,h2h,basketball_nba
-0.21,2023-10-14 19:30:00,BYU Cougars,160,TCU Horned Frogs,-240,Unibet,SuperBook,h2h,americanfootball_ncaaf
+0.22,2023-12-17 03:00:00,Colby Covington,105,Leon Edwards,-136,Caesars,FanDuel,h2h,mma_mixed_martial_arts
 0.21,2023-10-14 23:00:00,Kansas State Wildcats,100,Texas Tech Red Raiders,-126,PointsBet (US),FanDuel,h2h,americanfootball_ncaaf
-0.21,2023-10-11 23:30:00,Florida International Panthers,-160,UTEP Miners,120,Caesars,Bovada,h2h,americanfootball_ncaaf
-0.21,2023-10-12 01:07:00,Arizona Diamondbacks,-150,Los Angeles Dodgers,114,BetMGM,DraftKings,spreads,baseball_mlb
-0.21,2023-10-21 20:30:00,Alex Volkanovski,170,Islam Makhachev,-265,DraftKings,FanDuel,h2h,mma_mixed_martial_arts
-0.21,2023-10-11 21:07:00,Atlanta Braves,100,Philadelphia Phillies,-126,PointsBet (US),MyBookie.ag,h2h,baseball_mlb
-0.21,2023-10-17 00:16:00,Dallas Cowboys,-135,Los Angeles Chargers,105,Bovada,PointsBet (US),h2h,americanfootball_nfl
-0.21,2023-10-15 17:01:00,Houston Texans,100,New Orleans Saints,-127,SuperBook,BetRivers,h2h,americanfootball_nfl
-0.2,2023-10-25 23:30:00,Brooklyn Nets,100,Cleveland Cavaliers,-125,MyBookie.ag,DraftKings,h2h,basketball_nba
-0.2,2023-10-15 20:05:00,Las Vegas Raiders,-180,New England Patriots,133,SuperBook,WynnBET,h2h,americanfootball_nfl
-0.2,2023-10-22 20:26:00,Denver Broncos,100,Green Bay Packers,-125,DraftKings,Caesars,h2h,americanfootball_nfl
-0.2,2023-10-25 23:00:00,Atlanta Hawks,-125,Charlotte Hornets,100,DraftKings,FanDuel,h2h,basketball_nba
-0.2,2023-10-12 23:00:00,Houston Cougars,118,West Virginia Mountaineers,-155,BetRivers,PointsBet (US),h2h,americanfootball_ncaaf
-0.2,2023-10-14 23:30:00,Notre Dame Fighting Irish,-150,USC Trojans,115,FanDuel,BetRivers,h2h,americanfootball_ncaaf
+0.21,2023-10-11 23:07:00,Houston Astros,310,Minnesota Twins,-900,MyBookie.ag,Bovada,spreads,baseball_mlb
+0.21,2023-10-15 17:01:00,Houston Texans,100,New Orleans Saints,-127,DraftKings,BetRivers,h2h,americanfootball_nfl
+0.21,2023-12-25 23:00:00,Miami Heat,-135,Philadelphia 76ers,105,Caesars,Barstool Sportsbook,h2h,basketball_nba
+0.21,2023-10-12 02:10:00,Calgary Flames,-144,Winnipeg Jets,110,SuperBook,PointsBet (US),h2h,icehockey_nhl
+0.21,2023-10-12 06:00:00,RV Deniega,220,Saul Sanchez,-410,LowVig.ag,Bovada,h2h,boxing_boxing
+0.21,2023-10-15 17:01:00,Chicago Bears,115,Minnesota Vikings,-151,PointsBet (US),LowVig.ag,h2h,americanfootball_nfl
+0.21,2023-10-11 23:00:00,Carolina Hurricanes,-200000,Ottawa Senators,475,Caesars,Bovada,h2h,icehockey_nhl
 0.2,2023-10-22 17:01:00,New York Giants,100,Washington Commanders,-125,DraftKings,Caesars,h2h,americanfootball_nfl
-0.2,2023-10-14 19:30:00,Virginia Tech Hokies,-125,Wake Forest Demon Deacons,100,FanDuel,Bovada,h2h,americanfootball_ncaaf
-0.2,2023-10-14 19:30:00,Oregon Ducks,116,Washington Huskies,-150,BetRivers,FanDuel,h2h,americanfootball_ncaaf
-0.2,2023-10-14 19:30:00,Bowling Green Falcons,148,Buffalo Bulls,-211,Unibet,MyBookie.ag,h2h,americanfootball_ncaaf
-0.2,2023-10-14 19:30:00,Florida Atlantic Owls,110,South Florida Bulls,-142,BetMGM,DraftKings,h2h,americanfootball_ncaaf
+0.2,2023-10-25 23:00:00,Atlanta Hawks,-125,Charlotte Hornets,100,DraftKings,FanDuel,h2h,basketball_nba
+0.2,2023-10-13 00:00:00,Dallas Stars,110,St Louis Blues,-141,BetMGM,BetOnline.ag,spreads,icehockey_nhl
 0.2,2023-12-25 23:00:00,Milwaukee Bucks,-185,New York Knicks,135,DraftKings,Caesars,h2h,basketball_nba
-0.2,2023-10-13 02:30:00,San Jose Sharks,-125,Vegas Golden Knights,100,Bovada,DraftKings,spreads,icehockey_nhl
 0.2,2023-10-15 00:00:00,Edson Barboza,131,Sodiq Yusuff,-178,BetUS,FanDuel,h2h,mma_mixed_martial_arts
-0.19,2023-10-15 00:00:00,Oregon State Beavers,-190,UCLA Bruins,140,Barstool Sportsbook,BetRivers,h2h,americanfootball_ncaaf
-0.19,2023-10-14 16:00:00,Georgia Southern Eagles,170,James Madison Dukes,-250,Unibet,PointsBet (US),h2h,americanfootball_ncaaf
-0.19,2023-10-22 20:06:00,Los Angeles Rams,-165,Pittsburgh Steelers,126,Caesars,FanDuel,h2h,americanfootball_nfl
-0.19,2023-11-25 15:00:41,Michigan Wolverines,-176,Ohio State Buckeyes,132,FanDuel,Unibet,h2h,americanfootball_ncaaf
-0.19,2023-10-26 01:30:00,Dallas Mavericks,-240,San Antonio Spurs,164,FanDuel,DraftKings,h2h,basketball_nba
-0.19,2023-10-13 23:00:00,Memphis Tigers,145,Tulane Green Wave,-200,Unibet,Barstool Sportsbook,h2h,americanfootball_ncaaf
-0.19,2023-10-15 00:00:00,Duke Blue Devils,-180,NC State Wolfpack,135,DraftKings,BetRivers,h2h,americanfootball_ncaaf
-0.19,2023-10-14 23:30:00,Miami Hurricanes,140,North Carolina Tar Heels,-192,BetRivers,FanDuel,h2h,americanfootball_ncaaf
+0.2,2023-10-14 19:30:00,Virginia Tech Hokies,-125,Wake Forest Demon Deacons,100,FanDuel,Bovada,h2h,americanfootball_ncaaf
+0.2,2023-10-25 23:30:00,Brooklyn Nets,100,Cleveland Cavaliers,-125,MyBookie.ag,DraftKings,h2h,basketball_nba
+0.2,2023-10-14 19:30:00,Florida Atlantic Owls,110,South Florida Bulls,-142,BetMGM,DraftKings,h2h,americanfootball_ncaaf
+0.2,2023-10-22 20:26:00,Denver Broncos,100,Green Bay Packers,-125,DraftKings,BetUS,h2h,americanfootball_nfl
+0.2,2023-10-14 19:30:00,Oregon Ducks,116,Washington Huskies,-150,BetRivers,Barstool Sportsbook,h2h,americanfootball_ncaaf
 0.19,2023-11-25 19:00:28,Chantelle Cameron,-190,Katie Taylor,140,BetMGM,BetRivers,h2h,boxing_boxing
-0.19,2023-10-11 23:00:00,Carolina Hurricanes,120,Ottawa Senators,-155,DraftKings,Unibet,spreads,icehockey_nhl
-0.19,2023-10-14 20:15:00,Irina Alekseeva,120,Melissa Dixon,-156,BetUS,FanDuel,h2h,mma_mixed_martial_arts
-0.19,2023-11-24 23:30:00,Miami Heat,105,New York Knicks,-131,Barstool Sportsbook,MyBookie.ag,h2h,basketball_nba
+0.19,2023-10-15 17:01:00,Cincinnati Bengals,-162,Seattle Seahawks,124,DraftKings,FanDuel,h2h,americanfootball_nfl
 0.19,2023-11-17 23:30:00,Sacramento Kings,-131,San Antonio Spurs,105,MyBookie.ag,Barstool Sportsbook,h2h,basketball_nba
-0.18,2023-10-15 17:01:00,Cincinnati Bengals,-162,Seattle Seahawks,125,DraftKings,Bovada,h2h,americanfootball_nfl
-0.18,2023-10-12 02:00:00,Edmonton Oilers,-162,Vancouver Canucks,126,DraftKings,FanDuel,h2h,icehockey_nhl
-0.18,2023-10-12 02:00:00,Colorado Avalanche,-130,Los Angeles Kings,105,Bovada,FanDuel,h2h,icehockey_nhl
-0.18,2023-10-14 19:30:00,Kansas Jayhawks,-160,Oklahoma State Cowboys,124,Caesars,DraftKings,h2h,americanfootball_ncaaf
-0.18,2023-12-17 03:00:00,Alexandre Pantoja,-245,Brandon Royval,170,FanDuel,LowVig.ag,h2h,mma_mixed_martial_arts
-0.18,2023-10-15 17:01:00,Chicago Bears,120,Minnesota Vikings,-152,DraftKings,BetOnline.ag,h2h,americanfootball_nfl
-0.18,2023-10-14 22:10:00,Ravena Oliveira,235,Tainara Lisboa,-400,BetUS,FanDuel,h2h,mma_mixed_martial_arts
-0.18,2023-10-14 21:00:00,KSI,245,Tommy Fury,-435,BetUS,Bovada,h2h,boxing_boxing
+0.19,2023-10-14 19:30:00,Bowling Green Falcons,148,Buffalo Bulls,-205,Unibet,FanDuel,h2h,americanfootball_ncaaf
+0.19,2023-11-24 23:30:00,Miami Heat,105,New York Knicks,-131,Barstool Sportsbook,MyBookie.ag,h2h,basketball_nba
+0.19,2023-10-22 20:06:00,Los Angeles Rams,-165,Pittsburgh Steelers,126,BetUS,FanDuel,h2h,americanfootball_nfl
+0.19,2023-10-14 16:00:00,Georgia Southern Eagles,170,James Madison Dukes,-250,Unibet,PointsBet (US),h2h,americanfootball_ncaaf
+0.19,2023-10-21 17:25:00,Mohammad Yahya,-140,Trevor Peek,110,FanDuel,DraftKings,h2h,mma_mixed_martial_arts
+0.19,2023-10-14 23:30:00,Miami Hurricanes,140,North Carolina Tar Heels,-192,BetRivers,FanDuel,h2h,americanfootball_ncaaf
+0.19,2023-10-14 23:30:00,Notre Dame Fighting Irish,-147,USC Trojans,115,MyBookie.ag,BetRivers,h2h,americanfootball_ncaaf
+0.19,2023-10-21 20:30:00,Alex Volkanovski,170,Islam Makhachev,-250,DraftKings,FanDuel,h2h,mma_mixed_martial_arts
+0.19,2023-10-14 23:30:00,Notre Dame Fighting Irish,-124,USC Trojans,100,FanDuel,LowVig.ag,spreads,americanfootball_ncaaf
+0.19,2023-10-15 00:00:00,Duke Blue Devils,-180,NC State Wolfpack,135,DraftKings,BetRivers,h2h,americanfootball_ncaaf
+0.19,2023-10-15 00:00:00,Oregon State Beavers,-190,UCLA Bruins,140,Barstool Sportsbook,BetRivers,h2h,americanfootball_ncaaf
+0.19,2023-10-14 00:00:00,Fresno State Bulldogs,-210,Utah State Aggies,150,FanDuel,Unibet,h2h,americanfootball_ncaaf
+0.19,2023-10-13 23:00:00,Memphis Tigers,148,Tulane Green Wave,-204,Unibet,BetOnline.ag,h2h,americanfootball_ncaaf
+0.19,2023-10-12 23:00:00,Houston Cougars,100,West Virginia Mountaineers,-124,PointsBet (US),FanDuel,spreads,americanfootball_ncaaf
+0.19,2023-11-25 15:00:41,Michigan Wolverines,-176,Ohio State Buckeyes,132,FanDuel,Unibet,h2h,americanfootball_ncaaf
+0.19,2023-10-26 01:30:00,Dallas Mavericks,-240,San Antonio Spurs,165,FanDuel,BetMGM,h2h,basketball_nba
 0.18,2023-10-14 23:30:00,Kentucky Wildcats,-140,Missouri Tigers,112,FanDuel,BetRivers,h2h,americanfootball_ncaaf
+0.18,2023-10-14 19:30:00,Kansas Jayhawks,-160,Oklahoma State Cowboys,124,FanDuel,DraftKings,h2h,americanfootball_ncaaf
 0.18,2023-11-14 23:00:00,Charlotte Hornets,115,Miami Heat,-145,Barstool Sportsbook,Bovada,h2h,basketball_nba
-0.17,2023-10-24 23:30:00,Denver Nuggets,-215,Los Angeles Lakers,157,FanDuel,MyBookie.ag,h2h,basketball_nba
+0.18,2023-10-12 02:10:00,Edmonton Oilers,-162,Vancouver Canucks,125,Unibet,PointsBet (US),h2h,icehockey_nhl
+0.18,2023-10-14 20:15:00,Chris Gutierrez,-385,Heili Alateng,230,BetRivers,SuperBook,h2h,mma_mixed_martial_arts
+0.18,2023-10-14 22:10:00,Ravena Oliveira,235,Tainara Lisboa,-400,BetUS,FanDuel,h2h,mma_mixed_martial_arts
+0.18,2023-12-17 03:00:00,Alexandre Pantoja,-245,Brandon Royval,170,FanDuel,LowVig.ag,h2h,mma_mixed_martial_arts
+0.18,2023-10-15 00:00:00,Sergei Vorobev,-833,Wade Ryan,330,BetOnline.ag,FanDuel,h2h,boxing_boxing
+0.18,2023-10-12 02:27:00,Colorado Avalanche,-130,Los Angeles Kings,105,Bovada,DraftKings,h2h,icehockey_nhl
+0.18,2023-10-21 18:15:00,Muin Gafurov,154,Said Nurmagomedov,-215,DraftKings,Bovada,h2h,mma_mixed_martial_arts
+0.17,2023-11-11 00:00:00,Minnesota Timberwolves,-150,San Antonio Spurs,120,Bovada,Barstool Sportsbook,h2h,basketball_nba
+0.17,2023-11-25 00:00:00,Denver Nuggets,-175,Houston Rockets,135,DraftKings,Barstool Sportsbook,h2h,basketball_nba
+0.17,2023-10-21 21:15:00,Dan Azeez,240,Joshua Buatsi,-400,DraftKings,BetMGM,h2h,boxing_boxing
 0.17,2023-10-20 00:16:00,Jacksonville Jaguars,100,New Orleans Saints,-120,LowVig.ag,FanDuel,spreads,americanfootball_nfl
-0.17,2023-10-11 23:07:00,Houston Astros,-210,Minnesota Twins,155,PointsBet (US),BetMGM,spreads,baseball_mlb
-0.17,2023-10-13 23:00:00,Pittsburgh Penguins,-120,Washington Capitals,100,DraftKings,Caesars,h2h,icehockey_nhl
+0.17,2023-10-24 23:30:00,Denver Nuggets,100,Los Angeles Lakers,-120,LowVig.ag,FanDuel,spreads,basketball_nba
+0.17,2023-10-22 17:01:00,Baltimore Ravens,-142,Detroit Lions,114,DraftKings,FanDuel,h2h,americanfootball_nfl
+0.17,2023-10-24 23:30:00,Denver Nuggets,-215,Los Angeles Lakers,157,FanDuel,MyBookie.ag,h2h,basketball_nba
+0.17,2023-11-28 23:30:00,Atlanta Hawks,135,Cleveland Cavaliers,-175,Barstool Sportsbook,DraftKings,h2h,basketball_nba
+0.17,2023-10-12 22:07:00,Atlanta Braves,-160,Philadelphia Phillies,125,PointsBet (US),BetMGM,h2h,baseball_mlb
+0.17,2023-11-25 00:00:00,Minnesota Timberwolves,-142,Sacramento Kings,115,DraftKings,Barstool Sportsbook,h2h,basketball_nba
+0.17,2023-11-25 02:30:00,Los Angeles Clippers,-150,New Orleans Pelicans,120,Bovada,Barstool Sportsbook,h2h,basketball_nba
+0.17,2023-10-15 00:00:00,Jackson Jon England,-225,Nathaniel May,164,DraftKings,FanDuel,h2h,boxing_boxing
+0.17,2023-12-26 03:30:00,Dallas Mavericks,180,Phoenix Suns,-260,Barstool Sportsbook,FanDuel,h2h,basketball_nba
 0.17,2023-12-17 03:00:00,Paddy Pimblett,-400,Tony Ferguson,240,FanDuel,LowVig.ag,h2h,mma_mixed_martial_arts
 0.17,2023-11-21 23:30:00,Cleveland Cavaliers,130,Philadelphia 76ers,-166,Barstool Sportsbook,DraftKings,h2h,basketball_nba
-0.17,2023-10-22 17:01:00,Baltimore Ravens,-142,Detroit Lions,114,DraftKings,FanDuel,h2h,americanfootball_nfl
-0.17,2023-10-14 16:00:00,Michigan State Spartans,155,Rutgers Scarlet Knights,-210,Unibet,MyBookie.ag,h2h,americanfootball_ncaaf
-0.17,2023-10-12 23:00:00,Columbus Blue Jackets,168,Philadelphia Flyers,-235,FanDuel,BetRivers,spreads,icehockey_nhl
-0.17,2023-10-14 19:30:00,Army Black Knights,155,Troy Trojans,-210,Unibet,FanDuel,h2h,americanfootball_ncaaf
-0.17,2023-10-14 23:15:00,Daniel Da Silva,240,Edgar Chairez,-400,FanDuel,SuperBook,h2h,mma_mixed_martial_arts
-0.17,2023-10-12 23:00:00,Detroit Red Wings,200,New Jersey Devils,-300,BetMGM,PointsBet (US),h2h,icehockey_nhl
 0.17,2023-10-13 00:00:00,Dallas Stars,-230,St Louis Blues,165,TwinSpires,PointsBet (US),h2h,icehockey_nhl
-0.17,2023-10-13 00:00:00,Dallas Stars,114,St Louis Blues,-141,DraftKings,BetOnline.ag,spreads,icehockey_nhl
-0.17,2023-10-24 23:30:00,Denver Nuggets,100,Los Angeles Lakers,-120,LowVig.ag,FanDuel,spreads,basketball_nba
-0.17,2023-10-13 23:00:00,Arizona Coyotes,100,New Jersey Devils,-120,DraftKings,Caesars,spreads,icehockey_nhl
-0.17,2023-10-14 23:15:00,Andre Petroski,150,Michel Pereira,-200,TwinSpires,BetOnline.ag,h2h,mma_mixed_martial_arts
-0.17,2023-10-14 18:00:00,Charlotte 49ers,128,Navy Midshipmen,-164,WynnBET,FanDuel,h2h,americanfootball_ncaaf
-0.17,2023-10-14 19:30:00,Tennessee Volunteers,-180,Texas A&M Aggies,138,DraftKings,FanDuel,h2h,americanfootball_ncaaf
-0.17,2023-10-21 21:15:00,Dan Azeez,240,Joshua Buatsi,-400,DraftKings,BetMGM,h2h,boxing_boxing
-0.17,2023-10-11 23:00:00,Montréal Canadiens,100,Toronto Maple Leafs,-120,DraftKings,FanDuel,spreads,icehockey_nhl
-0.17,2023-10-11 23:00:00,Carolina Hurricanes,-200,Ottawa Senators,150,Unibet,PointsBet (US),h2h,icehockey_nhl
-0.17,2023-10-26 00:00:00,Chicago Bulls,-120,Oklahoma City Thunder,100,Caesars,FanDuel,h2h,basketball_nba
-0.17,2023-11-11 02:00:00,Oklahoma City Thunder,115,Sacramento Kings,-142,Barstool Sportsbook,DraftKings,h2h,basketball_nba
-0.17,2023-11-28 23:30:00,Atlanta Hawks,135,Cleveland Cavaliers,-175,Barstool Sportsbook,DraftKings,h2h,basketball_nba
-0.17,2023-11-25 02:30:00,Los Angeles Clippers,-150,New Orleans Pelicans,120,Bovada,Barstool Sportsbook,h2h,basketball_nba
-0.17,2023-10-26 01:00:00,Sacramento Kings,-120,Utah Jazz,100,Caesars,Bovada,h2h,basketball_nba
-0.17,2023-11-14 23:30:00,Brooklyn Nets,-142,Orlando Magic,115,DraftKings,Barstool Sportsbook,h2h,basketball_nba
-0.17,2023-11-25 00:00:00,Minnesota Timberwolves,-142,Sacramento Kings,115,DraftKings,Barstool Sportsbook,h2h,basketball_nba
-0.17,2023-11-15 00:00:00,Dallas Mavericks,115,New Orleans Pelicans,-142,Barstool Sportsbook,DraftKings,h2h,basketball_nba
-0.17,2023-11-25 00:00:00,Denver Nuggets,-175,Houston Rockets,135,DraftKings,Barstool Sportsbook,h2h,basketball_nba
-0.17,2023-10-15 00:00:00,Jackson Jon England,-225,Nathaniel May,164,DraftKings,FanDuel,h2h,boxing_boxing
-0.17,2023-10-15 17:01:00,Cleveland Browns,-120,San Francisco 49ers,100,BetUS,SuperBook,spreads,americanfootball_nfl
-0.17,2023-11-15 02:30:00,Los Angeles Lakers,-175,Memphis Grizzlies,135,DraftKings,Barstool Sportsbook,h2h,basketball_nba
+0.17,2023-10-14 20:00:00,Dillon Danis,325,Logan Paul,-715,Bovada,Unibet,h2h,boxing_boxing
 0.17,2023-11-17 23:00:00,New York Knicks,-142,Washington Wizards,115,DraftKings,Barstool Sportsbook,h2h,basketball_nba
-0.17,2023-12-26 03:30:00,Dallas Mavericks,180,Phoenix Suns,-260,Barstool Sportsbook,FanDuel,h2h,basketball_nba
-0.17,2023-10-15 20:05:00,Las Vegas Raiders,-120,New England Patriots,100,SuperBook,Bovada,spreads,americanfootball_nfl
+0.17,2023-11-15 00:00:00,Dallas Mavericks,115,New Orleans Pelicans,-142,Barstool Sportsbook,DraftKings,h2h,basketball_nba
+0.17,2023-10-14 23:15:00,Daniel Da Silva,240,Edgar Chairez,-400,FanDuel,SuperBook,h2h,mma_mixed_martial_arts
+0.17,2023-10-26 01:00:00,Sacramento Kings,-120,Utah Jazz,100,Caesars,Bovada,h2h,basketball_nba
+0.17,2023-10-14 23:15:00,Andre Petroski,150,Michel Pereira,-200,TwinSpires,BetOnline.ag,h2h,mma_mixed_martial_arts
+0.17,2023-11-11 02:00:00,Oklahoma City Thunder,115,Sacramento Kings,-142,Barstool Sportsbook,DraftKings,h2h,basketball_nba
+0.17,2023-11-15 02:30:00,Los Angeles Lakers,-175,Memphis Grizzlies,135,DraftKings,Barstool Sportsbook,h2h,basketball_nba
+0.17,2023-10-26 00:00:00,Chicago Bulls,-120,Oklahoma City Thunder,100,Caesars,FanDuel,h2h,basketball_nba
+0.17,2023-10-14 18:00:00,Charlotte 49ers,128,Navy Midshipmen,-164,WynnBET,FanDuel,h2h,americanfootball_ncaaf
+0.17,2023-10-14 19:30:00,Tennessee Volunteers,-160,Texas A&M Aggies,125,FanDuel,Unibet,h2h,americanfootball_ncaaf
+0.17,2023-10-13 23:00:00,Arizona Coyotes,100,New Jersey Devils,-120,DraftKings,Caesars,spreads,icehockey_nhl
+0.17,2023-10-13 23:00:00,Pittsburgh Penguins,-120,Washington Capitals,100,DraftKings,Caesars,h2h,icehockey_nhl
 0.17,2023-11-18 00:00:00,Denver Nuggets,-120,New Orleans Pelicans,100,Bovada,Barstool Sportsbook,h2h,basketball_nba
 0.17,2023-11-21 23:00:00,Orlando Magic,-142,Toronto Raptors,115,DraftKings,Barstool Sportsbook,h2h,basketball_nba
-0.17,2023-11-11 00:00:00,Minnesota Timberwolves,-150,San Antonio Spurs,120,Bovada,Barstool Sportsbook,h2h,basketball_nba
-0.16,2023-11-03 23:00:00,Brooklyn Nets,120,Chicago Bulls,-148,Barstool Sportsbook,DraftKings,h2h,basketball_nba
-0.16,2023-10-14 20:00:00,Northern Illinois Huskies,185,Ohio Bobcats,-265,Unibet,MyBookie.ag,h2h,americanfootball_ncaaf
-0.16,2023-11-14 23:00:00,Atlanta Hawks,-148,Detroit Pistons,120,DraftKings,Barstool Sportsbook,h2h,basketball_nba
-0.16,2023-11-18 00:00:00,Chicago Bulls,-148,Orlando Magic,120,DraftKings,Barstool Sportsbook,h2h,basketball_nba
-0.16,2023-10-14 00:00:00,Fresno State Bulldogs,-235,Utah State Aggies,172,Unibet,FanDuel,h2h,americanfootball_ncaaf
+0.17,2023-11-14 23:30:00,Brooklyn Nets,-142,Orlando Magic,115,DraftKings,Barstool Sportsbook,h2h,basketball_nba
 0.16,2023-10-15 03:00:00,Hawaii Rainbow Warriors,175,San Diego State Aztecs,-245,BetRivers,DraftKings,h2h,americanfootball_ncaaf
-0.16,2023-11-29 00:30:00,Dallas Mavericks,-222,Houston Rockets,165,MyBookie.ag,Barstool Sportsbook,h2h,basketball_nba
-0.16,2023-12-25 23:00:00,Denver Nuggets,-215,Golden State Warriors,160,FanDuel,DraftKings,h2h,basketball_nba
-0.16,2023-10-15 20:26:00,Detroit Lions,-180,Tampa Bay Buccaneers,140,SuperBook,FanDuel,h2h,americanfootball_nfl
-0.16,2024-01-15 19:00:00,Detroit Pistons,114,Washington Wizards,-140,DraftKings,Bovada,h2h,basketball_nba
-0.16,2023-10-25 23:00:00,Indiana Pacers,-350,Washington Wizards,226,BetMGM,MyBookie.ag,h2h,basketball_nba
-0.16,2023-10-11 23:07:00,Houston Astros,105,Minnesota Twins,-126,DraftKings,MyBookie.ag,h2h,baseball_mlb
-0.16,2023-10-15 00:00:00,Angel Ayala Lardizabal,-275,Felix Alvarado,190,Bovada,LowVig.ag,h2h,boxing_boxing
-0.16,2023-10-21 18:15:00,Muin Gafurov,154,Said Nurmagomedov,-204,DraftKings,BetOnline.ag,h2h,mma_mixed_martial_arts
-0.16,2023-12-10 05:00:00,Devin Haney,-370,Regis Prograis,235,BetOnline.ag,BetUS,h2h,boxing_boxing
-0.16,2023-11-29 00:00:00,Minnesota Timberwolves,-148,Oklahoma City Thunder,120,DraftKings,Barstool Sportsbook,h2h,basketball_nba
 0.16,2023-10-21 14:00:41,Ohio State Buckeyes,-220,Penn State Nittany Lions,163,FanDuel,Unibet,h2h,americanfootball_ncaaf
-0.16,2023-10-24 00:16:00,Minnesota Vikings,101,San Francisco 49ers,-120,LowVig.ag,FanDuel,spreads,americanfootball_nfl
+0.16,2023-11-04 15:00:41,Alabama Crimson Tide,-127,LSU Tigers,105,Unibet,BetRivers,spreads,americanfootball_ncaaf
+0.16,2023-11-12 02:30:00,Jessica Andrade,162,Mackenzie Dern,-217,FanDuel,BetOnline.ag,h2h,mma_mixed_martial_arts
 0.16,2023-10-21 15:10:00,Abu Azaitar,138,Sedriques Dumas,-178,Unibet,FanDuel,h2h,mma_mixed_martial_arts
-0.16,2023-10-12 01:00:00,New Mexico State Aggies,-177,Sam Houston State Bearkats,138,BetRivers,Unibet,h2h,americanfootball_ncaaf
-0.15,2023-11-24 15:00:41,Oregon Ducks,-400,Oregon State Beavers,250,FanDuel,BetRivers,h2h,americanfootball_ncaaf
-0.15,2023-10-14 22:00:00,New Mexico Lobos,230,San Jose State Spartans,-350,BetRivers,BetMGM,h2h,americanfootball_ncaaf
-0.15,2023-10-28 02:00:00,Golden State Warriors,100,Sacramento Kings,-118,Bovada,DraftKings,h2h,basketball_nba
-0.15,2023-10-14 23:00:00,Arizona Wildcats,230,Washington State Cougars,-350,BetRivers,BetMGM,h2h,americanfootball_ncaaf
+0.16,2023-10-14 16:00:00,Michigan State Spartans,155,Rutgers Scarlet Knights,-206,Unibet,PointsBet (US),h2h,americanfootball_ncaaf
+0.16,2023-10-21 14:00:23,Muhammad Mokaev,-590,Tim Elliott,300,BetRivers,BetOnline.ag,h2h,mma_mixed_martial_arts
+0.16,2023-10-12 23:05:00,Buffalo Sabres,-250,New York Rangers,180,DraftKings,Bovada,spreads,icehockey_nhl
+0.16,2023-12-25 23:00:00,Denver Nuggets,-215,Golden State Warriors,160,FanDuel,DraftKings,h2h,basketball_nba
+0.16,2023-10-15 20:26:00,New York Jets,-120,Philadelphia Eagles,101,Caesars,LowVig.ag,spreads,americanfootball_nfl
+0.16,2023-10-25 23:00:00,Indiana Pacers,-350,Washington Wizards,226,BetMGM,MyBookie.ag,h2h,basketball_nba
+0.16,2023-10-15 20:26:00,Arizona Cardinals,-120,Los Angeles Rams,101,BetUS,LowVig.ag,spreads,americanfootball_nfl
+0.16,2023-10-15 20:26:00,Detroit Lions,-180,Tampa Bay Buccaneers,140,SuperBook,FanDuel,h2h,americanfootball_nfl
+0.16,2023-10-24 00:16:00,Minnesota Vikings,101,San Francisco 49ers,-120,LowVig.ag,FanDuel,spreads,americanfootball_nfl
+0.16,2023-10-16 00:21:00,Buffalo Bills,-120,New York Giants,101,Caesars,LowVig.ag,spreads,americanfootball_nfl
+0.16,2023-11-29 00:00:00,Minnesota Timberwolves,-148,Oklahoma City Thunder,120,DraftKings,Barstool Sportsbook,h2h,basketball_nba
+0.16,2023-11-29 00:30:00,Dallas Mavericks,-222,Houston Rockets,165,MyBookie.ag,Barstool Sportsbook,h2h,basketball_nba
+0.16,2023-11-03 23:00:00,Brooklyn Nets,120,Chicago Bulls,-148,Barstool Sportsbook,DraftKings,h2h,basketball_nba
+0.16,2023-12-10 05:00:00,Devin Haney,-370,Regis Prograis,235,BetOnline.ag,BetUS,h2h,boxing_boxing
+0.16,2023-11-14 23:00:00,Atlanta Hawks,-148,Detroit Pistons,120,DraftKings,Barstool Sportsbook,h2h,basketball_nba
+0.16,2024-01-15 19:00:00,Detroit Pistons,114,Washington Wizards,-140,DraftKings,Bovada,h2h,basketball_nba
+0.16,2023-10-15 13:31:00,Baltimore Ravens,-220,Tennessee Titans,164,LowVig.ag,DraftKings,h2h,americanfootball_nfl
+0.16,2023-11-18 00:00:00,Chicago Bulls,-148,Orlando Magic,120,DraftKings,Barstool Sportsbook,h2h,basketball_nba
 0.15,2023-11-15 02:00:00,Golden State Warriors,-192,Minnesota Timberwolves,150,DraftKings,Barstool Sportsbook,h2h,basketball_nba
-0.15,2023-11-18 15:00:41,Georgia Bulldogs,-420,Tennessee Volunteers,260,FanDuel,BetRivers,h2h,americanfootball_ncaaf
 0.15,2023-11-17 23:30:00,Cleveland Cavaliers,-460,Detroit Pistons,275,Bovada,Barstool Sportsbook,h2h,basketball_nba
+0.15,2023-10-28 02:00:00,Golden State Warriors,100,Sacramento Kings,-118,Bovada,DraftKings,h2h,basketball_nba
+0.15,2023-10-12 02:10:00,Calgary Flames,168,Winnipeg Jets,-225,FanDuel,BetMGM,spreads,icehockey_nhl
+0.15,2023-10-14 23:00:00,Arizona Wildcats,230,Washington State Cougars,-350,BetRivers,BetMGM,h2h,americanfootball_ncaaf
+0.15,2023-10-13 00:00:00,Florida Panthers,-235,Minnesota Wild,175,Caesars,Unibet,spreads,icehockey_nhl
 0.15,2023-11-21 23:30:00,Atlanta Hawks,-192,Indiana Pacers,150,DraftKings,Barstool Sportsbook,h2h,basketball_nba
+0.15,2023-11-24 15:00:41,Oregon Ducks,-400,Oregon State Beavers,250,FanDuel,BetRivers,h2h,americanfootball_ncaaf
+0.15,2023-11-18 15:00:41,Georgia Bulldogs,-420,Tennessee Volunteers,260,FanDuel,BetRivers,h2h,americanfootball_ncaaf
 0.15,2024-01-16 01:00:00,Indiana Pacers,100,Utah Jazz,-118,Bovada,DraftKings,h2h,basketball_nba
+0.15,2023-10-12 02:10:00,Edmonton Oilers,143,Vancouver Canucks,-182,Caesars,Unibet,spreads,icehockey_nhl
 0.15,2023-10-14 20:00:00,Ashley Yoder,250,Emily Ducote,-400,BetUS,BetRivers,h2h,mma_mixed_martial_arts
-0.15,2023-10-11 23:00:00,Erik Bazinyan,-454,Ronald Ellis,270,MyBookie.ag,BetUS,h2h,boxing_boxing
-0.15,2023-10-14 20:15:00,Chris Gutierrez,-450,Heili Alateng,267,BetMGM,WynnBET,h2h,mma_mixed_martial_arts
+0.15,2023-10-14 19:30:00,Army Black Knights,160,Troy Trojans,-210,Unibet,FanDuel,h2h,americanfootball_ncaaf
+0.15,2023-10-14 19:30:00,BYU Cougars,175,TCU Horned Frogs,-236,Unibet,PointsBet (US),h2h,americanfootball_ncaaf
+0.15,2023-10-14 21:00:00,KSI,245,Tommy Fury,-385,BetUS,Bovada,h2h,boxing_boxing
+0.15,2023-10-15 17:01:00,Indianapolis Colts,160,Jacksonville Jaguars,-210,PointsBet (US),FanDuel,h2h,americanfootball_nfl
+0.15,2023-10-14 16:00:00,North Texas Mean Green,-225,Temple Owls,168,DraftKings,FanDuel,h2h,americanfootball_ncaaf
 0.15,2023-10-28 20:00:00,David Adeleye,240,Fabio Wardley,-370,LowVig.ag,MyBookie.ag,h2h,boxing_boxing
-0.15,2023-10-15 17:01:00,Atlanta Falcons,-118,Washington Commanders,100,DraftKings,Barstool Sportsbook,spreads,americanfootball_nfl
-0.15,2023-10-15 13:31:00,Baltimore Ravens,-215,Tennessee Titans,163,LowVig.ag,BetRivers,h2h,americanfootball_nfl
 0.15,2023-10-21 15:10:00,Bruno Silva,163,Shara Magomedov,-215,TwinSpires,FanDuel,h2h,mma_mixed_martial_arts
-0.15,2023-10-14 20:00:00,Dillon Danis,350,Logan Paul,-715,BetUS,Unibet,h2h,boxing_boxing
-0.14,2023-10-15 02:00:00,Anaheim Ducks,118,Vegas Golden Knights,-142,Caesars,DraftKings,spreads,icehockey_nhl
-0.14,2024-01-15 22:00:00,Golden State Warriors,110,Memphis Grizzlies,-130,DraftKings,Bovada,h2h,basketball_nba
-0.14,2023-11-15 02:00:00,Denver Nuggets,-230,Los Angeles Clippers,175,DraftKings,Barstool Sportsbook,h2h,basketball_nba
-0.14,2023-10-21 17:00:00,Alabama Crimson Tide,-410,Tennessee Volunteers,260,FanDuel,Unibet,h2h,americanfootball_ncaaf
-0.14,2023-11-03 23:00:00,Cleveland Cavaliers,-116,Indiana Pacers,100,MyBookie.ag,Bovada,h2h,basketball_nba
-0.14,2023-11-04 02:00:00,Dallas Mavericks,160,Denver Nuggets,-205,Barstool Sportsbook,DraftKings,h2h,basketball_nba
+0.14,2023-10-12 23:00:00,Detroit Red Wings,210,New Jersey Devils,-300,FanDuel,PointsBet (US),h2h,icehockey_nhl
+0.14,2023-10-13 02:30:00,San Jose Sharks,185,Vegas Golden Knights,-250,TwinSpires,Bovada,h2h,icehockey_nhl
 0.14,2023-10-23 00:21:00,Miami Dolphins,118,Philadelphia Eagles,-142,Caesars,FanDuel,h2h,americanfootball_nfl
 0.14,2023-10-22 17:01:00,Cleveland Browns,-142,Indianapolis Colts,118,DraftKings,FanDuel,h2h,americanfootball_nfl
 0.14,2023-10-22 17:01:00,Atlanta Falcons,114,Tampa Bay Buccaneers,-135,FanDuel,DraftKings,h2h,americanfootball_nfl
-0.14,2024-01-15 23:30:00,Brooklyn Nets,110,Miami Heat,-130,DraftKings,Bovada,h2h,basketball_nba
+0.14,2023-10-25 02:00:00,Golden State Warriors,-116,Phoenix Suns,100,MyBookie.ag,BetMGM,h2h,basketball_nba
 0.14,2023-10-15 20:26:00,New York Jets,230,Philadelphia Eagles,-340,DraftKings,MyBookie.ag,h2h,americanfootball_nfl
-0.14,2023-10-14 16:00:00,North Texas Mean Green,-265,Temple Owls,195,Unibet,Barstool Sportsbook,h2h,americanfootball_ncaaf
-0.14,2023-10-13 00:00:00,Florida Panthers,-230,Minnesota Wild,175,DraftKings,Bovada,spreads,icehockey_nhl
 0.14,2023-10-14 23:30:00,Buffalo Sabres,110,New York Islanders,-130,DraftKings,Caesars,h2h,icehockey_nhl
+0.14,2023-11-03 23:00:00,Cleveland Cavaliers,-116,Indiana Pacers,100,MyBookie.ag,Bovada,h2h,basketball_nba
+0.14,2023-10-12 06:00:00,Kai Ishizawa,275,Vince Paras,-450,LowVig.ag,Bovada,h2h,boxing_boxing
+0.14,2023-11-04 02:00:00,Dallas Mavericks,160,Denver Nuggets,-205,Barstool Sportsbook,DraftKings,h2h,basketball_nba
+0.14,2023-11-15 02:00:00,Denver Nuggets,-230,Los Angeles Clippers,175,DraftKings,Barstool Sportsbook,h2h,basketball_nba
+0.14,2023-10-15 00:00:00,Duke Blue Devils,-116,NC State Wolfpack,100,BetOnline.ag,LowVig.ag,spreads,americanfootball_ncaaf
+0.14,2023-10-15 00:00:00,Angel Ayala Lardizabal,-275,Felix Alvarado,200,Bovada,LowVig.ag,h2h,boxing_boxing
+0.14,2024-01-15 22:00:00,Golden State Warriors,110,Memphis Grizzlies,-130,DraftKings,Bovada,h2h,basketball_nba
+0.14,2024-01-15 23:30:00,Brooklyn Nets,110,Miami Heat,-130,DraftKings,Bovada,h2h,basketball_nba
+0.14,2023-10-21 17:00:00,Alabama Crimson Tide,-410,Tennessee Volunteers,260,FanDuel,Unibet,h2h,americanfootball_ncaaf
+0.14,2023-10-15 02:00:00,Anaheim Ducks,118,Vegas Golden Knights,-142,Caesars,DraftKings,spreads,icehockey_nhl
 0.14,2023-10-14 18:00:00,Charlotte 49ers,100,Navy Midshipmen,-116,LowVig.ag,BetOnline.ag,spreads,americanfootball_ncaaf
-0.14,2023-10-13 02:30:00,San Jose Sharks,185,Vegas Golden Knights,-250,TwinSpires,Bovada,h2h,icehockey_nhl
-0.14,2023-10-12 02:00:00,Edmonton Oilers,145,Vancouver Canucks,-182,DraftKings,Unibet,spreads,icehockey_nhl
-0.14,2023-10-12 23:00:00,Buffalo Sabres,-250,New York Rangers,185,DraftKings,Bovada,spreads,icehockey_nhl
-0.14,2023-10-12 06:00:00,RV Deniega,275,Saul Sanchez,-455,LowVig.ag,BetUS,h2h,boxing_boxing
-0.13,2023-10-15 20:26:00,Arizona Cardinals,-116,Los Angeles Rams,101,BetOnline.ag,LowVig.ag,spreads,americanfootball_nfl
-0.13,2023-10-15 20:26:00,Arizona Cardinals,240,Los Angeles Rams,-345,TwinSpires,Caesars,h2h,americanfootball_nfl
-0.13,2023-10-15 17:01:00,Indianapolis Colts,164,Jacksonville Jaguars,-210,DraftKings,FanDuel,h2h,americanfootball_nfl
-0.13,2023-10-26 00:00:00,Chicago Bulls,100,Oklahoma City Thunder,-115,Barstool Sportsbook,DraftKings,spreads,basketball_nba
-0.13,2023-10-26 00:00:00,Memphis Grizzlies,-115,New Orleans Pelicans,100,BetOnline.ag,LowVig.ag,spreads,basketball_nba
-0.13,2023-10-15 13:31:00,Baltimore Ravens,-115,Tennessee Titans,100,LowVig.ag,BetOnline.ag,spreads,americanfootball_nfl
-0.13,2023-10-26 23:30:00,Milwaukee Bucks,-220,Philadelphia 76ers,170,FanDuel,DraftKings,h2h,basketball_nba
-0.13,2023-10-11 23:00:00,Montréal Canadiens,220,Toronto Maple Leafs,-305,PointsBet (US),Caesars,h2h,icehockey_nhl
-0.13,2023-10-21 15:10:00,Jinh Yu Frey,265,Viktoriya Dudakova,-400,Unibet,FanDuel,h2h,mma_mixed_martial_arts
-0.13,2023-11-10 23:00:00,Detroit Pistons,190,Philadelphia 76ers,-250,Barstool Sportsbook,DraftKings,h2h,basketball_nba
-0.13,2024-01-14 04:00:00,Artur Beterbiev,-350,Callum Smith,241,DraftKings,MyBookie.ag,h2h,boxing_boxing
-0.13,2023-12-03 04:00:00,Oscar Duarte Jurado,260,Ryan Garcia,-400,LowVig.ag,BetUS,h2h,boxing_boxing
-0.13,2023-10-12 02:00:00,Colorado Avalanche,185,Los Angeles Kings,-245,BetMGM,DraftKings,spreads,icehockey_nhl
-0.13,2023-10-12 02:00:00,Calgary Flames,175,Winnipeg Jets,-225,Bovada,FanDuel,spreads,icehockey_nhl
-0.13,2023-11-25 00:00:00,Detroit Pistons,190,Indiana Pacers,-250,Barstool Sportsbook,DraftKings,h2h,basketball_nba
-0.13,2023-10-15 20:26:00,New York Jets,-115,Philadelphia Eagles,100,Bovada,Caesars,spreads,americanfootball_nfl
-0.13,2023-10-15 03:00:00,Vincenzo Gualtieri,550,Zhanibek Alimkhanuly,-2000,BetMGM,LowVig.ag,h2h,boxing_boxing
+0.14,2023-10-14 20:00:00,Northern Illinois Huskies,195,Ohio Bobcats,-265,Bovada,MyBookie.ag,h2h,americanfootball_ncaaf
+0.13,2023-10-14 22:00:00,New Mexico Lobos,230,San Jose State Spartans,-330,BetRivers,FanDuel,h2h,americanfootball_ncaaf
+0.13,2023-10-22 17:01:00,Chicago Bears,100,Las Vegas Raiders,-115,FanDuel,DraftKings,h2h,americanfootball_nfl
+0.13,2023-10-12 23:00:00,Columbus Blue Jackets,180,Philadelphia Flyers,-235,DraftKings,Bovada,spreads,icehockey_nhl
 0.13,2023-11-29 02:00:00,Golden State Warriors,-115,Sacramento Kings,100,DraftKings,Barstool Sportsbook,spreads,basketball_nba
+0.13,2023-10-12 02:27:00,Colorado Avalanche,185,Los Angeles Kings,-245,BetMGM,DraftKings,spreads,icehockey_nhl
+0.13,2023-10-17 00:16:00,Dallas Cowboys,-115,Los Angeles Chargers,100,BetOnline.ag,LowVig.ag,spreads,americanfootball_nfl
+0.13,2023-10-14 23:00:00,Auburn Tigers,101,LSU Tigers,-116,LowVig.ag,BetOnline.ag,spreads,americanfootball_ncaaf
+0.13,2023-10-15 20:05:00,Las Vegas Raiders,100,New England Patriots,-115,SuperBook,Bovada,spreads,americanfootball_nfl
+0.13,2023-12-03 04:00:00,Oscar Duarte Jurado,260,Ryan Garcia,-400,LowVig.ag,BetUS,h2h,boxing_boxing
+0.13,2023-10-26 00:00:00,Chicago Bulls,100,Oklahoma City Thunder,-115,Barstool Sportsbook,DraftKings,spreads,basketball_nba
+0.13,2023-10-15 17:01:00,Cleveland Browns,100,San Francisco 49ers,-115,Barstool Sportsbook,FanDuel,spreads,americanfootball_nfl
+0.13,2023-10-26 00:00:00,Memphis Grizzlies,-115,New Orleans Pelicans,100,BetOnline.ag,LowVig.ag,spreads,basketball_nba
+0.13,2024-01-14 04:00:00,Artur Beterbiev,-350,Callum Smith,241,DraftKings,MyBookie.ag,h2h,boxing_boxing
+0.13,2023-10-26 23:30:00,Milwaukee Bucks,-220,Philadelphia 76ers,170,FanDuel,DraftKings,h2h,basketball_nba
+0.13,2023-10-15 13:31:00,Baltimore Ravens,-115,Tennessee Titans,100,BetOnline.ag,LowVig.ag,spreads,americanfootball_nfl
+0.13,2023-10-13 22:00:00,Hector Escobar,-400,Israel Rodriguez Picazo,260,FanDuel,Bovada,h2h,boxing_boxing
+0.13,2023-10-14 20:00:00,Iowa Hawkeyes,255,Wisconsin Badgers,-375,FanDuel,DraftKings,h2h,americanfootball_ncaaf
+0.13,2023-11-10 23:00:00,Detroit Pistons,190,Philadelphia 76ers,-250,Barstool Sportsbook,DraftKings,h2h,basketball_nba
 0.13,2023-10-14 23:00:00,Duke Ragan,-1000,Jose Perez,435,DraftKings,MyBookie.ag,h2h,boxing_boxing
+0.13,2023-10-14 16:00:00,Georgia Bulldogs,-116,Vanderbilt Commodores,101,BetOnline.ag,LowVig.ag,spreads,americanfootball_ncaaf
+0.13,2023-10-22 17:01:00,Cleveland Browns,-115,Indianapolis Colts,100,FanDuel,LowVig.ag,spreads,americanfootball_nfl
+0.13,2023-10-13 23:00:00,Pittsburgh Penguins,190,Washington Capitals,-250,Bovada,BetOnline.ag,spreads,icehockey_nhl
+0.13,2023-10-14 19:30:00,Miami (OH) RedHawks,-350,Western Michigan Broncos,240,FanDuel,Unibet,h2h,americanfootball_ncaaf
+0.13,2023-10-15 00:00:00,UAB Blazers,250,UTSA Roadrunners,-365,BetRivers,FanDuel,h2h,americanfootball_ncaaf
+0.13,2023-10-15 01:45:00,Boise State Broncos,-315,Colorado State Rams,225,FanDuel,BetRivers,h2h,americanfootball_ncaaf
+0.13,2023-10-14 16:00:00,Cincinnati Bearcats,-210,Iowa State Cyclones,164,Bovada,DraftKings,h2h,americanfootball_ncaaf
+0.13,2023-10-21 15:10:00,Jinh Yu Frey,265,Viktoriya Dudakova,-400,Unibet,FanDuel,h2h,mma_mixed_martial_arts
+0.13,2023-11-04 15:00:41,Alabama Crimson Tide,-260,LSU Tigers,195,FanDuel,Unibet,h2h,americanfootball_ncaaf
+0.13,2023-11-25 00:00:00,Detroit Pistons,190,Indiana Pacers,-250,Barstool Sportsbook,DraftKings,h2h,basketball_nba
 0.13,2023-10-15 03:30:28,Brian Mendoza,400,Tim Tszyu,-833,BetMGM,BetOnline.ag,h2h,boxing_boxing
 0.13,2023-11-17 04:00:00,Edwin De Los Santos,500,Shakur Stevenson,-1400,BetUS,BetMGM,h2h,boxing_boxing
-0.13,2023-10-25 02:00:00,Golden State Warriors,100,Phoenix Suns,-115,Caesars,DraftKings,spreads,basketball_nba
-0.13,2023-10-14 19:30:00,Miami (OH) RedHawks,-350,Western Michigan Broncos,240,FanDuel,Unibet,h2h,americanfootball_ncaaf
-0.13,2023-10-15 00:00:00,UAB Blazers,250,UTSA Roadrunners,-365,MyBookie.ag,FanDuel,h2h,americanfootball_ncaaf
-0.13,2023-11-04 15:00:41,Alabama Crimson Tide,-260,LSU Tigers,195,FanDuel,Unibet,h2h,americanfootball_ncaaf
-0.13,2023-10-14 22:30:00,Louisville Cardinals,-349,Pittsburgh Panthers,240,MyBookie.ag,BetMGM,h2h,americanfootball_ncaaf
+0.13,2023-10-15 03:00:00,Vincenzo Gualtieri,550,Zhanibek Alimkhanuly,-2000,BetMGM,LowVig.ag,h2h,boxing_boxing
 0.13,2023-10-22 20:26:00,Kansas City Chiefs,100,Los Angeles Chargers,-115,LowVig.ag,BetOnline.ag,spreads,americanfootball_nfl
-0.13,2023-10-14 16:00:00,Cincinnati Bearcats,-210,Iowa State Cyclones,164,Bovada,DraftKings,h2h,americanfootball_ncaaf
-0.13,2023-10-15 01:45:00,Boise State Broncos,-315,Colorado State Rams,225,FanDuel,BetRivers,h2h,americanfootball_ncaaf
+0.13,2023-10-22 20:26:00,Kansas City Chiefs,-270,Los Angeles Chargers,200,FanDuel,DraftKings,h2h,americanfootball_nfl
 0.13,2023-10-22 20:06:00,Los Angeles Rams,-118,Pittsburgh Steelers,102,FanDuel,BetOnline.ag,spreads,americanfootball_nfl
 0.13,2023-10-22 20:06:00,Arizona Cardinals,-115,Seattle Seahawks,100,BetOnline.ag,LowVig.ag,spreads,americanfootball_nfl
-0.13,2023-10-22 20:26:00,Kansas City Chiefs,-270,Los Angeles Chargers,200,FanDuel,DraftKings,h2h,americanfootball_nfl
-0.13,2023-10-22 17:01:00,Cleveland Browns,-115,Indianapolis Colts,100,FanDuel,LowVig.ag,spreads,americanfootball_nfl
-0.13,2023-10-22 17:01:00,Chicago Bears,100,Las Vegas Raiders,-115,FanDuel,DraftKings,h2h,americanfootball_nfl
-0.13,2023-10-16 00:21:00,Buffalo Bills,-115,New York Giants,100,Bovada,Caesars,spreads,americanfootball_nfl
-0.12,2023-10-14 23:00:00,Air Force Falcons,-420,Wyoming Cowboys,280,Bovada,BetRivers,h2h,americanfootball_ncaaf
-0.12,2024-01-15 18:30:00,Dallas Mavericks,-162,New Orleans Pelicans,135,DraftKings,Bovada,h2h,basketball_nba
-0.12,2023-10-12 06:00:00,John Riel Casimero,-750,Yukinori Oguni,400,Bovada,LowVig.ag,h2h,boxing_boxing
-0.12,2023-10-12 06:00:00,Kai Ishizawa,293,Vince Paras,-450,MyBookie.ag,Bovada,h2h,boxing_boxing
-0.12,2023-10-15 00:00:00,Sergei Vorobev,-556,Wade Ryan,330,BetOnline.ag,FanDuel,h2h,boxing_boxing
-0.12,2023-10-13 22:00:00,David Cuellar Contreras,-1000,Luis Concepcion,450,Bovada,LowVig.ag,h2h,boxing_boxing
-0.12,2023-10-14 21:00:00,Nevada Wolf Pack,265,UNLV Rebels,-385,BetUS,BetRivers,h2h,americanfootball_ncaaf
-0.12,2023-12-17 03:00:00,Shavkat Rakhmonov,-549,Stephen Thompson,330,LowVig.ag,FanDuel,h2h,mma_mixed_martial_arts
-0.12,2023-11-12 04:00:10,Jon Jones,-440,Stipe Miocic,290,FanDuel,Bovada,h2h,mma_mixed_martial_arts
-0.12,2023-10-12 23:30:00,East Carolina Pirates,325,SMU Mustangs,-526,SuperBook,MyBookie.ag,h2h,americanfootball_ncaaf
-0.12,2023-10-22 03:00:00,Alexis Rocha,-750,Giovani Santillan,400,FanDuel,Bovada,h2h,boxing_boxing
-0.12,2023-10-28 18:00:00,Carlos Takam,425,Martin Bakole,-833,Bovada,MyBookie.ag,h2h,boxing_boxing
-0.12,2023-10-21 14:00:23,Muhammad Mokaev,-590,Tim Elliott,350,BetRivers,BetOnline.ag,h2h,mma_mixed_martial_arts
-0.12,2023-10-28 18:00:19,Francis Ngannou,501,Tyson Fury,-1200,MyBookie.ag,Bovada,h2h,boxing_boxing
 0.12,2023-11-14 23:00:00,Indiana Pacers,200,Philadelphia 76ers,-263,Barstool Sportsbook,MyBookie.ag,h2h,basketball_nba
-0.12,2023-10-22 17:01:00,Buffalo Bills,103,New England Patriots,-118,LowVig.ag,BetOnline.ag,spreads,americanfootball_nfl
-0.12,2023-11-14 23:30:00,Oklahoma City Thunder,-310,San Antonio Spurs,225,DraftKings,Barstool Sportsbook,h2h,basketball_nba
-0.12,2023-10-25 23:30:00,Detroit Pistons,340,Miami Heat,-575,DraftKings,Bovada,h2h,basketball_nba
+0.12,2023-10-22 03:00:00,Alexis Rocha,-750,Giovani Santillan,400,FanDuel,Bovada,h2h,boxing_boxing
 0.12,2023-12-23 22:00:00,Oleksandr Usyk,185,Tyson Fury,-238,DraftKings,BetOnline.ag,h2h,boxing_boxing
-0.12,2023-10-13 23:00:00,Pittsburgh Penguins,190,Washington Capitals,-245,Bovada,FanDuel,spreads,icehockey_nhl
+0.12,2023-11-14 23:30:00,Oklahoma City Thunder,-310,San Antonio Spurs,225,DraftKings,Barstool Sportsbook,h2h,basketball_nba
+0.12,2024-01-15 18:30:00,Dallas Mavericks,-162,New Orleans Pelicans,135,DraftKings,Bovada,h2h,basketball_nba
+0.12,2023-10-28 18:00:19,Francis Ngannou,510,Tyson Fury,-1250,MyBookie.ag,Unibet,h2h,boxing_boxing
+0.12,2023-12-17 03:00:00,Shavkat Rakhmonov,-549,Stephen Thompson,330,LowVig.ag,FanDuel,h2h,mma_mixed_martial_arts
+0.12,2023-10-14 22:30:00,Louisville Cardinals,-335,Pittsburgh Panthers,240,Unibet,BetMGM,h2h,americanfootball_ncaaf
+0.12,2023-10-15 20:26:00,Arizona Cardinals,245,Los Angeles Rams,-345,TwinSpires,Caesars,h2h,americanfootball_nfl
 0.12,2023-11-11 05:00:00,Oregon Ducks,-180,USC Trojans,148,BetRivers,Unibet,h2h,americanfootball_ncaaf
-0.11,2023-10-14 19:30:00,Akron Zips,320,Central Michigan Chippewas,-500,Bovada,BetMGM,h2h,americanfootball_ncaaf
-0.11,2023-10-13 23:00:00,Arizona Coyotes,220,New Jersey Devils,-292,FanDuel,Caesars,h2h,icehockey_nhl
-0.11,2023-10-21 18:00:59,Khamzat Chimaev,-400,Paulo Henrique Costa,280,Bovada,BetMGM,h2h,mma_mixed_martial_arts
-0.11,2023-11-11 00:00:00,Memphis Grizzlies,-270,Utah Jazz,210,DraftKings,Barstool Sportsbook,h2h,basketball_nba
-0.11,2023-10-12 06:00:00,Froilan Saludar,400,Keita Kurihara,-699,BetMGM,LowVig.ag,h2h,boxing_boxing
-0.11,2023-11-04 00:00:00,Miami Heat,-340,Washington Wizards,250,DraftKings,Barstool Sportsbook,h2h,basketball_nba
-0.11,2023-10-21 18:00:00,Johnny Walker,265,Magomed Ankalaev,-370,BetRivers,FanDuel,h2h,mma_mixed_martial_arts
-0.11,2023-10-15 17:01:00,Carolina Panthers,500,Miami Dolphins,-1100,PointsBet (US),SuperBook,h2h,americanfootball_nfl
-0.11,2023-10-15 17:01:00,Cleveland Browns,225,San Francisco 49ers,-300,FanDuel,SuperBook,h2h,americanfootball_nfl
-0.11,2023-10-14 23:30:00,Kentucky Wildcats,100,Missouri Tigers,-112,Bovada,BetRivers,spreads,americanfootball_ncaaf
-0.11,2023-10-11 23:30:00,Boston Bruins,-340,Chicago Blackhawks,250,DraftKings,Unibet,h2h,icehockey_nhl
-0.11,2023-10-14 23:30:00,Notre Dame Fighting Irish,-115,USC Trojans,102,DraftKings,FanDuel,spreads,americanfootball_ncaaf
-0.11,2023-11-28 23:30:00,Charlotte Hornets,220,New York Knicks,-290,Barstool Sportsbook,DraftKings,h2h,basketball_nba
-0.11,2023-10-21 15:10:00,Muhammadjon Naimov,250,Nathaniel Wood,-340,BetOnline.ag,FanDuel,h2h,mma_mixed_martial_arts
-0.11,2023-10-12 23:00:00,Houston Cougars,102,West Virginia Mountaineers,-115,FanDuel,BetMGM,spreads,americanfootball_ncaaf
-0.11,2023-10-14 20:00:00,Iowa Hawkeyes,270,Wisconsin Badgers,-380,SuperBook,Bovada,h2h,americanfootball_ncaaf
-0.11,2023-11-22 02:00:00,Los Angeles Lakers,-325,Utah Jazz,240,DraftKings,Barstool Sportsbook,h2h,basketball_nba
-0.11,2023-11-18 02:30:00,Houston Rockets,213,Los Angeles Clippers,-275,MyBookie.ag,Barstool Sportsbook,h2h,basketball_nba
+0.12,2023-10-21 20:00:00,Kamaru Usman,225,Khamzat Chimaev,-310,Bovada,LowVig.ag,h2h,mma_mixed_martial_arts
+0.12,2023-10-22 17:01:00,Buffalo Bills,103,New England Patriots,-118,LowVig.ag,BetOnline.ag,spreads,americanfootball_nfl
+0.12,2023-11-12 04:00:10,Jon Jones,-440,Stipe Miocic,290,FanDuel,Bovada,h2h,mma_mixed_martial_arts
+0.12,2023-11-05 01:15:00,Don'Tale Mayes,180,Rodrigo Nascimento,-230,BetUS,Bovada,h2h,mma_mixed_martial_arts
+0.12,2023-10-25 23:30:00,Detroit Pistons,340,Miami Heat,-575,DraftKings,Bovada,h2h,basketball_nba
+0.12,2023-10-15 17:01:00,Cleveland Browns,240,San Francisco 49ers,-340,Caesars,MyBookie.ag,h2h,americanfootball_nfl
+0.12,2023-10-28 18:00:00,Carlos Takam,425,Martin Bakole,-833,Bovada,MyBookie.ag,h2h,boxing_boxing
+0.11,2023-11-05 01:15:00,Gabriel Bonfim,-345,Nicolas Dalby,250,BetOnline.ag,BetUS,h2h,mma_mixed_martial_arts
 0.11,2023-10-28 18:00:00,Joseph Parker,-833,Simon Kean,439,BetUS,MyBookie.ag,h2h,boxing_boxing
+0.11,2023-10-11 23:30:00,Boston Bruins,-2500,Chicago Blackhawks,650,FanDuel,Bovada,h2h,icehockey_nhl
+0.11,2023-11-28 23:30:00,Charlotte Hornets,220,New York Knicks,-290,Barstool Sportsbook,DraftKings,h2h,basketball_nba
+0.11,2023-10-12 06:00:00,Froilan Saludar,400,Keita Kurihara,-700,LowVig.ag,Bovada,h2h,boxing_boxing
 0.11,2023-10-21 18:00:00,Fran Mendoza,500,Peter Mcgrail,-1100,Bovada,FanDuel,h2h,boxing_boxing
-0.1,2023-11-04 21:00:00,Adrian Curiel Dominguez,480,Sivenathi Nontshinga,-909,FanDuel,MyBookie.ag,h2h,boxing_boxing
-0.1,2023-10-14 23:30:00,Buffalo Sabres,-235,New York Islanders,190,Caesars,DraftKings,spreads,icehockey_nhl
-0.1,2023-10-13 22:00:00,Hector Escobar,-400,Israel Rodriguez Picazo,285,FanDuel,BetUS,h2h,boxing_boxing
+0.11,2023-10-21 18:00:00,Johnny Walker,265,Magomed Ankalaev,-370,BetRivers,FanDuel,h2h,mma_mixed_martial_arts
+0.11,2023-10-21 15:10:00,Muhammadjon Naimov,250,Nathaniel Wood,-340,BetOnline.ag,FanDuel,h2h,mma_mixed_martial_arts
+0.11,2023-11-22 02:00:00,Los Angeles Lakers,-325,Utah Jazz,240,DraftKings,Barstool Sportsbook,h2h,basketball_nba
+0.11,2023-10-14 19:00:00,California Golden Bears,340,Utah Utes,-530,PointsBet (US),FanDuel,h2h,americanfootball_ncaaf
+0.11,2023-10-14 16:00:00,Eastern Michigan Eagles,-410,Kent State Golden Flashes,285,Bovada,DraftKings,h2h,americanfootball_ncaaf
+0.11,2023-11-18 02:30:00,Houston Rockets,213,Los Angeles Clippers,-275,MyBookie.ag,Barstool Sportsbook,h2h,basketball_nba
+0.11,2023-11-11 00:00:00,Memphis Grizzlies,-270,Utah Jazz,210,DraftKings,Barstool Sportsbook,h2h,basketball_nba
+0.11,2023-10-14 02:00:00,Colorado Buffaloes,-470,Stanford Cardinal,310,Bovada,BetRivers,h2h,americanfootball_ncaaf
+0.11,2023-10-12 23:30:00,East Carolina Pirates,310,SMU Mustangs,-460,BetMGM,Bovada,h2h,americanfootball_ncaaf
+0.11,2023-10-14 23:30:00,Kentucky Wildcats,100,Missouri Tigers,-112,Bovada,BetRivers,spreads,americanfootball_ncaaf
+0.11,2023-10-15 17:01:00,Carolina Panthers,500,Miami Dolphins,-1100,PointsBet (US),SuperBook,h2h,americanfootball_nfl
+0.11,2023-11-04 00:00:00,Miami Heat,-340,Washington Wizards,250,DraftKings,Barstool Sportsbook,h2h,basketball_nba
+0.11,2023-10-14 23:00:00,Air Force Falcons,-420,Wyoming Cowboys,290,MyBookie.ag,BetMGM,h2h,americanfootball_ncaaf
+0.11,2023-10-14 21:00:00,Nevada Wolf Pack,265,UNLV Rebels,-375,BetRivers,DraftKings,h2h,americanfootball_ncaaf
+0.1,2023-10-14 18:00:00,Ball State Cardinals,475,Toledo Rockets,-900,Bovada,Barstool Sportsbook,h2h,americanfootball_ncaaf
+0.1,2023-10-14 23:00:00,Auburn Tigers,310,LSU Tigers,-450,BetRivers,FanDuel,h2h,americanfootball_ncaaf
+0.1,2023-10-13 22:00:00,David Cuellar Contreras,-1250,Luis Concepcion,547,LowVig.ag,MyBookie.ag,h2h,boxing_boxing
 0.1,2024-01-16 02:30:00,Los Angeles Lakers,-192,Oklahoma City Thunder,160,DraftKings,Bovada,h2h,basketball_nba
-0.1,2023-11-17 03:00:00,Emanuel Navarrete,-1300,Robson Conceicao,551,FanDuel,MyBookie.ag,h2h,boxing_boxing
-0.1,2023-10-14 16:00:00,Eastern Michigan Eagles,-400,Kent State Golden Flashes,285,BetMGM,DraftKings,h2h,americanfootball_ncaaf
-0.1,2023-10-14 23:00:00,Auburn Tigers,310,LSU Tigers,-450,DraftKings,FanDuel,h2h,americanfootball_ncaaf
-0.1,2023-10-21 14:00:00,Anshul Jubli,-420,Mike Breeden,300,LowVig.ag,BetRivers,h2h,mma_mixed_martial_arts
-0.1,2024-01-15 19:00:00,New York Knicks,-225,Orlando Magic,185,DraftKings,Bovada,h2h,basketball_nba
-0.1,2023-11-04 17:00:00,Isaias Lucero,503,Souleymane Cissokho,-1000,MyBookie.ag,DraftKings,h2h,boxing_boxing
-0.1,2023-10-13 00:16:00,Denver Broncos,400,Kansas City Chiefs,-650,DraftKings,BetUS,h2h,americanfootball_nfl
 0.1,2023-10-21 19:00:33,Jack Catterall,-1000,Jorge Linares,500,BetUS,LowVig.ag,h2h,boxing_boxing
+0.1,2023-11-05 01:15:00,Derrick Lewis,350,Jailton Almeida,-550,BetUS,Bovada,h2h,mma_mixed_martial_arts
+0.1,2023-10-12 01:00:00,New Mexico State Aggies,-10000,Sam Houston State Bearkats,950,TwinSpires,MyBookie.ag,h2h,americanfootball_ncaaf
+0.1,2024-01-15 19:00:00,New York Knicks,-225,Orlando Magic,185,DraftKings,Bovada,h2h,basketball_nba
+0.1,2023-10-13 00:16:00,Denver Broncos,400,Kansas City Chiefs,-650,PointsBet (US),BetUS,h2h,americanfootball_nfl
+0.1,2023-11-04 17:00:00,Isaias Lucero,503,Souleymane Cissokho,-1000,MyBookie.ag,DraftKings,h2h,boxing_boxing
+0.1,2023-10-13 23:00:00,Arizona Coyotes,220,New Jersey Devils,-285,FanDuel,DraftKings,h2h,icehockey_nhl
+0.1,2023-10-21 14:00:00,Anshul Jubli,-420,Mike Breeden,300,LowVig.ag,BetRivers,h2h,mma_mixed_martial_arts
+0.1,2023-10-14 20:00:36,Brendon Marotte,360,Terrance Mckinney,-550,FanDuel,BetMGM,h2h,mma_mixed_martial_arts
 0.1,2023-10-14 16:00:00,Florida State Seminoles,-1200,Syracuse Orange,550,SuperBook,MyBookie.ag,h2h,americanfootball_ncaaf
+0.1,2023-10-14 19:30:00,Akron Zips,330,Central Michigan Chippewas,-500,Bovada,BetMGM,h2h,americanfootball_ncaaf
+0.1,2023-10-14 23:30:00,Buffalo Sabres,-235,New York Islanders,190,Caesars,DraftKings,spreads,icehockey_nhl
+0.1,2023-11-17 03:00:00,Emanuel Navarrete,-1300,Robson Conceicao,551,FanDuel,MyBookie.ag,h2h,boxing_boxing
+0.1,2023-11-04 21:00:00,Adrian Curiel Dominguez,480,Sivenathi Nontshinga,-909,FanDuel,MyBookie.ag,h2h,boxing_boxing
+0.09,2023-10-14 16:00:00,Alabama Crimson Tide,-2000,Arkansas Razorbacks,700,BetRivers,BetMGM,h2h,americanfootball_ncaaf
 0.09,2023-10-21 14:00:00,Javid Basharat,-455,Victor Henry,325,BetRivers,Bovada,h2h,mma_mixed_martial_arts
-0.09,2023-10-12 06:00:00,Takeshi Inoue,-2500,Thiranan Matsali,800,BetUS,LowVig.ag,h2h,boxing_boxing
-0.09,2023-10-14 18:00:00,Ball State Cardinals,500,Toledo Rockets,-910,Bovada,Unibet,h2h,americanfootball_ncaaf
-0.09,2023-10-14 19:00:00,California Golden Bears,400,Utah Utes,-625,DraftKings,BetRivers,h2h,americanfootball_ncaaf
-0.09,2023-10-14 19:30:00,Illinois Fighting Illini,400,Maryland Terrapins,-611,FanDuel,PointsBet (US),h2h,americanfootball_ncaaf
-0.09,2023-10-14 23:00:00,Texas State Bobcats,-826,UL Monroe Warhawks,480,PointsBet (US),BetRivers,h2h,americanfootball_ncaaf
-0.09,2023-11-04 22:00:00,Edward Vazquez,617,Joe Cordina,-1300,MyBookie.ag,FanDuel,h2h,boxing_boxing
-0.09,2023-10-21 18:00:00,Jose Sanmartin,631,Shabaz Masoud,-1429,MyBookie.ag,BetUS,h2h,boxing_boxing
-0.09,2024-01-15 23:00:00,Chicago Bulls,215,Cleveland Cavaliers,-265,Bovada,DraftKings,h2h,basketball_nba
-0.09,2023-10-14 02:00:00,Colorado Buffaloes,-455,Stanford Cardinal,320,BetRivers,DraftKings,h2h,americanfootball_ncaaf
-0.09,2023-10-16 00:21:00,Buffalo Bills,-1200,New York Giants,575,SuperBook,Bovada,h2h,americanfootball_nfl
-0.09,2023-10-15 01:00:00,Miguel Flores,700,Sam Goodman,-2000,LowVig.ag,BetUS,h2h,boxing_boxing
-0.09,2023-10-14 16:00:00,Alabama Crimson Tide,-1800,Arkansas Razorbacks,700,SuperBook,BetMGM,h2h,americanfootball_ncaaf
-0.09,2023-11-15 02:00:00,Denver Nuggets,-110,Los Angeles Clippers,100,DraftKings,Barstool Sportsbook,spreads,basketball_nba
-0.09,2023-11-17 23:30:00,Atlanta Hawks,100,Philadelphia 76ers,-110,Barstool Sportsbook,MyBookie.ag,spreads,basketball_nba
-0.09,2023-11-18 22:00:00,Adam Azim,-1665,Franck Petitjean,651,BetUS,MyBookie.ag,h2h,boxing_boxing
-0.09,2023-10-24 00:16:00,Minnesota Vikings,270,San Francisco 49ers,-355,DraftKings,FanDuel,h2h,americanfootball_nfl
+0.09,2023-10-12 06:00:00,John Riel Casimero,-750,Yukinori Oguni,450,Bovada,LowVig.ag,h2h,boxing_boxing
 0.09,2023-10-22 20:06:00,Arizona Cardinals,265,Seattle Seahawks,-345,FanDuel,DraftKings,h2h,americanfootball_nfl
-0.09,2023-10-14 23:00:00,Curtis Harper,613,Guido Vianello,-1400,MyBookie.ag,Bovada,h2h,boxing_boxing
 0.09,2023-10-22 17:01:00,Buffalo Bills,-390,New England Patriots,285,FanDuel,DraftKings,h2h,americanfootball_nfl
-0.08,2023-10-15 02:00:00,Anaheim Ducks,275,Vegas Golden Knights,-355,Caesars,DraftKings,h2h,icehockey_nhl
-0.08,2023-10-14 19:30:00,Penn State Nittany Lions,105,UMass Minutemen,-114,BetOnline.ag,Unibet,spreads,americanfootball_ncaaf
-0.08,2023-10-15 02:00:00,Keyshawn Davis,-2400,Nahir Albright,850,FanDuel,Barstool Sportsbook,h2h,boxing_boxing
-0.08,2023-10-14 16:00:00,Ohio State Buckeyes,-1430,Purdue Boilermakers,680,BetRivers,FanDuel,h2h,americanfootball_ncaaf
-0.08,2023-10-15 01:00:00,Diego Alberto Ruiz,600,Miguel Berchelt,-1100,BetOnline.ag,Bovada,h2h,boxing_boxing
-0.08,2023-10-14 23:00:00,Kelvin Davis,-1800,Narciso Carmona,730,DraftKings,BetUS,h2h,boxing_boxing
-0.08,2024-01-15 17:00:00,Houston Rockets,240,Philadelphia 76ers,-298,Bovada,DraftKings,h2h,basketball_nba
+0.09,2023-10-14 23:00:00,Texas State Bobcats,-826,UL Monroe Warhawks,480,PointsBet (US),BetRivers,h2h,americanfootball_ncaaf
+0.09,2023-10-16 00:21:00,Buffalo Bills,-1200,New York Giants,575,SuperBook,Bovada,h2h,americanfootball_nfl
+0.09,2023-11-17 23:30:00,Atlanta Hawks,100,Philadelphia 76ers,-110,Barstool Sportsbook,MyBookie.ag,spreads,basketball_nba
+0.09,2023-11-04 22:00:00,Edward Vazquez,617,Joe Cordina,-1300,MyBookie.ag,FanDuel,h2h,boxing_boxing
+0.09,2023-10-14 23:00:00,Curtis Harper,613,Guido Vianello,-1400,MyBookie.ag,Bovada,h2h,boxing_boxing
+0.09,2023-10-14 19:30:00,Illinois Fighting Illini,400,Maryland Terrapins,-611,FanDuel,PointsBet (US),h2h,americanfootball_ncaaf
+0.09,2023-11-18 22:00:00,Adam Azim,-1665,Franck Petitjean,651,BetUS,MyBookie.ag,h2h,boxing_boxing
+0.09,2023-10-12 06:00:00,Takeshi Inoue,-2500,Thiranan Matsali,800,BetUS,LowVig.ag,h2h,boxing_boxing
+0.09,2024-01-15 23:00:00,Chicago Bulls,215,Cleveland Cavaliers,-265,Bovada,DraftKings,h2h,basketball_nba
+0.09,2023-10-21 18:00:00,Jose Sanmartin,631,Shabaz Masoud,-1429,MyBookie.ag,BetUS,h2h,boxing_boxing
+0.09,2023-10-14 19:30:00,Tennessee Volunteers,100,Texas A&M Aggies,-110,BetMGM,DraftKings,spreads,americanfootball_ncaaf
+0.09,2023-11-15 02:00:00,Denver Nuggets,-110,Los Angeles Clippers,100,DraftKings,Barstool Sportsbook,spreads,basketball_nba
+0.09,2023-10-13 00:16:00,Denver Broncos,-110,Kansas City Chiefs,100,FanDuel,LowVig.ag,spreads,americanfootball_nfl
+0.08,2023-10-14 16:00:00,Ohio State Buckeyes,-1430,Purdue Boilermakers,680,BetRivers,MyBookie.ag,h2h,americanfootball_ncaaf
+0.08,2023-10-15 01:00:00,Miguel Flores,783,Sam Goodman,-2000,MyBookie.ag,LowVig.ag,h2h,boxing_boxing
+0.08,2023-10-24 00:16:00,Minnesota Vikings,275,San Francisco 49ers,-355,DraftKings,FanDuel,h2h,americanfootball_nfl
 0.08,2024-01-15 19:30:00,Atlanta Hawks,-310,San Antonio Spurs,250,DraftKings,Bovada,h2h,basketball_nba
-0.07,2023-10-14 23:00:00,Richard Torrez Jr,-6600,Tyrrell Anthony Herndon,1200,Bovada,BetUS,h2h,boxing_boxing
+0.08,2023-10-15 02:00:00,Keyshawn Davis,-2400,Nahir Albright,817,FanDuel,BetUS,h2h,boxing_boxing
+0.08,2024-01-15 17:00:00,Houston Rockets,240,Philadelphia 76ers,-298,Bovada,DraftKings,h2h,basketball_nba
+0.08,2023-10-14 23:00:00,Kelvin Davis,-1800,Narciso Carmona,730,DraftKings,BetUS,h2h,boxing_boxing
+0.08,2023-10-15 02:00:00,Anaheim Ducks,275,Vegas Golden Knights,-355,Caesars,DraftKings,h2h,icehockey_nhl
+0.08,2023-10-15 01:00:00,Diego Alberto Ruiz,600,Miguel Berchelt,-1100,BetOnline.ag,Bovada,h2h,boxing_boxing
 0.07,2023-11-19 05:00:00,Diego Pacheco,-1800,Marcelo Esteban Coceres,817,FanDuel,BetUS,h2h,boxing_boxing
+0.07,2023-10-14 23:00:00,Richard Torrez Jr,-6600,Tyrrell Anthony Herndon,1200,Bovada,BetUS,h2h,boxing_boxing
 0.07,2023-11-25 02:00:00,Golden State Warriors,-520,San Antonio Spurs,375,DraftKings,Bovada,h2h,basketball_nba
 0.06,2023-10-28 02:00:00,Amanda Serrano,-1450,Danila Ramos,750,FanDuel,DraftKings,h2h,boxing_boxing
 0.04,2023-10-14 16:00:00,Indiana Hoosiers,2000,Michigan Wolverines,-7500,WynnBET,Barstool Sportsbook,h2h,americanfootball_ncaaf

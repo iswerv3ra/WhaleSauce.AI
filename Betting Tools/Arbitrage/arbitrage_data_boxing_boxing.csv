@@ -1,64 +1,51 @@
 event_time,bookmaker,Fighter,Opponent,odds_f1,odds_f2,market
-2023-10-11 23:00:00,DraftKings,Erik Bazinyan,Ronald Ellis,-500,350,h2h
-2023-10-11 23:00:00,BetUS,Erik Bazinyan,Ronald Ellis,-370,270,h2h
-2023-10-11 23:00:00,MyBookie.ag,Erik Bazinyan,Ronald Ellis,-500,341,h2h
-2023-10-11 23:00:00,Bovada,Erik Bazinyan,Ronald Ellis,-450,300,h2h
-2023-10-11 23:00:00,LowVig.ag,Erik Bazinyan,Ronald Ellis,-375,275,h2h
-2023-10-11 23:00:00,BetOnline.ag,Erik Bazinyan,Ronald Ellis,-370,275,h2h
-2023-10-11 23:00:00,FanDuel,Erik Bazinyan,Ronald Ellis,-430,300,h2h
-2023-10-11 23:00:00,DraftKings,Femke Hermans,Mary Spencer,-165,130,h2h
-2023-10-11 23:00:00,BetUS,Femke Hermans,Mary Spencer,-167,137,h2h
-2023-10-11 23:00:00,MyBookie.ag,Femke Hermans,Mary Spencer,-163,127,h2h
-2023-10-11 23:00:00,Bovada,Femke Hermans,Mary Spencer,-155,120,h2h
-2023-10-11 23:00:00,LowVig.ag,Femke Hermans,Mary Spencer,-175,145,h2h
-2023-10-11 23:00:00,BetOnline.ag,Femke Hermans,Mary Spencer,-175,145,h2h
-2023-10-11 23:00:00,BetMGM,Femke Hermans,Mary Spencer,-150,138,h2h
-2023-10-11 23:00:00,FanDuel,Femke Hermans,Mary Spencer,-160,126,h2h
-2023-10-11 23:00:00,Barstool Sportsbook,Femke Hermans,Mary Spencer,-160,130,h2h
-2023-10-12 06:00:00,LowVig.ag,Froilan Saludar,Keita Kurihara,450,-699,h2h
+2023-10-12 06:00:00,LowVig.ag,Froilan Saludar,Keita Kurihara,400,-599,h2h
 2023-10-12 06:00:00,Bovada,Froilan Saludar,Keita Kurihara,425,-700,h2h
-2023-10-12 06:00:00,BetOnline.ag,Froilan Saludar,Keita Kurihara,450,-714,h2h
+2023-10-12 06:00:00,BetOnline.ag,Froilan Saludar,Keita Kurihara,400,-588,h2h
 2023-10-12 06:00:00,BetMGM,Froilan Saludar,Keita Kurihara,400,-600,h2h
-2023-10-12 06:00:00,BetUS,Froilan Saludar,Keita Kurihara,465,-715,h2h
-2023-10-12 06:00:00,LowVig.ag,John Riel Casimero,Yukinori Oguni,-599,400,h2h
-2023-10-12 06:00:00,MyBookie.ag,John Riel Casimero,Yukinori Oguni,-666,436,h2h
-2023-10-12 06:00:00,Bovada,John Riel Casimero,Yukinori Oguni,-750,450,h2h
-2023-10-12 06:00:00,BetOnline.ag,John Riel Casimero,Yukinori Oguni,-588,400,h2h
+2023-10-12 06:00:00,BetUS,Froilan Saludar,Keita Kurihara,425,-625,h2h
+2023-10-12 06:00:00,MyBookie.ag,Froilan Saludar,Keita Kurihara,412,-625,h2h
+2023-10-12 06:00:00,LowVig.ag,John Riel Casimero,Yukinori Oguni,-699,450,h2h
+2023-10-12 06:00:00,MyBookie.ag,John Riel Casimero,Yukinori Oguni,-714,445,h2h
+2023-10-12 06:00:00,Bovada,John Riel Casimero,Yukinori Oguni,-750,460,h2h
+2023-10-12 06:00:00,BetOnline.ag,John Riel Casimero,Yukinori Oguni,-714,450,h2h
 2023-10-12 06:00:00,BetMGM,John Riel Casimero,Yukinori Oguni,-700,450,h2h
-2023-10-12 06:00:00,BetUS,John Riel Casimero,Yukinori Oguni,-770,495,h2h
-2023-10-12 06:00:00,LowVig.ag,Kai Ishizawa,Vince Paras,300,-400,h2h
+2023-10-12 06:00:00,BetUS,John Riel Casimero,Yukinori Oguni,-715,465,h2h
+2023-10-12 06:00:00,LowVig.ag,Kai Ishizawa,Vince Paras,275,-375,h2h
 2023-10-12 06:00:00,MyBookie.ag,Kai Ishizawa,Vince Paras,293,-416,h2h
 2023-10-12 06:00:00,Bovada,Kai Ishizawa,Vince Paras,310,-450,h2h
-2023-10-12 06:00:00,BetOnline.ag,Kai Ishizawa,Vince Paras,300,-400,h2h
+2023-10-12 06:00:00,BetOnline.ag,Kai Ishizawa,Vince Paras,275,-370,h2h
 2023-10-12 06:00:00,BetUS,Kai Ishizawa,Vince Paras,330,-455,h2h
-2023-10-12 06:00:00,LowVig.ag,RV Deniega,Saul Sanchez,275,-375,h2h
-2023-10-12 06:00:00,BetOnline.ag,RV Deniega,Saul Sanchez,275,-370,h2h
+2023-10-12 06:00:00,LowVig.ag,RV Deniega,Saul Sanchez,220,-280,h2h
+2023-10-12 06:00:00,BetOnline.ag,RV Deniega,Saul Sanchez,220,-278,h2h
 2023-10-12 06:00:00,BetMGM,RV Deniega,Saul Sanchez,300,-400,h2h
-2023-10-12 06:00:00,BetUS,RV Deniega,Saul Sanchez,330,-455,h2h
+2023-10-12 06:00:00,BetUS,RV Deniega,Saul Sanchez,270,-370,h2h
 2023-10-12 06:00:00,LowVig.ag,Takeshi Inoue,Thiranan Matsali,-1493,800,h2h
-2023-10-12 06:00:00,MyBookie.ag,Takeshi Inoue,Thiranan Matsali,-2000,838,h2h
-2023-10-12 06:00:00,Bovada,Takeshi Inoue,Thiranan Matsali,-1800,800,h2h
+2023-10-12 06:00:00,MyBookie.ag,Takeshi Inoue,Thiranan Matsali,-2000,836,h2h
+2023-10-12 06:00:00,Bovada,Takeshi Inoue,Thiranan Matsali,-1800,850,h2h
 2023-10-12 06:00:00,BetOnline.ag,Takeshi Inoue,Thiranan Matsali,-1429,800,h2h
 2023-10-12 06:00:00,DraftKings,Takeshi Inoue,Thiranan Matsali,-2000,850,h2h
 2023-10-12 06:00:00,BetUS,Takeshi Inoue,Thiranan Matsali,-2500,900,h2h
 2023-10-12 06:00:00,BetMGM,Takeshi Inoue,Thiranan Matsali,-2000,900,h2h
 2023-10-12 06:00:00,FanDuel,Takeshi Inoue,Thiranan Matsali,-1800,920,h2h
-2023-10-13 22:00:00,LowVig.ag,David Cuellar Contreras,Luis Concepcion,-699,450,h2h
+2023-10-13 22:00:00,LowVig.ag,David Cuellar Contreras,Luis Concepcion,-1250,700,h2h
 2023-10-13 22:00:00,Bovada,David Cuellar Contreras,Luis Concepcion,-1000,600,h2h
-2023-10-13 22:00:00,BetOnline.ag,David Cuellar Contreras,Luis Concepcion,-714,450,h2h
+2023-10-13 22:00:00,BetOnline.ag,David Cuellar Contreras,Luis Concepcion,-1250,700,h2h
 2023-10-13 22:00:00,MyBookie.ag,David Cuellar Contreras,Luis Concepcion,-1000,547,h2h
+2023-10-13 22:00:00,BetUS,David Cuellar Contreras,Luis Concepcion,-1000,600,h2h
 2023-10-13 22:00:00,FanDuel,Hector Escobar,Israel Rodriguez Picazo,-400,280,h2h
+2023-10-13 22:00:00,BetUS,Hector Escobar,Israel Rodriguez Picazo,-370,270,h2h
 2023-10-14 20:00:00,BetUS,Dillon Danis,Logan Paul,350,-500,h2h
 2023-10-14 20:00:00,LowVig.ag,Dillon Danis,Logan Paul,350,-500,h2h
 2023-10-14 20:00:00,BetOnline.ag,Dillon Danis,Logan Paul,350,-500,h2h
 2023-10-14 20:00:00,Unibet,Dillon Danis,Logan Paul,450,-715,h2h
-2023-10-14 20:00:00,Bovada,Dillon Danis,Logan Paul,375,-600,h2h
+2023-10-14 20:00:00,Bovada,Dillon Danis,Logan Paul,325,-500,h2h
 2023-10-14 20:00:00,MyBookie.ag,Dillon Danis,Logan Paul,341,-500,h2h
 2023-10-14 20:00:00,TwinSpires,Dillon Danis,Logan Paul,450,-715,h2h
 2023-10-14 21:00:00,BetUS,KSI,Tommy Fury,245,-335,h2h
 2023-10-14 21:00:00,LowVig.ag,KSI,Tommy Fury,260,-350,h2h
 2023-10-14 21:00:00,BetOnline.ag,KSI,Tommy Fury,260,-345,h2h
-2023-10-14 21:00:00,Bovada,KSI,Tommy Fury,280,-435,h2h
+2023-10-14 21:00:00,Bovada,KSI,Tommy Fury,280,-385,h2h
 2023-10-14 21:00:00,Unibet,KSI,Tommy Fury,245,-345,h2h
 2023-10-14 21:00:00,TwinSpires,KSI,Tommy Fury,245,-345,h2h
 2023-10-14 23:00:00,DraftKings,Curtis Harper,Guido Vianello,650,-1200,h2h
@@ -67,36 +54,45 @@ event_time,bookmaker,Fighter,Opponent,odds_f1,odds_f2,market
 2023-10-14 23:00:00,BetOnline.ag,Curtis Harper,Guido Vianello,700,-1250,h2h
 2023-10-14 23:00:00,MyBookie.ag,Curtis Harper,Guido Vianello,613,-1111,h2h
 2023-10-14 23:00:00,FanDuel,Curtis Harper,Guido Vianello,680,-1200,h2h
+2023-10-14 23:00:00,BetUS,Curtis Harper,Guido Vianello,700,-1250,h2h
 2023-10-14 23:00:00,DraftKings,Duke Ragan,Jose Perez,-1000,550,h2h
 2023-10-14 23:00:00,Bovada,Duke Ragan,Jose Perez,-750,450,h2h
 2023-10-14 23:00:00,MyBookie.ag,Duke Ragan,Jose Perez,-666,435,h2h
 2023-10-14 23:00:00,FanDuel,Duke Ragan,Jose Perez,-900,530,h2h
+2023-10-14 23:00:00,BetUS,Duke Ragan,Jose Perez,-714,464,h2h
 2023-10-14 23:00:00,DraftKings,Kelvin Davis,Narciso Carmona,-1800,800,h2h
 2023-10-14 23:00:00,FanDuel,Kelvin Davis,Narciso Carmona,-1600,810,h2h
+2023-10-14 23:00:00,BetUS,Kelvin Davis,Narciso Carmona,-1430,730,h2h
 2023-10-14 23:00:00,DraftKings,Richard Torrez Jr,Tyrrell Anthony Herndon,-4000,1400,h2h
 2023-10-14 23:00:00,Bovada,Richard Torrez Jr,Tyrrell Anthony Herndon,-6600,1500,h2h
 2023-10-14 23:00:00,LowVig.ag,Richard Torrez Jr,Tyrrell Anthony Herndon,-5000,1600,h2h
 2023-10-14 23:00:00,BetOnline.ag,Richard Torrez Jr,Tyrrell Anthony Herndon,-5000,1600,h2h
 2023-10-14 23:00:00,FanDuel,Richard Torrez Jr,Tyrrell Anthony Herndon,-4500,1600,h2h
+2023-10-14 23:00:00,BetUS,Richard Torrez Jr,Tyrrell Anthony Herndon,-5000,1200,h2h
 2023-10-15 00:00:00,Bovada,Angel Ayala Lardizabal,Felix Alvarado,-275,200,h2h
-2023-10-15 00:00:00,LowVig.ag,Angel Ayala Lardizabal,Felix Alvarado,-240,190,h2h
-2023-10-15 00:00:00,BetOnline.ag,Angel Ayala Lardizabal,Felix Alvarado,-238,190,h2h
+2023-10-15 00:00:00,LowVig.ag,Angel Ayala Lardizabal,Felix Alvarado,-260,200,h2h
+2023-10-15 00:00:00,BetOnline.ag,Angel Ayala Lardizabal,Felix Alvarado,-263,200,h2h
+2023-10-15 00:00:00,BetUS,Angel Ayala Lardizabal,Felix Alvarado,-270,215,h2h
 2023-10-15 00:00:00,FanDuel,Jackson Jon England,Nathaniel May,-215,164,h2h
 2023-10-15 00:00:00,DraftKings,Jackson Jon England,Nathaniel May,-225,175,h2h
 2023-10-15 00:00:00,Bovada,Jackson Jon England,Nathaniel May,-220,165,h2h
+2023-10-15 00:00:00,BetUS,Jackson Jon England,Nathaniel May,-215,175,h2h
 2023-10-15 00:00:00,FanDuel,Sergei Vorobev,Wade Ryan,-480,330,h2h
-2023-10-15 00:00:00,BetOnline.ag,Sergei Vorobev,Wade Ryan,-556,375,h2h
-2023-10-15 00:00:00,LowVig.ag,Sergei Vorobev,Wade Ryan,-549,375,h2h
+2023-10-15 00:00:00,BetOnline.ag,Sergei Vorobev,Wade Ryan,-833,500,h2h
+2023-10-15 00:00:00,LowVig.ag,Sergei Vorobev,Wade Ryan,-800,500,h2h
 2023-10-15 00:00:00,DraftKings,Sergei Vorobev,Wade Ryan,-500,350,h2h
 2023-10-15 00:00:00,MyBookie.ag,Sergei Vorobev,Wade Ryan,-526,352,h2h
 2023-10-15 01:00:00,BetOnline.ag,Diego Alberto Ruiz,Miguel Berchelt,600,-1000,h2h
 2023-10-15 01:00:00,LowVig.ag,Diego Alberto Ruiz,Miguel Berchelt,600,-1000,h2h
 2023-10-15 01:00:00,Bovada,Diego Alberto Ruiz,Miguel Berchelt,600,-1100,h2h
-2023-10-15 01:00:00,LowVig.ag,Miguel Flores,Sam Goodman,700,-1250,h2h
-2023-10-15 01:00:00,BetOnline.ag,Miguel Flores,Sam Goodman,700,-1250,h2h
-2023-10-15 01:00:00,Bovada,Miguel Flores,Sam Goodman,750,-1600,h2h
-2023-10-15 01:00:00,MyBookie.ag,Miguel Flores,Sam Goodman,734,-1666,h2h
+2023-10-15 01:00:00,BetUS,Diego Alberto Ruiz,Miguel Berchelt,600,-1000,h2h
+2023-10-15 01:00:00,LowVig.ag,Miguel Flores,Sam Goodman,1000,-2000,h2h
+2023-10-15 01:00:00,BetOnline.ag,Miguel Flores,Sam Goodman,1000,-2000,h2h
+2023-10-15 01:00:00,Bovada,Miguel Flores,Sam Goodman,900,-2000,h2h
+2023-10-15 01:00:00,MyBookie.ag,Miguel Flores,Sam Goodman,783,-1666,h2h
+2023-10-15 01:00:00,BetUS,Miguel Flores,Sam Goodman,850,-2000,h2h
 2023-10-15 02:00:00,FanDuel,Keyshawn Davis,Nahir Albright,-2400,1120,h2h
+2023-10-15 02:00:00,BetUS,Keyshawn Davis,Nahir Albright,-1667,817,h2h
 2023-10-15 02:00:00,DraftKings,Keyshawn Davis,Nahir Albright,-2500,1000,h2h
 2023-10-15 02:00:00,MyBookie.ag,Keyshawn Davis,Nahir Albright,-2500,907,h2h
 2023-10-15 02:00:00,Bovada,Keyshawn Davis,Nahir Albright,-2500,1000,h2h
@@ -189,13 +185,13 @@ event_time,bookmaker,Fighter,Opponent,odds_f1,odds_f2,market
 2023-10-28 20:00:00,BetOnline.ag,David Adeleye,Fabio Wardley,240,-303,h2h
 2023-10-28 20:00:00,MyBookie.ag,David Adeleye,Fabio Wardley,244,-370,h2h
 2023-10-29 04:00:00,BetUS,Eduardo Hernandez,O'Shaquie Foster,165,-200,h2h
-2023-10-29 04:00:00,DraftKings,Eduardo Hernandez,O'Shaquie Foster,170,-220,h2h
-2023-10-29 04:00:00,MyBookie.ag,Eduardo Hernandez,O'Shaquie Foster,160,-227,h2h
+2023-10-29 04:00:00,DraftKings,Eduardo Hernandez,O'Shaquie Foster,180,-240,h2h
+2023-10-29 04:00:00,MyBookie.ag,Eduardo Hernandez,O'Shaquie Foster,167,-238,h2h
 2023-10-29 04:00:00,FanDuel,Eduardo Hernandez,O'Shaquie Foster,182,-240,h2h
-2023-10-29 04:00:00,Bovada,Eduardo Hernandez,O'Shaquie Foster,150,-200,h2h
+2023-10-29 04:00:00,Bovada,Eduardo Hernandez,O'Shaquie Foster,155,-205,h2h
 2023-10-29 04:00:00,LowVig.ag,Eduardo Hernandez,O'Shaquie Foster,160,-200,h2h
 2023-10-29 04:00:00,BetOnline.ag,Eduardo Hernandez,O'Shaquie Foster,160,-200,h2h
-2023-10-29 04:00:00,Barstool Sportsbook,Eduardo Hernandez,O'Shaquie Foster,170,-220,h2h
+2023-10-29 04:00:00,Barstool Sportsbook,Eduardo Hernandez,O'Shaquie Foster,175,-225,h2h
 2023-11-04 17:00:00,DraftKings,Isaias Lucero,Souleymane Cissokho,550,-1000,h2h
 2023-11-04 17:00:00,BetUS,Isaias Lucero,Souleymane Cissokho,559,-909,h2h
 2023-11-04 17:00:00,MyBookie.ag,Isaias Lucero,Souleymane Cissokho,503,-1111,h2h
