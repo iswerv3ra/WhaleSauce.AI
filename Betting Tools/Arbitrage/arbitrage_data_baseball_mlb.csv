@@ -1,48 +1,93 @@
-event_time,bookmaker,Fighter,Opponent,odds_f1,odds_f2
-2023-10-11 18:07:00,PointsBet (US),Houston Astros,Minnesota Twins,105,-125
-2023-10-11 18:07:00,BetMGM,Houston Astros,Minnesota Twins,105,-125
-2023-10-11 18:07:00,Barstool Sportsbook,Houston Astros,Minnesota Twins,105,-125
-2023-10-11 18:07:00,MyBookie.ag,Houston Astros,Minnesota Twins,105,-128
-2023-10-11 18:07:00,LowVig.ag,Houston Astros,Minnesota Twins,113,-123
-2023-10-11 18:07:00,Caesars,Houston Astros,Minnesota Twins,110,-130
-2023-10-11 18:07:00,BetOnline.ag,Houston Astros,Minnesota Twins,113,-123
-2023-10-11 18:07:00,SuperBook,Houston Astros,Minnesota Twins,107,-126
-2023-10-11 18:07:00,BetUS,Houston Astros,Minnesota Twins,110,-120
-2023-10-11 18:07:00,BetRivers,Houston Astros,Minnesota Twins,110,-129
-2023-10-11 18:07:00,TwinSpires,Houston Astros,Minnesota Twins,108,-129
-2023-10-11 18:07:00,Unibet,Houston Astros,Minnesota Twins,110,-129
-2023-10-11 18:07:00,WynnBET,Houston Astros,Minnesota Twins,110,-120
-2023-10-11 18:07:00,Bovada,Houston Astros,Minnesota Twins,109,-131
-2023-10-11 21:07:00,DraftKings,Atlanta Braves,Philadelphia Phillies,102,-122
-2023-10-11 21:07:00,FanDuel,Atlanta Braves,Philadelphia Phillies,102,-120
-2023-10-11 21:07:00,LowVig.ag,Atlanta Braves,Philadelphia Phillies,113,-123
-2023-10-11 21:07:00,PointsBet (US),Atlanta Braves,Philadelphia Phillies,105,-125
-2023-10-11 21:07:00,BetOnline.ag,Atlanta Braves,Philadelphia Phillies,113,-123
-2023-10-11 21:07:00,Caesars,Atlanta Braves,Philadelphia Phillies,110,-130
-2023-10-11 21:07:00,Barstool Sportsbook,Atlanta Braves,Philadelphia Phillies,105,-125
-2023-10-11 21:07:00,BetMGM,Atlanta Braves,Philadelphia Phillies,105,-125
-2023-10-11 21:07:00,MyBookie.ag,Atlanta Braves,Philadelphia Phillies,103,-126
-2023-10-11 21:07:00,SuperBook,Atlanta Braves,Philadelphia Phillies,108,-128
-2023-10-11 21:07:00,WynnBET,Atlanta Braves,Philadelphia Phillies,113,-125
-2023-10-11 21:07:00,TwinSpires,Atlanta Braves,Philadelphia Phillies,110,-137
-2023-10-11 21:07:00,BetRivers,Atlanta Braves,Philadelphia Phillies,110,-127
-2023-10-11 21:07:00,Unibet,Atlanta Braves,Philadelphia Phillies,110,-127
-2023-10-11 21:07:00,Bovada,Atlanta Braves,Philadelphia Phillies,107,-128
-2023-10-11 23:07:00,DraftKings,Houston Astros,Minnesota Twins,105,-125
-2023-10-11 23:07:00,FanDuel,Houston Astros,Minnesota Twins,108,-126
-2023-10-12 01:07:00,DraftKings,Arizona Diamondbacks,Los Angeles Dodgers,124,-148
-2023-10-12 01:07:00,FanDuel,Arizona Diamondbacks,Los Angeles Dodgers,122,-144
-2023-10-12 01:07:00,PointsBet (US),Arizona Diamondbacks,Los Angeles Dodgers,125,-150
-2023-10-12 01:07:00,BetMGM,Arizona Diamondbacks,Los Angeles Dodgers,125,-150
-2023-10-12 01:07:00,Barstool Sportsbook,Arizona Diamondbacks,Los Angeles Dodgers,125,-145
-2023-10-12 01:07:00,MyBookie.ag,Arizona Diamondbacks,Los Angeles Dodgers,122,-149
-2023-10-12 01:07:00,SuperBook,Arizona Diamondbacks,Los Angeles Dodgers,128,-148
-2023-10-12 01:07:00,BetRivers,Arizona Diamondbacks,Los Angeles Dodgers,123,-148
-2023-10-12 01:07:00,TwinSpires,Arizona Diamondbacks,Los Angeles Dodgers,123,-148
-2023-10-12 01:07:00,Unibet,Arizona Diamondbacks,Los Angeles Dodgers,123,-148
-2023-10-12 01:07:00,Caesars,Arizona Diamondbacks,Los Angeles Dodgers,122,-145
-2023-10-12 01:07:00,Bovada,Arizona Diamondbacks,Los Angeles Dodgers,121,-144
-2023-10-12 01:07:00,WynnBET,Arizona Diamondbacks,Los Angeles Dodgers,130,-143
-2023-10-12 01:07:00,BetOnline.ag,Arizona Diamondbacks,Los Angeles Dodgers,133,-145
-2023-10-12 01:07:00,LowVig.ag,Arizona Diamondbacks,Los Angeles Dodgers,133,-145
-2023-10-12 01:07:00,BetUS,Arizona Diamondbacks,Los Angeles Dodgers,130,-145
+event_time,bookmaker,Fighter,Opponent,odds_f1,odds_f2,market
+2023-10-11 21:07:00,DraftKings,Atlanta Braves,Philadelphia Phillies,105,-125,h2h
+2023-10-11 21:07:00,DraftKings,Atlanta Braves,Philadelphia Phillies,160,-192,spreads
+2023-10-11 21:07:00,FanDuel,Atlanta Braves,Philadelphia Phillies,104,-122,h2h
+2023-10-11 21:07:00,FanDuel,Atlanta Braves,Philadelphia Phillies,-188,155,spreads
+2023-10-11 21:07:00,LowVig.ag,Atlanta Braves,Philadelphia Phillies,108,-118,h2h
+2023-10-11 21:07:00,LowVig.ag,Atlanta Braves,Philadelphia Phillies,-178,162,spreads
+2023-10-11 21:07:00,PointsBet (US),Atlanta Braves,Philadelphia Phillies,100,-120,h2h
+2023-10-11 21:07:00,PointsBet (US),Atlanta Braves,Philadelphia Phillies,-190,160,spreads
+2023-10-11 21:07:00,BetOnline.ag,Atlanta Braves,Philadelphia Phillies,108,-118,h2h
+2023-10-11 21:07:00,BetOnline.ag,Atlanta Braves,Philadelphia Phillies,-179,160,spreads
+2023-10-11 21:07:00,Caesars,Atlanta Braves,Philadelphia Phillies,100,-120,h2h
+2023-10-11 21:07:00,Caesars,Atlanta Braves,Philadelphia Phillies,-190,158,spreads
+2023-10-11 21:07:00,Barstool Sportsbook,Atlanta Braves,Philadelphia Phillies,105,-125,h2h
+2023-10-11 21:07:00,Barstool Sportsbook,Atlanta Braves,Philadelphia Phillies,-190,160,spreads
+2023-10-11 21:07:00,BetMGM,Atlanta Braves,Philadelphia Phillies,105,-125,h2h
+2023-10-11 21:07:00,BetMGM,Atlanta Braves,Philadelphia Phillies,-185,150,spreads
+2023-10-11 21:07:00,MyBookie.ag,Atlanta Braves,Philadelphia Phillies,104,-126,h2h
+2023-10-11 21:07:00,MyBookie.ag,Atlanta Braves,Philadelphia Phillies,-192,155,spreads
+2023-10-11 21:07:00,SuperBook,Atlanta Braves,Philadelphia Phillies,107,-126,h2h
+2023-10-11 21:07:00,WynnBET,Atlanta Braves,Philadelphia Phillies,108,-118,h2h
+2023-10-11 21:07:00,WynnBET,Atlanta Braves,Philadelphia Phillies,-185,155,spreads
+2023-10-11 21:07:00,TwinSpires,Atlanta Braves,Philadelphia Phillies,108,-127,h2h
+2023-10-11 21:07:00,TwinSpires,Atlanta Braves,Philadelphia Phillies,-200,160,spreads
+2023-10-11 21:07:00,BetRivers,Atlanta Braves,Philadelphia Phillies,108,-127,h2h
+2023-10-11 21:07:00,BetRivers,Atlanta Braves,Philadelphia Phillies,-200,160,spreads
+2023-10-11 21:07:00,Unibet,Atlanta Braves,Philadelphia Phillies,108,-127,h2h
+2023-10-11 21:07:00,Unibet,Atlanta Braves,Philadelphia Phillies,-200,160,spreads
+2023-10-11 21:07:00,Bovada,Atlanta Braves,Philadelphia Phillies,106,-126,h2h
+2023-10-11 21:07:00,Bovada,Atlanta Braves,Philadelphia Phillies,-180,155,spreads
+2023-10-11 21:07:00,BetUS,Atlanta Braves,Philadelphia Phillies,110,-120,h2h
+2023-10-11 21:07:00,BetUS,Atlanta Braves,Philadelphia Phillies,-190,160,spreads
+2023-10-11 23:07:00,DraftKings,Houston Astros,Minnesota Twins,105,-125,h2h
+2023-10-11 23:07:00,DraftKings,Houston Astros,Minnesota Twins,-192,160,spreads
+2023-10-11 23:07:00,FanDuel,Houston Astros,Minnesota Twins,106,-124,h2h
+2023-10-11 23:07:00,FanDuel,Houston Astros,Minnesota Twins,-200,164,spreads
+2023-10-11 23:07:00,PointsBet (US),Houston Astros,Minnesota Twins,105,-125,h2h
+2023-10-11 23:07:00,PointsBet (US),Houston Astros,Minnesota Twins,-210,175,spreads
+2023-10-11 23:07:00,Barstool Sportsbook,Houston Astros,Minnesota Twins,105,-125,h2h
+2023-10-11 23:07:00,Barstool Sportsbook,Houston Astros,Minnesota Twins,-200,165,spreads
+2023-10-11 23:07:00,SuperBook,Houston Astros,Minnesota Twins,105,-122,h2h
+2023-10-11 23:07:00,MyBookie.ag,Houston Astros,Minnesota Twins,105,-128,h2h
+2023-10-11 23:07:00,MyBookie.ag,Houston Astros,Minnesota Twins,-188,153,spreads
+2023-10-11 23:07:00,BetOnline.ag,Houston Astros,Minnesota Twins,109,-119,h2h
+2023-10-11 23:07:00,BetOnline.ag,Houston Astros,Minnesota Twins,-196,170,spreads
+2023-10-11 23:07:00,TwinSpires,Houston Astros,Minnesota Twins,100,-118,h2h
+2023-10-11 23:07:00,TwinSpires,Houston Astros,Minnesota Twins,165,-210,spreads
+2023-10-11 23:07:00,Unibet,Houston Astros,Minnesota Twins,100,-118,h2h
+2023-10-11 23:07:00,Unibet,Houston Astros,Minnesota Twins,165,-210,spreads
+2023-10-11 23:07:00,BetRivers,Houston Astros,Minnesota Twins,100,-118,h2h
+2023-10-11 23:07:00,BetRivers,Houston Astros,Minnesota Twins,165,-210,spreads
+2023-10-11 23:07:00,BetMGM,Houston Astros,Minnesota Twins,105,-125,h2h
+2023-10-11 23:07:00,BetMGM,Houston Astros,Minnesota Twins,-190,155,spreads
+2023-10-11 23:07:00,BetUS,Houston Astros,Minnesota Twins,110,-120,h2h
+2023-10-11 23:07:00,BetUS,Houston Astros,Minnesota Twins,-190,160,spreads
+2023-10-11 23:07:00,LowVig.ag,Houston Astros,Minnesota Twins,109,-119,h2h
+2023-10-11 23:07:00,LowVig.ag,Houston Astros,Minnesota Twins,-192,174,spreads
+2023-10-11 23:07:00,Bovada,Houston Astros,Minnesota Twins,-105,-115,h2h
+2023-10-11 23:07:00,Bovada,Houston Astros,Minnesota Twins,-200,170,spreads
+2023-10-11 23:07:00,WynnBET,Houston Astros,Minnesota Twins,109,-119,h2h
+2023-10-11 23:07:00,Caesars,Houston Astros,Minnesota Twins,100,-120,h2h
+2023-10-11 23:07:00,Caesars,Houston Astros,Minnesota Twins,-195,162,spreads
+2023-10-12 01:07:00,DraftKings,Arizona Diamondbacks,Los Angeles Dodgers,110,-130,h2h
+2023-10-12 01:07:00,DraftKings,Arizona Diamondbacks,Los Angeles Dodgers,-135,114,spreads
+2023-10-12 01:07:00,FanDuel,Arizona Diamondbacks,Los Angeles Dodgers,108,-126,h2h
+2023-10-12 01:07:00,FanDuel,Arizona Diamondbacks,Los Angeles Dodgers,-138,115,spreads
+2023-10-12 01:07:00,PointsBet (US),Arizona Diamondbacks,Los Angeles Dodgers,110,-130,h2h
+2023-10-12 01:07:00,PointsBet (US),Arizona Diamondbacks,Los Angeles Dodgers,-140,115,spreads
+2023-10-12 01:07:00,BetMGM,Arizona Diamondbacks,Los Angeles Dodgers,110,-130,h2h
+2023-10-12 01:07:00,BetMGM,Arizona Diamondbacks,Los Angeles Dodgers,-150,125,spreads
+2023-10-12 01:07:00,Barstool Sportsbook,Arizona Diamondbacks,Los Angeles Dodgers,110,-130,h2h
+2023-10-12 01:07:00,Barstool Sportsbook,Arizona Diamondbacks,Los Angeles Dodgers,-140,120,spreads
+2023-10-12 01:07:00,MyBookie.ag,Arizona Diamondbacks,Los Angeles Dodgers,108,-133,h2h
+2023-10-12 01:07:00,MyBookie.ag,Arizona Diamondbacks,Los Angeles Dodgers,-144,119,spreads
+2023-10-12 01:07:00,SuperBook,Arizona Diamondbacks,Los Angeles Dodgers,110,-130,h2h
+2023-10-12 01:07:00,BetRivers,Arizona Diamondbacks,Los Angeles Dodgers,115,-134,h2h
+2023-10-12 01:07:00,BetRivers,Arizona Diamondbacks,Los Angeles Dodgers,-139,115,spreads
+2023-10-12 01:07:00,TwinSpires,Arizona Diamondbacks,Los Angeles Dodgers,115,-141,h2h
+2023-10-12 01:07:00,TwinSpires,Arizona Diamondbacks,Los Angeles Dodgers,-139,115,spreads
+2023-10-12 01:07:00,Unibet,Arizona Diamondbacks,Los Angeles Dodgers,115,-134,h2h
+2023-10-12 01:07:00,Unibet,Arizona Diamondbacks,Los Angeles Dodgers,-139,115,spreads
+2023-10-12 01:07:00,Caesars,Arizona Diamondbacks,Los Angeles Dodgers,110,-130,h2h
+2023-10-12 01:07:00,Caesars,Arizona Diamondbacks,Los Angeles Dodgers,-135,115,spreads
+2023-10-12 01:07:00,Bovada,Arizona Diamondbacks,Los Angeles Dodgers,106,-126,h2h
+2023-10-12 01:07:00,Bovada,Arizona Diamondbacks,Los Angeles Dodgers,-135,115,spreads
+2023-10-12 01:07:00,WynnBET,Arizona Diamondbacks,Los Angeles Dodgers,111,-122,h2h
+2023-10-12 01:07:00,WynnBET,Arizona Diamondbacks,Los Angeles Dodgers,-141,120,spreads
+2023-10-12 01:07:00,BetOnline.ag,Arizona Diamondbacks,Los Angeles Dodgers,112,-122,h2h
+2023-10-12 01:07:00,BetOnline.ag,Arizona Diamondbacks,Los Angeles Dodgers,-141,120,spreads
+2023-10-12 01:07:00,LowVig.ag,Arizona Diamondbacks,Los Angeles Dodgers,112,-122,h2h
+2023-10-12 01:07:00,LowVig.ag,Arizona Diamondbacks,Los Angeles Dodgers,-137,124,spreads
+2023-10-12 01:07:00,BetUS,Arizona Diamondbacks,Los Angeles Dodgers,112,-122,h2h
+2023-10-12 01:07:00,BetUS,Arizona Diamondbacks,Los Angeles Dodgers,-135,115,spreads
