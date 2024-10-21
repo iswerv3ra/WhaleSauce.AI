@@ -1,3 +1,4 @@
+// layout.tsx
 import './globals.css'; // Import your global styles here
 import { ReactNode } from 'react';
 

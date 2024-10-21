@@ -1,12 +1,26 @@
+/* globals.css */
+
+/* Import Tailwind CSS base styles */
 @tailwind base;
+
+/* Import Tailwind CSS components */
 @tailwind components;
+
+/* Import Tailwind CSS utilities */
 @tailwind utilities;
 
+/* Color Palette */
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
+  --background-color: #0F172A;   /* Rich dark blue */
+  --text-color: #E2E8F0;         /* Soft white */
+  --primary-color: #FFA500;      /* Vibrant orange */
+  --secondary-color: #38BDF8;    /* Bright sky blue */
+  --accent-color: #818CF8;       /* Soft purple */
+  --border-color: #334155;       /* Muted slate */
+  --hover-color: #1E293B;        /* Lighter background for hover effects */
 }
 
+/* Dark Mode */
 @media (prefers-color-scheme: dark) {
   :root {
     --background: #0a0a0a;
@@ -14,12 +28,17 @@
   }
 }
 
+/* Global Styles */
 body {
   color: var(--foreground);
   background: var(--background);
   font-family: Arial, Helvetica, sans-serif;
+  margin: 0;
+  padding: 0;
+  line-height: 1.6;
 }
 
+/* Additional Utilities */
 @layer utilities {
   .text-balance {
     text-wrap: balance;

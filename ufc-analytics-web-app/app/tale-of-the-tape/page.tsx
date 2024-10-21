@@ -5,6 +5,7 @@ import Papa from 'papaparse';
 import Fuse from 'fuse.js';
 import Link from 'next/link';
 import { ArrowLeftCircle } from 'react-feather';
+import styles from './TaleOfTheTape.module.css';
 
 interface OddsDataItem {
   Fighter: string;
@@ -145,94 +146,96 @@ export default function TaleOfTheTapePage() {
   };
 
   return (
-    <div className="container">
-      <Link href="/" className="back-button">
-        <ArrowLeftCircle className="icon" />
+    <div className="max-w-6xl mx-auto px-4 py-8">
+      <Link href="/" className="flex items-center text-secondary-color font-medium mb-4 hover:text-primary-color transition duration-300">
+        <ArrowLeftCircle className="mr-2" />
         Back to Dashboard
       </Link>
-      <div className="header">
-        <h1>Tale of the Tape</h1>
-        <p>Compare fighters for upcoming matches with detailed statistics.</p>
+      <div className="text-center mb-8">
+        <h1 className="text-3xl font-bold text-primary-color mb-2">Tale of the Tape</h1>
+        <p className="text-text-color">Compare fighters for upcoming matches with detailed statistics.</p>
       </div>
 
       {matches.length > 0 ? (
-        <div className="table-container">
-          <table className="data-table">
+        <div className="overflow-x-auto">
+          <table className="min-w-full bg-hover-color">
             <thead>
-              <tr className="table-header">
-                <th className="table-cell">Event Time</th>
-                <th className="table-cell">Fighter</th>
-                <th className="table-cell">Opponent</th>
-                <th className="table-cell">Odds (Fighter)</th>
-                <th className="table-cell">Odds (Opponent)</th>
+              <tr className="bg-secondary-color bg-opacity-10">
+                <th className="py-3 px-4 text-left">Event Time</th>
+                <th className="py-3 px-4 text-left">Fighter</th>
+                <th className="py-3 px-4 text-left">Opponent</th>
+                <th className="py-3 px-4 text-left">Odds (Fighter)</th>
+                <th className="py-3 px-4 text-left">Odds (Opponent)</th>
               </tr>
             </thead>
             <tbody>
               {matches.map((match, index) => (
                 <tr
                   key={index}
-                  className="table-row"
+                  className="hover:bg-opacity-50 cursor-pointer"
                   onClick={() => handleFightClick(match)}
                 >
-                  <td className="table-cell">{match.event_time}</td>
-                  <td className="table-cell">{match.Fighter}</td>
-                  <td className="table-cell">{match.Opponent}</td>
-                  <td className="table-cell">{match.odds_f1}</td>
-                  <td className="table-cell">{match.odds_f2}</td>
+                  <td className="py-2 px-4 border-b border-border-color">{match.event_time}</td>
+                  <td className="py-2 px-4 border-b border-border-color">{match.Fighter}</td>
+                  <td className="py-2 px-4 border-b border-border-color">{match.Opponent}</td>
+                  <td className="py-2 px-4 border-b border-border-color">{match.odds_f1}</td>
+                  <td className="py-2 px-4 border-b border-border-color">{match.odds_f2}</td>
                 </tr>
               ))}
             </tbody>
           </table>
         </div>
       ) : (
-        <div className="loading-screen">
-          <div className="loader"></div>
+        <div className={styles.tapeLoadingScreen}>
+          <div className={styles.tapeLoader}></div>
         </div>
       )}
 
       {showModal && selectedMatch && (
-        <div className="modal-overlay">
-          <div className="modal-content">
+        <div className={styles.tapeModalOverlay}>
+          <div className={styles.tapeModalContent}>
             <button
               onClick={handleModalClose}
-              className="modal-close-button"
+              className={styles.tapeModalCloseButton}
             >
               &times;
             </button>
-            <h2>
+            <h2 className="text-2xl font-bold mb-4">
               {selectedMatch.Fighter} vs {selectedMatch.Opponent}
             </h2>
-            <div className="comparison-modal-body">
-              <div className="stats-selection">
-                <h3>Select Stats to Display</h3>
-                <div className="stat-checkbox select-all-checkbox">
+            <div className={styles.tapeComparisonModalBody}>
+              <div className={styles.tapeStatsSelection}>
+                <h3 className="font-bold mb-2">Select Stats to Display</h3>
+                <div
+                  className={`${styles.tapeStatCheckbox} ${styles.tapeSelectAllCheckbox}`}
+                >
                   <input
                     type="checkbox"
                     value="selectAll"
                     checked={selectAll}
                     onChange={handleColumnSelect}
-                    className="input-checkbox"
+                    className={styles.tapeInputCheckbox}
                   />
                   Select All
                 </div>
-                <div className="stats-checkboxes">
+                <div className={styles.tapeStatsCheckboxes}>
                   {statsData.length > 0 &&
                     Object.keys(statsData[0]).map((col, index) => (
-                      <label key={index} className="stat-checkbox">
+                      <label key={index} className={styles.tapeStatCheckbox}>
                         <input
                           type="checkbox"
                           value={col}
                           checked={selectedColumns.includes(col)}
                           onChange={handleColumnSelect}
-                          className="input-checkbox"
+                          className={styles.tapeInputCheckbox}
                         />
                         {col}
                       </label>
                     ))}
                 </div>
               </div>
-              <div className="comparison-table-container">
-                <table className="comparison-table">
+              <div className={styles.tapeComparisonTableContainer}>
+                <table className={styles.tapeComparisonTable}>
                   <thead>
                     <tr>
                       <th>Stat</th>
@@ -262,7 +265,7 @@ export default function TaleOfTheTapePage() {
             </div>
             <button
               onClick={handleModalClose}
-              className="custom-button"
+              className={styles.tapeCustomButton}
             >
               Close
             </button>

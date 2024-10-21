@@ -1,0 +1,210 @@
+/* TaleOfTheTape.module.css */
+
+/* Custom styles specific to the Tale of the Tape component */
+
+/* Modal Styles */
+.tapeModalOverlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(15, 23, 42, 0.8);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 999;
+  backdrop-filter: blur(5px);
+}
+
+.tapeModalContent {
+  background-color: var(--hover-color);
+  padding: 2rem;
+  border-radius: 12px;
+  width: 90%;
+  max-width: 800px;
+  color: var(--text-color);
+  position: relative;
+  max-height: 90vh;
+  overflow-y: auto;
+  box-shadow: 0 10px 40px rgba(0, 0, 0, 0.2);
+  animation: modalFadeIn 0.3s ease-out;
+}
+
+@keyframes modalFadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(-20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.tapeModalCloseButton {
+  position: absolute;
+  top: 1rem;
+  right: 1rem;
+  background: none;
+  border: none;
+  font-size: 2rem;
+  color: var(--text-color);
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.tapeModalCloseButton:hover {
+  color: var(--primary-color);
+  transform: rotate(90deg);
+}
+
+.tapeComparisonModalBody {
+  display: flex;
+  flex-direction: column;
+}
+
+.tapeStatsSelection {
+  margin-bottom: 1.5rem;
+}
+
+.tapeStatsCheckboxes {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  margin-top: 1rem;
+}
+
+.tapeStatCheckbox {
+  display: flex;
+  align-items: center;
+  background-color: rgba(255, 255, 255, 0.05);
+  padding: 0.5rem 1rem;
+  border-radius: 20px;
+  transition: all 0.3s ease;
+}
+
+.tapeStatCheckbox:hover {
+  background-color: rgba(255, 255, 255, 0.1);
+}
+
+.tapeStatCheckbox input {
+  margin-right: 0.75rem;
+}
+
+.tapeSelectAllCheckbox {
+  margin-bottom: 1rem;
+  font-weight: bold;
+}
+
+.tapeInputCheckbox {
+  width: 20px;
+  height: 20px;
+  border: 2px solid var(--border-color);
+  border-radius: 4px;
+  appearance: none;
+  cursor: pointer;
+  position: relative;
+  outline: none;
+}
+
+.tapeInputCheckbox:checked {
+  background-color: var(--primary-color);
+  border-color: var(--primary-color);
+}
+
+.tapeInputCheckbox:checked::before {
+  content: '\2714';
+  font-size: 14px;
+  color: var(--background-color);
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+/* Comparison Table Styles */
+.tapeComparisonTableContainer {
+  overflow-x: auto;
+}
+
+.tapeComparisonTable {
+  width: 100%;
+  border-collapse: separate;
+  border-spacing: 0;
+  margin-top: 1.5rem;
+}
+
+.tapeComparisonTable th,
+.tapeComparisonTable td {
+  padding: 1rem;
+  border: 1px solid var(--border-color);
+}
+
+.tapeComparisonTable th {
+  background-color: rgba(56, 189, 248, 0.1);
+  color: var(--secondary-color);
+  font-weight: 600;
+}
+
+.tapeComparisonTable td {
+  text-align: center;
+  transition: all 0.2s ease;
+}
+
+.tapeComparisonTable tr:hover td {
+  background-color: rgba(255, 255, 255, 0.05);
+}
+
+/* Loader Styles */
+.tapeLoadingScreen {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 60vh;
+}
+
+.tapeLoader {
+  border: 4px solid var(--border-color);
+  border-top: 4px solid var(--primary-color);
+  border-radius: 50%;
+  width: 40px;
+  height: 40px;
+  animation: spin 1s linear infinite, pulse 2s ease-in-out infinite;
+}
+
+@keyframes spin {
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+@keyframes pulse {
+  0% {
+    box-shadow: 0 0 0 0 rgba(255, 165, 0, 0.4);
+  }
+  70% {
+    box-shadow: 0 0 0 10px rgba(255, 165, 0, 0);
+  }
+  100% {
+    box-shadow: 0 0 0 0 rgba(255, 165, 0, 0);
+  }
+}
+
+/* Button Styles */
+.tapeCustomButton {
+  background-color: var(--primary-color);
+  color: var(--background-color);
+  padding: 0.75rem 1.5rem;
+  margin-top: 1rem;
+  cursor: pointer;
+  border-radius: 30px;
+  font-size: 1rem;
+  font-weight: 500;
+  transition: all 0.3s ease;
+  border: none;
+}
+
+.tapeCustomButton:hover {
+  background-color: var(--accent-color);
+}
