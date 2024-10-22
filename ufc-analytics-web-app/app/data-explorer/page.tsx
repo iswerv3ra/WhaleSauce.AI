@@ -5,11 +5,19 @@ import {
   useTable,
   useSortBy,
   usePagination,
-  Row,
-  Column,
+  Row as TableRow,
+  Column as TableColumn,
   HeaderGroup,
-  Cell,
-  ColumnInstance,
+  Cell as TableCell,
+  UseSortByOptions,
+  UsePaginationOptions,
+  UseSortByColumnOptions,
+  UseSortByColumnProps,
+  UsePaginationInstanceProps,
+  UsePaginationState,
+  UseSortByInstanceProps,
+  UseSortByState,
+  TableOptions,
 } from 'react-table';
 import {
   ChevronDown,
@@ -29,8 +37,7 @@ import styles from './DataExplorer.module.css';
 declare module 'react-table' {
   export interface TableOptions<D extends object = {}>
     extends UseSortByOptions<D>,
-      UsePaginationOptions<D>,
-      Record<string, any> {}
+      UsePaginationOptions<D> {}
 
   export interface TableInstance<D extends object = {}>
     extends UsePaginationInstanceProps<D>,
@@ -45,14 +52,7 @@ declare module 'react-table' {
     extends UseSortByColumnOptions<D> {}
 
   export interface ColumnInstance<D extends object = {}>
-    extends ColumnInterface<D>,
-      UseSortByColumnProps<D> {}
-
-  export interface Row<D extends object = {}>
-    extends Row<D> {}
-
-  export interface Cell<D extends object = {}>
-    extends Cell<D> {}
+    extends UseSortByColumnProps<D> {}
 }
 
 // Define the FighterDetail interface
@@ -74,18 +74,15 @@ function getDivision(weight: number): string {
 
 // Main Component
 export default function DataExplorerPage() {
+  // State variables
   const [fighterDetails, setFighterDetails] = useState<FighterDetail[]>([]);
   const [fightStats, setFightStats] = useState<FighterDetail[]>([]);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState<string | null>(null);
   const [view, setView] = useState<'fighters' | 'fights'>('fighters');
   const [searchQuery, setSearchQuery] = useState('');
-  const [selectedFight, setSelectedFight] = useState<FighterDetail | null>(
-    null
-  );
-  const [selectedFighter, setSelectedFighter] = useState<FighterDetail | null>(
-    null
-  );
+  const [selectedFight, setSelectedFight] = useState<FighterDetail | null>(null);
+  const [selectedFighter, setSelectedFighter] = useState<FighterDetail | null>(null);
   const [selectedDivision, setSelectedDivision] = useState<string>('');
   const [selectedStance, setSelectedStance] = useState<string>('');
 
@@ -93,18 +90,20 @@ export default function DataExplorerPage() {
     useState<FighterDetail[]>([]);
   const [showComparisonModal, setShowComparisonModal] = useState(false);
   const [showFightStatsModal, setShowFightStatsModal] = useState(false);
+  const [showFighterModal, setShowFighterModal] = useState(false);
 
   // State variables for SearchBox
   const [searchInputValue, setSearchInputValue] = useState('');
   const [searchSuggestions, setSearchSuggestions] = useState<string[]>([]);
 
-  // State variables for Modals
+  // Separate state variables for each modal
   const [selectedFightStats, setSelectedFightStats] = useState<string[]>([]);
-  const [selectedComparisonStats, setSelectedComparisonStats] = useState<
-    string[]
-  >([]);
-  const [showFighterModal, setShowFighterModal] = useState(false);
+  const [selectedFighterStats, setSelectedFighterStats] = useState<string[]>([]);
+  const [selectedComparisonStats, setSelectedComparisonStats] = useState<string[]>(
+    []
+  );
 
+  // Fetch data on component mount
   useEffect(() => {
     const fetchData = async () => {
       try {
@@ -180,7 +179,7 @@ export default function DataExplorerPage() {
 
       const totalFights = (fighter['Fights'] as number) || 1;
       const wins = (fighter['Win'] as number) || 0;
-      fighter['WinPercentage'] = ((wins / totalFights) * 100).toFixed(2);
+      fighter['WinPercentage'] = (wins / totalFights) * 100;
 
       const weight = fighter['WEIGHT_fighter'] as number;
       fighter['Division'] = getDivision(weight);
@@ -218,7 +217,7 @@ export default function DataExplorerPage() {
     return fighterDetails.map((fighter) => fighter.FIGHTER as string);
   }, [fighterDetails]);
 
-  const columns: Column<FighterDetail>[] = useMemo(() => {
+  const columns: TableColumn<FighterDetail>[] = useMemo(() => {
     if (view === 'fighters') {
       return [
         {
@@ -260,7 +259,7 @@ export default function DataExplorerPage() {
         {
           Header: 'Win Percentage',
           accessor: 'WinPercentage',
-          Cell: ({ value }: { value: number }) => `${value}%`,
+          Cell: ({ value }: { value: number }) => `${value.toFixed(2)}%`,
         },
       ];
     } else {
@@ -313,9 +312,7 @@ export default function DataExplorerPage() {
       if (view === 'fighters') {
         // Filter by fighter name
         currentData = currentData.filter((item) =>
-          String(item.FIGHTER)
-            .toLowerCase()
-            .includes(searchQuery.toLowerCase())
+          String(item.FIGHTER).toLowerCase().includes(searchQuery.toLowerCase())
         );
       } else {
         // Filter over all fields in fights view
@@ -328,9 +325,7 @@ export default function DataExplorerPage() {
     }
     if (view === 'fighters') {
       if (selectedDivision) {
-        currentData = currentData.filter(
-          (item) => item.Division === selectedDivision
-        );
+        currentData = currentData.filter((item) => item.Division === selectedDivision);
       }
       if (selectedStance) {
         currentData = currentData.filter(
@@ -462,19 +457,19 @@ export default function DataExplorerPage() {
   }, [selectedFighter]);
 
   const fighterStatsSelectAll =
-    selectedFightStats.length === allFighterStats.length &&
+    selectedFighterStats.length === allFighterStats.length &&
     allFighterStats.length > 0;
 
   const handleFighterStatsSelectAllChange = () => {
     if (fighterStatsSelectAll) {
-      setSelectedFightStats([]);
+      setSelectedFighterStats([]);
     } else {
-      setSelectedFightStats(allFighterStats);
+      setSelectedFighterStats(allFighterStats);
     }
   };
 
   const handleFighterStatChange = (stat: string) => {
-    setSelectedFightStats((prevStats) =>
+    setSelectedFighterStats((prevStats) =>
       prevStats.includes(stat)
         ? prevStats.filter((s) => s !== stat)
         : [...prevStats, stat]
@@ -482,7 +477,7 @@ export default function DataExplorerPage() {
   };
 
   useEffect(() => {
-    setSelectedFightStats([]);
+    setSelectedFighterStats([]);
   }, [selectedFighter]);
 
   // ComparisonModal handlers
@@ -670,37 +665,32 @@ export default function DataExplorerPage() {
                 {view === 'fighters' && (
                   <th className={styles.tableHeader}>Select</th>
                 )}
-                {headerGroup.headers.map(
-                  (column: ColumnInstance<FighterDetail>) => (
-                    <th
-                      {...column.getHeaderProps()}
-                      className={styles.tableHeader}
+                {headerGroup.headers.map((column: ColumnInstance<FighterDetail>) => (
+                  <th {...column.getHeaderProps()} className={styles.tableHeader}>
+                    <div
+                      {...column.getSortByToggleProps()}
+                      className={styles.headerContent}
                     >
-                      <div
-                        {...column.getSortByToggleProps()}
-                        className={styles.headerContent}
-                      >
-                        {column.render('Header')}
-                        <span>
-                          {column.isSorted ? (
-                            column.isSortedDesc ? (
-                              <ChevronDown className={styles.sortIcon} />
-                            ) : (
-                              <ChevronUp className={styles.sortIcon} />
-                            )
+                      {column.render('Header')}
+                      <span>
+                        {column.isSorted ? (
+                          column.isSortedDesc ? (
+                            <ChevronDown className={styles.sortIcon} />
                           ) : (
-                            ''
-                          )}
-                        </span>
-                      </div>
-                    </th>
-                  )
-                )}
+                            <ChevronUp className={styles.sortIcon} />
+                          )
+                        ) : (
+                          ''
+                        )}
+                      </span>
+                    </div>
+                  </th>
+                ))}
               </tr>
             ))}
           </thead>
           <tbody {...getTableBodyProps()}>
-            {page.map((row: Row<FighterDetail>) => {
+            {page.map((row: TableRow<FighterDetail>) => {
               prepareRow(row);
               const isSelected = selectedFightersForComparison.some(
                 (f) => f.FIGHTER === row.original.FIGHTER
@@ -722,6 +712,8 @@ export default function DataExplorerPage() {
                           e.stopPropagation();
                           handleSelectFighter(row.original);
                         }}
+                        onClick={(e) => e.stopPropagation()}
+                        onMouseDown={(e) => e.stopPropagation()}
                         disabled={
                           !isSelected && selectedFightersForComparison.length >= 3
                         }
@@ -729,7 +721,7 @@ export default function DataExplorerPage() {
                       />
                     </td>
                   )}
-                  {row.cells.map((cell: Cell<FighterDetail>) => (
+                  {row.cells.map((cell: TableCell<FighterDetail>) => (
                     <td {...cell.getCellProps()} className={styles.tableCell}>
                       {cell.render('Cell')}
                     </td>
@@ -795,14 +787,12 @@ export default function DataExplorerPage() {
           className={styles.modalOverlay}
           onClick={() => setShowFighterModal(false)}
         >
-          <div
-            className={styles.modalContent}
-            onClick={(e) => e.stopPropagation()}
-          >
+          <div className={styles.modalContent} onClick={(e) => e.stopPropagation()}>
             <h2>{selectedFighter.FIGHTER} - Stats</h2>
             <button
               className={styles.modalCloseButton}
               onClick={() => setShowFighterModal(false)}
+              aria-label="Close Modal"
             >
               &times;
             </button>
@@ -823,7 +813,7 @@ export default function DataExplorerPage() {
                     <label key={stat} className={styles.statCheckbox}>
                       <input
                         type="checkbox"
-                        checked={selectedFightStats.includes(stat)}
+                        checked={selectedFighterStats.includes(stat)}
                         onChange={() => handleFighterStatChange(stat)}
                         className={styles.inputCheckbox}
                       />
@@ -833,10 +823,10 @@ export default function DataExplorerPage() {
                 </div>
               </div>
               <div className={styles.comparisonTableContainer}>
-                {selectedFightStats.length > 0 ? (
+                {selectedFighterStats.length > 0 ? (
                   <table className={styles.statsTable}>
                     <tbody>
-                      {selectedFightStats.map((stat) => (
+                      {selectedFighterStats.map((stat) => (
                         <tr key={stat}>
                           <td className={styles.statsKey}>{stat}</td>
                           <td className={styles.statsValue}>
@@ -861,14 +851,12 @@ export default function DataExplorerPage() {
           className={styles.modalOverlay}
           onClick={() => setShowFightStatsModal(false)}
         >
-          <div
-            className={styles.modalContent}
-            onClick={(e) => e.stopPropagation()}
-          >
+          <div className={styles.modalContent} onClick={(e) => e.stopPropagation()}>
             <h2>Fight Stats</h2>
             <button
               className={styles.modalCloseButton}
               onClick={() => setShowFightStatsModal(false)}
+              aria-label="Close Modal"
             >
               &times;
             </button>
@@ -935,6 +923,7 @@ export default function DataExplorerPage() {
             <button
               className={styles.modalCloseButton}
               onClick={() => setShowComparisonModal(false)}
+              aria-label="Close Modal"
             >
               &times;
             </button>
@@ -980,10 +969,7 @@ export default function DataExplorerPage() {
                         <tr key={stat}>
                           <td className={styles.statsKey}>{stat}</td>
                           {selectedFightersForComparison.map((fighter) => (
-                            <td
-                              key={fighter.FIGHTER}
-                              className={styles.statsValue}
-                            >
+                            <td key={fighter.FIGHTER} className={styles.statsValue}>
                               {fighter[stat]}
                             </td>
                           ))}
