@@ -15,7 +15,7 @@
     "fs": "^0.0.1-security",
     "fuse.js": "^7.0.0",
     "lucide-react": "^0.451.0",
-    "next": "14.2.15",
+    "next": "^15.0.0",
     "papaparse": "^5.4.1",
     "pg": "^8.13.0",
     "react": "^18",

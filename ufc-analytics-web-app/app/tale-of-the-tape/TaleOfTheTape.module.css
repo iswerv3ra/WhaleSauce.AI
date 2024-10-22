@@ -1,6 +1,100 @@
 /* TaleOfTheTape.module.css */
 
-/* Custom styles specific to the Tale of the Tape component */
+/* Container Styles */
+.tapeContainer {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 2rem;
+}
+
+/* Back Button Styles */
+.tapeBackButton {
+  display: inline-flex;
+  align-items: center;
+  color: var(--secondary-color);
+  font-weight: 500;
+  transition: all 0.3s ease;
+  margin-bottom: 1rem;
+  text-decoration: none;
+}
+
+.tapeBackButton:hover {
+  color: var(--primary-color);
+  transform: translateX(-5px);
+}
+
+.tapeBackButton .icon {
+  margin-right: 0.5rem;
+  transition: transform 0.3s ease;
+}
+
+.tapeBackButton:hover .icon {
+  transform: translateX(-3px);
+}
+
+/* Header Styles */
+.tapeHeader {
+  text-align: center;
+  margin-bottom: 2rem;
+}
+
+.tapeHeader h1 {
+  font-size: 2.5rem;
+  color: var(--primary-color);
+  margin-bottom: 0.5rem;
+}
+
+.tapeHeader p {
+  color: var(--text-color);
+  font-size: 1.1rem;
+}
+
+/* Table Container */
+.tapeTableContainer {
+  margin-top: 2rem;
+  overflow-x: auto;
+  border-radius: 10px;
+}
+
+/* Table Styles */
+.tapeDataTable {
+  width: 100%;
+  max-width: 1000px;
+  margin: 0 auto;
+  border-collapse: collapse;
+  background-color: var(--hover-color);
+  border-radius: 10px;
+  overflow: hidden;
+}
+
+.tapeDataTable thead {
+  background-color: rgba(56, 189, 248, 0.1);
+}
+
+.tapeDataTable th,
+.tapeDataTable td {
+  padding: 1rem;
+  text-align: left;
+  color: var(--text-color);
+}
+
+.tapeDataTable th {
+  color: var(--secondary-color);
+  font-weight: 600;
+}
+
+.tapeDataTable tbody tr {
+  transition: background-color 0.2s ease;
+  cursor: pointer;
+}
+
+.tapeDataTable tbody tr:hover {
+  background-color: rgba(255, 255, 255, 0.05);
+}
+
+.tapeDataTable tbody tr:nth-child(even) {
+  background-color: rgba(255, 255, 255, 0.02);
+}
 
 /* Modal Styles */
 .tapeModalOverlay {

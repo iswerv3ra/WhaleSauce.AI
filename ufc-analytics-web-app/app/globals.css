@@ -1,6 +1,6 @@
 /* globals.css */
 
-/* Import Tailwind CSS base styles */
+/* Import Tailwind CSS base styles if using Tailwind */
 @tailwind base;
 
 /* Import Tailwind CSS components */
@@ -20,27 +20,55 @@
   --hover-color: #1E293B;        /* Lighter background for hover effects */
 }
 
-/* Dark Mode */
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
-}
-
-/* Global Styles */
+/* General Styles */
 body {
-  color: var(--foreground);
-  background: var(--background);
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: 'Poppins', sans-serif;
+  background-color: var(--background-color);
+  color: var(--text-color);
   margin: 0;
   padding: 0;
   line-height: 1.6;
 }
 
-/* Additional Utilities */
-@layer utilities {
-  .text-balance {
-    text-wrap: balance;
-  }
+h1, h2, h3 {
+  color: var(--primary-color);
+  font-weight: 600;
+}
+
+a {
+  color: var(--secondary-color);
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+
+a:hover {
+  color: var(--primary-color);
+  text-decoration: none;
+}
+
+/* Global Scrollbar Styles */
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+::-webkit-scrollbar-track {
+  background: var(--background-color);
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--border-color);
+  border-radius: 5px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: var(--accent-color);
+}
+
+/* Focus styles for accessibility */
+a:focus,
+button:focus,
+input:focus,
+select:focus {
+  outline: 2px solid var(--secondary-color);
+  outline-offset: 2px;
 }

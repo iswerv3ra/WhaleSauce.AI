@@ -146,40 +146,40 @@ export default function TaleOfTheTapePage() {
   };
 
   return (
-    <div className="max-w-6xl mx-auto px-4 py-8">
-      <Link href="/" className="flex items-center text-secondary-color font-medium mb-4 hover:text-primary-color transition duration-300">
-        <ArrowLeftCircle className="mr-2" />
+    <div className={styles.tapeContainer}>
+      <Link href="/" className={styles.tapeBackButton}>
+        <ArrowLeftCircle className={styles.icon} />
         Back to Dashboard
       </Link>
-      <div className="text-center mb-8">
-        <h1 className="text-3xl font-bold text-primary-color mb-2">Tale of the Tape</h1>
-        <p className="text-text-color">Compare fighters for upcoming matches with detailed statistics.</p>
+      <div className={styles.tapeHeader}>
+        <h1>Tale of the Tape</h1>
+        <p>Compare fighters for upcoming matches with detailed statistics.</p>
       </div>
 
       {matches.length > 0 ? (
-        <div className="overflow-x-auto">
-          <table className="min-w-full bg-hover-color">
+        <div className={styles.tapeTableContainer}>
+          <table className={styles.tapeDataTable}>
             <thead>
-              <tr className="bg-secondary-color bg-opacity-10">
-                <th className="py-3 px-4 text-left">Event Time</th>
-                <th className="py-3 px-4 text-left">Fighter</th>
-                <th className="py-3 px-4 text-left">Opponent</th>
-                <th className="py-3 px-4 text-left">Odds (Fighter)</th>
-                <th className="py-3 px-4 text-left">Odds (Opponent)</th>
+              <tr>
+                <th>Event Time</th>
+                <th>Fighter</th>
+                <th>Opponent</th>
+                <th>Odds (Fighter)</th>
+                <th>Odds (Opponent)</th>
               </tr>
             </thead>
             <tbody>
               {matches.map((match, index) => (
                 <tr
                   key={index}
-                  className="hover:bg-opacity-50 cursor-pointer"
+                  className={styles.tapeTableRow}
                   onClick={() => handleFightClick(match)}
                 >
-                  <td className="py-2 px-4 border-b border-border-color">{match.event_time}</td>
-                  <td className="py-2 px-4 border-b border-border-color">{match.Fighter}</td>
-                  <td className="py-2 px-4 border-b border-border-color">{match.Opponent}</td>
-                  <td className="py-2 px-4 border-b border-border-color">{match.odds_f1}</td>
-                  <td className="py-2 px-4 border-b border-border-color">{match.odds_f2}</td>
+                  <td>{match.event_time}</td>
+                  <td>{match.Fighter}</td>
+                  <td>{match.Opponent}</td>
+                  <td>{match.odds_f1}</td>
+                  <td>{match.odds_f2}</td>
                 </tr>
               ))}
             </tbody>
@@ -200,12 +200,12 @@ export default function TaleOfTheTapePage() {
             >
               &times;
             </button>
-            <h2 className="text-2xl font-bold mb-4">
+            <h2>
               {selectedMatch.Fighter} vs {selectedMatch.Opponent}
             </h2>
             <div className={styles.tapeComparisonModalBody}>
               <div className={styles.tapeStatsSelection}>
-                <h3 className="font-bold mb-2">Select Stats to Display</h3>
+                <h3>Select Stats to Display</h3>
                 <div
                   className={`${styles.tapeStatCheckbox} ${styles.tapeSelectAllCheckbox}`}
                 >
