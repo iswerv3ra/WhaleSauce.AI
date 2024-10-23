@@ -59,7 +59,7 @@ const CustomDropdown: React.FC<CustomDropdownProps> = ({
   );
 };
 
-// Main Component
+// Main Component Interfaces
 interface Fight {
   Fighter: string;
   Opponent: string;
@@ -85,6 +85,13 @@ interface Result {
   totalExpectedPayout: number;
   maxPayout: number;
   selectedBets: Bet[];
+}
+
+interface PotentialBet {
+  fighter: string;
+  odds: number;
+  customProb: number;
+  fightIndex: number;
 }
 
 export default function ParlayGeneratorPage() {
@@ -189,6 +196,7 @@ export default function ParlayGeneratorPage() {
 
   // Define strategies with detailed descriptions
   const strategies = [
+    // Existing strategies
     {
       value: 'kelly',
       label: 'Kelly Criterion',
@@ -219,6 +227,37 @@ export default function ParlayGeneratorPage() {
       description:
         'Bets a fixed amount on each parlay, specified by you. Bet sizes do not vary based on your confidence levels.',
     },
+    // New strategies
+    {
+      value: 'allFavorites',
+      label: 'All Favorites',
+      description:
+        'Generates parlays using the most favored fighters based on the lowest odds.',
+    },
+    {
+      value: 'allUnderdogs',
+      label: 'All Underdogs',
+      description:
+        'Generates parlays using underdog fighters based on the highest odds.',
+    },
+    {
+      value: 'confidenceVsOdds',
+      label: 'Confidence vs. Odds',
+      description:
+        'Creates parlays where your confidence significantly exceeds the implied probability from the odds.',
+    },
+    {
+      value: 'mixedStrategy',
+      label: 'Mixed Favorites and Underdogs',
+      description:
+        'Combines favorites and underdogs in parlays based on your confidence levels to balance risk and reward.',
+    },
+    {
+      value: 'oddsBasedConfidence',
+      label: 'Odds-Based Confidence Weighting',
+      description:
+        'Generates parlays by weighting your confidence levels against the actual odds.',
+    },
   ];
 
   // Main calculation function
@@ -232,8 +271,8 @@ export default function ParlayGeneratorPage() {
     let bets: Bet[] = [];
     let uniqueBets = new Set();
 
-    // Generate potential bets where user's confidence > implied probability
-    let potentialBets: any[] = [];
+    // Generate potential bets
+    let potentialBets: PotentialBet[] = [];
 
     for (let i = 0; i < fights.length; i++) {
       const fight = fights[i];
@@ -244,30 +283,97 @@ export default function ParlayGeneratorPage() {
       const impliedProb1 = oddsToImpliedProbability(odds1);
       const impliedProb2 = oddsToImpliedProbability(odds2);
 
-      if (fighter1Prob > impliedProb1) {
-        potentialBets.push({
+      // Add both fighters as potential bets with their respective data
+      potentialBets.push(
+        {
           fighter: fight.Fighter,
           odds: odds1,
           customProb: fighter1Prob,
           fightIndex: i,
-        });
-      }
-      if (fighter2Prob > impliedProb2) {
-        potentialBets.push({
+        },
+        {
           fighter: fight.Opponent,
           odds: odds2,
           customProb: fighter2Prob,
           fightIndex: i,
+        }
+      );
+    }
+
+    // Filter potential bets based on strategy
+    let filteredBets: PotentialBet[] = [];
+
+    switch (strategy) {
+      case 'allFavorites':
+        // Select fighters with the lowest odds (favorites)
+        filteredBets = potentialBets.filter((bet) => {
+          const fightBets = potentialBets.filter(
+            (b) => b.fightIndex === bet.fightIndex
+          );
+          const minOdds = Math.min(...fightBets.map((b) => b.odds));
+          return bet.odds === minOdds;
         });
-      }
+        break;
+
+      case 'allUnderdogs':
+        // Select fighters with the highest odds (underdogs)
+        filteredBets = potentialBets.filter((bet) => {
+          const fightBets = potentialBets.filter(
+            (b) => b.fightIndex === bet.fightIndex
+          );
+          const maxOdds = Math.max(...fightBets.map((b) => b.odds));
+          return bet.odds === maxOdds;
+        });
+        break;
+
+      case 'confidenceVsOdds':
+        // Select bets where user's confidence exceeds implied probability by a threshold
+        filteredBets = potentialBets.filter(
+          (bet) => bet.customProb - oddsToImpliedProbability(bet.odds) > 0.1 // Threshold of 10%
+        );
+        break;
+
+      case 'mixedStrategy':
+        // Mix favorites and underdogs based on confidence
+        filteredBets = potentialBets.filter((bet) => {
+          const fightIndex = bet.fightIndex;
+          const otherBet = potentialBets.find(
+            (b) => b.fightIndex === fightIndex && b.fighter !== bet.fighter
+          );
+          // Select favorite if confidence is high, underdog if confidence is low but higher than the other fighter
+          if (bet.customProb > 0.6) {
+            // Prefer favorites
+            return bet.odds <= otherBet!.odds;
+          } else if (bet.customProb > otherBet!.customProb) {
+            // Prefer underdogs with higher confidence
+            return bet.odds > otherBet!.odds;
+          }
+          return false;
+        });
+        break;
+
+      case 'oddsBasedConfidence':
+        // Weight confidence against odds
+        filteredBets = potentialBets.filter((bet) => {
+          const weight = bet.customProb / oddsToImpliedProbability(bet.odds);
+          return weight > 1;
+        });
+        break;
+
+      default:
+        // Default behavior (e.g., kelly, fixedRisk, etc.)
+        filteredBets = potentialBets.filter(
+          (bet) => bet.customProb > oddsToImpliedProbability(bet.odds)
+        );
+        break;
     }
 
     // Generate all possible combinations up to maxLegs without repeating fights
     for (let legs = 1; legs <= maxLegs; legs++) {
-      const combinations = getCombinations(potentialBets, legs);
+      const combinations = getCombinations(filteredBets, legs);
       for (let combo of combinations) {
         // Ensure no two bets are from the same fight
-        const fightIndices = combo.map((bet: any) => bet.fightIndex);
+        const fightIndices = combo.map((bet) => bet.fightIndex);
         const uniqueFightIndices = new Set(fightIndices);
         if (fightIndices.length !== uniqueFightIndices.size) {
           continue; // Skip combinations with bets from the same fight
@@ -275,7 +381,7 @@ export default function ParlayGeneratorPage() {
 
         // Create a unique key to prevent duplicates
         const betKey = combo
-          .map((bet: any) => `${bet.fighter}:${bet.odds}`)
+          .map((bet) => `${bet.fighter}:${bet.odds}`)
           .join('|');
         if (uniqueBets.has(betKey)) continue;
         uniqueBets.add(betKey);
@@ -316,7 +422,7 @@ export default function ParlayGeneratorPage() {
         const payout = totalOdds * betAmount;
 
         bets.push({
-          fighters: combo.map((bet: any) => bet.fighter).join(' & '),
+          fighters: combo.map((bet) => bet.fighter).join(' & '),
           odds: decimalToAmerican(totalOdds),
           customProb: parseFloat(totalProb.toFixed(4)),
           betAmount: parseFloat(betAmount.toFixed(2)),
@@ -369,8 +475,14 @@ export default function ParlayGeneratorPage() {
   };
 
   // Helper function to get valid combinations without repeating fights
-  const getCombinations = (array: any[], length: number) => {
-    function* doCombination(offset: number, combo: any[]) {
+  const getCombinations = (
+    array: PotentialBet[],
+    length: number
+  ): PotentialBet[][] => {
+    function* doCombination(
+      offset: number,
+      combo: PotentialBet[]
+    ): Generator<PotentialBet[]> {
       if (combo.length === length) {
         yield combo;
         return;
