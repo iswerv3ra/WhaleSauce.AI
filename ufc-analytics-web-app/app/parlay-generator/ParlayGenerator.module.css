@@ -59,7 +59,7 @@
 .parlayFightCard:hover {
   transform: translateY(-5px);
   box-shadow: 0 15px 25px -5px rgba(229, 62, 62, 0.3),
-              0 10px 10px -5px rgba(229, 62, 62, 0.2);
+    0 10px 10px -5px rgba(229, 62, 62, 0.2);
 }
 
 .parlayFightCard h3 {
@@ -105,27 +105,22 @@
 
 /* Slider Container */
 .parlaySliderContainer {
+  margin-top: 1rem;
+}
+
+.parlaySliderLabels {
   display: flex;
-  align-items: center;
-  flex-wrap: wrap;
+  justify-content: space-between;
+  margin-bottom: 8px;
 }
 
 .parlaySliderLabel {
-  flex: 1 1 20%;
-  color: #63b3ed; /* Light Blue */
-  font-weight: 600;
+  font-weight: bold;
+  color: #e2e8f0; /* Light Gray */
 }
 
 .parlaySliderInput {
-  flex: 1 1 60%;
-  margin: 0 1rem;
-}
-
-.parlayConfidenceDisplay {
-  flex: 1 1 20%;
-  color: #68d391; /* Green */
-  font-weight: 600;
-  text-align: center;
+  width: 100%;
 }
 
 /* Settings Container */
@@ -162,6 +157,73 @@
 
 .parlaySettingsRange {
   width: 100%;
+}
+
+/* Strategy Description */
+.strategyDescription {
+  margin-top: 0.5rem;
+  color: #a0aec0; /* Gray */
+}
+
+/* Custom Dropdown Styles */
+.customDropdown {
+  position: relative;
+  width: 100%;
+  cursor: pointer;
+}
+
+.customDropdownSelected {
+  padding: 0.5rem;
+  border: 1px solid #63b3ed;
+  border-radius: 4px;
+  background-color: #1a202c; /* Dark background */
+  color: #e2e8f0;
+  position: relative;
+}
+
+.customDropdownSelected:hover .customDropdownTooltip {
+  visibility: visible;
+  opacity: 1;
+}
+
+.customDropdownTooltip {
+  visibility: hidden;
+  opacity: 0;
+  width: 300px;
+  background-color: #1a202c;
+  color: #e2e8f0;
+  text-align: left;
+  border-radius: 6px;
+  padding: 0.5rem;
+  position: absolute;
+  z-index: 1;
+  top: -5px;
+  left: calc(100% + 10px);
+  transform: translateY(-50%);
+  transition: opacity 0.3s;
+  border: 1px solid #63b3ed;
+}
+
+.customDropdownOptions {
+  position: absolute;
+  top: 100%;
+  left: 0;
+  width: 100%;
+  background-color: #2d3748; /* Darker Gray */
+  border: 1px solid #63b3ed;
+  border-radius: 4px;
+  z-index: 10;
+  max-height: 200px;
+  overflow-y: auto;
+}
+
+.customDropdownOption {
+  padding: 0.5rem;
+  color: #e2e8f0;
+}
+
+.customDropdownOption:hover {
+  background-color: #4a5568; /* Hover Gray */
 }
 
 /* Buttons */
@@ -223,6 +285,20 @@
 
 .parlayResultCard p:nth-child(2) {
   color: #e53e3e; /* Red */
+}
+
+/* Probability Bar Styles */
+.probabilityBarContainer {
+  background-color: #4a5568; /* Gray background */
+  border-radius: 4px;
+  overflow: hidden;
+  height: 10px;
+  margin: 0.5rem 0;
+}
+
+.probabilityBar {
+  background-color: #68d391; /* Green */
+  height: 100%;
 }
 
 /* Fonts */

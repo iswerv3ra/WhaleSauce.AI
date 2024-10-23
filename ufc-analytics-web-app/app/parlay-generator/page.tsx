@@ -6,6 +6,60 @@ import Link from 'next/link';
 import Papa from 'papaparse';
 import styles from './ParlayGenerator.module.css';
 
+// Custom Dropdown Component
+interface StrategyOption {
+  value: string;
+  label: string;
+  description: string;
+}
+
+interface CustomDropdownProps {
+  options: StrategyOption[];
+  selectedValue: string;
+  onChange: (value: string) => void;
+}
+
+const CustomDropdown: React.FC<CustomDropdownProps> = ({
+  options,
+  selectedValue,
+  onChange,
+}) => {
+  const [isOpen, setIsOpen] = useState(false);
+
+  const selectedOption = options.find((opt) => opt.value === selectedValue);
+
+  return (
+    <div className={styles.customDropdown}>
+      <div
+        className={styles.customDropdownSelected}
+        onClick={() => setIsOpen(!isOpen)}
+      >
+        {selectedOption?.label}
+        <span className={styles.customDropdownTooltip}>
+          {selectedOption?.description}
+        </span>
+      </div>
+      {isOpen && (
+        <div className={styles.customDropdownOptions}>
+          {options.map((option) => (
+            <div
+              key={option.value}
+              className={styles.customDropdownOption}
+              onClick={() => {
+                onChange(option.value);
+                setIsOpen(false);
+              }}
+            >
+              {option.label}
+            </div>
+          ))}
+        </div>
+      )}
+    </div>
+  );
+};
+
+// Main Component
 interface Fight {
   Fighter: string;
   Opponent: string;
@@ -40,8 +94,10 @@ export default function ParlayGeneratorPage() {
   const [numBets, setNumBets] = useState(5);
   const [bankroll, setBankroll] = useState(1000);
   const [strategy, setStrategy] = useState('fixedRisk');
+  const [fixedBetAmount, setFixedBetAmount] = useState(10);
   const [customProbs, setCustomProbs] = useState<number[][]>([]);
   const [recommendedBets, setRecommendedBets] = useState<Bet[]>([]);
+  const [mostLikelyBets, setMostLikelyBets] = useState<Bet[]>([]);
   const [resultData, setResultData] = useState<Result | null>(null);
   const [actualWinners, setActualWinners] = useState<string[]>([]);
   const [actualReturn, setActualReturn] = useState<any>(null);
@@ -49,20 +105,20 @@ export default function ParlayGeneratorPage() {
   useEffect(() => {
     // Fetch and parse bovada_fighters_odds.csv
     fetch('/data/bovada_fighters_odds.csv')
-      .then(response => response.text())
-      .then(csvText => {
+      .then((response) => response.text())
+      .then((csvText) => {
         Papa.parse<Fight>(csvText, {
           header: true,
           skipEmptyLines: true,
-          complete: results => {
+          complete: (results) => {
             const filteredData = results.data.filter(
-              item => item && item.Fighter && item.Opponent
+              (item) => item && item.Fighter && item.Opponent
             );
-            setFights(filteredData.slice(0, 10)); // Limit to 10 fights for the parlay generator
+            setFights(filteredData); // Display all fights
             // Initialize custom probabilities and actual winners
-            const initialProbs = filteredData.slice(0, 10).map(() => [50, 50]); // Default 50-50 confidence
+            const initialProbs = filteredData.map(() => [50, 50]); // Default 50-50 confidence
             setCustomProbs(initialProbs);
-            setActualWinners(filteredData.slice(0, 10).map(() => ''));
+            setActualWinners(filteredData.map(() => ''));
           },
         });
       });
@@ -71,9 +127,9 @@ export default function ParlayGeneratorPage() {
   // Helper functions for calculations
   const americanToDecimal = (odds: number) => {
     if (odds > 0) {
-      return 1 + (odds / 100);
+      return 1 + odds / 100;
     } else {
-      return 1 + (100 / Math.abs(odds));
+      return 1 + 100 / Math.abs(odds);
     }
   };
 
@@ -88,11 +144,10 @@ export default function ParlayGeneratorPage() {
   const decimalToAmerican = (decimal: number) => {
     if (decimal >= 2.0) {
       return `+${Math.round((decimal - 1) * 100)}`;
-    } else {
-      if ((decimal - 1) === 0) {
-        return "-1000";
-      }
+    } else if (decimal > 1.0) {
       return `-${Math.round(100 / (decimal - 1))}`;
+    } else {
+      return 'Invalid odds';
     }
   };
 
@@ -107,35 +162,72 @@ export default function ParlayGeneratorPage() {
   };
 
   const parlayRiskMapping = {
-    1: { maxLegs: 1 },
-    2: { maxLegs: 1 },
-    3: { maxLegs: 2 },
-    4: { maxLegs: 2 },
-    5: { maxLegs: 3 },
-    6: { maxLegs: 3 },
-    7: { maxLegs: 4 },
-    8: { maxLegs: 4 },
-    9: { maxLegs: 5 },
-    10: { maxLegs: 5 },
+    1: { maxLegs: 2 },
+    2: { maxLegs: 3 },
+    3: { maxLegs: 5 },
+    4: { maxLegs: 6 },
+    5: { maxLegs: 7 },
+    6: { maxLegs: 8 },
+    7: { maxLegs: 9 },
+    8: { maxLegs: 10 },
+    9: { maxLegs: 11 },
+    10: { maxLegs: 13 },
   };
 
   const betSizeRiskMapping = {
-    1: { betFraction: 0.005 },
-    2: { betFraction: 0.01 },
-    3: { betFraction: 0.015 },
-    4: { betFraction: 0.02 },
-    5: { betFraction: 0.025 },
-    6: { betFraction: 0.03 },
-    7: { betFraction: 0.035 },
-    8: { betFraction: 0.04 },
-    9: { betFraction: 0.045 },
-    10: { betFraction: 0.05 },
+    1: { betFraction: 0.05 },
+    2: { betFraction: 0.1 },
+    3: { betFraction: 0.15 },
+    4: { betFraction: 0.2 },
+    5: { betFraction: 0.25 },
+    6: { betFraction: 0.3 },
+    7: { betFraction: 0.35 },
+    8: { betFraction: 0.4 },
+    9: { betFraction: 0.45 },
+    10: { betFraction: 0.5 },
   };
+
+  // Define strategies with detailed descriptions
+  const strategies = [
+    {
+      value: 'kelly',
+      label: 'Kelly Criterion',
+      description:
+        'Calculates the optimal bet size based on your confidence levels to maximize long-term growth. Higher confidence increases the bet size.',
+    },
+    {
+      value: 'halfKelly',
+      label: 'Half Kelly',
+      description:
+        'Bets half of the Kelly Criterion amount, balancing growth and risk. Your confidence levels still influence the bet size, but risk is reduced.',
+    },
+    {
+      value: 'quarterKelly',
+      label: 'Quarter Kelly',
+      description:
+        'Bets a quarter of the Kelly Criterion amount for a more conservative approach. Your confidence affects bet size minimally.',
+    },
+    {
+      value: 'fixedRisk',
+      label: 'Fixed Risk',
+      description:
+        'Bets a fixed percentage of your bankroll based on your Bet Size Risk Level. Bet sizes are independent of your confidence levels.',
+    },
+    {
+      value: 'fixedAmount',
+      label: 'Fixed Amount',
+      description:
+        'Bets a fixed amount on each parlay, specified by you. Bet sizes do not vary based on your confidence levels.',
+    },
+  ];
 
   // Main calculation function
   const simulateBets = () => {
-    const maxLegs = parlayRiskMapping[parlayRisk as keyof typeof parlayRiskMapping].maxLegs;
-    const betFraction = betSizeRiskMapping[betSizeRisk as keyof typeof betSizeRiskMapping].betFraction;
+    const maxLegs =
+      parlayRiskMapping[parlayRisk as keyof typeof parlayRiskMapping].maxLegs;
+    const betFraction =
+      betSizeRiskMapping[betSizeRisk as keyof typeof betSizeRiskMapping]
+        .betFraction;
 
     let bets: Bet[] = [];
     let uniqueBets = new Set();
@@ -153,19 +245,38 @@ export default function ParlayGeneratorPage() {
       const impliedProb2 = oddsToImpliedProbability(odds2);
 
       if (fighter1Prob > impliedProb1) {
-        potentialBets.push({ fighter: fight.Fighter, odds: odds1, customProb: fighter1Prob });
+        potentialBets.push({
+          fighter: fight.Fighter,
+          odds: odds1,
+          customProb: fighter1Prob,
+          fightIndex: i,
+        });
       }
       if (fighter2Prob > impliedProb2) {
-        potentialBets.push({ fighter: fight.Opponent, odds: odds2, customProb: fighter2Prob });
+        potentialBets.push({
+          fighter: fight.Opponent,
+          odds: odds2,
+          customProb: fighter2Prob,
+          fightIndex: i,
+        });
       }
     }
 
-    // Generate all possible combinations up to maxLegs
+    // Generate all possible combinations up to maxLegs without repeating fights
     for (let legs = 1; legs <= maxLegs; legs++) {
       const combinations = getCombinations(potentialBets, legs);
       for (let combo of combinations) {
+        // Ensure no two bets are from the same fight
+        const fightIndices = combo.map((bet: any) => bet.fightIndex);
+        const uniqueFightIndices = new Set(fightIndices);
+        if (fightIndices.length !== uniqueFightIndices.size) {
+          continue; // Skip combinations with bets from the same fight
+        }
+
         // Create a unique key to prevent duplicates
-        const betKey = combo.map((bet: any) => `${bet.fighter}:${bet.odds}`).join('|');
+        const betKey = combo
+          .map((bet: any) => `${bet.fighter}:${bet.odds}`)
+          .join('|');
         if (uniqueBets.has(betKey)) continue;
         uniqueBets.add(betKey);
 
@@ -182,18 +293,20 @@ export default function ParlayGeneratorPage() {
         if (strategy === 'kelly') {
           const kelly_f = calculateKelly(totalProb, totalOdds);
           baseBetAmount = kelly_f * bankroll;
+        } else if (strategy === 'halfKelly') {
+          const kelly_f = calculateKelly(totalProb, totalOdds);
+          baseBetAmount = kelly_f * bankroll * 0.5;
         } else if (strategy === 'quarterKelly') {
           const kelly_f = calculateKelly(totalProb, totalOdds);
           baseBetAmount = kelly_f * bankroll * 0.25;
+        } else if (strategy === 'fixedAmount') {
+          baseBetAmount = fixedBetAmount;
         } else {
           baseBetAmount = bankroll * betFraction;
         }
 
-        // Adjust bet amount based on number of legs
-        const adjustedBetAmount = legs > 0 ? baseBetAmount / legs : 0;
-
         // Ensure betAmount is positive and within bankroll
-        let betAmount = Math.max(adjustedBetAmount, 0);
+        let betAmount = Math.max(baseBetAmount, 0);
         betAmount = Math.min(betAmount, bankroll);
 
         // Calculate Expected Value
@@ -215,17 +328,29 @@ export default function ParlayGeneratorPage() {
     }
 
     // Sort bets by Expected Value descending
-    bets.sort((a, b) => b.expectedValue - a.expectedValue);
+    const betsByEV = [...bets].sort((a, b) => b.expectedValue - a.expectedValue);
+    const selectedBetsByEV = betsByEV.slice(0, numBets);
 
-    // Limit to numBets
-    const selectedBets = bets.slice(0, numBets);
+    // Sort bets by Total Probability descending
+    const betsByProb = [...bets].sort((a, b) => b.customProb - a.customProb);
+    const selectedBetsByProb = betsByProb.slice(0, numBets);
 
-    // Calculate statistics
-    const totalBets = selectedBets.length;
-    const totalBetsCost = selectedBets.reduce((sum, bet) => sum + bet.betAmount, 0);
-    const totalExpectedValue = selectedBets.reduce((sum, bet) => sum + bet.expectedValue, 0);
-    const totalExpectedPayout = selectedBets.reduce((sum, bet) => sum + bet.payout, 0);
-    const roi = totalBetsCost > 0 ? (totalExpectedValue / totalBetsCost) * 100 : 0;
+    // Calculate statistics for EV bets
+    const totalBets = selectedBetsByEV.length;
+    const totalBetsCost = selectedBetsByEV.reduce(
+      (sum, bet) => sum + bet.betAmount,
+      0
+    );
+    const totalExpectedValue = selectedBetsByEV.reduce(
+      (sum, bet) => sum + bet.expectedValue,
+      0
+    );
+    const totalExpectedPayout = selectedBetsByEV.reduce(
+      (sum, bet) => sum + bet.payout,
+      0
+    );
+    const roi =
+      totalBetsCost > 0 ? (totalExpectedValue / totalBetsCost) * 100 : 0;
     const maxPayout = totalExpectedPayout;
 
     const result: Result = {
@@ -235,14 +360,15 @@ export default function ParlayGeneratorPage() {
       totalExpectedValue: parseFloat(totalExpectedValue.toFixed(2)),
       totalExpectedPayout: parseFloat(totalExpectedPayout.toFixed(2)),
       maxPayout: parseFloat(maxPayout.toFixed(2)),
-      selectedBets,
+      selectedBets: selectedBetsByEV,
     };
 
-    setRecommendedBets(selectedBets);
+    setRecommendedBets(selectedBetsByEV);
+    setMostLikelyBets(selectedBetsByProb);
     setResultData(result);
   };
 
-  // Helper function to get combinations
+  // Helper function to get valid combinations without repeating fights
   const getCombinations = (array: any[], length: number) => {
     function* doCombination(offset: number, combo: any[]) {
       if (combo.length === length) {
@@ -250,7 +376,13 @@ export default function ParlayGeneratorPage() {
         return;
       }
       for (let i = offset; i < array.length; i++) {
-        yield* doCombination(i + 1, combo.concat(array[i]));
+        const newCombo = combo.concat(array[i]);
+        const fightIndices = newCombo.map((b) => b.fightIndex);
+        const uniqueFightIndices = new Set(fightIndices);
+        if (fightIndices.length !== uniqueFightIndices.size) {
+          continue; // Skip combinations with bets from the same fight
+        }
+        yield* doCombination(i + 1, newCombo);
       }
     }
     return Array.from(doCombination(0, []));
@@ -275,7 +407,9 @@ export default function ParlayGeneratorPage() {
       let betWon = true;
       for (let fighter of fighters) {
         // Find the fight index for this fighter
-        let fightIndex = fights.findIndex(fight => fight.Fighter === fighter || fight.Opponent === fighter);
+        let fightIndex = fights.findIndex(
+          (fight) => fight.Fighter === fighter || fight.Opponent === fighter
+        );
         if (fightIndex === -1) {
           betWon = false;
           break;
@@ -327,38 +461,59 @@ export default function ParlayGeneratorPage() {
 
       <div className={styles.parlayFightsContainer}>
         {fights.map((fight, index) => {
-          const odds1 = parseFloat(fight.odds_f1);
-          const odds2 = parseFloat(fight.odds_f2);
           return (
             <div key={index} className={styles.parlayFightCard}>
-              <h3>{fight.Fighter} vs {fight.Opponent}</h3>
+              <h3>
+                {fight.Fighter} vs {fight.Opponent}
+              </h3>
+              {/* Odds Display */}
               <div className={styles.parlayOddsDisplay}>
                 <div className={styles.parlayFighter}>
                   <div
-                    className={`${styles.parlayFighterName} ${actualWinners[index] === fight.Fighter ? styles.parlayFighterNameSelected : ''}`}
+                    className={`${styles.parlayFighterName} ${
+                      actualWinners[index] === fight.Fighter
+                        ? styles.parlayFighterNameSelected
+                        : ''
+                    }`}
                     onClick={() => handleWinnerSelection(index, fight.Fighter)}
                   >
                     {fight.Fighter}
                   </div>
-                  <div className={styles.parlayFighterOdds}>{fight.odds_f1}</div>
+                  <div className={styles.parlayFighterOdds}>
+                    {fight.odds_f1}
+                  </div>
                 </div>
                 <div className={styles.parlayFighter}>
                   <div
-                    className={`${styles.parlayFighterName} ${actualWinners[index] === fight.Opponent ? styles.parlayFighterNameSelected : ''}`}
+                    className={`${styles.parlayFighterName} ${
+                      actualWinners[index] === fight.Opponent
+                        ? styles.parlayFighterNameSelected
+                        : ''
+                    }`}
                     onClick={() => handleWinnerSelection(index, fight.Opponent)}
                   >
                     {fight.Opponent}
                   </div>
-                  <div className={styles.parlayFighterOdds}>{fight.odds_f2}</div>
+                  <div className={styles.parlayFighterOdds}>
+                    {fight.odds_f2}
+                  </div>
                 </div>
               </div>
+              {/* Slider */}
               <div className={styles.parlaySliderContainer}>
-                <label className={styles.parlaySliderLabel}>{fight.Fighter}</label>
+                <div className={styles.parlaySliderLabels}>
+                  <label className={styles.parlaySliderLabel}>
+                    {fight.Fighter} ({customProbs[index][0].toFixed(0)}%)
+                  </label>
+                  <label className={styles.parlaySliderLabel}>
+                    {fight.Opponent} ({customProbs[index][1].toFixed(0)}%)
+                  </label>
+                </div>
                 <input
                   type="range"
                   min="0"
                   max="100"
-                  value={customProbs[index][1]} // Opponent's confidence
+                  value={customProbs[index][1]} // Right fighter's confidence
                   onChange={(e) => {
                     const value = parseFloat(e.target.value);
                     const newProbs = [...customProbs];
@@ -368,10 +523,6 @@ export default function ParlayGeneratorPage() {
                   }}
                   className={styles.parlaySliderInput}
                 />
-                <label className={styles.parlaySliderLabel}>{fight.Opponent}</label>
-                <div className={styles.parlayConfidenceDisplay}>
-                  {customProbs[index][0].toFixed(2)}% / {customProbs[index][1].toFixed(2)}%
-                </div>
               </div>
             </div>
           );
@@ -381,7 +532,12 @@ export default function ParlayGeneratorPage() {
       <div className={styles.parlaySettingsContainer}>
         {/* Parlay Risk Level */}
         <div>
-          <label className={styles.parlaySettingsLabel}>Parlay Risk Level (1-10)</label>
+          <label
+            className={styles.parlaySettingsLabel}
+            title="Determines the maximum number of legs in your parlays. Higher risk allows for more legs, increasing potential payout but reducing the chance of winning."
+          >
+            Parlay Risk Level (1-10)
+          </label>
           <input
             type="range"
             min="1"
@@ -401,7 +557,12 @@ export default function ParlayGeneratorPage() {
         </div>
         {/* Bet Size Risk Level */}
         <div>
-          <label className={styles.parlaySettingsLabel}>Bet Size Risk Level (1-10)</label>
+          <label
+            className={styles.parlaySettingsLabel}
+            title="Determines the fraction of your bankroll to bet on each parlay. Higher risk levels will bet a larger fraction of your bankroll."
+          >
+            Bet Size Risk Level (1-10)
+          </label>
           <input
             type="range"
             min="1"
@@ -421,11 +582,16 @@ export default function ParlayGeneratorPage() {
         </div>
         {/* Number of Bets */}
         <div>
-          <label className={styles.parlaySettingsLabel}>Number of Bets (1-20)</label>
+          <label
+            className={styles.parlaySettingsLabel}
+            title="The number of bets to generate."
+          >
+            Number of Bets (1-50)
+          </label>
           <input
             type="number"
             min="1"
-            max="20"
+            max="50"
             value={numBets}
             onChange={(e) => setNumBets(parseInt(e.target.value))}
             className={styles.parlaySettingsInput}
@@ -433,7 +599,12 @@ export default function ParlayGeneratorPage() {
         </div>
         {/* Bankroll */}
         <div>
-          <label className={styles.parlaySettingsLabel}>Bankroll ($)</label>
+          <label
+            className={styles.parlaySettingsLabel}
+            title="Your total betting bankroll."
+          >
+            Bankroll ($)
+          </label>
           <input
             type="number"
             min="1"
@@ -444,24 +615,47 @@ export default function ParlayGeneratorPage() {
         </div>
         {/* Strategy */}
         <div>
-          <label className={styles.parlaySettingsLabel}>Betting Strategy</label>
-          <select
-            value={strategy}
-            onChange={(e) => setStrategy(e.target.value)}
-            className={styles.parlaySettingsSelect}
+          <label
+            className={styles.parlaySettingsLabel}
+            title="Selects the strategy for determining bet sizes."
           >
-            <option value="kelly">Kelly Criterion</option>
-            <option value="quarterKelly">Quarter Kelly</option>
-            <option value="fixedRisk">Fixed Risk</option>
-          </select>
+            Betting Strategy
+          </label>
+          <CustomDropdown
+            options={strategies}
+            selectedValue={strategy}
+            onChange={(value) => setStrategy(value)}
+          />
+          <p className={styles.strategyDescription}>
+            {strategies.find((opt) => opt.value === strategy)?.description}
+          </p>
         </div>
+        {/* Fixed Amount Input */}
+        {strategy === 'fixedAmount' && (
+          <div>
+            <label
+              className={styles.parlaySettingsLabel}
+              title="Specify a fixed amount to bet on each parlay."
+            >
+              Fixed Bet Amount ($)
+            </label>
+            <input
+              type="number"
+              min="1"
+              value={fixedBetAmount}
+              onChange={(e) =>
+                setFixedBetAmount(parseFloat(e.target.value))
+              }
+              className={styles.parlaySettingsInput}
+            />
+          </div>
+        )}
       </div>
 
       <div className={styles.parlayButtonsContainer}>
         <button onClick={simulateBets} className={styles.parlayButton}>
           Calculate Bets
         </button>
-        {/* Add Find Optimal button if needed */}
         <button onClick={calculateActualReturn} className={styles.parlayButton}>
           Calculate Actual Return
         </button>
@@ -469,9 +663,9 @@ export default function ParlayGeneratorPage() {
 
       {resultData && (
         <div className={styles.parlayResultsContainer}>
-          <h2>Recommended Bets</h2>
+          <h2>Highest Expected Value Parlays</h2>
           {/* Display recommended bets */}
-          {resultData.selectedBets.map((bet, index) => (
+          {recommendedBets.map((bet, index) => (
             <div key={index} className={styles.parlayBetCard}>
               <p>Fighters: {bet.fighters}</p>
               <p>Odds: {bet.odds}</p>
@@ -485,10 +679,34 @@ export default function ParlayGeneratorPage() {
           <h2>Statistics</h2>
           <p>Number of Bets: {resultData.totalBets}</p>
           <p>Total Bets Cost: ${resultData.totalBetsCost.toFixed(2)}</p>
-          <p>Total Expected Value: ${resultData.totalExpectedValue.toFixed(2)}</p>
-          <p>Total Expected Payout: ${resultData.totalExpectedPayout.toFixed(2)}</p>
+          <p>
+            Total Expected Value: ${resultData.totalExpectedValue.toFixed(2)}
+          </p>
+          <p>
+            Total Expected Payout: ${resultData.totalExpectedPayout.toFixed(2)}
+          </p>
           <p>Max Payout: ${resultData.maxPayout.toFixed(2)}</p>
           <p>ROI: {resultData.roi.toFixed(2)}%</p>
+
+          {/* Most Likely Parlays */}
+          <h2>Most Likely Parlays</h2>
+          {mostLikelyBets.map((bet, index) => (
+            <div key={index} className={styles.parlayBetCard}>
+              <p>Fighters: {bet.fighters}</p>
+              <p>Odds: {bet.odds}</p>
+              <p>
+                Total Probability: {(bet.customProb * 100).toFixed(2)}%
+              </p>
+              <div className={styles.probabilityBarContainer}>
+                <div
+                  className={styles.probabilityBar}
+                  style={{ width: `${bet.customProb * 100}%` }}
+                ></div>
+              </div>
+              <p>Bet Amount: ${bet.betAmount.toFixed(2)}</p>
+              <p>Payout: ${bet.payout.toFixed(2)}</p>
+            </div>
+          ))}
         </div>
       )}
 
@@ -500,7 +718,9 @@ export default function ParlayGeneratorPage() {
             <div key={index} className={styles.parlayResultCard}>
               <p>Bet: {result.bet.fighters}</p>
               <p>Result: {result.won ? 'Win' : 'Loss'}</p>
-              <p>Payout: ${result.won ? result.bet.payout.toFixed(2) : '0.00'}</p>
+              <p>
+                Payout: ${result.won ? result.bet.payout.toFixed(2) : '0.00'}
+              </p>
             </div>
           ))}
           <p>Total Return: ${actualReturn.totalReturn.toFixed(2)}</p>
