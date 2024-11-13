@@ -33,6 +33,20 @@ import Papa from 'papaparse';
 import Link from 'next/link';
 import styles from './DataExplorer.module.css';
 
+// Import Recharts components
+import {
+  LineChart,
+  Line,
+  XAxis,
+  YAxis,
+  Tooltip,
+  Legend,
+  ResponsiveContainer,
+  BarChart,
+  Bar,
+  CartesianGrid,
+} from 'recharts';
+
 // Extend react-table types to include properties from plugins
 declare module 'react-table' {
   export interface TableOptions<D extends object = {}>
@@ -72,6 +86,16 @@ function getDivision(weight: number): string {
   return 'Heavyweight';
 }
 
+// Function to invert fight result
+function invertResult(result: string): string {
+  if (result === 'Win') return 'Loss';
+  if (result === 'Loss') return 'Win';
+  return result;
+}
+
+// Define chart colors
+const chartColors = ['#8884d8', '#82ca9d', '#ffc658', '#ff7300', '#d0ed57'];
+
 // Main Component
 export default function DataExplorerPage() {
   // State variables
@@ -102,6 +126,10 @@ export default function DataExplorerPage() {
   const [selectedComparisonStats, setSelectedComparisonStats] = useState<string[]>(
     []
   );
+
+  // State variables for charts
+  const [fighterHistoricalData, setFighterHistoricalData] = useState<any[]>([]);
+  const [comparisonChartData, setComparisonChartData] = useState<any[]>([]);
 
   // Fetch data on component mount
   useEffect(() => {
@@ -519,6 +547,62 @@ export default function DataExplorerPage() {
     }
   };
 
+  // Function to get fighter's historical data
+  const getFighterHistoricalData = (fighterName: string) => {
+    const fights = fightStats
+      .filter((fight) => fight.FIGHTER === fighterName || fight.OPPONENT === fighterName)
+      .map((fight) => {
+        const isFighter = fight.FIGHTER === fighterName;
+        const result = isFighter ? fight.RESULT : invertResult(fight.RESULT as string);
+        const date = fight.DATE_Event as string;
+        const significantStrikes = parseInt(
+          isFighter ? (fight['SIG_STR._fighter'] as string) : (fight['SIG_STR._opponent'] as string)
+        ) || 0;
+        const takedowns = parseInt(
+          isFighter ? (fight['TD_fighter'] as string) : (fight['TD_opponent'] as string)
+        ) || 0;
+        return {
+          date,
+          result,
+          significantStrikes,
+          takedowns,
+        };
+      });
+
+    // Sort by date
+    fights.sort((a, b) => new Date(a.date).getTime() - new Date(b.date).getTime());
+    return fights;
+  };
+
+  // Function to get comparison data
+  const getComparisonData = (stats: string[]) => {
+    return selectedFightersForComparison.map((fighter) => {
+      const data: any = { fighter: fighter.FIGHTER };
+      stats.forEach((stat) => {
+        data[stat] = parseFloat(fighter[stat] as string) || 0;
+      });
+      return data;
+    });
+  };
+
+  // Update fighter historical data when selected fighter changes
+  useEffect(() => {
+    if (selectedFighter) {
+      const data = getFighterHistoricalData(selectedFighter.FIGHTER as string);
+      setFighterHistoricalData(data);
+    }
+  }, [selectedFighter]);
+
+  // Update comparison chart data when selected stats or fighters change
+  useEffect(() => {
+    if (selectedComparisonStats.length > 0 && selectedFightersForComparison.length > 0) {
+      const data = getComparisonData(selectedComparisonStats);
+      setComparisonChartData(data);
+    } else {
+      setComparisonChartData([]);
+    }
+  }, [selectedComparisonStats, selectedFightersForComparison]);
+
   if (loading) {
     return (
       <div className={styles.loadingScreen}>
@@ -546,17 +630,13 @@ export default function DataExplorerPage() {
       <div className={styles.buttonGroup}>
         <button
           onClick={() => setView('fighters')}
-          className={`${styles.customButton} ${
-            view === 'fighters' ? styles.active : ''
-          }`}
+          className={`${styles.customButton} ${view === 'fighters' ? styles.active : ''}`}
         >
           Fighters
         </button>
         <button
           onClick={() => setView('fights')}
-          className={`${styles.customButton} ${
-            view === 'fights' ? styles.active : ''
-          }`}
+          className={`${styles.customButton} ${view === 'fights' ? styles.active : ''}`}
         >
           Fight Stats
         </button>
@@ -840,6 +920,37 @@ export default function DataExplorerPage() {
                   <p>Please select at least one stat to view.</p>
                 )}
               </div>
+
+              {/* Performance Timeline */}
+              <h3>Performance Timeline</h3>
+              <div className={styles.chartContainer}>
+                {fighterHistoricalData.length > 0 ? (
+                  <ResponsiveContainer width="100%" height={300}>
+                    <LineChart data={fighterHistoricalData}>
+                      <CartesianGrid strokeDasharray="3 3" />
+                      <XAxis dataKey="date" />
+                      <YAxis />
+                      <Tooltip />
+                      <Legend />
+                      <Line
+                        type="monotone"
+                        dataKey="significantStrikes"
+                        name="Significant Strikes"
+                        stroke="#8884d8"
+                        activeDot={{ r: 8 }}
+                      />
+                      <Line
+                        type="monotone"
+                        dataKey="takedowns"
+                        name="Takedowns"
+                        stroke="#82ca9d"
+                      />
+                    </LineChart>
+                  </ResponsiveContainer>
+                ) : (
+                  <p>No historical data available.</p>
+                )}
+              </div>
             </div>
           </div>
         </div>
@@ -955,28 +1066,52 @@ export default function DataExplorerPage() {
               </div>
               <div className={styles.comparisonTableContainer}>
                 {selectedComparisonStats.length > 0 ? (
-                  <table className={styles.comparisonTable}>
-                    <thead>
-                      <tr>
-                        <th>Stat</th>
-                        {selectedFightersForComparison.map((fighter) => (
-                          <th key={fighter.FIGHTER}>{fighter.FIGHTER}</th>
-                        ))}
-                      </tr>
-                    </thead>
-                    <tbody>
-                      {selectedComparisonStats.map((stat) => (
-                        <tr key={stat}>
-                          <td className={styles.statsKey}>{stat}</td>
+                  <>
+                    <table className={styles.comparisonTable}>
+                      <thead>
+                        <tr>
+                          <th>Stat</th>
                           {selectedFightersForComparison.map((fighter) => (
-                            <td key={fighter.FIGHTER} className={styles.statsValue}>
-                              {fighter[stat]}
-                            </td>
+                            <th key={fighter.FIGHTER}>{fighter.FIGHTER}</th>
                           ))}
                         </tr>
-                      ))}
-                    </tbody>
-                  </table>
+                      </thead>
+                      <tbody>
+                        {selectedComparisonStats.map((stat) => (
+                          <tr key={stat}>
+                            <td className={styles.statsKey}>{stat}</td>
+                            {selectedFightersForComparison.map((fighter) => (
+                              <td key={fighter.FIGHTER} className={styles.statsValue}>
+                                {fighter[stat]}
+                              </td>
+                            ))}
+                          </tr>
+                        ))}
+                      </tbody>
+                    </table>
+
+                    {/* Comparison Chart */}
+                    <h3>Comparison Chart</h3>
+                    <div className={styles.chartContainer}>
+                      <ResponsiveContainer width="100%" height={300}>
+                        <BarChart data={comparisonChartData}>
+                          <CartesianGrid strokeDasharray="3 3" />
+                          <XAxis dataKey="fighter" />
+                          <YAxis />
+                          <Tooltip />
+                          <Legend />
+                          {selectedComparisonStats.map((stat, index) => (
+                            <Bar
+                              key={stat}
+                              dataKey={stat}
+                              name={stat}
+                              fill={chartColors[index % chartColors.length]}
+                            />
+                          ))}
+                        </BarChart>
+                      </ResponsiveContainer>
+                    </div>
+                  </>
                 ) : (
                   <p>Please select at least one stat to compare.</p>
                 )}

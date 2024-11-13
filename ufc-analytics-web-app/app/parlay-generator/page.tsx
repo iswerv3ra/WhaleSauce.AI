@@ -775,50 +775,56 @@ export default function ParlayGeneratorPage() {
 
       {resultData && (
         <div className={styles.parlayResultsContainer}>
-          <h2>Highest Expected Value Parlays</h2>
-          {/* Display recommended bets */}
-          {recommendedBets.map((bet, index) => (
-            <div key={index} className={styles.parlayBetCard}>
-              <p>Fighters: {bet.fighters}</p>
-              <p>Odds: {bet.odds}</p>
-              <p>Your Confidence: {(bet.customProb * 100).toFixed(2)}%</p>
-              <p>Bet Amount: ${bet.betAmount.toFixed(2)}</p>
-              <p>Expected Value: ${bet.expectedValue.toFixed(2)}</p>
-              <p>Payout: ${bet.payout.toFixed(2)}</p>
-            </div>
-          ))}
-          {/* Display statistics */}
-          <h2>Statistics</h2>
-          <p>Number of Bets: {resultData.totalBets}</p>
-          <p>Total Bets Cost: ${resultData.totalBetsCost.toFixed(2)}</p>
-          <p>
-            Total Expected Value: ${resultData.totalExpectedValue.toFixed(2)}
-          </p>
-          <p>
-            Total Expected Payout: ${resultData.totalExpectedPayout.toFixed(2)}
-          </p>
-          <p>Max Payout: ${resultData.maxPayout.toFixed(2)}</p>
-          <p>ROI: {resultData.roi.toFixed(2)}%</p>
-
-          {/* Most Likely Parlays */}
-          <h2>Most Likely Parlays</h2>
-          {mostLikelyBets.map((bet, index) => (
-            <div key={index} className={styles.parlayBetCard}>
-              <p>Fighters: {bet.fighters}</p>
-              <p>Odds: {bet.odds}</p>
-              <p>
-                Total Probability: {(bet.customProb * 100).toFixed(2)}%
-              </p>
-              <div className={styles.probabilityBarContainer}>
-                <div
-                  className={styles.probabilityBar}
-                  style={{ width: `${bet.customProb * 100}%` }}
-                ></div>
+          {/* Wrap each section in a column */}
+          <div className={styles.parlayResultsColumn}>
+            <h2>Highest Expected Value Parlays</h2>
+            {/* Display recommended bets */}
+            {recommendedBets.map((bet, index) => (
+              <div key={index} className={styles.parlayBetCard}>
+                <p>Fighters: {bet.fighters}</p>
+                <p>Odds: {bet.odds}</p>
+                <p>Your Confidence: {(bet.customProb * 100).toFixed(2)}%</p>
+                <p>Bet Amount: ${bet.betAmount.toFixed(2)}</p>
+                <p>Expected Value: ${bet.expectedValue.toFixed(2)}</p>
+                <p>Payout: ${bet.payout.toFixed(2)}</p>
               </div>
-              <p>Bet Amount: ${bet.betAmount.toFixed(2)}</p>
-              <p>Payout: ${bet.payout.toFixed(2)}</p>
-            </div>
-          ))}
+            ))}
+            {/* Display statistics */}
+            <h2>Statistics</h2>
+            <p>Number of Bets: {resultData.totalBets}</p>
+            <p>Total Bets Cost: ${resultData.totalBetsCost.toFixed(2)}</p>
+            <p>
+              Total Expected Value: ${resultData.totalExpectedValue.toFixed(2)}
+            </p>
+            <p>
+              Total Expected Payout: $
+              {resultData.totalExpectedPayout.toFixed(2)}
+            </p>
+            <p>Max Payout: ${resultData.maxPayout.toFixed(2)}</p>
+            <p>ROI: {resultData.roi.toFixed(2)}%</p>
+          </div>
+
+          <div className={styles.parlayResultsColumn}>
+            {/* Most Likely Parlays */}
+            <h2>Most Likely Parlays</h2>
+            {mostLikelyBets.map((bet, index) => (
+              <div key={index} className={styles.parlayBetCard}>
+                <p>Fighters: {bet.fighters}</p>
+                <p>Odds: {bet.odds}</p>
+                <p>
+                  Total Probability: {(bet.customProb * 100).toFixed(2)}%
+                </p>
+                <div className={styles.probabilityBarContainer}>
+                  <div
+                    className={styles.probabilityBar}
+                    style={{ width: `${bet.customProb * 100}%` }}
+                  ></div>
+                </div>
+                <p>Bet Amount: ${bet.betAmount.toFixed(2)}</p>
+                <p>Payout: ${bet.payout.toFixed(2)}</p>
+              </div>
+            ))}
+          </div>
         </div>
       )}
 
