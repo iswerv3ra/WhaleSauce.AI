@@ -1,33 +1,29 @@
 sport,event_time,bookmaker,team1,odds1,team2,odds2,draw_odds
-americanfootball_cfl,2024-11-17 23:00:00,Bovada,Toronto Argonauts,340,Winnipeg Blue Bombers,-460,
-americanfootball_ncaaf,2024-11-14 00:00:00,Bovada,Akron Zips,500,Northern Illinois Huskies,-750,
-americanfootball_ncaaf,2024-11-14 00:00:00,Bovada,Eastern Michigan Eagles,335,Ohio Bobcats,-450,
-americanfootball_ncaaf,2024-11-14 00:00:00,Bovada,Kent State Golden Flashes,3000,Miami (OH) RedHawks,-20000,
+americanfootball_cfl,2024-11-17 23:00:00,Bovada,Toronto Argonauts,345,Winnipeg Blue Bombers,-470,
 americanfootball_ncaaf,2024-11-15 00:30:00,Bovada,East Carolina Pirates,-675,Tulsa Golden Hurricane,460,
-americanfootball_ncaaf,2024-11-16 01:00:00,Bovada,Colorado State Rams,-420,Wyoming Cowboys,315,
-americanfootball_ncaaf,2024-11-16 01:00:00,Bovada,North Texas Mean Green,-130,UTSA Roadrunners,110,
-americanfootball_ncaaf,2024-11-16 02:00:00,Bovada,UCLA Bruins,165,Washington Huskies,-195,
-americanfootball_ncaaf,2024-11-16 03:15:00,Bovada,Arizona Wildcats,-115,Houston Cougars,-105,
-americanfootball_ncaaf,2024-11-16 17:00:00,Bovada,Arkansas Razorbacks,425,Texas Longhorns,-600,
-americanfootball_ncaaf,2024-11-16 17:00:00,Bovada,Clemson Tigers,-400,Pittsburgh Panthers,300,
-americanfootball_ncaaf,2024-11-16 17:00:00,Bovada,Colorado Buffaloes,-470,Utah Utes,345,
-americanfootball_ncaaf,2024-11-16 17:00:00,Bovada,Liberty Flames,-675,UMass Minutemen,460,
+americanfootball_ncaaf,2024-11-16 01:00:00,Bovada,Colorado State Rams,-370,Wyoming Cowboys,285,
+americanfootball_ncaaf,2024-11-16 01:00:00,Bovada,North Texas Mean Green,-110,UTSA Roadrunners,-110,
+americanfootball_ncaaf,2024-11-16 02:00:00,Bovada,UCLA Bruins,160,Washington Huskies,-185,
+americanfootball_ncaaf,2024-11-16 03:15:00,Bovada,Arizona Wildcats,-125,Houston Cougars,105,
+americanfootball_ncaaf,2024-11-16 17:00:00,Bovada,Arkansas Razorbacks,410,Texas Longhorns,-585,
+americanfootball_ncaaf,2024-11-16 17:00:00,Bovada,Clemson Tigers,-470,Pittsburgh Panthers,345,
+americanfootball_ncaaf,2024-11-16 17:00:00,Bovada,Colorado Buffaloes,-460,Utah Utes,340,
+americanfootball_ncaaf,2024-11-16 17:00:00,Bovada,Liberty Flames,-650,UMass Minutemen,450,
 americanfootball_ncaaf,2024-11-16 17:00:00,Bovada,Louisiana Tech Bulldogs,425,Western Kentucky Hilltoppers,-600,
-americanfootball_ncaaf,2024-11-16 17:00:00,Bovada,Navy Midshipmen,210,Tulane Green Wave,-250,
-americanfootball_ncaaf,2024-11-16 17:00:00,Bovada,Northwestern Wildcats,1600,Ohio State Buckeyes,-10000,
+americanfootball_ncaaf,2024-11-16 17:00:00,Bovada,Navy Midshipmen,220,Tulane Green Wave,-270,
 americanfootball_ncaaf,2024-11-16 17:45:00,Bovada,Auburn Tigers,-3300,UL Monroe Warhawks,1100,
-americanfootball_ncaaf,2024-11-16 18:00:00,Bovada,Coastal Carolina Chanticleers,260,Marshall Thundering Herd,-320,
-americanfootball_ncaaf,2024-11-16 19:00:00,Bovada,Florida Atlantic Owls,110,Temple Owls,-130,
+americanfootball_ncaaf,2024-11-16 18:00:00,Bovada,Coastal Carolina Chanticleers,275,Marshall Thundering Herd,-350,
+americanfootball_ncaaf,2024-11-16 19:00:00,Bovada,Florida Atlantic Owls,125,Temple Owls,-145,
 americanfootball_ncaaf,2024-11-16 19:00:00,Bovada,Florida International Panthers,450,Jacksonville State Gamecocks,-650,
 americanfootball_ncaaf,2024-11-16 19:30:00,Bovada,Illinois Fighting Illini,-150,Michigan State Spartans,130,
-americanfootball_ncaaf,2024-11-16 20:00:00,Bovada,California Golden Bears,-330,Syracuse Orange,265,
+americanfootball_ncaaf,2024-11-16 20:00:00,Bovada,California Golden Bears,-370,Syracuse Orange,285,
 americanfootball_ncaaf,2024-11-16 20:00:00,Bovada,Hawaii Rainbow Warriors,-135,Utah State Aggies,115,
-americanfootball_ncaaf,2024-11-16 20:00:00,Bovada,Kennesaw State Owls,475,Sam Houston State Bearkats,-700,
+americanfootball_ncaaf,2024-11-16 20:00:00,Bovada,Kennesaw State Owls,500,Sam Houston State Bearkats,-750,
 americanfootball_ncaaf,2024-11-16 20:30:00,Bovada,Air Force Falcons,140,Oregon State Beavers,-165,
 americanfootball_ncaaf,2024-11-16 20:30:00,Bovada,Boston College Eagles,650,SMU Mustangs,-1100,
 americanfootball_ncaaf,2024-11-16 20:30:00,Bovada,Charlotte 49ers,125,South Florida Bulls,-145,
-americanfootball_ncaaf,2024-11-16 20:30:00,Bovada,Florida Gators,170,LSU Tigers,-200,
-americanfootball_ncaaf,2024-11-16 20:30:00,Bovada,Georgia Bulldogs,-400,Tennessee Volunteers,300,
+americanfootball_ncaaf,2024-11-16 20:30:00,Bovada,Florida Gators,160,LSU Tigers,-185,
+americanfootball_ncaaf,2024-11-16 20:30:00,Bovada,Georgia Bulldogs,-370,Tennessee Volunteers,285,
 americanfootball_ncaaf,2024-11-16 20:30:00,Bovada,Louisville Cardinals,-1500,Stanford Cardinal,775,
 americanfootball_ncaaf,2024-11-16 20:30:00,Bovada,Notre Dame Fighting Irish,-2200,Virginia Cavaliers,1000,
 americanfootball_ncaaf,2024-11-16 20:30:00,Bovada,Penn State Nittany Lions,-10000,Purdue Boilermakers,1600,
@@ -35,141 +31,109 @@ americanfootball_ncaaf,2024-11-16 21:00:00,Bovada,Baylor Bears,-135,West Virgini
 americanfootball_ncaaf,2024-11-16 21:00:00,Bovada,Georgia Southern Eagles,-310,Troy Trojans,255,
 americanfootball_ncaaf,2024-11-16 21:00:00,Bovada,James Madison Dukes,-145,Old Dominion Monarchs,125,
 americanfootball_ncaaf,2024-11-16 21:00:00,Bovada,Nebraska Cornhuskers,275,USC Trojans,-350,
-americanfootball_ncaaf,2024-11-16 21:15:00,Bovada,Missouri Tigers,370,South Carolina Gamecocks,-510,
-americanfootball_ncaaf,2024-11-16 22:00:00,Bovada,Arkansas State Red Wolves,110,Georgia State Panthers,-130,
-americanfootball_ncaaf,2024-11-16 23:00:00,Bovada,Maryland Terrapins,-230,Rutgers Scarlet Knights,190,
-americanfootball_ncaaf,2024-11-17 00:00:00,Bovada,Arizona State Sun Devils,275,Kansas State Wildcats,-350,
+americanfootball_ncaaf,2024-11-16 21:15:00,Bovada,Missouri Tigers,450,South Carolina Gamecocks,-650,
+americanfootball_ncaaf,2024-11-16 22:00:00,Bovada,Arkansas State Red Wolves,135,Georgia State Panthers,-160,
+americanfootball_ncaaf,2024-11-16 23:00:00,Bovada,Maryland Terrapins,-235,Rutgers Scarlet Knights,195,
+americanfootball_ncaaf,2024-11-17 00:00:00,Bovada,Arizona State Sun Devils,265,Kansas State Wildcats,-330,
 americanfootball_ncaaf,2024-11-17 00:00:00,Bovada,Boise State Broncos,-585,San Jose State Spartans,410,
 americanfootball_ncaaf,2024-11-17 00:00:00,Bovada,Louisiana Ragin Cajuns,-300,South Alabama Jaguars,250,
-americanfootball_ncaaf,2024-11-17 00:00:00,Bovada,Southern Mississippi Golden Eagles,1300,Texas State Bobcats,-6500,
+americanfootball_ncaaf,2024-11-17 00:00:00,Bovada,Southern Mississippi Golden Eagles,1300,Texas State Bobcats,-7000,
 americanfootball_ncaaf,2024-11-17 00:30:00,Bovada,Oregon Ducks,-650,Wisconsin Badgers,450,
 americanfootball_ncaaf,2024-11-17 01:00:00,Bovada,Cincinnati Bearcats,285,Iowa State Cyclones,-370,
 americanfootball_ncaaf,2024-11-17 01:00:00,Bovada,Memphis Tigers,-650,UAB Blazers,450,
 americanfootball_ncaaf,2024-11-17 01:00:00,Bovada,North Carolina Tar Heels,-450,Wake Forest Demon Deacons,335,
-americanfootball_ncaaf,2024-11-17 02:30:00,Bovada,New Mexico Lobos,375,Washington State Cougars,-525,
-americanfootball_ncaaf,2024-11-17 03:15:00,Bovada,BYU Cougars,-150,Kansas Jayhawks,130,
+americanfootball_ncaaf,2024-11-17 02:30:00,Bovada,New Mexico Lobos,315,Washington State Cougars,-420,
+americanfootball_ncaaf,2024-11-17 03:15:00,Bovada,BYU Cougars,-135,Kansas Jayhawks,115,
 americanfootball_ncaaf,2024-11-17 03:30:00,Bovada,San Diego State Aztecs,800,UNLV Rebels,-1600,
-americanfootball_nfl,2024-11-15 01:15:00,Bovada,Philadelphia Eagles,-195,Washington Commanders,165,
+americanfootball_nfl,2024-11-15 01:15:00,Bovada,Philadelphia Eagles,-220,Washington Commanders,180,
 americanfootball_nfl,2024-11-17 18:00:00,Bovada,Baltimore Ravens,-175,Pittsburgh Steelers,150,
-americanfootball_nfl,2024-11-17 18:00:00,Bovada,Chicago Bears,225,Green Bay Packers,-275,
-americanfootball_nfl,2024-11-17 18:00:00,Bovada,Cleveland Browns,-105,New Orleans Saints,-115,
-americanfootball_nfl,2024-11-17 18:00:00,Bovada,Detroit Lions,-750,Jacksonville Jaguars,500,
-americanfootball_nfl,2024-11-17 18:00:00,Bovada,Las Vegas Raiders,285,Miami Dolphins,-370,
-americanfootball_nfl,2024-11-17 18:00:00,Bovada,Los Angeles Rams,-220,New England Patriots,180,
-americanfootball_nfl,2024-11-17 18:00:00,Bovada,Minnesota Vikings,-250,Tennessee Titans,210,
-americanfootball_nfl,2024-11-17 21:05:00,Bovada,Atlanta Falcons,120,Denver Broncos,-140,
-americanfootball_nfl,2024-11-17 21:05:00,Bovada,San Francisco 49ers,-290,Seattle Seahawks,240,
+americanfootball_nfl,2024-11-17 18:00:00,Bovada,Chicago Bears,200,Green Bay Packers,-240,
+americanfootball_nfl,2024-11-17 18:00:00,Bovada,Cleveland Browns,-115,New Orleans Saints,-105,
+americanfootball_nfl,2024-11-17 18:00:00,Bovada,Detroit Lions,-800,Jacksonville Jaguars,525,
+americanfootball_nfl,2024-11-17 18:00:00,Bovada,Indianapolis Colts,170,New York Jets,-200,
+americanfootball_nfl,2024-11-17 18:00:00,Bovada,Las Vegas Raiders,270,Miami Dolphins,-340,
+americanfootball_nfl,2024-11-17 18:00:00,Bovada,Los Angeles Rams,-225,New England Patriots,185,
+americanfootball_nfl,2024-11-17 18:00:00,Bovada,Minnesota Vikings,-260,Tennessee Titans,215,
+americanfootball_nfl,2024-11-17 21:05:00,Bovada,Atlanta Falcons,115,Denver Broncos,-135,
+americanfootball_nfl,2024-11-17 21:05:00,Bovada,San Francisco 49ers,-285,Seattle Seahawks,235,
 americanfootball_nfl,2024-11-17 21:25:00,Bovada,Buffalo Bills,-130,Kansas City Chiefs,110,
-americanfootball_nfl,2024-11-18 01:15:00,Bovada,Cincinnati Bengals,105,Los Angeles Chargers,-125,
+americanfootball_nfl,2024-11-18 01:15:00,Bovada,Cincinnati Bengals,100,Los Angeles Chargers,-120,
 americanfootball_nfl,2024-11-19 01:15:00,Bovada,Dallas Cowboys,280,Houston Texans,-360,
-basketball_euroleague,2024-11-13 17:00:00,Bovada,FC Barcelona Bàsquet,-115,KK Partizan NIS,-105,
-basketball_euroleague,2024-11-13 19:30:00,Bovada,Paris Basketball,-140,Žalgiris,115,
-basketball_nba,2024-11-14 00:10:00,Bovada,Indiana Pacers,-115,Orlando Magic,-105,
-basketball_nba,2024-11-14 00:40:00,Bovada,Boston Celtics,-370,Brooklyn Nets,285,
-basketball_nba,2024-11-14 00:40:00,Bovada,Chicago Bulls,275,New York Knicks,-350,
-basketball_nba,2024-11-14 00:40:00,Bovada,Cleveland Cavaliers,-430,Philadelphia 76ers,320,
-basketball_nba,2024-11-14 00:40:00,Bovada,New Orleans Pelicans,650,Oklahoma City Thunder,-1100,
-basketball_nba,2024-11-14 01:10:00,Bovada,Detroit Pistons,210,Milwaukee Bucks,-250,
-basketball_nba,2024-11-14 01:10:00,Bovada,Houston Rockets,-175,Los Angeles Clippers,150,
-basketball_nba,2024-11-14 01:10:00,Bovada,San Antonio Spurs,-410,Washington Wizards,305,
-basketball_nba,2024-11-14 03:10:00,Bovada,Los Angeles Lakers,-270,Memphis Grizzlies,220,
-basketball_nba,2024-11-14 03:10:00,Bovada,Minnesota Timberwolves,-415,Portland Trail Blazers,310,
-basketball_nba,2024-11-14 03:10:00,Bovada,Phoenix Suns,235,Sacramento Kings,-285,
-basketball_ncaab,2024-11-13 22:00:00,Bovada,Albany Great Danes,135,Dartmouth Big Green,-160,
-basketball_ncaab,2024-11-13 23:00:00,Bovada,Louisiana Tech Bulldogs,-115,Massachusetts Minutemen,-105,
-basketball_ncaab,2024-11-13 23:30:00,Bovada,Bellarmine Knights,-200,Southern Indiana Screaming Eagles,170,
-basketball_ncaab,2024-11-13 23:30:00,Bovada,St. John's Red Storm,-7000,Wagner Seahawks,1300,
-basketball_ncaab,2024-11-14 00:00:00,Bovada,Ball State Cardinals,850,Dayton Flyers,-1800,
-basketball_ncaab,2024-11-14 00:00:00,Bovada,Bucknell Bison,-250,Mt. St. Mary's Mountaineers,210,
-basketball_ncaab,2024-11-14 00:00:00,Bovada,Canisius Golden Griffins,-115,Mercyhurst Lakers,-105,
-basketball_ncaab,2024-11-14 00:00:00,Bovada,Central Michigan Chippewas,700,George Mason Patriots,-1200,
-basketball_ncaab,2024-11-14 00:00:00,Bovada,Charlotte 49ers,-120,Richmond Spiders,100,
-basketball_ncaab,2024-11-14 00:00:00,Bovada,Coastal Carolina Chanticleers,1000,NC State Wolfpack,-2200,
-basketball_ncaab,2024-11-14 00:00:00,Bovada,Florida Gulf Coast Eagles,135,St. Bonaventure Bonnies,-160,
-basketball_ncaab,2024-11-14 00:00:00,Bovada,Georgia St Panthers,200,Jacksonville St Gamecocks,-240,
-basketball_ncaab,2024-11-14 00:00:00,Bovada,Harvard Crimson,110,Northeastern Huskies,-130,
-basketball_ncaab,2024-11-14 00:00:00,Bovada,Howard Bison,-150,Tennessee St Tigers,130,
-basketball_ncaab,2024-11-14 00:00:00,Bovada,Le Moyne Dolphins,1600,UConn Huskies,-10000,
-basketball_ncaab,2024-11-14 00:00:00,Bovada,Longwood Lancers,-175,Milwaukee Panthers,150,
-basketball_ncaab,2024-11-14 00:00:00,Bovada,Merrimack Warriors,850,VCU Rams,-1800,
-basketball_ncaab,2024-11-14 00:00:00,Bovada,Montana Grizzlies,1300,Tennessee Volunteers,-6500,
-basketball_ncaab,2024-11-14 00:00:00,Bovada,Presbyterian Blue Hose,150,Wofford Terriers,-175,
-basketball_ncaab,2024-11-14 00:00:00,Bovada,South Carolina Upstate Spartans,1400,Wake Forest Demon Deacons,-8000,
-basketball_ncaab,2024-11-14 00:00:00,Bovada,Toledo Rockets,-310,Wright St Raiders,255,
-basketball_ncaab,2024-11-14 00:30:00,Bovada,Evansville Purple Aces,400,Middle Tennessee Blue Raiders,-575,
-basketball_ncaab,2024-11-14 00:30:00,Bovada,Southern Jaguars,-165,Texas A&M-Commerce Lions,140,
-basketball_ncaab,2024-11-14 01:00:00,Bovada,Arkansas Razorbacks,-950,Troy Trojans,600,
-basketball_ncaab,2024-11-14 01:00:00,Bovada,Auburn Tigers,-5000,Kent State Golden Flashes,1200,
-basketball_ncaab,2024-11-14 01:00:00,Bovada,California Golden Bears,300,Vanderbilt Commodores,-400,
-basketball_ncaab,2024-11-14 01:00:00,Bovada,Fairleigh Dickinson Knights,1300,Nebraska Cornhuskers,-7000,
-basketball_ncaab,2024-11-14 01:00:00,Bovada,Green Bay Phoenix,130,Western Illinois Leathernecks,-150,
-basketball_ncaab,2024-11-14 01:00:00,Bovada,Hofstra Pride,165,Seton Hall Pirates,-195,
-basketball_ncaab,2024-11-14 01:00:00,Bovada,Minnesota Golden Gophers,-140,North Texas Mean Green,120,
-basketball_ncaab,2024-11-14 01:00:00,Bovada,Oral Roberts Golden Eagles,370,Tulsa Golden Hurricane,-510,
-basketball_ncaab,2024-11-14 01:00:00,Bovada,Texas Tech Red Raiders,-2800,Wyoming Cowboys,1100,
-basketball_ncaab,2024-11-14 02:00:00,Bovada,BYU Cougars,-10000,Queens University Royals,1600,
-basketball_ncaab,2024-11-14 02:00:00,Bovada,Colorado Buffaloes,-1600,CSU Fullerton Titans,800,
-basketball_ncaab,2024-11-14 02:00:00,Bovada,Creighton Bluejays,-10000,Houston Christian Huskies,1600,
-basketball_ncaab,2024-11-14 02:00:00,Bovada,Illinois Fighting Illini,-5000,Oakland Golden Grizzlies,1200,
-basketball_ncaab,2024-11-14 03:00:00,Bovada,Fresno St Bulldogs,600,UC Santa Barbara Gauchos,-950,
-basketball_ncaab,2024-11-14 03:00:00,Bovada,Long Beach St 49ers,800,San Francisco Dons,-1600,
-basketball_ncaab,2024-11-14 03:00:00,Bovada,Nevada Wolf Pack,-1800,Weber State Wildcats,850,
-basketball_ncaab,2024-11-14 03:00:00,Bovada,North Dakota St Bison,800,Santa Clara Broncos,-1600,
-basketball_ncaab,2024-11-14 04:00:00,Bovada,USC Trojans,-1800,UT-Arlington Mavericks,850,
+basketball_euroleague,2024-11-14 19:45:00,Bovada,Anadolu Efes,240,Real Madrid,-300,
+basketball_euroleague,2024-11-15 18:00:00,Bovada,Fenerbahce SK,120,Žalgiris,-145,
+basketball_euroleague,2024-11-15 19:30:00,Bovada,FC Barcelona Bàsquet,-300,Paris Basketball,240,
+basketball_euroleague,2024-11-15 19:30:00,Bovada,KK Partizan NIS,-260,Pallacanestro Olimpia Milano,210,
+basketball_euroleague,2024-11-15 19:30:00,Bovada,Panathinaikos,-250,Virtus Segafredo Bologna,200,
+basketball_nba,2024-11-15 02:10:00,Bovada,Dallas Mavericks,-435,Utah Jazz,325,
+basketball_ncaab,2024-11-14 21:00:00,Bovada,Lindenwood Lions,-105,New Orleans Privateers,-115,
+basketball_ncaab,2024-11-14 23:30:00,Bovada,Eastern Michigan Eagles,140,IUPUI Jaguars,-165,
+basketball_ncaab,2024-11-15 00:00:00,Bovada,Bryant Bulldogs,-240,Buffalo Bulls,200,
+basketball_ncaab,2024-11-15 00:00:00,Bovada,Coppin St Eagles,600,UMBC Retrievers,-950,
+basketball_ncaab,2024-11-15 00:00:00,Bovada,Jacksonville Dolphins,-285,South Carolina St Bulldogs,235,
+basketball_ncaab,2024-11-15 00:00:00,Bovada,Nicholls St Colonels,250,Northern Kentucky Norse,-300,
+basketball_ncaab,2024-11-15 00:00:00,Bovada,Robert Morris Colonials,-440,Stonehill Skyhawks,330,
+basketball_ncaab,2024-11-15 00:30:00,Bovada,Northern Iowa Panthers,275,Wichita St Shockers,-350,
+basketball_ncaab,2024-11-15 01:00:00,Bovada,Chattanooga Mocs,-750,Morehead St Eagles,500,
+basketball_ncaab,2024-11-15 01:00:00,Bovada,Oklahoma St Cowboys,-750,Southern Illinois Salukis,500,
+basketball_ncaab,2024-11-15 02:00:00,Bovada,Arizona St Sun Devils,185,Grand Canyon Antelopes,-225,
+basketball_ncaab,2024-11-15 02:00:00,Bovada,Kansas St Wildcats,-370,LSU Tigers,285,
+basketball_ncaab,2024-11-15 02:00:00,Bovada,N Colorado Bears,140,South Dakota St Jackrabbits,-165,
+basketball_ncaab,2024-11-15 02:30:00,Bovada,New Mexico St Aggies,-210,Texas A&M-CC Islanders,175,
+basketball_ncaab,2024-11-15 03:00:00,Bovada,Cal Poly Mustangs,170,Seattle Redhawks,-200,
+basketball_ncaab,2024-11-15 03:00:00,Bovada,Northern Arizona Lumberjacks,210,Pacific Tigers,-250,
+basketball_ncaab,2024-11-15 03:00:00,Bovada,Omaha Mavericks,1000,UNLV Rebels,-2200,
 boxing_boxing,2024-11-16 00:00:00,Bovada,Abel Ramos,650,Mario Barrios,-1200,
-boxing_boxing,2024-11-16 00:00:00,Bovada,Armando Casamonica,550,Lucas Bahdi,-1000,
-boxing_boxing,2024-11-16 00:00:00,Bovada,Bruce Carrington,-800,Dana Coolwell,475,
-boxing_boxing,2024-11-16 00:00:00,Bovada,Neeraj Goyat,-475,Whindersson Nunes,315,
-boxing_boxing,2024-11-16 04:00:00,Bovada,Jake Paul,-225,Mike Tyson,185,
-boxing_boxing,2024-11-16 16:00:00,Bovada,Batyr Akhmedov,-110,Oscar Duarte Jurado,-120,
+boxing_boxing,2024-11-16 00:00:00,Bovada,Armando Casamonica,475,Lucas Bahdi,-800,
+boxing_boxing,2024-11-16 00:00:00,Bovada,Bruce Carrington,-1100,Dana Coolwell,600,
+boxing_boxing,2024-11-16 00:00:00,Bovada,Melinda Watpool,180,Shadasia Green,-240,
+boxing_boxing,2024-11-16 00:00:00,Bovada,Neeraj Goyat,-460,Whindersson Nunes,305,
+boxing_boxing,2024-11-16 04:00:00,Bovada,Jake Paul,-220,Mike Tyson,185,
+boxing_boxing,2024-11-16 16:00:00,Bovada,Batyr Akhmedov,105,Oscar Duarte Jurado,-135,
 boxing_boxing,2024-11-16 16:00:00,Bovada,Oscar Collazo,-1100,Thammanoon Niyomtrong,600,
-boxing_boxing,2024-11-16 21:00:00,Bovada,Arnold Barboza Jr,125,Jose Ramirez,-165,
-boxing_boxing,2024-11-16 22:00:00,Bovada,Tevin Farmer,900,William Zepeda,-2000,
+boxing_boxing,2024-11-16 22:00:00,Bovada,Tevin Farmer,1000,William Zepeda,-2500,
 boxing_boxing,2024-11-16 23:00:00,Bovada,Chris Billam-Smith,200,Gilberto Ramirez,-275,
 boxing_boxing,2024-11-30 21:00:00,Bovada,Galal Yafai,105,Sunny Edwards,-135,
 boxing_boxing,2024-12-08 00:00:00,Bovada,Emanuel Navarrete,-250,Oscar Valdez,185,
 boxing_boxing,2024-12-08 01:00:00,Bovada,Liam Paro,-130,Richardson Hitchins,100,
-icehockey_nhl,2024-11-14 00:30:00,Bovada,Detroit Red Wings,120,Pittsburgh Penguins,-140,
-icehockey_nhl,2024-11-14 00:30:00,Bovada,Toronto Maple Leafs,122,Washington Capitals,-142,
-icehockey_nhl,2024-11-14 02:00:00,Bovada,Carolina Hurricanes,-190,Utah Hockey Club,163,
-icehockey_nhl,2024-11-14 03:00:00,Bovada,Anaheim Ducks,185,Vegas Golden Knights,-225,
-icehockey_nhl,2024-11-14 03:00:00,Bovada,Colorado Avalanche,-138,Los Angeles Kings,117,
-icehockey_sweden_hockey_league,2024-11-14 18:00:00,Bovada,Brynäs IF,-165,Linköping HC,135,
-icehockey_sweden_hockey_league,2024-11-14 18:00:00,Bovada,Frölunda HC,-110,Leksands IF,-110,
-icehockey_sweden_hockey_league,2024-11-14 18:00:00,Bovada,Färjestad BK,-195,Modo Hockey,160,
-icehockey_sweden_hockey_league,2024-11-14 18:00:00,Bovada,HV71,165,Timrå IK,-200,
-icehockey_sweden_hockey_league,2024-11-14 18:00:00,Bovada,Luleå HF,110,Växjö Lakers,-130,
-icehockey_sweden_hockey_league,2024-11-14 18:00:00,Bovada,Malmö Redhawks,180,Skellefteå AIK,-220,
-icehockey_sweden_hockey_league,2024-11-14 18:00:00,Bovada,Rögle BK,105,Örebro HK,-125,
-icehockey_sweden_allsvenskan,2024-11-13 18:00:00,Bovada,AIK,-190,Nybro Vikings IF,145,
-icehockey_sweden_allsvenskan,2024-11-13 18:00:00,Bovada,Almtuna IS,160,Västerås IK,-210,
-icehockey_sweden_allsvenskan,2024-11-13 18:00:00,Bovada,BIK Karlskoga,-150,IK Oskarshamn,115,
-icehockey_sweden_allsvenskan,2024-11-13 18:00:00,Bovada,Djurgårdens IF,-145,Kalmar HC,110,
-icehockey_sweden_allsvenskan,2024-11-13 18:00:00,Bovada,IF Björklöven,-200,Mora IK,150,
-icehockey_sweden_allsvenskan,2024-11-13 18:00:00,Bovada,Södertälje SK,-700,Östersunds IK,425,
-icehockey_sweden_allsvenskan,2024-11-13 18:00:00,Bovada,Tingsryds AIF,100,Vimmerby HC,-130,
+icehockey_nhl,2024-11-15 00:00:00,Bovada,Florida Panthers,-155,New Jersey Devils,133,
+icehockey_nhl,2024-11-15 00:00:00,Bovada,New York Rangers,-460,San Jose Sharks,340,
+icehockey_nhl,2024-11-15 00:00:00,Bovada,Ottawa Senators,-190,Philadelphia Flyers,163,
+icehockey_nhl,2024-11-15 00:00:00,Bovada,Tampa Bay Lightning,-133,Winnipeg Jets,112,
+icehockey_nhl,2024-11-15 00:30:00,Bovada,Buffalo Sabres,-165,St Louis Blues,140,
+icehockey_nhl,2024-11-15 01:00:00,Bovada,Boston Bruins,147,Dallas Stars,-172,
+icehockey_nhl,2024-11-15 01:00:00,Bovada,Minnesota Wild,-250,Montréal Canadiens,210,
+icehockey_nhl,2024-11-15 02:00:00,Bovada,Edmonton Oilers,-180,Nashville Predators,155,
+icehockey_nhl,2024-11-15 03:00:00,Bovada,Chicago Blackhawks,135,Seattle Kraken,-160,
+icehockey_nhl,2024-11-15 03:00:00,Bovada,New York Islanders,160,Vancouver Canucks,-185,
+icehockey_sweden_allsvenskan,2024-11-15 16:30:00,Bovada,Almtuna IS,-120,Mora IK,-110,
+icehockey_sweden_allsvenskan,2024-11-15 18:00:00,Bovada,AIK,255,IF Björklöven,-360,
+icehockey_sweden_allsvenskan,2024-11-15 18:00:00,Bovada,BIK Karlskoga,-135,Kalmar HC,105,
+icehockey_sweden_allsvenskan,2024-11-15 18:00:00,Bovada,Djurgårdens IF,-145,IK Oskarshamn,110,
+icehockey_sweden_allsvenskan,2024-11-15 18:00:00,Bovada,Nybro Vikings IF,-310,Östersunds IK,225,
+icehockey_sweden_allsvenskan,2024-11-15 18:00:00,Bovada,Södertälje SK,-600,Vimmerby HC,375,
+icehockey_sweden_allsvenskan,2024-11-15 18:00:00,Bovada,Tingsryds AIF,105,Västerås IK,-135,
 mma_mixed_martial_arts,2024-11-16 17:00:00,Bovada,Adam Brysz,-150,Nicolae Bivol,115,
-mma_mixed_martial_arts,2024-11-16 17:00:00,Bovada,Adrian Bartosinski,-360,Mamed Khalidov,255,
 mma_mixed_martial_arts,2024-11-16 17:00:00,Bovada,Andrzej Grzebyk,-105,Wiktor Zalewski,-125,
-mma_mixed_martial_arts,2024-11-16 17:00:00,Bovada,Aymard Guih,-220,Dawid Smielowski,165,
-mma_mixed_martial_arts,2024-11-16 17:00:00,Bovada,Damian Janikowski,220,Piotr Kuberski,-300,
-mma_mixed_martial_arts,2024-11-16 17:00:00,Bovada,Darko Stosic,275,Phil De Fries,-400,
+mma_mixed_martial_arts,2024-11-16 17:00:00,Bovada,Aymard Guih,190,Dawid Smielowski,-260,
+mma_mixed_martial_arts,2024-11-16 17:00:00,Bovada,Damian Janikowski,230,Piotr Kuberski,-325,
 mma_mixed_martial_arts,2024-11-16 17:00:00,Bovada,Igor Michaliszyn,-205,Madars Fleminas,155,
-mma_mixed_martial_arts,2024-11-16 17:00:00,Bovada,Kacper Formela,200,Robert Ruchala,-275,
-mma_mixed_martial_arts,2024-11-16 20:00:00,Bovada,Bassil Hafez,205,Oban Elliott,-245,
-mma_mixed_martial_arts,2024-11-16 20:00:00,Bovada,Damon Jackson,-165,Jim Miller,140,
-mma_mixed_martial_arts,2024-11-16 20:00:00,Bovada,Karine Silva,-260,Viviane Araujo,215,
-mma_mixed_martial_arts,2024-11-16 23:15:00,Bovada,Eduarda Moura,125,Veronica Hardy,-145,
+mma_mixed_martial_arts,2024-11-16 18:00:00,Bovada,Kacper Formela,200,Robert Ruchala,-275,
+mma_mixed_martial_arts,2024-11-16 18:45:00,Bovada,Darko Stosic,275,Phil De Fries,-400,
+mma_mixed_martial_arts,2024-11-16 19:00:00,Bovada,Adrian Bartosinski,-360,Mamed Khalidov,255,
+mma_mixed_martial_arts,2024-11-16 20:00:00,Bovada,Bassil Hafez,230,Oban Elliott,-280,
+mma_mixed_martial_arts,2024-11-16 20:00:00,Bovada,Damon Jackson,-170,Jim Miller,145,
+mma_mixed_martial_arts,2024-11-16 20:00:00,Bovada,Karine Silva,-290,Viviane Araujo,240,
+mma_mixed_martial_arts,2024-11-16 23:00:00,Bovada,Eduarda Moura,112,Veronica Hardy,-133,
 mma_mixed_martial_arts,2024-11-17 00:15:00,Bovada,Mickey Gall,-140,Ramiz Brahimaj,120,
-mma_mixed_martial_arts,2024-11-17 00:45:00,Bovada,Jhonata Diniz,125,Marcin Tybura,-145,
+mma_mixed_martial_arts,2024-11-17 00:45:00,Bovada,Jhonata Diniz,122,Marcin Tybura,-142,
 mma_mixed_martial_arts,2024-11-17 02:15:00,Bovada,Chris Weidman,100,Eryk Anders,-120,
-mma_mixed_martial_arts,2024-11-17 02:45:00,Bovada,Jonathan Martinez,115,Marcus McGhee,-135,
-mma_mixed_martial_arts,2024-11-17 03:15:00,Bovada,James Llontop,550,Mauricio Ruffy,-850,
-mma_mixed_martial_arts,2024-11-17 04:15:00,Bovada,Bo Nickal,-1400,Paul Craig,750,
-mma_mixed_martial_arts,2024-11-17 04:45:00,Bovada,Charles Oliveira,-250,Michael Chandler,210,
+mma_mixed_martial_arts,2024-11-17 02:45:00,Bovada,Jonathan Martinez,127,Marcus McGhee,-147,
+mma_mixed_martial_arts,2024-11-17 03:15:00,Bovada,James Llontop,600,Mauricio Ruffy,-950,
+mma_mixed_martial_arts,2024-11-17 04:15:00,Bovada,Bo Nickal,-1500,Paul Craig,775,
+mma_mixed_martial_arts,2024-11-17 04:45:00,Bovada,Charles Oliveira,-260,Michael Chandler,215,
 mma_mixed_martial_arts,2024-11-17 05:30:00,Bovada,Jon Jones,-675,Stipe Miocic,460,
 mma_mixed_martial_arts,2024-12-08 03:00:00,Bovada,Alexander Volkov,215,Ciryl Gane,-260,
-soccer_argentina_primera_division,2024-11-17 20:30:00,Bovada,Racing Club,220,San Lorenzo,145,180.0
+soccer_argentina_primera_division,2024-11-17 20:30:00,Bovada,Racing Club,210,San Lorenzo,150,185.0
 soccer_argentina_primera_division,2024-11-18 20:00:00,Bovada,Banfield,125,CA Tigre BA,230,210.0
 soccer_argentina_primera_division,2024-11-18 22:15:00,Bovada,Defensa y Justicia,-125,Deportivo Riestra,390,220.0
 soccer_argentina_primera_division,2024-11-18 22:15:00,Bovada,Godoy Cruz,255,Platense,125,185.0
@@ -177,7 +141,7 @@ soccer_argentina_primera_division,2024-11-19 00:30:00,Bovada,Argentinos Juniors,
 soccer_argentina_primera_division,2024-11-19 00:30:00,Bovada,Atlético Huracán,195,Atlético Tucuman,155,190.0
 soccer_argentina_primera_division,2024-11-20 20:00:00,Bovada,Central Córdoba,270,Newells Old Boys,115,195.0
 soccer_argentina_primera_division,2024-11-20 22:15:00,Bovada,Estudiantes,-125,Rosario Central,390,225.0
-soccer_argentina_primera_division,2024-11-20 22:15:00,Bovada,Lanus,440,Velez Sarsfield BA,-145,235.0
+soccer_argentina_primera_division,2024-11-20 22:15:00,Bovada,Lanus,700,Velez Sarsfield BA,-210,275.0
 soccer_argentina_primera_division,2024-11-21 00:30:00,Bovada,Boca Juniors,-140,Union Santa Fe,370,255.0
 soccer_argentina_primera_division,2024-11-21 20:00:00,Bovada,Barracas Central,280,Belgrano de Cordoba,110,200.0
 soccer_argentina_primera_division,2024-11-21 22:15:00,Bovada,Gimnasia La Plata,320,Independiente,-105,200.0
@@ -196,11 +160,11 @@ soccer_australia_aleague,2024-11-22 06:30:00,Bovada,Perth Glory,145,Western Unit
 soccer_australia_aleague,2024-11-22 09:00:00,Bovada,Central Coast Mariners,155,Newcastle Jets FC,160,235.0
 soccer_australia_aleague,2024-11-23 06:00:00,Bovada,Adelaide United,145,Brisbane Roar,160,260.0
 soccer_australia_aleague,2024-11-23 08:35:00,Bovada,Sydney FC,-145,Western Sydney Wanderers,330,310.0
-soccer_australia_aleague,2024-11-24 02:30:00,Bovada,Melbourne Victory,125,Wellington Phoenix FC,210,235.0
+soccer_australia_aleague,2024-11-24 02:30:00,Bovada,Melbourne Victory,120,Wellington Phoenix FC,215,230.0
 soccer_australia_aleague,2024-11-24 05:00:00,Bovada,Auckland FC,145,Macarthur FC,155,255.0
 soccer_austria_bundesliga,2024-11-23 16:00:00,Bovada,Austria Klagenfurt,500,Sturm Graz,-230,350.0
 soccer_austria_bundesliga,2024-11-23 16:00:00,Bovada,LASK,360,RB Salzburg,-145,275.0
-soccer_austria_bundesliga,2024-11-23 16:00:00,Bovada,Rapid Wien,-185,WSG Tirol,420,320.0
+soccer_austria_bundesliga,2024-11-23 16:00:00,Bovada,Rapid Wien,-190,WSG Tirol,440,320.0
 soccer_austria_bundesliga,2024-11-24 13:30:00,Bovada,FC Blau-Weiß Linz,-105,Grazer AK,265,230.0
 soccer_austria_bundesliga,2024-11-24 13:30:00,Bovada,Rheindorf Altach,265,Wolfsberger AC,-105,235.0
 soccer_austria_bundesliga,2024-11-24 16:00:00,Bovada,Austria Wien,-120,Hartberg,300,250.0
@@ -210,31 +174,31 @@ soccer_austria_bundesliga,2024-11-30 16:00:00,Bovada,Rheindorf Altach,390,Sturm 
 soccer_austria_bundesliga,2024-12-01 13:30:00,Bovada,Austria Klagenfurt,105,WSG Tirol,250,225.0
 soccer_austria_bundesliga,2024-12-01 13:30:00,Bovada,FC Blau-Weiß Linz,460,Rapid Wien,-190,310.0
 soccer_austria_bundesliga,2024-12-01 16:00:00,Bovada,Austria Wien,175,LASK,135,235.0
-soccer_brazil_campeonato,2024-11-13 23:00:00,Bovada,Atletico Mineiro,310,Flamengo,-110,245.0
-soccer_brazil_campeonato,2024-11-16 21:30:00,Bovada,Atletico Mineiro,210,Atletico Paranaense,135,230.0
+soccer_brazil_campeonato,2024-11-16 21:30:00,Bovada,Atletico Mineiro,215,Atletico Paranaense,130,230.0
 soccer_brazil_campeonato,2024-11-20 14:00:00,Bovada,Corinthians,-240,Cruzeiro,800,320.0
-soccer_brazil_campeonato,2024-11-20 19:30:00,Bovada,Atletico Goianiense,475,Atletico Paranaense,-165,290.0
+soccer_brazil_campeonato,2024-11-20 19:30:00,Bovada,Atletico Goianiense,475,Atletico Paranaense,-160,285.0
 soccer_brazil_campeonato,2024-11-20 19:30:00,Bovada,Bragantino-SP,180,Sao Paulo,160,225.0
-soccer_brazil_campeonato,2024-11-20 19:30:00,Bovada,Criciuma,115,Vitoria,240,235.0
-soccer_brazil_campeonato,2024-11-20 22:00:00,Bovada,Cuiabá,275,Flamengo,105,245.0
-soccer_brazil_campeonato,2024-11-20 22:00:00,Bovada,Grêmio,-175,Juventude,460,320.0
-soccer_brazil_campeonato,2024-11-20 23:00:00,Bovada,Bahia,215,Palmeiras,125,250.0
-soccer_brazil_campeonato,2024-11-21 00:30:00,Bovada,Atletico Mineiro,235,Botafogo,115,250.0
-soccer_brazil_campeonato,2024-11-21 23:00:00,Bovada,Internacional,140,Vasco da Gama,210,220.0
-soccer_brazil_campeonato,2024-11-23 00:30:00,Bovada,Fluminense,110,Fortaleza,255,240.0
-soccer_brazil_serie_b,2024-11-15 19:00:00,Bovada,Mirassol,205,Operario PR,150,175.0
+soccer_brazil_campeonato,2024-11-20 19:30:00,Bovada,Criciuma,110,Vitoria,255,240.0
+soccer_brazil_campeonato,2024-11-20 21:00:00,Bovada,Bahia,215,Palmeiras,125,250.0
+soccer_brazil_campeonato,2024-11-20 22:00:00,Bovada,Cuiabá,300,Flamengo,-105,245.0
+soccer_brazil_campeonato,2024-11-20 22:00:00,Bovada,Grêmio,-165,Juventude,460,300.0
+soccer_brazil_campeonato,2024-11-21 00:30:00,Bovada,Atletico Mineiro,215,Botafogo,125,245.0
+soccer_brazil_campeonato,2024-11-21 23:00:00,Bovada,Internacional,130,Vasco da Gama,235,220.0
+soccer_brazil_campeonato,2024-11-23 00:30:00,Bovada,Fluminense,100,Fortaleza,280,250.0
+soccer_brazil_serie_b,2024-11-15 19:00:00,Bovada,Mirassol,215,Operario PR,150,170.0
 soccer_brazil_serie_b,2024-11-16 20:00:00,Bovada,Grêmio Novorizontino,-205,Paysandu,575,285.0
-soccer_brazil_serie_b,2024-11-16 22:00:00,Bovada,Amazonas FC,330,Goiás,-115,220.0
+soccer_brazil_serie_b,2024-11-16 22:00:00,Bovada,Amazonas FC,320,Goiás,-115,220.0
 soccer_brazil_serie_b,2024-11-17 00:00:00,Bovada,Ituano,340,Vila Nova,-120,230.0
 soccer_brazil_serie_b,2024-11-17 00:30:00,Bovada,Ponte Preta,250,Sport Recife,110,215.0
 soccer_brazil_serie_b,2024-11-17 14:00:00,Bovada,Brusque FC,130,Guarani,240,175.0
 soccer_brazil_serie_b,2024-11-17 19:00:00,Bovada,Chapecoense,100,Coritiba,270,225.0
-soccer_brazil_serie_b,2024-11-17 19:00:00,Bovada,Clube de Regatas Brasil,475,Santos,-175,275.0
-soccer_brazil_serie_b,2024-11-19 00:45:00,Bovada,América Mineiro,400,Ceará,-150,260.0
-soccer_denmark_superliga,2024-11-22 18:00:00,Bovada,AGF Aarhus,265,FC Nordsjaelland,-105,245.0
+soccer_brazil_serie_b,2024-11-17 19:00:00,Bovada,Clube de Regatas Brasil,500,Santos,-185,280.0
+soccer_brazil_serie_b,2024-11-19 00:00:00,Bovada,Avai,280,Botafogo,105,205.0
+soccer_brazil_serie_b,2024-11-19 00:45:00,Bovada,América Mineiro,380,Ceará,-140,250.0
+soccer_denmark_superliga,2024-11-22 18:00:00,Bovada,AGF Aarhus,270,FC Nordsjaelland,100,230.0
 soccer_denmark_superliga,2024-11-24 13:00:00,Bovada,AaB,185,Viborg FF,130,250.0
 soccer_denmark_superliga,2024-11-24 13:00:00,Bovada,Randers FC,-195,Vejle Boldklub,475,340.0
-soccer_denmark_superliga,2024-11-24 15:00:00,Bovada,Brondby IF,-220,SonderjyskE,525,350.0
+soccer_denmark_superliga,2024-11-24 15:00:00,Bovada,Brondby IF,-215,SonderjyskE,500,350.0
 soccer_denmark_superliga,2024-11-24 17:00:00,Bovada,FC Copenhagen,-360,Lyngby,850,460.0
 soccer_denmark_superliga,2024-11-25 18:00:00,Bovada,FC Midtjylland,-150,Silkeborg IF,370,285.0
 soccer_efl_champ,2024-11-22 20:00:00,Bovada,Plymouth Argyle,200,Watford,125,240.0
@@ -249,100 +213,100 @@ soccer_efl_champ,2024-11-23 15:00:00,Bovada,Millwall,150,Sunderland,190,205.0
 soccer_efl_champ,2024-11-23 15:00:00,Bovada,Norwich City,320,West Bromwich Albion,-120,245.0
 soccer_efl_champ,2024-11-23 15:00:00,Bovada,Queens Park Rangers,160,Stoke City,170,215.0
 soccer_efl_champ,2024-11-24 15:00:00,Bovada,Leeds United,-135,Swansea City,340,280.0
-soccer_england_league1,2024-11-16 12:30:00,Bovada,Exeter City,150,Lincoln City,195,215.0
+soccer_england_league1,2024-11-16 12:30:00,Bovada,Exeter City,165,Lincoln City,180,215.0
 soccer_england_league1,2024-11-16 15:00:00,Bovada,Barnsley,-110,Cambridge United,280,245.0
-soccer_england_league1,2024-11-16 15:00:00,Bovada,Blackpool,-175,Northampton Town,420,310.0
-soccer_england_league1,2024-11-16 15:00:00,Bovada,Bristol Rovers,-105,Crawley Town,265,250.0
-soccer_england_league1,2024-11-16 15:00:00,Bovada,Stockport County FC,125,Wrexham AFC,190,235.0
-soccer_england_league2,2024-11-16 15:00:00,Bovada,Accrington Stanley,135,Swindon Town,180,235.0
-soccer_england_league2,2024-11-16 15:00:00,Bovada,Barrow,160,Wimbledon,170,205.0
+soccer_england_league1,2024-11-16 15:00:00,Bovada,Blackpool,-170,Northampton Town,400,300.0
+soccer_england_league1,2024-11-16 15:00:00,Bovada,Bristol Rovers,-110,Crawley Town,275,250.0
+soccer_england_league1,2024-11-16 15:00:00,Bovada,Stockport County FC,125,Wrexham AFC,205,230.0
+soccer_england_league2,2024-11-16 15:00:00,Bovada,Accrington Stanley,130,Swindon Town,185,240.0
+soccer_england_league2,2024-11-16 15:00:00,Bovada,Barrow,165,Wimbledon,165,200.0
 soccer_england_league2,2024-11-16 15:00:00,Bovada,Bradford City,150,Colchester United,175,220.0
 soccer_england_league2,2024-11-16 15:00:00,Bovada,Bromley FC,105,Carlisle United,240,250.0
 soccer_england_league2,2024-11-16 15:00:00,Bovada,Cheltenham Town,350,Milton Keynes Dons,-135,260.0
 soccer_england_league2,2024-11-16 15:00:00,Bovada,Chesterfield FC,-135,Harrogate Town,330,265.0
-soccer_england_league2,2024-11-16 15:00:00,Bovada,Crewe Alexandra,160,Notts County,155,225.0
-soccer_england_league2,2024-11-16 15:00:00,Bovada,Doncaster Rovers,-145,Salford City,350,275.0
+soccer_england_league2,2024-11-16 15:00:00,Bovada,Crewe Alexandra,160,Notts County,155,230.0
+soccer_england_league2,2024-11-16 15:00:00,Bovada,Doncaster Rovers,-150,Salford City,370,280.0
 soccer_england_league2,2024-11-16 15:00:00,Bovada,Grimsby Town,130,Newport County,190,230.0
 soccer_england_league2,2024-11-16 15:00:00,Bovada,Morecambe,330,Port Vale,-125,240.0
 soccer_england_league2,2024-11-19 19:45:00,Bovada,Accrington Stanley,370,Wimbledon,-150,270.0
 soccer_epl,2024-11-23 12:30:00,Bovada,Chelsea,-165,Leicester City,400,340.0
-soccer_epl,2024-11-23 15:00:00,Bovada,Arsenal,-265,Nottingham Forest,675,400.0
-soccer_epl,2024-11-23 15:00:00,Bovada,Aston Villa,-165,Crystal Palace,420,320.0
+soccer_epl,2024-11-23 15:00:00,Bovada,Arsenal,-280,Nottingham Forest,700,420.0
+soccer_epl,2024-11-23 15:00:00,Bovada,Aston Villa,-160,Crystal Palace,420,320.0
 soccer_epl,2024-11-23 15:00:00,Bovada,Bournemouth,130,Brighton and Hove Albion,195,260.0
 soccer_epl,2024-11-23 15:00:00,Bovada,Brentford,195,Everton,135,250.0
-soccer_epl,2024-11-23 15:00:00,Bovada,Fulham,-140,Wolverhampton Wanderers,360,300.0
-soccer_epl,2024-11-23 17:30:00,Bovada,Manchester City,-195,Tottenham Hotspur,440,390.0
+soccer_epl,2024-11-23 15:00:00,Bovada,Fulham,-150,Wolverhampton Wanderers,380,310.0
+soccer_epl,2024-11-23 17:30:00,Bovada,Manchester City,-195,Tottenham Hotspur,420,390.0
 soccer_epl,2024-11-24 14:00:00,Bovada,Liverpool,-305,Southampton,700,475.0
 soccer_epl,2024-11-24 16:30:00,Bovada,Ipswich Town,370,Manchester United,-150,320.0
-soccer_epl,2024-11-25 20:00:00,Bovada,Newcastle United,-210,West Ham United,500,380.0
-soccer_epl,2024-11-29 20:00:00,Bovada,Brighton and Hove Albion,-200,Southampton,460,350.0
+soccer_epl,2024-11-25 20:00:00,Bovada,Newcastle United,-190,West Ham United,460,370.0
+soccer_epl,2024-11-29 20:00:00,Bovada,Brighton and Hove Albion,-210,Southampton,475,350.0
 soccer_epl,2024-11-30 15:00:00,Bovada,Bournemouth,140,Wolverhampton Wanderers,160,270.0
-soccer_epl,2024-11-30 15:00:00,Bovada,Brentford,-135,Leicester City,300,310.0
-soccer_epl,2024-11-30 15:00:00,Bovada,Crystal Palace,200,Newcastle United,125,240.0
-soccer_epl,2024-11-30 15:00:00,Bovada,Ipswich Town,370,Nottingham Forest,-155,300.0
-soccer_epl,2024-11-30 17:30:00,Bovada,Arsenal,-210,West Ham United,475,350.0
-soccer_epl,2024-12-01 13:30:00,Bovada,Aston Villa,255,Chelsea,-120,295.0
-soccer_epl,2024-12-01 13:30:00,Bovada,Everton,460,Manchester United,-200,340.0
-soccer_epl,2024-12-01 13:30:00,Bovada,Fulham,400,Tottenham Hotspur,-185,340.0
-soccer_epl,2024-12-01 16:00:00,Bovada,Liverpool,130,Manchester City,170,270.0
-soccer_france_ligue_one,2024-11-22 18:00:00,Bovada,AS Monaco,-185,Brest,460,350.0
+soccer_epl,2024-11-30 15:00:00,Bovada,Brentford,-140,Leicester City,310,310.0
+soccer_epl,2024-11-30 15:00:00,Bovada,Crystal Palace,195,Newcastle United,120,255.0
+soccer_epl,2024-11-30 15:00:00,Bovada,Ipswich Town,340,Nottingham Forest,-145,290.0
+soccer_epl,2024-11-30 17:30:00,Bovada,Arsenal,-215,West Ham United,500,350.0
+soccer_epl,2024-12-01 13:30:00,Bovada,Aston Villa,260,Chelsea,-120,295.0
+soccer_epl,2024-12-01 13:30:00,Bovada,Everton,460,Manchester United,-195,340.0
+soccer_epl,2024-12-01 13:30:00,Bovada,Fulham,370,Tottenham Hotspur,-165,320.0
+soccer_epl,2024-12-01 16:00:00,Bovada,Liverpool,125,Manchester City,180,270.0
+soccer_france_ligue_one,2024-11-22 18:00:00,Bovada,AS Monaco,-190,Brest,460,350.0
 soccer_france_ligue_one,2024-11-22 20:00:00,Bovada,Paris Saint Germain,-300,Toulouse,675,475.0
 soccer_france_ligue_one,2024-11-23 16:00:00,Bovada,Marseille,210,RC Lens,125,260.0
-soccer_france_ligue_one,2024-11-23 18:00:00,Bovada,Montpellier,175,Saint Etienne,140,275.0
+soccer_france_ligue_one,2024-11-23 18:00:00,Bovada,Montpellier,185,Saint Etienne,130,270.0
 soccer_france_ligue_one,2024-11-23 20:00:00,Bovada,Lyon,145,Stade de Reims,165,275.0
-soccer_france_ligue_one,2024-11-24 14:00:00,Bovada,Lille,-110,Rennes,285,270.0
+soccer_france_ligue_one,2024-11-24 14:00:00,Bovada,Lille,-110,Rennes,285,265.0
 soccer_france_ligue_one,2024-11-24 16:00:00,Bovada,Angers,300,Auxerre,-120,285.0
 soccer_france_ligue_one,2024-11-24 16:00:00,Bovada,Le Havre,340,Nantes,-115,250.0
 soccer_france_ligue_one,2024-11-24 19:45:00,Bovada,Nice,-125,Strasbourg,320,285.0
 soccer_france_ligue_one,2024-11-29 19:45:00,Bovada,RC Lens,165,Stade de Reims,160,215.0
 soccer_france_ligue_one,2024-11-30 16:00:00,Bovada,Rennes,-180,Saint Etienne,440,300.0
-soccer_france_ligue_one,2024-11-30 18:00:00,Bovada,Brest,115,Strasbourg,225,225.0
+soccer_france_ligue_one,2024-11-30 18:00:00,Bovada,Brest,115,Strasbourg,220,225.0
 soccer_france_ligue_one,2024-11-30 20:00:00,Bovada,Nantes,750,Paris Saint Germain,-345,460.0
 soccer_france_ligue_one,2024-12-01 14:00:00,Bovada,Lille,-130,Montpellier,330,250.0
 soccer_france_ligue_one,2024-12-01 16:00:00,Bovada,Angers,205,Le Havre,125,220.0
-soccer_france_ligue_one,2024-12-01 16:00:00,Bovada,Auxerre,370,Toulouse,-135,245.0
-soccer_france_ligue_one,2024-12-01 16:00:00,Bovada,Lyon,105,Nice,250,225.0
+soccer_france_ligue_one,2024-12-01 16:00:00,Bovada,Auxerre,370,Toulouse,-140,245.0
+soccer_france_ligue_one,2024-12-01 16:00:00,Bovada,Lyon,100,Nice,250,245.0
 soccer_france_ligue_one,2024-12-01 19:45:00,Bovada,AS Monaco,165,Marseille,160,215.0
-soccer_france_ligue_two,2024-11-22 19:00:00,Bovada,Amiens,300,Guingamp,-115,245.0
+soccer_france_ligue_two,2024-11-22 19:00:00,Bovada,Amiens,330,Guingamp,-120,245.0
 soccer_france_ligue_two,2024-11-22 19:00:00,Bovada,Caen,130,Rodez AF,190,245.0
 soccer_france_ligue_two,2024-11-22 19:00:00,Bovada,Clermont,265,Metz,110,210.0
 soccer_france_ligue_two,2024-11-22 19:00:00,Bovada,FC Martigues,240,Stade Lavallois,125,200.0
 soccer_france_ligue_two,2024-11-22 19:00:00,Bovada,Grenoble,230,Troyes,115,225.0
-soccer_france_ligue_two,2024-11-22 19:00:00,Bovada,Pau FC,110,Red Star,250,220.0
+soccer_france_ligue_two,2024-11-22 19:00:00,Bovada,Pau FC,105,Red Star,250,230.0
 soccer_france_ligue_two,2024-11-23 13:00:00,Bovada,Annecy FC,440,Paris FC,-165,290.0
 soccer_france_ligue_two,2024-11-23 19:00:00,Bovada,Lorient,115,SC Bastia,215,245.0
 soccer_france_ligue_two,2024-11-25 19:45:00,Bovada,AC Ajaccio,300,USL Dunkerque,100,215.0
 soccer_germany_bundesliga,2024-11-22 19:30:00,Bovada,Augsburg,1600,Bayern Munich,-850,900.0
-soccer_germany_bundesliga,2024-11-23 14:30:00,Bovada,1. FC Heidenheim,1100,Bayer Leverkusen,-550,650.0
-soccer_germany_bundesliga,2024-11-23 14:30:00,Bovada,Borussia Dortmund,-160,SC Freiburg,380,340.0
-soccer_germany_bundesliga,2024-11-23 14:30:00,Bovada,RB Leipzig,-110,TSG Hoffenheim,265,295.0
-soccer_germany_bundesliga,2024-11-23 14:30:00,Bovada,Union Berlin,230,VfL Wolfsburg,115,255.0
-soccer_germany_bundesliga,2024-11-23 14:30:00,Bovada,VfB Stuttgart,-335,VfL Bochum,700,525.0
-soccer_germany_bundesliga,2024-11-23 17:30:00,Bovada,Eintracht Frankfurt,-155,Werder Bremen,360,340.0
+soccer_germany_bundesliga,2024-11-23 14:30:00,Bovada,1. FC Heidenheim,1100,Bayer Leverkusen,-500,625.0
+soccer_germany_bundesliga,2024-11-23 14:30:00,Bovada,Borussia Dortmund,-160,SC Freiburg,370,340.0
+soccer_germany_bundesliga,2024-11-23 14:30:00,Bovada,RB Leipzig,-105,TSG Hoffenheim,260,290.0
+soccer_germany_bundesliga,2024-11-23 14:30:00,Bovada,Union Berlin,240,VfL Wolfsburg,115,245.0
+soccer_germany_bundesliga,2024-11-23 14:30:00,Bovada,VfB Stuttgart,-325,VfL Bochum,700,500.0
+soccer_germany_bundesliga,2024-11-23 17:30:00,Bovada,Eintracht Frankfurt,-150,Werder Bremen,350,340.0
 soccer_germany_bundesliga,2024-11-24 14:30:00,Bovada,FSV Mainz 05,130,Holstein Kiel,205,250.0
 soccer_germany_bundesliga,2024-11-24 16:30:00,Bovada,Borussia Monchengladbach,-120,FC St. Pauli,300,285.0
-soccer_germany_bundesliga,2024-11-29 19:30:00,Bovada,FC St. Pauli,-125,Holstein Kiel,300,260.0
-soccer_germany_bundesliga,2024-11-30 14:30:00,Bovada,Augsburg,-145,VfL Bochum,360,270.0
+soccer_germany_bundesliga,2024-11-29 19:30:00,Bovada,FC St. Pauli,-125,Holstein Kiel,310,260.0
+soccer_germany_bundesliga,2024-11-30 14:30:00,Bovada,Augsburg,-145,VfL Bochum,350,275.0
 soccer_germany_bundesliga,2024-11-30 14:30:00,Bovada,Bayer Leverkusen,-120,Union Berlin,290,265.0
-soccer_germany_bundesliga,2024-11-30 14:30:00,Bovada,Borussia Monchengladbach,290,SC Freiburg,-125,270.0
-soccer_germany_bundesliga,2024-11-30 14:30:00,Bovada,RB Leipzig,-200,VfL Wolfsburg,475,320.0
-soccer_germany_bundesliga,2024-11-30 14:30:00,Bovada,VfB Stuttgart,120,Werder Bremen,195,255.0
-soccer_germany_bundesliga,2024-11-30 17:30:00,Bovada,Bayern Munich,-130,Borussia Dortmund,300,275.0
-soccer_germany_bundesliga,2024-12-01 14:30:00,Bovada,FSV Mainz 05,-120,TSG Hoffenheim,280,265.0
-soccer_germany_bundesliga,2024-12-01 16:30:00,Bovada,1. FC Heidenheim,220,Eintracht Frankfurt,105,260.0
+soccer_germany_bundesliga,2024-11-30 14:30:00,Bovada,Borussia Monchengladbach,285,SC Freiburg,-120,265.0
+soccer_germany_bundesliga,2024-11-30 14:30:00,Bovada,RB Leipzig,-190,VfL Wolfsburg,440,320.0
+soccer_germany_bundesliga,2024-11-30 14:30:00,Bovada,VfB Stuttgart,110,Werder Bremen,210,255.0
+soccer_germany_bundesliga,2024-11-30 17:30:00,Bovada,Bayern Munich,-130,Borussia Dortmund,300,280.0
+soccer_germany_bundesliga,2024-12-01 14:30:00,Bovada,FSV Mainz 05,-110,TSG Hoffenheim,265,255.0
+soccer_germany_bundesliga,2024-12-01 16:30:00,Bovada,1. FC Heidenheim,235,Eintracht Frankfurt,100,260.0
 soccer_germany_bundesliga2,2024-11-22 17:30:00,Bovada,1. FC Köln,-125,SC Preußen Münster,300,285.0
 soccer_germany_bundesliga2,2024-11-22 17:30:00,Bovada,1. FC Nürnberg,280,SC Paderborn,-115,270.0
 soccer_germany_bundesliga2,2024-11-23 12:00:00,Bovada,Elversberg,255,Fortuna Düsseldorf,100,245.0
 soccer_germany_bundesliga2,2024-11-23 12:00:00,Bovada,Greuther Fürth,190,Karlsruher SC,130,240.0
-soccer_germany_bundesliga2,2024-11-23 12:00:00,Bovada,Hannover 96,-105,SV Darmstadt 98,260,250.0
+soccer_germany_bundesliga2,2024-11-23 12:00:00,Bovada,Hannover 96,-110,SV Darmstadt 98,270,255.0
 soccer_germany_bundesliga2,2024-11-23 12:00:00,Bovada,Hertha Berlin,-140,SSV Ulm 1846,370,265.0
 soccer_germany_bundesliga2,2024-11-23 19:30:00,Bovada,FC Schalke 04,340,Hamburger SV,-140,280.0
 soccer_germany_bundesliga2,2024-11-24 12:30:00,Bovada,1. FC Kaiserslautern,100,Eintracht Braunschweig,260,245.0
-soccer_germany_bundesliga2,2024-11-24 12:30:00,Bovada,1. FC Magdeburg,-110,Jahn Regensburg,275,255.0
+soccer_germany_bundesliga2,2024-11-24 12:30:00,Bovada,1. FC Magdeburg,-105,Jahn Regensburg,265,250.0
 soccer_greece_super_league,2024-11-23 15:00:00,Bovada,OFI Crete,160,PAS Lamia 1964,170,210.0
-soccer_greece_super_league,2024-11-23 17:30:00,Bovada,Aris Thessaloniki,-195,Volos FC,500,295.0
+soccer_greece_super_league,2024-11-23 17:30:00,Bovada,Aris Thessaloniki,-190,Volos FC,500,295.0
 soccer_greece_super_league,2024-11-24 15:00:00,Bovada,Panathinaikos,-150,Panetolikos Agrinio,440,235.0
-soccer_greece_super_league,2024-11-24 17:30:00,Bovada,Asteras Tripolis,475,PAOK Thessaloniki,-165,255.0
+soccer_greece_super_league,2024-11-24 17:30:00,Bovada,Asteras Tripolis,500,PAOK Thessaloniki,-170,250.0
 soccer_greece_super_league,2024-11-24 18:30:00,Bovada,AEK Athens,230,Olympiakos Piraeus,115,220.0
 soccer_greece_super_league,2024-11-25 16:00:00,Bovada,Atromitos Athens,-125,Levadiakos,370,225.0
 soccer_greece_super_league,2024-11-30 15:00:00,Bovada,PAS Lamia 1964,290,Volos FC,100,210.0
@@ -351,24 +315,24 @@ soccer_greece_super_league,2024-11-30 18:30:00,Bovada,AEK Athens,-175,Aris Thess
 soccer_greece_super_league,2024-12-01 13:30:00,Bovada,Asteras Tripolis,150,Panserraikos FC,185,210.0
 soccer_greece_super_league,2024-12-01 15:00:00,Bovada,OFI Crete,475,Olympiakos Piraeus,-165,255.0
 soccer_italy_serie_a,2024-11-23 14:00:00,Bovada,Hellas Verona,600,Inter Milan,-260,420.0
-soccer_italy_serie_a,2024-11-23 17:00:00,Bovada,AC Milan,120,Juventus,230,245.0
-soccer_italy_serie_a,2024-11-23 19:45:00,Bovada,Atalanta BC,-155,Parma,370,330.0
+soccer_italy_serie_a,2024-11-23 17:00:00,Bovada,AC Milan,115,Juventus,235,245.0
+soccer_italy_serie_a,2024-11-23 19:45:00,Bovada,Atalanta BC,-160,Parma,380,340.0
 soccer_italy_serie_a,2024-11-24 11:30:00,Bovada,Cagliari,185,Genoa,160,225.0
-soccer_italy_serie_a,2024-11-24 14:00:00,Bovada,Como,215,Fiorentina,140,220.0
-soccer_italy_serie_a,2024-11-24 14:00:00,Bovada,Monza,320,Torino,-105,230.0
-soccer_italy_serie_a,2024-11-24 17:00:00,Bovada,AS Roma,350,Napoli,-130,275.0
+soccer_italy_serie_a,2024-11-24 14:00:00,Bovada,Como,220,Fiorentina,135,225.0
+soccer_italy_serie_a,2024-11-24 14:00:00,Bovada,Monza,320,Torino,100,230.0
+soccer_italy_serie_a,2024-11-24 17:00:00,Bovada,AS Roma,350,Napoli,-125,270.0
 soccer_italy_serie_a,2024-11-24 19:45:00,Bovada,Bologna,310,Lazio,-110,255.0
 soccer_italy_serie_a,2024-11-25 17:30:00,Bovada,Empoli,155,Udinese,210,195.0
 soccer_italy_serie_a,2024-11-25 19:45:00,Bovada,Lecce,225,Venezia,125,235.0
-soccer_italy_serie_a,2024-11-29 19:45:00,Bovada,Cagliari,110,Hellas Verona,240,225.0
-soccer_italy_serie_a,2024-11-30 14:00:00,Bovada,Como,105,Monza,250,225.0
-soccer_italy_serie_a,2024-11-30 17:00:00,Bovada,AC Milan,-275,Empoli,700,350.0
-soccer_italy_serie_a,2024-11-30 19:45:00,Bovada,Bologna,-195,Venezia,500,290.0
-soccer_italy_serie_a,2024-12-01 11:30:00,Bovada,Genoa,330,Udinese,-125,245.0
+soccer_italy_serie_a,2024-11-29 19:45:00,Bovada,Cagliari,110,Hellas Verona,235,230.0
+soccer_italy_serie_a,2024-11-30 14:00:00,Bovada,Como,-110,Monza,285,235.0
+soccer_italy_serie_a,2024-11-30 17:00:00,Bovada,AC Milan,-265,Empoli,700,350.0
+soccer_italy_serie_a,2024-11-30 19:45:00,Bovada,Bologna,-190,Venezia,500,290.0
+soccer_italy_serie_a,2024-12-01 11:30:00,Bovada,Genoa,330,Udinese,-130,245.0
 soccer_italy_serie_a,2024-12-01 14:00:00,Bovada,Lazio,-110,Parma,250,270.0
-soccer_italy_serie_a,2024-12-01 14:00:00,Bovada,Napoli,-105,Torino,280,230.0
+soccer_italy_serie_a,2024-12-01 14:00:00,Bovada,Napoli,-110,Torino,290,230.0
 soccer_italy_serie_a,2024-12-01 17:00:00,Bovada,Fiorentina,275,Inter Milan,-115,260.0
-soccer_italy_serie_a,2024-12-01 19:45:00,Bovada,Juventus,-150,Lecce,420,245.0
+soccer_italy_serie_a,2024-12-01 19:45:00,Bovada,Juventus,-145,Lecce,400,245.0
 soccer_italy_serie_a,2024-12-02 19:45:00,Bovada,AS Roma,185,Atalanta BC,125,260.0
 soccer_italy_serie_b,2024-11-22 19:30:00,Bovada,Cosenza,155,Modena,195,190.0
 soccer_italy_serie_b,2024-11-23 14:00:00,Bovada,Brescia,230,Juve Stabia,125,205.0
@@ -380,8 +344,18 @@ soccer_italy_serie_b,2024-11-24 14:00:00,Bovada,Bari,-115,Cittadella,310,245.0
 soccer_italy_serie_b,2024-11-24 14:00:00,Bovada,Cremonese,-120,Frosinone,350,235.0
 soccer_italy_serie_b,2024-11-24 14:00:00,Bovada,Spezia,-115,Südtirol,360,210.0
 soccer_italy_serie_b,2024-11-24 16:15:00,Bovada,Palermo,120,Sampdoria,240,210.0
-soccer_japan_j_league,2024-11-16 05:00:00,Bovada,Jubilo Iwata,165,Yokohama F Marinos,145,240.0
-soccer_japan_j_league,2024-11-17 05:00:00,Bovada,Kashima Antlers,115,Kyoto Purple Sanga,235,230.0
+soccer_japan_j_league,2024-11-16 05:00:00,Bovada,Jubilo Iwata,170,Yokohama F Marinos,135,260.0
+soccer_japan_j_league,2024-11-17 05:00:00,Bovada,Kashima Antlers,120,Kyoto Purple Sanga,225,225.0
+soccer_japan_j_league,2024-11-30 05:00:00,Bovada,Albirex Niigata,160,Gamba Osaka,175,210.0
+soccer_japan_j_league,2024-11-30 05:00:00,Bovada,Avispa Fukuoka,190,Urawa Red Diamonds,170,180.0
+soccer_japan_j_league,2024-11-30 05:00:00,Bovada,Cerezo Osaka,160,Kashima Antlers,185,190.0
+soccer_japan_j_league,2024-11-30 05:00:00,Bovada,FC Machida Zelvia,-160,Kyoto Purple Sanga,370,320.0
+soccer_japan_j_league,2024-11-30 05:00:00,Bovada,FC Tokyo,140,Jubilo Iwata,200,210.0
+soccer_japan_j_league,2024-11-30 05:00:00,Bovada,Kashiwa Reysol,220,Vissel Kobe,130,210.0
+soccer_japan_j_league,2024-11-30 05:00:00,Bovada,Kawasaki Frontale,155,Tokyo Verdy,175,220.0
+soccer_japan_j_league,2024-11-30 05:00:00,Bovada,Nagoya Grampus,-150,Sagan Tosu,400,270.0
+soccer_japan_j_league,2024-11-30 05:00:00,Bovada,Shonan Bellmare,145,Yokohama F Marinos,190,210.0
+soccer_japan_j_league,2024-12-01 05:00:00,Bovada,Consadole Sapporo,700,Hiroshima Sanfrecce FC,-325,460.0
 soccer_korea_kleague1,2024-11-23 05:00:00,Bovada,FC Seoul,270,Sangju Sangmu FC,105,225.0
 soccer_korea_kleague1,2024-11-23 05:00:00,Bovada,Gangwon FC,-125,Pohang Steelers,340,250.0
 soccer_korea_kleague1,2024-11-23 05:00:00,Bovada,Suwon FC,265,Ulsan Hyundai FC,100,235.0
@@ -390,31 +364,40 @@ soccer_korea_kleague1,2024-11-24 05:00:00,Bovada,Daejeon Citizen,120,Jeju United
 soccer_korea_kleague1,2024-11-24 05:00:00,Bovada,Gwangju FC,135,Jeonbuk Hyundai Motors,195,225.0
 soccer_league_of_ireland,2024-11-16 14:00:00,Bovada,Bray Wanderers,390,Drogheda United,-155,275.0
 soccer_netherlands_eredivisie,2024-11-23 15:30:00,Bovada,Almere City,475,Go Ahead Eagles,-180,300.0
-soccer_netherlands_eredivisie,2024-11-23 17:45:00,Bovada,Feyenoord,-335,Heerenveen,775,440.0
+soccer_netherlands_eredivisie,2024-11-23 17:45:00,Bovada,Feyenoord,-315,Heerenveen,700,420.0
 soccer_netherlands_eredivisie,2024-11-23 17:45:00,Bovada,Heracles Almelo,-125,RKC Waalwijk,310,260.0
 soccer_netherlands_eredivisie,2024-11-23 20:00:00,Bovada,FC Twente Enschede,-125,Fortuna Sittard,350,240.0
-soccer_netherlands_eredivisie,2024-11-23 20:00:00,Bovada,Groningen,1200,PSV Eindhoven,-600,650.0
+soccer_netherlands_eredivisie,2024-11-23 20:00:00,Bovada,Groningen,1400,PSV Eindhoven,-675,725.0
 soccer_netherlands_eredivisie,2024-11-24 11:15:00,Bovada,FC Utrecht,175,NEC Nijmegen,150,215.0
 soccer_netherlands_eredivisie,2024-11-24 13:30:00,Bovada,AZ Alkmaar,105,Sparta Rotterdam,250,235.0
 soccer_netherlands_eredivisie,2024-11-24 13:30:00,Bovada,NAC Breda,265,Willem II,105,225.0
-soccer_netherlands_eredivisie,2024-11-24 15:45:00,Bovada,Ajax,-600,FC Zwolle,1400,625.0
+soccer_netherlands_eredivisie,2024-11-24 15:45:00,Bovada,Ajax,-625,FC Zwolle,1500,625.0
 soccer_netherlands_eredivisie,2024-11-29 19:00:00,Bovada,Heerenveen,-140,RKC Waalwijk,370,255.0
 soccer_netherlands_eredivisie,2024-11-30 15:30:00,Bovada,Almere City,180,NAC Breda,125,270.0
 soccer_netherlands_eredivisie,2024-11-30 17:45:00,Bovada,Groningen,110,Willem II,220,255.0
 soccer_netherlands_eredivisie,2024-11-30 19:00:00,Bovada,Feyenoord,-400,Fortuna Sittard,900,500.0
 soccer_netherlands_eredivisie,2024-11-30 20:00:00,Bovada,FC Zwolle,160,Sparta Rotterdam,150,245.0
 soccer_netherlands_eredivisie,2024-12-01 11:15:00,Bovada,FC Utrecht,575,PSV Eindhoven,-230,340.0
-soccer_netherlands_eredivisie,2024-12-01 13:30:00,Bovada,AZ Alkmaar,-420,Heracles Almelo,1100,475.0
+soccer_netherlands_eredivisie,2024-12-01 13:30:00,Bovada,AZ Alkmaar,-435,Heracles Almelo,1100,500.0
 soccer_netherlands_eredivisie,2024-12-01 13:30:00,Bovada,FC Twente Enschede,-185,Go Ahead Eagles,460,320.0
 soccer_netherlands_eredivisie,2024-12-01 15:45:00,Bovada,Ajax,-145,NEC Nijmegen,330,300.0
-soccer_norway_eliteserien,2024-11-23 16:00:00,Bovada,Bodø/Glimt,-375,Odds BK,800,500.0
+soccer_norway_eliteserien,2024-11-23 16:00:00,Bovada,Bodø/Glimt,-400,Odds BK,850,500.0
 soccer_norway_eliteserien,2024-11-23 16:00:00,Bovada,Fredrikstad FK,-130,HamKam,350,250.0
 soccer_norway_eliteserien,2024-11-23 16:00:00,Bovada,Haugesund,460,Viking FK,-205,360.0
 soccer_norway_eliteserien,2024-11-23 16:00:00,Bovada,KFUM,-105,Kristiansund BK,280,235.0
 soccer_norway_eliteserien,2024-11-23 16:00:00,Bovada,Lillestrom,105,Sandefjord,235,245.0
-soccer_norway_eliteserien,2024-11-23 16:00:00,Bovada,Molde,145,SK Brann,165,245.0
-soccer_norway_eliteserien,2024-11-23 16:00:00,Bovada,Rosenborg,-185,Sarpsborg FK,400,350.0
-soccer_norway_eliteserien,2024-11-23 16:00:00,Bovada,Stromsgodset,350,Tromso,-135,270.0
+soccer_norway_eliteserien,2024-11-23 16:00:00,Bovada,Molde,145,SK Brann,165,250.0
+soccer_norway_eliteserien,2024-11-23 16:00:00,Bovada,Rosenborg,-190,Sarpsborg FK,420,350.0
+soccer_norway_eliteserien,2024-11-23 16:00:00,Bovada,Stromsgodset,370,Tromso,-145,275.0
+soccer_poland_ekstraklasa,2024-11-22 17:00:00,Bovada,Motor Lublin,215,Zagłębie Lubin,115,245.0
+soccer_poland_ekstraklasa,2024-11-22 19:30:00,Bovada,Jagiellonia Białystok,-125,Śląsk Wrocław,310,260.0
+soccer_poland_ekstraklasa,2024-11-23 13:45:00,Bovada,Lechia Gdańsk,225,Pogoń Szczecin,110,245.0
+soccer_poland_ekstraklasa,2024-11-23 16:30:00,Bovada,GKS Katowice,525,Lech Poznań,-230,330.0
+soccer_poland_ekstraklasa,2024-11-23 19:15:00,Bovada,Cracovia Kraków,320,Legia Warszawa,-135,270.0
+soccer_poland_ekstraklasa,2024-11-24 11:15:00,Bovada,Radomiak Radom,-105,Stal Mielec,265,230.0
+soccer_poland_ekstraklasa,2024-11-24 13:45:00,Bovada,Korona Kielce,550,Raków Częstochowa,-200,290.0
+soccer_poland_ekstraklasa,2024-11-24 16:30:00,Bovada,Górnik Zabrze,150,Piast Gliwice,180,215.0
+soccer_poland_ekstraklasa,2024-11-25 18:00:00,Bovada,Puszcza Niepołomice,215,Widzew Łódź,120,225.0
 soccer_portugal_primeira_liga,2024-11-29 20:15:00,Bovada,CF Estrela,180,SC Farense,145,225.0
 soccer_portugal_primeira_liga,2024-11-30 15:30:00,Bovada,Moreirense FC,150,Rio Ave FC,180,215.0
 soccer_portugal_primeira_liga,2024-11-30 18:00:00,Bovada,Boavista Porto,330,Nacional,-115,245.0
@@ -423,50 +406,51 @@ soccer_portugal_primeira_liga,2024-12-01 15:30:00,Bovada,Estoril,220,Famalicão,
 soccer_portugal_primeira_liga,2024-12-01 18:00:00,Bovada,Arouca,1000,Benfica,-400,475.0
 soccer_portugal_primeira_liga,2024-12-01 20:30:00,Bovada,AVS Futebol SAD,380,Braga,-145,270.0
 soccer_portugal_primeira_liga,2024-12-02 18:45:00,Bovada,Gil Vicente,350,Vitória SC,-135,265.0
-soccer_portugal_primeira_liga,2024-12-02 20:45:00,Bovada,Casa Pia,1100,FC Porto,-480,525.0
-soccer_spain_la_liga,2024-11-22 20:00:00,Bovada,Getafe,-145,Valladolid,475,250.0
-soccer_spain_la_liga,2024-11-23 13:00:00,Bovada,Real Betis,160,Valencia,195,210.0
-soccer_spain_la_liga,2024-11-23 15:15:00,Bovada,Alavés,750,Atlético Madrid,-265,380.0
-soccer_spain_la_liga,2024-11-23 16:30:00,Bovada,Espanyol,360,Girona,-130,275.0
+soccer_portugal_primeira_liga,2024-12-02 20:45:00,Bovada,Casa Pia,1200,FC Porto,-480,525.0
+soccer_spain_la_liga,2024-11-22 20:00:00,Bovada,Getafe,-150,Valladolid,500,250.0
+soccer_spain_la_liga,2024-11-23 13:00:00,Bovada,Real Betis,160,Valencia,195,205.0
+soccer_spain_la_liga,2024-11-23 15:15:00,Bovada,Alavés,725,Atlético Madrid,-250,360.0
+soccer_spain_la_liga,2024-11-23 17:30:00,Bovada,Espanyol,360,Girona,-130,275.0
 soccer_spain_la_liga,2024-11-23 17:30:00,Bovada,Las Palmas,200,Mallorca,160,200.0
-soccer_spain_la_liga,2024-11-23 19:00:00,Bovada,Barcelona,-135,Celta Vigo,310,330.0
-soccer_spain_la_liga,2024-11-24 12:00:00,Bovada,CA Osasuna,185,Villarreal,140,250.0
+soccer_spain_la_liga,2024-11-23 20:00:00,Bovada,Barcelona,-140,Celta Vigo,320,340.0
+soccer_spain_la_liga,2024-11-24 13:00:00,Bovada,CA Osasuna,185,Villarreal,140,255.0
 soccer_spain_la_liga,2024-11-24 15:15:00,Bovada,Rayo Vallecano,220,Sevilla,140,215.0
-soccer_spain_la_liga,2024-11-24 17:30:00,Bovada,Leganés,575,Real Madrid,-215,350.0
+soccer_spain_la_liga,2024-11-24 17:30:00,Bovada,Leganés,550,Real Madrid,-210,350.0
 soccer_spain_la_liga,2024-11-24 19:00:00,Bovada,Athletic Bilbao,140,Real Sociedad,225,210.0
 soccer_spain_la_liga,2024-11-29 20:00:00,Bovada,Mallorca,-115,Valencia,330,220.0
-soccer_spain_la_liga,2024-11-30 13:00:00,Bovada,Barcelona,-360,Las Palmas,700,500.0
+soccer_spain_la_liga,2024-11-30 13:00:00,Bovada,Barcelona,-420,Las Palmas,800,525.0
 soccer_spain_la_liga,2024-11-30 15:15:00,Bovada,Alavés,-120,Leganés,320,225.0
-soccer_spain_la_liga,2024-11-30 17:30:00,Bovada,Celta Vigo,130,Espanyol,200,225.0
-soccer_spain_la_liga,2024-11-30 20:00:00,Bovada,Atlético Madrid,-135,Valladolid,370,235.0
-soccer_spain_la_liga,2024-12-01 13:00:00,Bovada,Girona,255,Villarreal,100,230.0
-soccer_spain_la_liga,2024-12-01 15:15:00,Bovada,Getafe,550,Real Madrid,-245,370.0
-soccer_spain_la_liga,2024-12-01 17:30:00,Bovada,Athletic Bilbao,140,Rayo Vallecano,200,205.0
-soccer_spain_la_liga,2024-12-01 20:00:00,Bovada,Real Betis,240,Real Sociedad,115,215.0
-soccer_spain_la_liga,2024-12-02 20:00:00,Bovada,CA Osasuna,265,Sevilla,100,225.0
+soccer_spain_la_liga,2024-11-30 17:30:00,Bovada,Celta Vigo,155,Espanyol,165,215.0
+soccer_spain_la_liga,2024-11-30 20:00:00,Bovada,Atlético Madrid,-125,Valladolid,360,230.0
+soccer_spain_la_liga,2024-12-01 13:00:00,Bovada,Girona,400,Villarreal,-155,270.0
+soccer_spain_la_liga,2024-12-01 15:15:00,Bovada,Getafe,625,Real Madrid,-265,370.0
+soccer_spain_la_liga,2024-12-01 17:30:00,Bovada,Athletic Bilbao,175,Rayo Vallecano,160,200.0
+soccer_spain_la_liga,2024-12-01 20:00:00,Bovada,Real Betis,275,Real Sociedad,100,215.0
+soccer_spain_la_liga,2024-12-02 20:00:00,Bovada,CA Osasuna,205,Sevilla,130,220.0
 soccer_spain_segunda_division,2024-11-16 13:00:00,Bovada,Racing de Ferrol,400,SD Eibar,-130,230.0
 soccer_spain_segunda_division,2024-11-16 15:15:00,Bovada,Albacete,195,CD Eldense,135,215.0
-soccer_spain_segunda_division,2024-11-16 15:15:00,Bovada,CD Castellón,-135,CD Mirandés,370,250.0
+soccer_spain_segunda_division,2024-11-16 15:15:00,Bovada,CD Castellón,-135,CD Mirandés,350,260.0
 soccer_spain_segunda_division,2024-11-16 17:30:00,Bovada,Burgos CF,420,Real Racing Club de Santander,-170,300.0
 soccer_spain_segunda_division,2024-11-16 17:30:00,Bovada,Elche,200,Levante,135,210.0
 soccer_spain_segunda_division,2024-11-16 20:00:00,Bovada,Granada CF,290,Sporting Gijón,-105,230.0
 soccer_spain_segunda_division,2024-11-17 15:15:00,Bovada,Cádiz CF,-105,Córdoba,290,225.0
 soccer_spain_segunda_division,2024-11-17 15:15:00,Bovada,Oviedo,-130,Tenerife,400,225.0
-soccer_spain_segunda_division,2024-11-17 17:30:00,Bovada,Almería,110,Deportivo La Coruña,240,225.0
+soccer_spain_segunda_division,2024-11-17 17:30:00,Bovada,Almería,115,Deportivo La Coruña,235,225.0
 soccer_spain_segunda_division,2024-11-17 17:30:00,Bovada,FC Cartagena,190,SD Huesca,175,175.0
 soccer_spain_segunda_division,2024-11-17 20:00:00,Bovada,Málaga,370,Zaragoza,-115,205.0
 soccer_spl,2024-11-23 15:00:00,Bovada,Aberdeen,130,St Mirren,190,240.0
-soccer_spl,2024-11-23 15:00:00,Bovada,Dundee United,875,Rangers,-375,420.0
+soccer_spl,2024-11-23 15:00:00,Bovada,Dundee United,800,Rangers,-345,400.0
 soccer_spl,2024-11-23 15:00:00,Bovada,Kilmarnock,105,St Johnstone,225,245.0
 soccer_spl,2024-11-23 15:00:00,Bovada,Motherwell,150,Ross County,180,220.0
 soccer_spl,2024-11-23 17:45:00,Bovada,Dundee FC,165,Hibernian,155,230.0
-soccer_spl,2024-11-23 19:45:00,Bovada,Celtic,-335,Hearts,750,420.0
-soccer_switzerland_superleague,2024-11-23 17:00:00,Bovada,BSC Young Boys,170,FC Luzern,135,260.0
+soccer_spl,2024-11-23 19:45:00,Bovada,Celtic,-305,Hearts,675,390.0
+soccer_sweden_allsvenskan,2024-11-21 18:00:00,Bovada,IFK Värnamo,110,Landskrona BoIS,230,260.0
+soccer_switzerland_superleague,2024-11-23 17:00:00,Bovada,BSC Young Boys,165,FC Luzern,140,255.0
 soccer_switzerland_superleague,2024-11-23 17:00:00,Bovada,FC Winterthur,440,Grasshopper Zürich,-175,300.0
-soccer_switzerland_superleague,2024-11-23 19:30:00,Bovada,FC Lausanne-Sport,-115,FC Sion,300,245.0
+soccer_switzerland_superleague,2024-11-23 19:30:00,Bovada,FC Lausanne-Sport,-120,FC Sion,310,250.0
 soccer_switzerland_superleague,2024-11-24 13:15:00,Bovada,FC Lugano,100,FC Zurich,240,245.0
-soccer_switzerland_superleague,2024-11-24 15:30:00,Bovada,FC Basel,100,Servette,215,275.0
-soccer_switzerland_superleague,2024-11-24 15:30:00,Bovada,FC St Gallen,-210,Yverdon Sport FC,475,320.0
+soccer_switzerland_superleague,2024-11-24 15:30:00,Bovada,FC Basel,105,Servette,210,270.0
+soccer_switzerland_superleague,2024-11-24 15:30:00,Bovada,FC St Gallen,-200,Yverdon Sport FC,475,320.0
 soccer_turkey_super_league,2024-11-23 10:30:00,Bovada,Eyüpspor,100,Çaykur Rizespor,260,235.0
 soccer_turkey_super_league,2024-11-23 13:00:00,Bovada,Basaksehir,165,Gazişehir Gaziantep,160,225.0
 soccer_turkey_super_league,2024-11-23 13:00:00,Bovada,Fenerbahce,-220,Kayserispor,500,330.0
@@ -475,17 +459,17 @@ soccer_turkey_super_league,2024-11-24 10:30:00,Bovada,Kasimpasa SK,150,Sivasspor
 soccer_turkey_super_league,2024-11-24 13:00:00,Bovada,Alanyaspor,350,Samsunspor,-130,240.0
 soccer_turkey_super_league,2024-11-24 13:00:00,Bovada,Hatayspor,275,Torku Konyaspor,-105,230.0
 soccer_turkey_super_league,2024-11-24 16:00:00,Bovada,Besiktas JK,-185,Goztepe,440,320.0
-soccer_turkey_super_league,2024-11-25 17:00:00,Bovada,Adana Demirspor,525,Trabzonspor,-250,370.0
+soccer_turkey_super_league,2024-11-25 17:00:00,Bovada,Adana Demirspor,500,Trabzonspor,-240,360.0
 soccer_uefa_champs_league,2024-11-26 17:45:00,Bovada,AC Milan,-420,ŠK Slovan Bratislava,1000,550.0
-soccer_uefa_champs_league,2024-11-26 17:45:00,Bovada,Atlético Madrid,-155,Sparta Prague,400,310.0
+soccer_uefa_champs_league,2024-11-26 17:45:00,Bovada,Atlético Madrid,-165,Sparta Prague,440,310.0
 soccer_uefa_champs_league,2024-11-26 20:00:00,Bovada,Arsenal,135,Sporting Lisbon,185,260.0
 soccer_uefa_champs_league,2024-11-26 20:00:00,Bovada,Atalanta,-235,Young Boys,525,400.0
-soccer_uefa_champs_league,2024-11-26 20:00:00,Bovada,Barcelona,-675,Brest,1500,775.0
-soccer_uefa_champs_league,2024-11-26 20:00:00,Bovada,Bayer Leverkusen,-480,Salzburg,1000,600.0
+soccer_uefa_champs_league,2024-11-26 20:00:00,Bovada,Barcelona,-675,Brest,1400,725.0
+soccer_uefa_champs_league,2024-11-26 20:00:00,Bovada,Bayer Leverkusen,-480,Salzburg,1100,600.0
 soccer_uefa_champs_league,2024-11-26 20:00:00,Bovada,Bayern München,-165,Paris Saint Germain,380,350.0
-soccer_uefa_champs_league,2024-11-26 20:00:00,Bovada,Feyenoord,1200,Manchester City,-550,675.0
+soccer_uefa_champs_league,2024-11-26 20:00:00,Bovada,Feyenoord,1100,Manchester City,-550,650.0
 soccer_uefa_champs_league,2024-11-26 20:00:00,Bovada,Internazionale Milano,-220,RB Leipzig,550,380.0
-soccer_uefa_champs_league,2024-11-27 17:45:00,Bovada,Girona,115,SK Sturm Graz,220,270.0
+soccer_uefa_champs_league,2024-11-27 17:45:00,Bovada,Girona,115,SK Sturm Graz,210,280.0
 soccer_uefa_champs_league,2024-11-27 17:45:00,Bovada,Red Star Belgrade,360,VfB Stuttgart,-150,320.0
 soccer_uefa_champs_league,2024-11-27 20:00:00,Bovada,Aston Villa,135,Juventus,200,240.0
 soccer_uefa_champs_league,2024-11-27 20:00:00,Bovada,Benfica,215,Monaco,115,270.0
@@ -494,34 +478,42 @@ soccer_uefa_champs_league,2024-11-27 20:00:00,Bovada,Borussia Dortmund,-140,Dina
 soccer_uefa_champs_league,2024-11-27 20:00:00,Bovada,Celtic,100,Club Brugge,265,265.0
 soccer_uefa_champs_league,2024-11-27 20:00:00,Bovada,Liverpool,100,Real Madrid,245,285.0
 soccer_uefa_champs_league,2024-11-27 20:00:00,Bovada,PSV Eindhoven,-235,Shakhtar Donetsk,575,400.0
-soccer_uefa_nations_league,2024-11-14 15:00:00,Bovada,Austria,-385,Kazakhstan,900,500.0
-soccer_uefa_nations_league,2024-11-14 17:00:00,Bovada,Armenia,-210,Faroe Islands,600,300.0
-soccer_uefa_nations_league,2024-11-14 19:45:00,Bovada,Belgium,150,Italy,180,240.0
-soccer_uefa_nations_league,2024-11-14 19:45:00,Bovada,England,-110,Greece,330,235.0
+soccer_uefa_nations_league,2024-11-14 19:45:00,Bovada,Belgium,150,Italy,185,230.0
+soccer_uefa_nations_league,2024-11-14 19:45:00,Bovada,England,120,Greece,255,220.0
 soccer_uefa_nations_league,2024-11-14 19:45:00,Bovada,France,-950,Israel,1900,900.0
-soccer_uefa_nations_league,2024-11-14 19:45:00,Bovada,Latvia,650,North Macedonia,-230,310.0
-soccer_uefa_nations_league,2024-11-14 19:45:00,Bovada,Norway,145,Slovenia,200,230.0
+soccer_uefa_nations_league,2024-11-14 19:45:00,Bovada,Latvia,600,North Macedonia,-225,340.0
+soccer_uefa_nations_league,2024-11-14 19:45:00,Bovada,Norway,160,Slovenia,175,230.0
 soccer_uefa_nations_league,2024-11-15 17:00:00,Bovada,Cyprus,130,Lithuania,225,200.0
-soccer_uefa_nations_league,2024-11-15 19:45:00,Bovada,Belarus,625,Northern Ireland,-200,275.0
+soccer_uefa_nations_league,2024-11-15 19:45:00,Bovada,Belarus,650,Northern Ireland,-210,280.0
 soccer_uefa_nations_league,2024-11-15 19:45:00,Bovada,Bulgaria,170,Luxembourg,180,185.0
 soccer_uefa_nations_league,2024-11-15 19:45:00,Bovada,Croatia,115,Scotland,240,245.0
-soccer_uefa_nations_league,2024-11-15 19:45:00,Bovada,Denmark,370,Spain,-125,250.0
-soccer_uefa_nations_league,2024-11-15 19:45:00,Bovada,Gibraltar,140,San Marino,235,175.0
-soccer_uefa_nations_league,2024-11-15 19:45:00,Bovada,Kosovo,330,Romania,-125,255.0
+soccer_uefa_nations_league,2024-11-15 19:45:00,Bovada,Denmark,340,Spain,-115,240.0
+soccer_uefa_nations_league,2024-11-15 19:45:00,Bovada,Gibraltar,135,San Marino,245,170.0
+soccer_uefa_nations_league,2024-11-15 19:45:00,Bovada,Kosovo,310,Romania,-120,255.0
 soccer_uefa_nations_league,2024-11-15 19:45:00,Bovada,Poland,1000,Portugal,-385,500.0
-soccer_uefa_nations_league,2024-11-15 19:45:00,Bovada,Serbia,350,Switzerland,-125,260.0
-soccer_uefa_nations_league,2024-11-16 14:00:00,Bovada,Azerbaijan,-170,Estonia,500,270.0
+soccer_uefa_nations_league,2024-11-15 19:45:00,Bovada,Serbia,320,Switzerland,-115,260.0
+soccer_uefa_nations_league,2024-11-16 14:00:00,Bovada,Azerbaijan,-175,Estonia,475,285.0
 soccer_uefa_nations_league,2024-11-16 17:00:00,Bovada,Andorra,320,Moldova,100,190.0
-soccer_uefa_nations_league,2024-11-16 17:00:00,Bovada,Georgia,145,Ukraine,190,230.0
+soccer_uefa_nations_league,2024-11-16 17:00:00,Bovada,Georgia,160,Ukraine,180,230.0
 soccer_uefa_nations_league,2024-11-16 17:00:00,Bovada,Iceland,200,Montenegro,145,230.0
-soccer_uefa_nations_league,2024-11-16 17:00:00,Bovada,Turkey,-135,Wales,370,280.0
-soccer_uefa_nations_league,2024-11-16 19:45:00,Bovada,Albania,220,Czech Republic,125,235.0
-soccer_uefa_nations_league,2024-11-16 19:45:00,Bovada,Bosnia & Herzegovina,2200,Germany,-950,850.0
-soccer_uefa_nations_league,2024-11-16 19:45:00,Bovada,Hungary,625,Netherlands,-265,420.0
-soccer_uefa_nations_league,2024-11-16 19:45:00,Bovada,Slovakia,390,Sweden,-150,270.0
+soccer_uefa_nations_league,2024-11-16 17:00:00,Bovada,Turkey,-135,Wales,380,275.0
+soccer_uefa_nations_league,2024-11-16 19:45:00,Bovada,Albania,235,Czech Republic,120,240.0
+soccer_uefa_nations_league,2024-11-16 19:45:00,Bovada,Bosnia & Herzegovina,2200,Germany,-950,875.0
+soccer_uefa_nations_league,2024-11-16 19:45:00,Bovada,Hungary,675,Netherlands,-275,420.0
+soccer_uefa_nations_league,2024-11-16 19:45:00,Bovada,Slovakia,370,Sweden,-145,270.0
+soccer_uefa_nations_league,2024-11-17 17:00:00,Bovada,Austria,-205,Slovenia,500,350.0
+soccer_uefa_nations_league,2024-11-17 17:00:00,Bovada,Finland,205,Greece,145,220.0
+soccer_uefa_nations_league,2024-11-17 17:00:00,Bovada,Kazakhstan,2000,Norway,-850,800.0
+soccer_uefa_nations_league,2024-11-17 19:45:00,Bovada,Belgium,-325,Israel,750,475.0
 soccer_uefa_nations_league,2024-11-17 19:45:00,Bovada,France,135,Italy,195,245.0
+soccer_uefa_nations_league,2024-11-18 19:45:00,Bovada,Croatia,215,Portugal,130,240.0
+soccer_uefa_nations_league,2024-11-18 19:45:00,Bovada,Denmark,150,Serbia,190,230.0
+soccer_uefa_nations_league,2024-11-18 19:45:00,Bovada,Poland,115,Scotland,240,245.0
+soccer_uefa_nations_league,2024-11-18 19:45:00,Bovada,Spain,-195,Switzerland,500,350.0
+soccer_uefa_nations_league,2024-11-19 19:45:00,Bovada,Bosnia & Herzegovina,460,Netherlands,-180,330.0
+soccer_uefa_nations_league,2024-11-19 19:45:00,Bovada,Germany,-160,Hungary,400,330.0
 soccer_conmebol_copa_libertadores,2024-11-30 20:00:00,Bovada,Botafogo,120,Clube Atlético Mineiro,245,200.0
 soccer_usa_mls,2024-11-23 22:30:00,Bovada,New York City FC,120,New York Red Bulls,210,265.0
 soccer_usa_mls,2024-11-24 03:30:00,Bovada,Los Angeles FC,-110,Seattle Sounders FC,290,270.0
 soccer_usa_mls,2024-11-24 20:30:00,Bovada,Atlanta United FC,330,Orlando City SC,-135,310.0
-soccer_usa_mls,2024-11-24 23:00:00,Bovada,LA Galaxy,-160,Minnesota United FC,400,330.0
+soccer_usa_mls,2024-11-24 23:00:00,Bovada,LA Galaxy,-155,Minnesota United FC,380,330.0
