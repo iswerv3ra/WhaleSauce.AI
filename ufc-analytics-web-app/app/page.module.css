@@ -1,0 +1,27 @@
+/* Apply the new color scheme to the main container */
+.container {
+  background-color: #E0EBF5; /* New background color */
+  padding: 2rem; /* Adjust padding as needed */
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh; /* Ensure full viewport height */
+}
+
+/* Style the feature cards */
+.featureCard {
+  background-color: #FFFFFF; /* White background for cards */
+  border: 1px solid #77A1D3; /* Secondary blue border */
+  border-radius: 8px;
+  padding: 1.5rem;
+  margin-bottom: 1rem;
+  width: 100%;
+  max-width: 500px; /* Adjust max-width as needed */
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+  color: #333333;
+}
+
+.featureCard h3 {
+    color: #4B75B7;
+}
