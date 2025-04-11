@@ -7,6 +7,7 @@ import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/com
 import { Progress } from "@/components/ui/progress";
 import { ArrowLeftCircle, Swords } from "lucide-react";
 import Link from 'next/link';
+import MatchPredictor from '../../components/MatchPredictor';
 
 // Define the types for fighters and predictions
 interface Fighter {
@@ -131,6 +132,7 @@ export default function MatchPredictorPage() {
           )}
         </CardContent>
       </Card>
+      <MatchPredictor/>
     </div>
   );
 }

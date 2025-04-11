@@ -2,6 +2,7 @@
 
 import React, { useState, useEffect } from 'react';
 import { ArrowLeftCircle } from 'react-feather';
+import ParlayGenerator from '../../components/ParlayGenerator';
 import Link from 'next/link';
 import Papa from 'papaparse';
 import styles from './ParlayGenerator.module.css';
@@ -569,6 +570,7 @@ export default function ParlayGeneratorPage() {
       <div className={styles.parlayHeader}>
         <h1>Parlay Generator</h1>
         <p>Create your own betting strategy based on custom probabilities.</p>
+        <ParlayGenerator/>
       </div>
 
       <div className={styles.parlayFightsContainer}>
