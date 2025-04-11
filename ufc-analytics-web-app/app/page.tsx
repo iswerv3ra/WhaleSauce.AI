@@ -44,25 +44,26 @@ export default function LandingPage() {
     <div className={styles.landingPage}>
       <header className={`${styles.header} container mx-auto px-4 py-8`}>
         <nav className={`${styles.nav} flex justify-between items-center mb-8`}>
-          <h1 className={`${styles.appName} text-2xl font-bold`}>UFC Analytics</h1>
+         <h1 className={`${styles.appName} text-2xl font-bold`}>UFC Analytics</h1>
           <div className={`${styles.authButtons} space-x-4`}>
-            <Button variant="ghost">Login</Button>
-            <Button variant="outline">Sign Up</Button>
+             <Button className={styles.button} variant="ghost">Login</Button>
+            <Button className={`${styles.button} ${styles.outline}`} variant="outline">Sign Up</Button>
           </div>
         </nav>
         <div className={`${styles.heroSection} text-center`}>
           <h2 className={`${styles.heroTitle} text-5xl font-extrabold mb-4`}>UFC Analytical Web App</h2>
           <p className={`${styles.heroDescription} text-xl mb-8`}>
             Dive deep into UFC data, predict outcomes, and create dream matchups.
+
           </p>
-          <Button size="lg" className={styles.getStartedButton}>Get Started</Button>
+           <Button size="lg" className={`${styles.button} ${styles.getStartedButton}`}>Get Started</Button>
         </div>
       </header>
 
       <main className={`${styles.main} container mx-auto px-4 py-16`}>
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
           {features.map((feature, index) => (
-            <Card key={index} className="bg-gray-800 border-gray-700">
+            <Card key={index} className="bg-secondary border-accent">
               <CardHeader>
                 <feature.icon className="h-12 w-12 mb-4 text-red-500" />
                 <CardTitle>{feature.title}</CardTitle>
@@ -70,7 +71,7 @@ export default function LandingPage() {
               </CardHeader>
               <CardContent>
                 <Link href={feature.link} className="w-full">
-                  <Button className={`${styles.featureButton} w-full`}>
+                <Button className={`${styles.button} w-full`}>
                     Explore {feature.title}
                   </Button>
                 </Link>
@@ -79,8 +80,7 @@ export default function LandingPage() {
           ))}
         </div> 
       </main> 
-
-      <footer className="bg-gray-900 text-gray-400 py-8 mt-16">
+      <footer className={`${styles.footer} py-8 mt-16`}>
         <div className="container mx-auto px-4">
           <div className="flex flex-col md:flex-row justify-between items-center">
             <p>&copy; 2023 UFC Analytics. All rights reserved.</p>

@@ -11,13 +11,13 @@
 
 /* Color Palette */
 :root {
-  --background-color: #0F172A;   /* Rich dark blue */
-  --text-color: #E2E8F0;         /* Soft white */
-  --primary-color: #FFA500;      /* Vibrant orange */
-  --secondary-color: #38BDF8;    /* Bright sky blue */
-  --accent-color: #818CF8;       /* Soft purple */
-  --border-color: #334155;       /* Muted slate */
-  --hover-color: #1E293B;        /* Lighter background for hover effects */
+  --background-color: #E0EBF5;
+  --text-color: #333333;
+  --primary-color: #4B75B7;
+  --secondary-color: #77A1D3;
+  --accent-color: #A3C4EB;
+  --border-color: #CED4DA;
+  --hover-color: rgba(119, 161, 211, 0.2);
 }
 
 /* General Styles */

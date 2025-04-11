@@ -1,5 +1,6 @@
 // layout.tsx
 import './globals.css';
+import styles from './layout.module.css';
 import { ReactNode } from 'react';
 import { FaChartBar, FaDice, FaSearch } from 'react-icons/fa';
 
@@ -23,19 +24,19 @@ export default function RootLayout({ children }: { children: ReactNode }) {
           <nav className="ml-auto">
             <ul className="flex space-x-6">
                 <li>
-                    <Link href="/match-predictor" className="nav-link flex items-center">
+                    <Link href="/match-predictor" className={`${styles.navLink} flex items-center`}>
                     <FaChartBar className="mr-2" />
                     Match Predictor
                     </Link>
                 </li>
                 <li>
-                    <Link href="/parlay-generator" className="nav-link flex items-center">
+                    <Link href="/parlay-generator" className={`${styles.navLink} flex items-center`}>
                     <FaDice className="mr-2" />
                     Parlay Generator
                     </Link>
                 </li>
                 <li>
-                    <Link href="/data-explorer" className="nav-link flex items-center">
+                    <Link href="/data-explorer" className={`${styles.navLink} flex items-center`}>
                     <FaSearch className="mr-2" />
                     Data Explorer
                     </Link>
@@ -48,18 +49,5 @@ export default function RootLayout({ children }: { children: ReactNode }) {
     </html>
   );
   
-}
-
-/* styles.css */
-.nav-link {
-  color: #4B75B7;
-  padding: 0.5rem 1rem;
-  text-decoration: none;
-  transition: background-color 0.3s ease, color 0.3s ease;
-}
-
-.nav-link:hover {
-  color: #A3C4EB;
-  background-color: rgba(119, 161, 211, 0.2);
 }
 

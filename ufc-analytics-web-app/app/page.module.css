@@ -1,27 +1,88 @@
 /* Apply the new color scheme to the main container */
 .container {
-  background-color: #E0EBF5; /* New background color */
-  padding: 2rem; /* Adjust padding as needed */
+  background-color: #E0EBF5;
+  padding: 2rem;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  min-height: 100vh; /* Ensure full viewport height */
+  min-height: 100vh;
 }
 
-/* Style the feature cards */
-.featureCard {
-  background-color: #FFFFFF; /* White background for cards */
-  border: 1px solid #77A1D3; /* Secondary blue border */
-  border-radius: 8px;
-  padding: 1.5rem;
+.header {
+  background-color: #77A1D3; /* Secondary blue */
+  color: #333333; /* Main text color */
+  /* Add any other header styles here, e.g., padding, etc. */
+}
+
+.nav a {
+  /* Style navigation links */
+  color: #333333; /* Or another appropriate color */
+  text-decoration: none;
+  /* Add hover effects, etc. */
+}
+
+
+.heroSection {
+  /* Add a subtle background color or image */
+  /* Example: background-color: rgba(119, 161, 211, 0.1); */
+  padding: 4rem 2rem; /* Example padding */
+  text-align: center; /* Center the content */
+}
+
+.heroTitle {
+  font-size: 3rem;
+  font-weight: bold;
   margin-bottom: 1rem;
-  width: 100%;
-  max-width: 500px; /* Adjust max-width as needed */
-  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+  color: #4B75B7; /* Primary blue */
+}
+
+.heroDescription {
+  font-size: 1.5rem;
+  line-height: 1.6;
+  margin-bottom: 2rem;
+}
+
+.button {
+  /* General button styles */
+  background-color: #4B75B7; /* Primary blue */
+  color: #FFFFFF;
+  border: none;
+  padding: 0.75rem 1.5rem;
+  border-radius: 0.375rem;
+  font-weight: 500;
+  cursor: pointer;
+  transition: background-color 0.2s ease;
+}
+
+.button:hover {
+  background-color: #77A1D3; /* Secondary blue on hover */
+}
+
+/* Example button variants (if needed) */
+.button.outline {
+  background-color: transparent;
+  border: 1px solid #4B75B7;
+  color: #4B75B7;
+}
+
+.button.outline:hover {
+  background-color: #A3C4EB; /* Accent blue on hover */
   color: #333333;
 }
 
-.featureCard h3 {
-    color: #4B75B7;
+.footer {
+  background-color: #4B75B7; /* Primary blue */
+  color: #FFFFFF;
+  padding: 2rem;
+  text-align: center;
+}
+
+.footer a {
+  color: #A3C4EB; /* Accent blue */
+  text-decoration: none;
+}
+
+.footer a:hover {
+  text-decoration: underline;
 }
