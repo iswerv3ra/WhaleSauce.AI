@@ -1,9 +1,18 @@
+// DreamMatchSimulatorPage.tsx
+import styles from './DreamMatch.module.css';
+
 export default function DreamMatchSimulatorPage() {
-    return (
-      <div className="container mx-auto px-4 py-16 text-white">
-        <h1 className="text-3xl font-bold mb-4">Dream Match Simulator</h1>
-        <p>Create and simulate hypothetical fight scenarios between any fighters.</p>
-      </div>
-    );
-  }
-  
+  return (
+    <div className={styles.dreamMatchContainer}>
+      <h1 className={styles.dreamMatchHeader}>
+        Dream Match Simulator
+      </h1>
+      <p className={styles.dreamMatchDescription}>
+        Create and simulate hypothetical fight scenarios between any
+        fighters.
+      </p>
+      {/* Add your Dream Match Simulator components here */}
+      {/* Example: <FighterSelector /> <FightSimulator /> */}
+    </div>
+  );
+}

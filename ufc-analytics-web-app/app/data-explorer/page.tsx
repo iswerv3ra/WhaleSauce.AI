@@ -125,6 +125,7 @@ export default function DataExplorerPage() {
   const [selectedFighterStats, setSelectedFighterStats] = useState<string[]>([]);
   const [selectedComparisonStats, setSelectedComparisonStats] = useState<string[]>(
     []
+    
   );
 
   // State variables for charts
@@ -623,7 +624,7 @@ export default function DataExplorerPage() {
   return (
     <div className={styles.container}>
       <Link href="/" className={styles.backButton}>
-        <ArrowLeftCircle className={styles.icon} />
+        <ArrowLeftCircle  />
         Back to Dashboard
       </Link>
       <h1 className={styles.header}>UFC Data Explorer</h1>
@@ -744,7 +745,7 @@ export default function DataExplorerPage() {
               <tr {...headerGroup.getHeaderGroupProps()}>
                 {view === 'fighters' && (
                   <th className={styles.tableHeader}>Select</th>
-                )}
+                  )}
                 {headerGroup.headers.map((column: ColumnInstance<FighterDetail>) => (
                   <th {...column.getHeaderProps()} className={styles.tableHeader}>
                     <div

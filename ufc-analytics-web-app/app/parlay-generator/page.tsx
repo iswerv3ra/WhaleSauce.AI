@@ -5,7 +5,7 @@ import { ArrowLeftCircle } from 'react-feather';
 import ParlayGenerator from '../../components/ParlayGenerator';
 import Link from 'next/link';
 import Papa from 'papaparse';
-import styles from './ParlayGenerator.module.css';
+import styles from './page.module.css';
 
 // Custom Dropdown Component
 interface StrategyOption {
@@ -108,6 +108,7 @@ export default function ParlayGeneratorPage() {
   const [mostLikelyBets, setMostLikelyBets] = useState<Bet[]>([]);
   const [resultData, setResultData] = useState<Result | null>(null);
   const [actualWinners, setActualWinners] = useState<string[]>([]);
+
   const [actualReturn, setActualReturn] = useState<any>(null);
 
   useEffect(() => {
@@ -661,7 +662,6 @@ export default function ParlayGeneratorPage() {
             className={styles.parlaySettingsRange}
           />
           <input
-            type="number"
             min="1"
             max="10"
             value={parlayRisk}
@@ -686,7 +686,6 @@ export default function ParlayGeneratorPage() {
             className={styles.parlaySettingsRange}
           />
           <input
-            type="number"
             min="1"
             max="10"
             value={betSizeRisk}
@@ -703,7 +702,6 @@ export default function ParlayGeneratorPage() {
             Number of Bets (1-50)
           </label>
           <input
-            type="number"
             min="1"
             max="50"
             value={numBets}
@@ -720,7 +718,6 @@ export default function ParlayGeneratorPage() {
             Bankroll ($)
           </label>
           <input
-            type="number"
             min="1"
             value={bankroll}
             onChange={(e) => setBankroll(parseFloat(e.target.value))}
@@ -754,7 +751,6 @@ export default function ParlayGeneratorPage() {
               Fixed Bet Amount ($)
             </label>
             <input
-              type="number"
               min="1"
               value={fixedBetAmount}
               onChange={(e) =>

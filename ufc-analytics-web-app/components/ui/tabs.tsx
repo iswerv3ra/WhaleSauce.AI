@@ -1,5 +1,7 @@
 import React, { useState } from 'react';
+import styles from "./Tabs.module.css"
 
+ 
 interface TabsProps extends React.HTMLAttributes<HTMLDivElement> {
   children: React.ReactNode;
   defaultValue: string;
@@ -7,7 +9,7 @@ interface TabsProps extends React.HTMLAttributes<HTMLDivElement> {
 
 export const Tabs: React.FC<TabsProps> = ({ children, className, ...props }) => {
   return <div className={`tabs-container ${className}`} {...props}>{children}</div>;
-};
+}; 
 
 interface TabsListProps extends React.HTMLAttributes<HTMLDivElement> {
   children: React.ReactNode;
@@ -15,7 +17,7 @@ interface TabsListProps extends React.HTMLAttributes<HTMLDivElement> {
 
 export const TabsList: React.FC<TabsListProps> = ({ children, className, ...props }) => {
   return <div className={`tabs-list ${className}`} {...props}>{children}</div>;
-};
+}; 
 
 interface TabsTriggerProps extends React.ButtonHTMLAttributes<HTMLButtonElement> {
   value: string;
@@ -24,7 +26,7 @@ interface TabsTriggerProps extends React.ButtonHTMLAttributes<HTMLButtonElement>
 }
 
 export const TabsTrigger: React.FC<TabsTriggerProps> = ({ children, isActive, className, ...props }) => {
-  return <button className={`tabs-trigger ${isActive ? 'active' : ''} ${className}`} {...props}>{children}</button>;
+  return <button className={`${styles.tabsTrigger} ${isActive ? styles.active : ''} ${className}`} {...props}>{children}</button>;
 };
 
 interface TabsContentProps extends React.HTMLAttributes<HTMLDivElement> {
@@ -34,5 +36,5 @@ interface TabsContentProps extends React.HTMLAttributes<HTMLDivElement> {
 }
 
 export const TabsContent: React.FC<TabsContentProps> = ({ children, isActive, className, ...props }) => {
-  return isActive ? <div className={`tabs-content ${className}`} {...props}>{children}</div> : null;
-};
+  return isActive ? <div className={`${styles.tabsContent} ${className}`} {...props}>{children}</div> : null;
+}; 

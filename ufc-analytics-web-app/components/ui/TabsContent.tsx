@@ -1,4 +1,5 @@
 import React from 'react';
+import styles from './Tabs.module.css';
 
 interface TabsContentProps extends React.HTMLAttributes<HTMLDivElement> {
   value: string;
@@ -7,5 +8,5 @@ interface TabsContentProps extends React.HTMLAttributes<HTMLDivElement> {
 }
 
 export const TabsContent: React.FC<TabsContentProps> = ({ children, isActive = false, className, ...props }) => {
-  return isActive ? <div className={`tabs-content ${className}`} {...props}>{children}</div> : null;
+  return isActive ? <div className={`${styles.tabsContent} ${className}`} {...props}>{children}</div> : null;
 };

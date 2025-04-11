@@ -2,6 +2,7 @@ import React, { useState, useEffect } from 'react';
 import Papa from 'papaparse';
 import styles from './ParlayGenerator.module.css';
 
+
 const ParlayGenerator: React.FC = () => {
   const [fighters, setFighters] = useState<any[]>([]);
   const [fights, setFights] = useState<any[]>([]);
@@ -9,7 +10,7 @@ const ParlayGenerator: React.FC = () => {
   const [error, setError] = useState<string | null>(null);
   const [numFights, setNumFights] = useState<number>(3); // Default to 3 fights
   const [parlay, setParlay] = useState<any[]>([]);
-  const [totalPayout, setTotalPayout] = useState<number>(0);
+  const [totalPayout, setTotalPayout] = useState<number>(1);
 
   useEffect(() => {
     const fetchData = async () => {
@@ -160,9 +161,9 @@ const ParlayGenerator: React.FC = () => {
       const selectedFights = fights.sort(() => 0.5 - Math.random()).slice(0, numFights);
       let parlayPayout = 1; // Initialize to 1 for multiplication
       const parlayData = selectedFights.map((fight) => {
-        const { F1_winProbability, F2_winProbability } = calculateWinProbability(fight, fighters);
-        const F1_odds = 1 / F1_winProbability; // Convert to odds
-        const F2_odds = 1 / F2_winProbability; // Convert to odds
+        const { F1_winProbability, F2_winProbability } = calculateWinProbability(fight, fighters)
+        const F1_odds = (1 / F1_winProbability).toFixed(2); // Convert to odds
+        const F2_odds = (1 / F2_winProbability).toFixed(2) // Convert to odds
         parlayPayout *= F1_odds;
         return {
           bout: fight.BOUT,
@@ -179,33 +180,31 @@ const ParlayGenerator: React.FC = () => {
     };
 
   return (
-    <div className={styles.container}>
-      {loading && <div className={styles.loading}>Loading data...</div>}
-      {error && <div className={styles.error}>Error: {error}</div>}
-      {!loading && !error && fighters.length > 0 && fights.length > 0 && (
-        <div className={styles.content}>
-          <div className={styles.inputContainer}>
-            <label className={styles.inputLabel}>Number of Fights:</label>
-            <input type="number" className={styles.input} value={numFights} onChange={(e) => setNumFights(Number(e.target.value))} min={1} />
-          </div>
-          <button className={styles.generateButton} onClick={generateParlay}>Generate Parlay</button>
-          <div className={styles.parlayResults}>
-            <h2 className={styles.parlayHeader}>Parlay</h2>
-            {parlay.map((fight, index) => (
-              <div key={index} className={styles.parlayItem}>
-                <p className={styles.bout}>{fight.bout}</p>
-                <p className={styles.fighterInfo}>
-                  {fight.fighter1}: {fight.F1_odds} ({fight.F1_winProbability}%)
-                </p>
-                <p className={styles.fighterInfo}>
-                  {fight.fighter2}: {fight.F2_odds} ({fight.F2_winProbability}%)
-                </p>
-              </div>
-            ))}
-          </div>
-            {parlay.length > 0 && (
-              <p>Total Parlay Payout: {totalPayout.toFixed(2)}</p>
-            )}
+   <div className={styles.container}>
+     {loading && <div className={styles.loading}>Loading data...</div>}
+     {error && <div className={styles.error}>Error: {error}</div>}
+     {!loading && !error && fighters.length > 0 && fights.length > 0 && (
+       <div className={styles.content}>
+         <div className={styles.inputContainer}>
+           <label className={styles.inputLabel}>Number of Fights:</label>
+           <input type="number" className={styles.input} value={numFights} onChange={(e) => setNumFights(Number(e.target.value))} min={1} />
+         </div>
+         <button className={styles.generateButton} onClick={generateParlay}>Generate Parlay</button>
+         <div className={styles.parlayResults}>
+           <h2 className={styles.parlayHeader}>Parlay</h2>
+           {parlay.map((fight, index) => (
+             <div key={index} className={styles.parlayItem}>
+               <p className={styles.bout}>{fight.bout}</p>
+               <p className={styles.fighterInfo}>
+                 {fight.fighter1}: {fight.F1_odds} ({fight.F1_winProbability}%)
+               </p>
+               <p className={styles.fighterInfo}>
+                 {fight.fighter2}: {fight.F2_odds} ({fight.F2_winProbability}%)
+               </p>
+             </div>
+           ))}
+         </div>
+         {parlay.length > 0 && <p className={styles.payout}>Total Parlay Payout: {totalPayout.toFixed(2)}</p>}
         </div>
       )}
     </div>

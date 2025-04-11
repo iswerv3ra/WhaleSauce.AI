@@ -1,0 +1,33 @@
+/* Add or modify styles in your CSS module for the layout, e.g., layout.module.css */
+
+.header {
+  /* ... other header styles ... */
+}
+
+.nav {
+  display: flex;
+  gap: 1.5rem; /* Increased gap for better spacing */
+}
+
+.navLink {
+  color: #4B75B7; /* Primary blue for link text */
+  text-decoration: none;
+  padding: 0.75rem 1.25rem; /* Slightly increased padding */
+  border-radius: 0.375rem; /* Added border-radius for rounded corners */
+  font-size: 1.125rem; /* Slightly larger font size */
+  transition: all 0.2s ease-in-out; /* Smooth transition for hover effects */
+}
+
+.navLink:hover {
+  color: #A3C4EB; /* Accent blue on hover */
+  background-color: rgba(119, 161, 211, 0.2); /* Subtle background highlight */
+  transform: translateY(-2px); /* Slight lift effect on hover */
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Subtle shadow on hover */
+}
+
+.navLink.active {
+  /* Styles for the active navigation link (if applicable) */
+  color: #333333; /* Darker text for active link */
+  background-color: #A3C4EB; /* Accent blue background for active link */
+  font-weight: 600; /* Bold text for active link */
+}

@@ -1,9 +1,12 @@
-import React from 'react';
+import React from 'react'
+import styles from './DataExplorer.module.css'
 
 const DataExplorer: React.FC = () => {
   return (
-    <div>Data Explorer Component</div>
-  );
-};
+    <div className={styles.container}>
+      Data Explorer Component
+    </div>
+  )
+}
 
-export default DataExplorer;
+export default DataExplorer

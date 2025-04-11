@@ -1,7 +1,8 @@
 "use client";
 
 import { useState } from 'react';
-import { Button } from "@/components/ui/button";
+import styles from "./MatchPredictorPage.module.css"
+import { Button } from "@/components/ui/button";;
 import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@/components/ui/select";
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card";
 import { Progress } from "@/components/ui/progress";
@@ -45,15 +46,14 @@ export default function MatchPredictorPage() {
   };
 
   return (
-    <div className="min-h-screen bg-gradient-to-br from-gray-900 to-gray-800 text-white p-8">
-      <Link href="/" className="inline-flex items-center text-blue-400 hover:text-blue-300 mb-8">
+    <div className={`${styles.pageContainer} min-h-screen text-black p-8`}>
+      <Link href="/" className={`${styles.backLink} inline-flex items-center mb-8`}>
         <ArrowLeftCircle className="mr-2" />
         Back to Dashboard
       </Link>
 
-      <h1 className="text-4xl font-bold mb-8 text-center">UFC Match Predictor</h1>
-
-      <Card className="max-w-2xl mx-auto bg-gray-800 text-white">
+      <h1 className={`${styles.pageTitle} text-4xl font-bold mb-8 text-center`}>UFC Match Predictor</h1>
+      <Card className={`${styles.cardContainer} max-w-2xl mx-auto`}>
         <CardHeader>
           <CardTitle className="text-2xl">Select Fighters</CardTitle>
           <CardDescription>Choose two fighters to predict the match outcome</CardDescription>
@@ -92,11 +92,11 @@ export default function MatchPredictorPage() {
             </div>
           </div>
 
-          <Button 
-            onClick={handlePredict} 
-            disabled={!fighter1 || !fighter2} 
-            className="w-full bg-blue-600 hover:bg-blue-700"
-          >
+          <Button
+            onClick={handlePredict}
+            disabled={!fighter1 || !fighter2}
+            className="w-full"
+            >
             <Swords className="mr-2" />
             Predict Match
           </Button>
@@ -136,3 +136,4 @@ export default function MatchPredictorPage() {
     </div>
   );
 }
+

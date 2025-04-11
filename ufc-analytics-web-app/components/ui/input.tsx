@@ -1,7 +1,14 @@
-import React from 'react';
+import React from "react";
+import styles from "./Input.module.css";
 
 interface InputProps extends React.InputHTMLAttributes<HTMLInputElement> {}
 
-export const Input: React.FC<InputProps> = ({ ...props }) => {
-  return <input className="p-2 border rounded" {...props} />;
+export const Input: React.FC<InputProps> = ({ className, ...props }) => {
+  return (
+    <input
+      className={`${styles.input} ${className}`}
+      {...props}
+    />
+  );
 };
+

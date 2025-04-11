@@ -142,7 +142,7 @@ const MatchPredictor: React.FC = () => {
                 </option>
               ))}
             </select >
-            <button className={styles.button} onClick={predictWinner} disabled={!fighter1 || !fighter2}>
+            <button className={`${styles.button} ${styles.predictButton}`} onClick={predictWinner} disabled={!fighter1 || !fighter2}>
               Predict
             </button>
           </div>
